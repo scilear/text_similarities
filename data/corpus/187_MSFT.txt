@@ -1,0 +1,31 @@
+Let's back up a bit. Let's go all the way back to 2010 when Apple (NASDAQ:AAPL) introduced the redesigned MacBook Air at its "Back to the Mac" event.
+
+This would be just about a year before Steve Jobs' death, and the iPad had just been launched a few months earlier. Apple had taken a firm strategic direction with its two distinct platforms. OS X would still utilize traditional input while iOS embraced touch inputs. Even though some feature convergence would happen (the whole event was about how Apple was bringing iPad features and technologies to the Mac (hence the name of the event), this line of demarcation was unmistakable.
+
+A tale of two quotes from Apple executives
+
+In the marketing video, marketing chief Phil Schiller explained Apple's philosophy in this way:
+
+The key thing we've learned is touch is extremely important with how we interact with our software. If we had tried to build it into the display, we discovered that it's not in an optimal position. You don't feel comfortable holding your hand up in the air and trying to Multi-Touch.
+
+Now fast-forward a couple of years. Microsoft (NASDAQ:MSFT) launched Surface in 2012 as its big foray into first-party tablet hardware, but the device also represented an ambitious vision of a single device that used both touch input and keyboard/mouse input. Shortly after launch, this is how Tim Cook described Surface on an earnings conference call:
+
+Yeah, I haven't personally played with the Surface yet, but what we're reading about it is that it's a fairly compromised confusing product, and so I think one of the toughest things you do with deciding which product is to make hard trade-off and decide what a product should be and we've really done that with the iPad, and so the user experience is absolutely incredible. I suppose you could design a car that flies and floats, but I don't think it would do all of those things very well.
+
+Ignoring for a moment the simple fact that tons of people would buy a flying hover car, the irony of this quote given the recent unveiling of iPad Pro is a little striking. Historically, Apple hasn't tried to position the iPad as a laptop replacement, which is precisely what Microsoft does with Surface.
+
+But iPad Pro is also very clearly a clone of Surface in many ways -- everything from the starting price to the new Apple Pen and Smart Keyboard. With these accessories in tow, iPad Pro very well could be a laptop replacement. When using iPad Pro in this way, users would inevitably run into the awkward ergonomic situation Schiller describes above.
+
+If Surface is a compromised product and iPad Pro is emulating Surface, does it stand to reason that iPad Pro is also a compromised product?
+
+Not so fast
+
+The answer is a little bit more nuanced, though. Perhaps the most legitimate argument for why Surface was compromised was none other than Windows 8. In trying to blur the lines between traditional input and touch input, Windows 8 missed on both counts and Microsoft suffered for it. Windows 8 and RT were huge flops because Microsoft's execution of a bold vision fell flat.
+
+Fortunately for the software giant, it's making amends with Windows 10, which has refined the transition in a big way by utilizing very distinct tablet and desktop modes.
+
+Go Pro or go home
+
+To some extent, iPad Pro could serve as implicit acknowledgment that Surface is doing something right. Sure, Surface revenue jumped by 117% last quarter to $888 million, but Apple's doing just fine with $4.5 billion in iPad revenue last quarter. But perhaps Surface's relative success serves as evidence that there is a market worth addressing.
+
+As the "Pro" moniker suggests, iPad Pro is squarely targeting the enterprise segment by focusing heavily on both productivity and creativity. To be clear, iPad Pro is not intended to be a consumer device. Of course, quite a few will buy it, but iPad Pro is meant to address enterprise customers. And it will.

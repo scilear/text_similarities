@@ -1,0 +1,27 @@
+Marco Arment, the well-known software developer whose new ad-blocking app rocketed to the top of Apple's App Store this week, has had a dramatic change of heart and abruptly pulled it down.
+
+Arment said that the success of his $2.99 ad-blocking app, Peace, was a massive achievement that should be the highlight of his career.
+
+But he said that building such a successful ad-blocking app "just doesn't feel good."
+
+"Ad blockers come with an important asterisk: While they do benefit a ton of people in major ways, they also hurt some, including many who don't deserve the hit," Arment wrote on his personal blog Friday.
+
+Ad-blocking apps strip out digital ads and trackers from Web pages, allowing consumers to access Web pages without the ads that some find annoying and which can slow down page load times. These apps are controversial because many news websites — like Business Insider — rely on advertising revenue. A lot of content online is free because it's supported by ads.
+
+The debate over ad blockers has intensified in recent days, following the release of Apple's latest iOS 9 software for iPhones, iPads, and iPod Touches. The software debuted a new technology that makes it possible for developers to build ad-blocking software that works within the Safari Web browser in iOS 9.
+
+Arment said he didn't feel good about the fact that users of his ad-blocking app didn't have more control to choose which websites to block ads from:
+
+Peace required that all ads be treated the same — all-or-nothing enforcement for decisions that aren't black and white. This approach is too blunt, and Ghostery and I have both decided that it doesn't serve our goals or beliefs well enough. If we're going to effect positive change overall, a more nuanced, complex approach is required than what I can bring in a simple iOS app.
+
+I still believe that ad blockers are necessary today, and I still think Ghostery is the best one, but I've learned over the last few crazy days that I don't feel good making one and being the arbiter of what's blocked.
+
+Ad-blocking is a kind of war — a first-world, low-stakes, both-sides-are-fortunate-to-have-this-kind-of-problem war, but a war nonetheless, with damage hitting both sides. I see war in the Tao Te Ching sense: it should be avoided when possible; when that isn't possible, war should be entered solemnly, not celebrated.
+
+Even though I'm "winning", I've enjoyed none of it. That's why I'm withdrawing from the market.
+
+It's simply not worth it. I'm incredibly fortunate to be able to turn away an opportunity like this, and I don't begrudge anyone else who wants to try it. I'm just not built for this business.
+
+You can read his full blog post here.
+
+NOW WATCH: The insanely successful and unorthodox life of Google founder Sergey Brin

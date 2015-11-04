@@ -1,0 +1,17 @@
+Stocks in the Systems Software Subsector Decline in 2015
+
+(Continued from Prior Part)
+
+On September 2, 2015, Amazon (AMZN) and Microsoft (MSFT) entered into a contract with the Federal Aviation Administration (or FAA) where the two firms will look to streamline the FAA’s network centers and store its data on Amazon’s Web Services (or AWS) and Microsoft’s Azure cloud.
+
+According to a Fortune report on the same day, this long-term cloud services agreement was led by Computer Science Corp (CSC) in a $108 million deal. The contract was awarded to CSC, including Microsoft and Amazon as its big data consulting and strategic partners. This agreement could be potentially worth $1 billion over a ten-year span.
+
+Unlike the strategy adopted by Netflix (NFLX), which has migrated its data on Amazon’s cloud, the FAA will not permanently migrate data to AWS and Azure. It will control the size of its data centers and implement a new form of big data storage also known as hybrid computing.
+
+IBM (IBM) is placed third in the cloud computing space in terms of market share. The firm expects to look to recover lost ground after missing out on the above-mentioned deal. However, Amazon is gaining huge strides in the cloud segment by securing contracts from government agencies such as the CIA, continuously increasing market share.
+
+To gain exposure to Microsoft (MSFT), you can invest in the First Trust ISE Cloud Computing Index ETF (SKYY) ETF and the iShares North American Tech-Software ETF (IGV). The stock accounts for 2.31% and 9.15% of the portfolios, respectively.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

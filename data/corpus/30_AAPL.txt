@@ -1,0 +1,51 @@
+View gallery .
+
+A number of websites recently created a stir with reports of a potential shortcoming of the iPhone 6s smartphones. According to those "chipgate" reports, the battery life on iPhone 6s models with an A9 central processing unit made by Samsung is worse than the battery life on models with a CPU made by TSMC. The phones with the Samsung chip also run hotter, the reports claim, than the phones with the chip made by TSMC.
+
+While Consumer Reports' tests had confirmed that the battery life on the 6s and 6s Plus is slightly shorter than that on the iPhone 6, they had not addressed the chipgate rumors. So, much like they did for last year's "bendgate," our engineers developed a special protocol to test this apparent issue. Those tests simulate real-world usage as opposed to relying on the benchmarks used by other organizations in their off-the-shelf tests.
+
+Our Chipgate Test
+
+Step 1: Identify the chip
+
+This was the easy part of our chipgate work. To confirm which A9 was in the eight iPhone 6s models Consumer Reports bought, we used the Lirum Info Lite app, a free download from the Apple App Store. Along with the total and available phone storage, the app displays a chip ID. If it reads Model N71mAP, the chip was made by TSMC. If it reads N71AP (no “m”), the phone has the Samsung version.
+
+Step 2: Equalize the settings and conditions
+
+To ensure accuracy and impartiality, we tested each phone on the same provider (T-Mobile) using the latest version of iOS (9.02). In years past, we've confirmed battery-life differences between same-model smartphones running on different carriers, so we wanted to avoid that issue.
+
+This next part is the killer. Prior to testing, we changed and verified dozens of settings on the two iPhones, including connections, display, notifications, and apps, to ensure the setups were identical. Tedious? Yes. Time-consuming? You bet. But it had to be done.
+
+View gallery .
+
+Step 3: Start running
+
+We measured how well the phones’ batteries stood up to continuous activity on the cellular network. In one test, for instance, we made the phones transmit at a nominal +10 decibels per milliwatt (dBm) on the same channel in the commonly used Frequency Band 5. We were able to maintain those precise conditions via the base station emulator to which the phones were coupled.
+
+Further adjustments included setting display brightness to about 150 NITS (approximately 50 percent) using a digital illumination level meter. We also switched off the auto brightness setting to make sure changes in the room's lighting didn’t influence the results.
+
+All of the tests, of course, were performed in the controlled environment of our Radio Frequency Isolation chamber, which blocks stray signals. The results: Both phones powered on for about five hours, with a negligible duration difference of less than 2 percent.
+
+View gallery .
+
+Step 4: Crunch data
+
+Another test simulated the data-intensive activities smartphone users perform via Wi-Fi, including browsing the Web and playing music. Our custom app automatically loads a variety of popular Web pages in succession and keeps repeating the cycle until the phone shuts down. The more than 20 sites included Amazon, Apple, CNN, and Yahoo. At the same time, we gave the music player a workout, asking it to churn out a continuous loop of 10 songs from Taylor Swift, Katie Perry, and Florence and the Machine.
+
+At the end of testing, both phones quit at about the same time, after a little more than 11 hours and 600-plus webpage downloads. The differences here were even smaller than in the previous test: less than 1 percent.
+
+During this test, we also monitored the phone's temperature using tiny, adhesive-backed heat sensors called thermocouples. During 11 hours of testing, surface temperatures climbed as high as 84° F. Here again, the difference between the two phones was less than 1 percent.
+
+The Chipgate Verdict
+
+We found no appreciable differences in battery life or temperature between the iPhones 6s models with the varying chips.
+
+Bottom line: Smartphones are as complicated as the people who use them, so it’s impossible to say with certainty that the battery- and temperature-performance differences we measured in this chipgate testing will be consistent in every imaginable scenario. But if iPhone 6s users are ever disappointed with their phones, we’re confident it won’t be because they bought the model with the “wrong” chip.
+
+If you'd like more info on cell phones and services, check our Ratings and buying guide.
+
+
+
+More from Consumer Reports:
+
+Consumer Reports has no relationship with any advertisers on this website. Copyright © 2006-2015 Consumers Union of U.S.

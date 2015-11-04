@@ -1,0 +1,27 @@
+Updates for Apple: New iPhones, iPad Pro, and watchOS 2
+
+(Continued from Prior Part)
+
+Performance of Apple’s iPad Pro
+
+In the earlier parts of this series, we learned about Apple’s (AAPL) new iPad Pro with a large 12.9-inch display. We also learned about the boosted multitasking capabilities of the product with iOS 9. According to Philip Schiller, senior vice president of Worldwide Marketing at Apple, “The iPad Pro is far and away the fastest iOS device we have ever made — its A9X chip beats most portable PCs in both CPU and graphics tasks, but is thin and light enough to hold all day.”
+
+The product comes with an A9X processor, which, according to Apple, is faster than the A8X chip in iPad Air 2 in terms of CPU (central processing unit) performance by ~80%. Also, according to the company, the GPU (graphics processor unit) performance with the A9X chip in iPad Pro is 100% more than the A8X chip’s in the iPad Air 2.
+
+Possible impact on sales of Apple’s Mac, a growing product line
+
+The iPad Pro with a large display and productivity accessories—Apple Pencil and Smart Keyboard—may cannibalize the sales of Mac, at least to some extent.
+
+Unlike iPads, Mac is a growing product line of Apple. In the June 2015 quarter, its unit sales grew ~8.7% year-over-year reaching ~4.8 million.
+
+This year-over-year (or YoY) growth is considerable in the PC (personal computer) industry, which had lower shipments during the period, according to an IDC (International Data Corporation) report.
+
+According to that report, global PC shipments decreased by ~11.8% YoY during the comparable quarter. Also, the top three vendors in this market by shipments—Lenovo (LNVGY), HP (HPQ), and Dell—had lower YoY shipments during the quarter.
+
+You can take a diversified exposure to Apple by investing in the PowerShares QQQ (QQQ). The ETF held ~13.2% in Apple on August 31, 2015.
+
+Alternatively, you can take a more diversified to Apple by investing in the SPDR Dow Jones Industrial Average ETF (DIA). DIA held ~4.6% in the company on the same date.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

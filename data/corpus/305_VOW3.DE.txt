@@ -1,0 +1,27 @@
+Volkswagen AG is exploring options from a simple software upgrade to outright replacing cars as a deadline approaches to present a fix for 11 million rigged diesel vehicles.
+
+Swapping out the affected models for new ones is the most extreme in a range of options the carmaker is discussing ahead of talks with regulators around the world, including an Oct. 7 deadline to present a plan in Germany, people familiar with the plans said. Other possibilities include installing bigger catalytic converters to store and neutralize harmful emissions, said the people, who asked not to be identified because the plans aren’t final.
+
+Cost estimates of the alternatives range from as little as 20 euros ($22) to as much as 10,000 euros a car, one of the people said. The solution will probably vary from regulator to regulator, meaning this week’s German plan won’t necessarily apply elsewhere, said the person.
+
+Volkswagen needs to upgrade cars from its namesake brand as well as the Audi, Seat and Skoda marques after being forced to admit it had used software to hoodwink U.S. regulators about the true emissions of its diesel vehicles for years. Though the scandal became public in the U.S., most of the vehicles were sold in western Europe, where tax incentives and lower fuel costs have boosted diesel’s popularity. Diesel engines accounted for more than half of new vehicle registrations there last year, according to the European Automobile Manufacturers Association.
+
+The carmaker’s stock has plunged 42 percent since the revelation on Sept. 18 of the emissions-test cheating. Volkswagen hasn’t said how any repairs could affect vehicles’ performance, such as fuel economy.
+
+Statement Sought
+
+“We need a clear statement from VW -- and regulators -- about the European situation,” Max Warburton, an analyst at Sanford C. Bernstein Ltd., said in a note to investors on Monday. If recall costs, including scrapping cars, fines and other penalties, are limited to the U.S., “the damage can be contained.”
+
+It’s possible that the cheating software, which turned on full emissions controls only when the cars were being tested, was installed in VW’s European cars but not activated, the analyst wrote.
+
+“We’re working as quickly as we can to find a solution for our customers,” said Eric Felber, a spokesman for Wolfsburg, Germany-based Volkswagen, declining to comment on specific options. “As soon as we can give a reliable statement to that end, we’ll do so without delay.”
+
+Volkswagen has said its new diesel cars meet tighter Euro 6 emissions standards and don’t have the cheating software that was installed in the EA 189 engine, which was designed for Euro 5 rules. The diesel engines in question were fitted in cars from model year 2009 to 2015.
+
+Appropriate Fix
+
+The appropriate fix will also be different from model to model, according to one of the people familiar with Volkswagen’s plans. The larger 2-liter engines affected already come with a tank of so-called AdBlue solution to neutralize harmful nitrogen oxides. Without the software, the customer would simply need to refill the tank more frequently.
+
+The smaller engines, which have systems that collect nitrogen oxides in the car, are potentially more complicated, because they can’t be retrofitted, the person said. Once the exhaust traps are full, the residue is burnt off inside the engine, affecting fuel economy. Depending upon what regulators demand, Volkswagen may have to install larger catalytic converters.
+
+Volkswagen is conducting an internal investigation about who was responsible for installing the fraudulent software in the EA 189 diesel-motor models. It has suspended several managers, including Wolfgang Hatz, who ran the group’s powertrain development from 2007 to 2011, people familiar with the situation have said. Several engineers have also admitted to putting the software into the cars as project engineers determined there was no way to meet both emissions standards and cost controls, Bild am Sonntag newspaper said.

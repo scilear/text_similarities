@@ -1,0 +1,15 @@
+Microsoft (NasdaqGS: MSFT - news) said Monday its Cortana virtual assistant software was available to users of Android mobile devices.
+
+Cortana is Microsoft's answer to Apple (NasdaqGS: AAPL - news) 's Siri and Google Now, which respond to voice commands on mobile devices.
+
+The launch is part of an effort by Microsoft to expand its mobile presence despite a weak showing for its Windows Phone devices.
+
+"The Cortana app can do most of the things Cortana does on your PC or on a Windows phone," Microsoft's Susan Hendrich said in a blog post.
+
+"With the app, you can manage your hectic lifestyle by setting and getting reminders, searching the web on-the-go, tracking important information such as flight details as well as starting and completing tasks across all of your devices."
+
+A beta version of Cortana is being made available as of Monday to US users of Android devices, and "we are planning to roll it out to other markets," Hendrich said.
+
+Microsoft said in May it was working on the Android version as well as another for Apple devices.
+
+According to research firm Gartner (NYSE: IT - news) , Windows had just 2.5 percent of the global smartphone market in the second quarter compared with 82 percent for Google (Xetra: A0B7FY - news) 's Android and 14.6 percent for Apple's iOS (Other OTC: UBGXF - news) .

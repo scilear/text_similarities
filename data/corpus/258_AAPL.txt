@@ -1,0 +1,19 @@
+Apple has confirmed two separate cyber incidents in recent weeks, most recently a malware that subjected users to unwanted ads after they downloaded an application. Palo Alto Networks, which helped to identify the threat, said it could not pinpoint exactly how many users were affected, but noted that it was mostly contained in China.
+
+Read MoreApple's iOS App Store suffers first major attack
+
+
+
+"This issue only impacts users on older versions of iOS who have also downloaded malware from untrusted sources. We addressed this specific issue in iOS 8.4 and we have also blocked the identified apps that distribute this malware," Apple said in a statement.
+
+
+
+Apple's iOS software is typically considered less vulnerable than many platforms that run on many personal computers. But fundamentally, users need to take steps to reduce risk regardless of the operating system they use, Roman said.
+
+"The real problem is that we do stupid things," he said.
+
+He noted that consumers will often make weak passwords or download questionable software in attempts to save time. Awareness of those risks will help users avoid falling prey to hackers, Roman contended.
+
+Read MoreApple earnings to determine markets' fate?
+
+— CNBC's Josh Lipton contributed to this report.

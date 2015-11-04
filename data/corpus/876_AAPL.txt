@@ -1,0 +1,15 @@
+When Apple released its iOS 8 update for the iPhone last year, it saw a rocky launch.
+
+Users complained that they couldn't install it because the update required too much storage space. After it installed, some iPhone owners experienced an odd problem that disabled their cellular service.
+
+Apple even pulled the update just hours after the release. In general, Apple has a reputation for making it so that its new software updates run slowly and poorly on older iOS devices — essentially pushing customers into upgrading.
+
+But that's all going to change this year, according to Apple. The company has previously said that iOS 9 has been optimized to work well on iPhones as old as the 4S, which was released in 2011. This means whether you have an iPhone 4S, iPhone 5, or iPhone 5C, your phone should perform well after you install the new update.
+
+There's another reason why updating at launch is safer this year — Apple has tested the software more closely. This is the first time Apple has released the beta for iOS 9 — i.e. an early unfinished version of the software — to the public for bug testing. This means Apple has been receiving feedback about bugs and issues not just from developers, but from everyday iPhone users as well. It also means Apple has been getting feedback from a wider a larger group of people, so it has a better chance of spotting problems.
+
+This year's update is also much more compact than iOS 8. Apple's last software update required 4.6GB of space to install, while iOS 9 only requires 1.2GB. This means you won't have to worry about deleting a bunch of apps or photos to make room for the new update if you're almost at capacity.
+
+Of course, these types of problems are always unforeseen. There's no way Apple or anyone else could have known that iOS 8 was going to cause such a widespread problem for iPhone users. This year, however, it at least sounds like Apple has taken more steps to ensure that the launch goes smoothly.
+
+NOW WATCH: Animated map reveals the 550,000 miles of cable hidden under the ocean that power the internet

@@ -1,0 +1,27 @@
+Amazon (NASDAQ:AMZN) is generally known as an e-commerce company, but it could soon become a giant in the Internet of Things (IoT) market -- which consists of everyday objects connected to each other and the cloud. The company recently unveiled its Amazon Web Services IoT platform at its re:Invent developer conference in Las Vegas.
+
+Amazon states that AWS IoT will let "connected devices easily and securely interact with cloud applications and other devices" while "reliably and securely" routing trillions of messages across billions of devices. AWS IoT will include a device gateway, a rules-based engine, and a registry of data for all connected devices. Another feature, Shadows, can track data from offline devices and deliver it back to the cloud once they come back online. The platform will be tightly integrated with Amazon's other AWS cloud services.
+
+The combination of these services will make it easier for developers and enterprise customers to build IoT applications, analyze data, and manage infrastructure for connected devices. Amazon is offering a free tier of 250,000 free IoT messages per month for the first year. Afterward, U.S. and European users must pay $5 per million IoT messages, while Asia-Pacific users will be billed $8 per million messages. Let's take a closer look at how this new platform could boost Amazon's AWS revenue in the near future.
+
+Market opportunities
+
+During the Las Vegas conference, Amazon stated that AWS had an annual revenue run rate of $7.3 billion. The versatile cloud platform hosts enterprise data (S3), databases (DynamoDB), cloud-based computing (Lambda), real-time data processing (Kinesis), predictive analytics (Machine Learning), and other services.
+
+The biggest direct competitors to AWS include IBM's (NYSE:IBM) Bluemix and Microsoft's (NASDAQ:MSFT) Azure. Last quarter, IBM reported an annual run rate of $4.5 billion for its cloud-as-a-service revenues. Microsoft reported that its "commercial cloud" revenue had achieved an annual run rate of over $8 billion last quarter, but that also included Office 365 and Dynamics CRM revenue. On its own, Azure reportedly generated about $1.2 billion in revenue last fiscal year.
+
+Unlike many cloud businesses, AWS is profitable. In the first six months of 2015, the unit's operating income more than doubled to $655 million. Revenue rose 65% annually and accounted for 7% of Amazon's top line.
+
+Why the IoT market matters
+
+Cisco predicts that the number of connected devices worldwide will double from 25 billion this year to 50 billion by 2020, thanks to growth in wearables, smart homes, connected cars, and the Industrial Internet. Research firm IDC similarly believes that IoT spending will skyrocket from $656 billion in 2014 to $1.7 trillion in 2020. Naturally, the cloud will glue all these devices together.
+
+Amazon isn't the first company to integrate an IoT platform into the cloud. Back in March, IBM announced plans to invest $3 billion in its new IoT unit over the next four years. Like Amazon, Big Blue plans to help companies process and analyze large amounts of IoT data. That same month, Microsoft unveiled a similar platform, Azure IoT. A few months later, it launched Windows 10 IoT Core, a scaled-down version of its new OS for tiny board computers like the Raspberry Pi.
+
+Amazon, IBM, Microsoft, and other companies are all trying to offer clients the most comprehensive all-in-one suites of cloud/IoT services possible. A crucial battleground in this war is machine learning, a core component of artificial intelligence. By gathering huge amounts of data from connected devices, machine learning platforms -- like Amazon ML, IBM's Watson, and Microsoft's Azure ML -- can actually make business "predictions" for companies. Amazon charges companies $0.10 per 1,000 machine learning predictions, which nicely complements its delivery fees for IoT messages.
+
+The road ahead
+
+AWS already serves huge customers like Netflix, Comcast, Samsung, NASA, and the CDC. As Amazon makes the platform even more attractive with new features like IoT connectivity and machine learning, it could attract even more enterprise customers. Bernstein Research estimates that AWS revenue could soar to at least $20 billion by 2020, greatly diversifying Amazon's top line away from e-commerce.
+
+The growth of AWS will also strengthen the company's own consumer-facing cloud services, like streaming media and cloud storage for Prime members. It also complements attempts to tether mainstream consumers to the IoT with devices like the Echo and Dash Buttons. If Amazon's grand plan pans out, it will not only profit from processing data for companies, but it can also profit from keeping consumers dependent on its cloud-based services and IoT-connected devices.

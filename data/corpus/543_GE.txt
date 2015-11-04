@@ -1,0 +1,107 @@
+After 14 years at the helm, can Jeff Immelt pull off the digital transformation of the global industrial giant?
+
+An aircraft powered by one of its engines takes off somewhere in the world every two seconds. In the US, six of its light bulbs are sold every second. It (Other OTC: ITGL - news) employs more than 300,000 people in 175 countries.
+
+And it is the only company to have been a member of the Dow Jones’ index of the US’s 30 biggest companies since its inception in 1896.
+
+The answer? GE, of course.
+
+GE born from the brainchild of Thomas Edison’s first electric light company in the late 1880s is one of those companies most people have heard of, but few could tell you what it does.
+
+• 'Britain's place in the EU does not matter' says GE chief • General Electric's greatest inventions in pictures
+
+A sprawling industrial behemoth of a company, whose tentacles stretch into almost every sector imaginable, from making railway signals to designing MRI (Shenzhen: 300159.SZ - news) scanners, from producing wind turbines to helping drinks companies make their production process smarter, GE is the original conglomerate.
+
+So why then was Jeff Immelt, GE’s chairman and chief executive, standing on a stage in San Francisco early last week, telling an auditorium of digital natives that GE is on track to become a top 10 software company?
+
+The answer lies in the way that 59-year-old Immelt has been working to transform GE since taking the helm at the Connecticut-based company in 2001, a transformation which has been spurred by the financial crisis and his attempts to diversify GE yet further.
+
+The digital project began five years ago, he recalls during a whistle-stop half-day visit to London a few days before the “Minds and Machines” event in the Californian city last week.
+
+“I didn’t go to bed one night and wake up and say 'we want to be Oracle (Hanover: ORC.HA - news) ,’” he laughs. “It’s happened over the last five years, so it hasn’t been sudden.”
+
+The thinking, he explains, is that as the industrial world and the digital world increasingly collide, so GE should be at the centre.
+
+“We’re believers that you’re going to get this intersection between the physical world and the digital world, it’s going to happen in the industrial space, and we want to be the leader in that. There are 100 sensors in a jet engine, there’s 500 sensors in a locomotive, pulling in an incredible amount of data.
+
+“To be a successful industrial company, you’re going to have to be good at software and analytics. So we put our stake in the ground and invested massively to build our own capability.”
+
+And build it has. Immelt, whose father used to run GE’s Aviation division, used last week’s conference to unveil plans to launch an app store by the end of the year. Not the sort of app store that Apple (LSE: 0R2V.L - news) runs, but one which will distribute apps to help manufacturers and companies to understand the machines they use.
+
+At launch, Immelt is hoping to have 5,000 apps available, but is targeting 50,000 in the medium term.
+
+Those apps will include a new technology to reduce unplanned downtime in machines by between 10 and 20pc, and a firewall technology for gas, steam and wind turbines.
+
+“It will mean we’re completely connected to our customers. We’ll be much faster in terms of our culture and it will mean that we’re not self-contained, as we’ll be part of an eco-system that contains our customers and maybe even our competitors as we go forward.”
+
+Rather than build its digital skills via major acquisitions as many large companies have tended to do Immelt insisted it should be largely built from the ground up.
+
+GE employs 15,000 software engineers just 5,000 shy of the number employed by Google (Xetra: A0B7FY - news) and this is a figure Immelt is keen to see rise.
+
+He knows he has put GE in competition for talent with the mainstream technology giants and the plethora of start-ups for software engineers which are also looking for talented developers. But Immelt says this isn’t as big a problem as it might seem.
+
+“We can always do well hiring mechanical engineers for a jet engine. But in the space of analytics, it’s a war for talent, and talent won,” he smiles.
+
+“You’ve got to be working on science and technology that they [the engineers] want to be part of. In California we’re actually getting people from great hi-tech companies like Google and Facebook (NasdaqGS: FB - news) who are intrigued by what can be done in healthcare, as one example. We can recruit by doing neat things,” he says.
+
+Culturally, this has meant changes. Given it is a company with 123 years of history, GE is known in the business world for its management layers, and Immelt’s predecessor Jack Welch famously brought in the Six Sigma management process to cut errors and deliver near-perfection in its products.
+
+However, Immelt says the digital revolution is changing the way it works. “You’re going to have to train people to write applications from the moment they walk in the door; finance people; IT people; almost everyone.
+
+“Culturally, it means driving more simplification. To me that means fewer layers, everything fast, market rules and broadly democratised information within the company, to get ourselves ready to be the kind of digital industrial company we want to be in the future.”
+
+But while thinking about the future, Immelt must also confront the here and now. One of his most recent challenges and the reason he was in London has been the closure of the Export-Import Bank of the United States.
+
+ExIm, as it’s known, was the US government’s long-running export credit agency (ECA (Paris: FR0010099515 - news) ), but due to a number of conservative Republicans becoming unhappy with its loan programme, an impasse was reached in Congress, and the bank was forced to stop issuing new loans on July 1.
+
+GE was the second largest beneficiary of the bank in terms of loan values, and as such its closure created a major headache for the company, which used it to ensure finance was available for overseas purchases of goods in its supply chain made in the US. Although there have been comments in recent days which suggest Congress may reauthorise the bank’s authority, Immelt seems resolute.
+
+When we meet, he has just signed a deal with David Cameron which allows UK Export Finance (UKEF), Britain’s own ECA, to support it with £8bn in financing. The deal is a sizeable one for UKEF, given it has distributed just £14bn over the last five years.
+
+• GE to create 1,000 UK jobs with government support
+
+“The UK export bank is going to be critical to our future,” he says. “With the potential loss of ExIm, this is critical.” As well as a deal with the UK, he has signed a similar one in France, as he looks to replicate the state support GE had, albeit from overseas governments rather than its own.
+
+“To do the offload from ExIm … the UK, France, Canada will be key, Hungary will be one of those … and China. Those five will be key for us as we move forward. We’ve been able to create a shadow of the ExIm bank outside of the United States but it’s come at the expense of US jobs.”
+
+The UKEF deal promises the creation of as many as 1,000 jobs in the UK in GE’s supply chain on top of GE’s 17,000 existing employees in the UK and Ireland (Other OTC: IRLD - news) jobs that will be lost from the US supply chain. In addition, GE has already said it will move 500 jobs as a result of the closure of ExIm, mostly to France. “There are hundreds if not thousands of small businesses that participate in the US export bank. They are going to be out of luck. Their financing was already running dry,” he says. “It’s heartless I think to be where we are.”
+
+Was the closure a surprise? “I think it was a surprise in so far as it didn’t make any sense. I’m used to seeing two sides to every problem. But with this there is only one side.”
+
+“We’ve made our case, but if that’s not enough we’re creating our own ExIm outside of the United States and if that’s what ultimately our government wants us to do, we’re going to do that.
+
+“We’re not going to lose the business or deprive our company of the ability to do business in important countries like Indonesia and places like that.”
+
+One of Immelt’s other recent headaches surrounded the $14bn (£9.2bn) acquisition of French engineer Alstom’s energy assets, a deal which was reported in April (LSE: 0N69.L - news) 2014 but only cleared the final regulatory hurdle last month after agreeing to sell some of its French turbine assets to an Italian rival.
+
+The deal is GE’s largest ever acquisition, and will help his push to diversify not just in geography terms but by increasing its energy business.
+
+In the early days of the deal it looked as if European protectionism might scupper it, but Immelt is more matter of fact about the deal, which he calls “a once every generation” acquisition.
+
+“We weren’t totally surprised by how the process went. We always knew that this was a highly visible transaction in a strategic industry in France.
+
+“But the length of time it went isn’t really good for the people that work there, it’s not good for the economies of Europe, it’s not good for anybody.
+
+“I don’t mind the scrutiny, but I think the time frame is something Europe should think about. Eighteen months to have a company in play is really too long and it always has an impact.”
+
+Does he blame European bureaucracy? “I really do believe that in Paris and in Brussels they want to say Europe is 'open for business.’ I think they didn’t have it in for an American company, but I think sometimes it takes longer to persuade people.”
+
+The diversification which Alstom (Paris: FR0010220475 - news) brings will help Immelt’s continued push to make GE less reliant on the US as a whole. “The 1990s was almost a magic decade in the US where you had pretty good growth, almost no inflation, the world was at peace and the US was by far the world’s most vibrant economy. There was always a sense that we had to become bigger globally if we were to sustain that sort of growth. The US wasn’t big enough for a company the size of ours.”
+
+During his 14 years in charge, he has grown overseas revenues from 41pc of total revenue in 2001 to more than 70pc once the Alstom deal completes.
+
+“We try and build our presence outside of the US but not to the exclusion of the US. What we try and do in the emerging markets is to have a diversified portfolio,” he says, listing off assessments of the economic health of various regions. “We have enough positives to off-set the negatives, and we need universal growth.
+
+“One thing that’s made it tough in emerging markets now is financing interest rates going up, the strong dollar. We’ve tried to build capital in places like Nigeria, and I think by the end of the year, our growth markets will be up year over year despite the volatility.”
+
+At the same time, Immelt has used his tenure to refocus GE on its roots of research and development, which is at the centre of the digital push.
+
+“I want GE to be a place that does technology at scale. It is absolutely what makes the company distinguished and better. We do hard technological things like jet engines and gas turbines and MRI scanners and I wanted to really emphasise that inside the company it’s core to our competitive advantage.”
+
+And what of Immelt himself? Although he has been at the helm for 14 years, having taken over just days before the 9/11 terror attacks, it is still six years less than his predecessor, Welch, and that was 10 years shy of modern day founder Charles Coffin, who ran the company for 30 years.
+
+“To drive meaningful change at a company of this size takes time,” he says when asked why GE’s chief executives seem to stay at the top more than those of rival industrial companies.
+
+“Philosophically there’s always been a sense that GE benefits from thinking long term all that being said, the board can fire me whenever they want.”
+
+He refers to the digital “pivot” as the “most important thing” he’s ever worked on. “I’m totally juiced about the changes,” he assures, giving no indication that he’s going anywhere just yet.

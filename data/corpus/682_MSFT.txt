@@ -1,0 +1,21 @@
+Long known for its ubiquitous website that sells everything, cheap, some of Amazon's biggest moves in recent years have largely been out of sight of everyday shoppers.
+
+The company is aggressively pushing into enterprise markets long dominated by companies not normally thought of as direct competitors — including Google, IBM, Microsoft, Oracle and SAP — like cloud computing and business intelligence.
+
+All of this was underscored by several product launches this past week at AWS re:Invent, including business intelligence tool QuickSight, and database engine Aurora.
+
+In going after the enterprise sector, CEO Jeff Bezos is targeting a giant opportunity. Baird Equity Research said Amazon's Web Services currently represents less than 5 percent of global data spend — which is around $150 billion — and less than 1 percent of the $1.2 trillion to $1.4 trillion enterprise/software IT services market.
+
+
+
+And the company has already made inroads. On stage at AWS re:Invent, Andy Jassy, senior vice president, announced that Amazon Web Services (AWS) now counts more than a million business as customers, and the division has grown 81 percent year over year.
+
+How is Amazon able to do this? By being scrappy. Traditional enterprise software companies need to sell high-margin products to support costly legacy sales and marketing teams. Instead, Amazon has targeted start-ups for cloud services, and is now offering products aimed at bigger customers.
+
+
+
+Plus, of course, trying to undercut everyone else on price — a traditional Amazon tactic.
+
+
+
+"Whenever Amazon moves into a new market they bring a low margin, direct sales, price penetration model in that upsets the established market order. They unlock lower-level buyers with a lower cost of sales, and redirect the growth in the market away from the incumbents," said Forrester analyst Jeffrey Hammond.

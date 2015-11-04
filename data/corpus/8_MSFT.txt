@@ -1,0 +1,85 @@
+>>
+
+Microsoft HoloLens is the future.
+
+First announced in January, Microsoft HoloLens is a wearable computer that projects interactive holograms into your field of vision. I've tried it, and it's exactly as cool as it sounds.
+
+But it wouldn't be the first time that Microsoft invented the future — and then lost out on it completely.
+
+The Microsoft Kinect, announced in 2009, came right alongside a similar wave of hype. By letting you turn your body into a video-game controller, it was seen as the first step toward the science-fiction user interfaces of the future. It was a big bet for Microsoft.
+
+It didn't really work out that way. After selling about 29 million sensors, Microsoft has essentially given up on Kinect, and so have developers. New Xbox One games that meaningfully support the Kinect are in very short supply.
+
+Kinect and HoloLens are very much cut from the same cloth, presenting insanely ambitious new ways to work with computers. And a lot of the Kinect team is also working on HoloLens. In fact, Kinect product lead Alex Kipman is also in charge of Windows Holographic, the version of Windows 10 designed for HoloLens.
+
+Here's what Microsoft is doing to make sure HoloLens gets the love that Kinect didn't — and what the company needs to do to step it up.
+
+1. Don't sell to gamers first
+
+The real problem with Kinect is it didn't hit the sweet spot for anybody. Marketed as an incredible video-game accessory, the games themselves simply weren't that deep or engaging.
+
+So casual gamers who only bought the Kinect because of the massive hype got bored and moved onto the next thing quickly. Not to mention that it required so much free space in your living room that people got tired of lugging their furniture around.
+
+> Meanwhile, the hardcore gamers who loved their Xbox — and who are notoriously picky — found it was often inaccurate or hard to use, and didn't work with the games they wanted to play. If blockbusters "Halo 3" or "Street Fighter IV" didn't support the Kinect, there was no real reason to get one.
+
+It's a lesson that Microsoft has obviously learned.
+
+Most of Microsoft's first HoloLens demos focus on workplace or scientific uses: Using a HoloLens in a garage to project a blueprint onto an in-progress motorcycle, or in a doctor's office to show scans of a patient's broken bone.
+
+Microsoft has shown some gaming applications here, too. Notably, this past summer when Microsoft showed off how Minecraft, the smash hit game it bought for $2.5 billion last year, will work with the HoloLens, the internet went nuts with anticipation.
+
+>
+
+It's a fine line. The HoloLens has a ton of potential as a gaming device, and it's a great way to show it off that gets people excited about the concept.
+
+But if you sell it as a games machine first, you risk running up against a very specific set of expectations, the same way the Kinect did.
+
+2. Get developers on board early
+
+Microsoft has never given a firm date for the final release of HoloLens, saying only that it would be out in the "Windows 10 time frame." CEO Satya Nadella has called it a "five-year journey," suggesting that it may not be ready for consumers until 2020.
+
+Just this week, Microsoft announced that the first version of the HoloLens, intended only for developers to build their first holographic apps, will cost $3,000 and ship early next year.
+
+It's a smart move. When the Kinect originally came out, it only had a handful of games, only one of which got any kind of positive reviews. ("Dance Central," in case you were wondering.)
+
+In that way, it was a case of bad timing. By the time the Kinect came to market in 2010, the iPhone and Android smartphones were starting to attract game developers in droves — ones who saw the potential for making simple, casual games for a mass market with disposable income.
+
+>
+
+View gallery .
+
+This meant that the game designers who were best suited to making titles for the Kinect were focusing their attention on mobile instead.
+
+By putting out its developer kit well before announcing a real commercial-release date, Microsoft is giving developers a lot more breathing time to get their apps ready.
+
+Moreover, the core of Windows Holographic just the standard Windows 10, which a lot of developers are already familiar with. Plus, since HoloLens is focusing on productivity over games, Microsoft has a much broader base of developers that it can coerce to the platform — including non-game-developers who are already making apps for Windows.
+
+3. Manage expectations
+
+The one thing that Microsoft needs to do between now and whenever the HoloLens hits the market is manage the expectations of the general public.
+
+In every HoloLens demo, it looks like holograms appear around you from all sides, almost like a HoloDeck from "Star Trek."
+
+>
+
+View gallery .
+
+But in reality, the holograms only appear in a very small window, right in the center of your vision. Microsoft blames the technical challenges of displaying holograms in real-time.
+
+Don't get me wrong, it's still very cool. In my demo, I used that field of view to look through a (simulated) brick wall, spot the support pillar on the other side, and flag it for an architect to follow up on. It's cool, and potentially very useful.
+
+But when Microsoft shows a demo of a guy using a HoloLens to leap around a living room, shooting aliens that emerge from the walls with a holographic blaster that appears on his arm, it's more than a little misleading.
+
+> And it increases the odds that when the HoloLens does come out, the public backlash will be a lot bigger than it needs to be.
+
+Microsoft is doing a lot of smart things with the HoloLens. And by focusing it on business and workplace apps, it definitely fits more snugly into Microsoft's new corporate mission to enhance productivity.
+
+HoloLens is definitely the future. But Microsoft will have to be clever to make sure it's the company to bring that vision to the world.
+
+NOW WATCH: How Microsoft will radically transform the medical industry
+
+
+
+
+
+More From Business Insider

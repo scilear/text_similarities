@@ -1,0 +1,25 @@
+Over the summer, IBM announced its plans to roll out 50,000 Apple MacBook laptops to its employees by the end of the year, with a planned total internal adoption of 150,000 to 200,000.
+
+Today, IBM revealed some surprisingly positive findings from its early Mac experiments, reports AppleInsider:
+
+Only 5% of IBM employees with MacBooks need help desk support from the IT department, versus 40% of PC users.
+
+In fact, that lessened need for the help desk helps justify the higher up-front cost of a MacBook versus a comprable Windows PC, IBM VP Fletcher Previn said on stage at a JAMF Software user conference in Minneapolis today.
+
+Plus, it means that IBM is supporting over 130,000 combined iPhone, iPad, and MacBook users with just 24 dedicated help desk staff.
+
+IBM is at that conference because of its somewhat untraditional corporate laptop deployment process. Basically, employees get a shrinkwrapped, brand new MacBook. By using Apple Device Enrollment and JAMF Software's Casper software, IBM employees can get their own computers set up with the tools and software they need to do their jobs, all in accordance with IBM policy.
+
+IBM and Apple have become bosom buddies, recently. Last year, the two made headlines with the announcement of a partnership that would see IBM push Apple technology into its big business and enterprise customers, complete with custom software support.
+
+Consumers love Apple, as evidenced by never-ending iPhone-mania. But businesses have long been caught between a rock and a hard place, when it comes to officially supporting it as a business device.
+
+Employees want to use their iPhones because they're familiar, easy to use, and run the apps they want. But businesses need something that can get the job done and protect their employees' data, in accordance with whatever stringent requirements they have in place.
+
+The IBM partnership is supposed to bridge that gap, making Apple technology an easier sell to business customers, in a win-win for both parties.
+
+And now, it looks like IBM is finding its own success with that idea internally. It should vindicate a lot of Apple fans, who have long championed Apple's OS X as the superior, more user-friendly operating system.
+
+"I felt a great disturbance in the Force. As if millions of voices suddenly cried out, 'We’ve been telling you this for 30 years,'" as Daring Fireball's John Gruber put it.
+
+NOW WATCH: Apple just unveiled a stylus and it looks absolutely beautiful

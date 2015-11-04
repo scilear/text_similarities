@@ -1,0 +1,37 @@
+An Overview of Fund Flows in Technology Exchange-Traded Funds
+
+The Technology Select Sector ETF (XLK) is the most liquid ETF in the technology sector, with over 8 million shares traded per day. This ETF tracks the performance of 72 publicly listed companies in the technology sector, and its market capitalization is $12.98 billion.
+
+The top five holdings of XLK are
+
+Apple (AAPL): 16.56%
+
+Microsoft (MSFT): 9.19%
+
+Verizon Communications (VZ): 4.67%
+
+Facebook Inc. Class A Shares (FB): 4.81%
+
+AT&T (T): 5.17%
+
+These five stocks comprise over 40% of XLK’s total portfolio.
+
+In the trailing one-month period, fund outflows for the Technology Select Sector ETF (XLK) has been $435.76 million. In the trailing 12-month (or TTM) period, net fund outflows stand at $2.41 billion. Fund flows in the trailing one-week and trailing three-month (quarterly) periods for XLK are -$55 million and -$1.51 billion, respectively. Since August 3, 2015, XLK is trading below its moving averages and since then, net fund outflows in the ETF has been $935.22 million.
+
+XLK generated investor returns of 2.86% in the trailing 12-month period and -4.43% in the trailing one-month period. In comparison, it generated 10.93% in the trailing three-year period and 14.48% in the trailing five-year period. XLK’s share price decreased -0.55% YTD (year-to-date).
+
+We can see that fund flows are directly related to ETF returns. Out of 72 stocks held in this ETF, 35 stocks have generated negative returns in the last 12 months that have resulted in fund outflows for XLK.
+
+On September 18, 2015, XLK closed the trading day at $40.06. Based on this figure, here’s how the stock fares in terms of its moving averages:
+
+78% below its 100-day moving average of $42.07
+
+28% below its 50-day moving average of $41.42
+
+33% above its 20-day moving average of $39.92
+
+XLK’s 14-day RSI (relative strength index) is 45.76, which shows that the stock is slightly oversold. Generally, if the RSI is above 70, it indicates the stock is overbought. An RSI figure below 30 suggests that a stock has been oversold.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

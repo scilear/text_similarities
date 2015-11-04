@@ -1,0 +1,31 @@
+This post was done in partnership with The Wirecutter, a buyer’s guide to the best technology.
+
+After measuring the charging speed of nearly 50 Lightning cables (a proprietary cable made for use with Apple iPhones, iPads and iPods) and sending the top 11 to our electrical engineer for teardown analysis, the $9 Anker Lightning to USB Cable is the one we'd recommend. Its Lightning-connector plug will work with almost any case, and it costs less than half of what you'd pay for Apple's cables. Plus, it's built with a stress-relief collar that's molded with the plastic plug housing, meaning it should be sturdier than the competition.
+
+How we tested
+
+After combing through thousands of cables, we tested the cables' charge rates by plugging them into an older version of this USB power monitor connected to a 12-watt adapter, which told us whether both iPads and iPhones would be charged at full speed from each cable. Next, we tested to see if the Lightning plug would fit in Lifeproof's Fre, a case with notoriously small port openings. Our electrical engineering consultant then evaluated the internal structures of each cable for components such as braided wires and electromagnetic shielding.
+
+Our pick
+
+Anker's Lightning to USB Cable is inexpensive, well-built from the cord to the stress-relief collar, which protects the cable from damage caused by bending near the connector port. Apple's cables are notorious for breaking in this way. In our power draw tests, Anker's cable consistently carried a charge of 2.4 amps to an iPad Air. While some cables performed as well in this regard, none did any better. This high speed ensures any iPhone, iPod or iPad will charge as quickly as it can, as long as it's plugged in to a high-voltage power source.
+
+The one drawback of the Anker is the size of its Lightning-connector housing, which is about 1 millimeter thicker than Apple's cable and 0.7 millimeter wider. For most cases, this won't matter, but we did find it too large for the tiny opening on the Lifeproof Fre.
+
+The runner-up
+
+The Dynex's 3-foot Charge/Sync Cable with Lightning Connector ($13) is an acceptable runner-up if the Anker is unavailable. It charges just as quickly as the Anker cable and feels just as durable, but it's more expensive to ship. It's a great option if you need something quick from a bricks-and-mortar store.
+
+A shorter option
+
+If you'd rather have something short and stubby that'll easily fit in a bag without having to be wound up, go with Insignia's 6-inch Lightning Charge-and-Sync Cable. Even though it's shorter than the standard cables, it can cost the same or more. You're paying for convenience.
+
+A longer option
+
+Long cables are the most troublesome of the bunch, as they tend to fail more quickly, and they need to be thicker to carry a fast charge. Teardowns reveal this is likely due to the fact that the wires inside are unbraided (and sometimes thinner) so they can keep costs down. That being said, of those we tested, Aduro's 10-foot Sync and Charge Lightning Cable ($15) was the most impressive.
+
+Wrapping it up
+
+The $9 Anker Lightning to USB Cable is the Lightning cable we'd buy. It's much cheaper than Apple's official cable, is built to last with high-quality internals, and its Lightning connector plug is small enough to fit most cases.
+
+This guide may have been updated by The Wirecutter. To see the current recommendation, please go TheWirecutter.com. The Wirecutter's extensive research and testing is supported by a small commission from the purchases made by its readers

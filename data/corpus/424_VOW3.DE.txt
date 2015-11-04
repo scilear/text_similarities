@@ -1,0 +1,49 @@
+Shares of German auto giant Volkswagen Group (NASDAQOTH:VLKAY) were pounded on Monday as investors reacted to news that VW likely cheated on emissions tests for key models.
+
+VW's stock price fell about 18% in European trading after the U.S. Environmental Protection Agency, or EPA, on Friday issued what it calls a "Notice of Violation" against Volkswagen.
+
+The notice contains serious charges. The EPA is alleging that certain diesel-powered VW and Audi models "include software that circumvents EPA emissions standards for certain air pollutants." California's powerful Air Resources Board, or CARB, issued a similar notice.
+
+What does that mean? It means the EPA is saying some VW and Audi models have software that detects when an emissions test is being done and changes the engine settings so that the car will pass. When the cars aren't being tested, their exhaust is much dirtier than allowed under U.S. law.
+
+That's a big, big no-no. Under U.S. law, VW can be fined up to $37,500 per car. The EPA thinks that about 482,000 vehicles containing the software have been sold in the United States. That comes out to a potential fine of over $18 billion.
+
+The EPA says that VW already admitted it
+
+VW officials have apparently admitted that the affected cars broke the rules. Here's the gist of the allegation from the EPA's statement:
+
+"[A] sophisticated software algorithm on certain Volkswagen vehicles detects when the car is undergoing official emissions testing, and turns full emissions controls on only during the test. The effectiveness of these vehicles' pollution emissions control devices is greatly reduced during all normal driving situations. This results in cars that meet emissions standards in the laboratory or testing station, but during normal operation, emit nitrogen oxides, or NOx, at up to 40 times the standard." Nitrogen oxide emissions cause smog. "The software produced by Volkswagen is a "defeat device," as defined by the Clean Air Act," the EPA said. "In September, after EPA and CARB demanded an explanation for [tests that showed excessive emissions from the affected cars], Volkswagen admitted that the cars contained defeat devices." [Emphasis added.]
+
+The EPA says that 2009 and newer VW and Audi models equipped with the 2.0 liter TDI diesel four-cylinder contain the software. The cars affected include VW's Jetta, Beetle, Golf, and Passat, and the Audi A3. VW has halted sales of new models equipped with that engine.
+
+VW CEO Martin Winterkorn said in a statement that VW will "cooperate fully" with government investigators. He also said that the company will engage an outside investigator to determine exactly what happened, and apologized for breaking the trust of VW's customers and the public.
+
+But all of this raises one big question.
+
+The big question: What the heck was VW thinking?
+
+The question isn't, "Why would VW want to evade emissions tests?" The answer to that is probably pretty simple: The cars almost certainly drive better with the reduced emissions controls. They may well have quicker acceleration and better fuel economy. If so, they'll do better in comparison tests, and they'll be more appealing to consumers on test drives.
+
+The question is, "What were they thinking?" Why would any VW employee put this huge global company at risk by developing or approving or installing software that evaded an important legal requirement?
+
+The answer is probably this:
+
+Diesels account for a big chunk of VW's U.S. sales (22.9% last month)
+
+VW has been losing market share in the U.S. over the last few years
+
+VW executives responsible for U.S. sales are under enormous pressure to turn that around
+
+VW needed to find a way to sell the affected diesel-powered cars in the U.S. even if its engineers couldn't make them pass tough U.S. emissions tests while keeping performance and fuel economy competitive
+
+Anyone who has worked inside a large corporation can probably see how such a thing could have happened. But the upshot is that those decisions have put the company at risk.
+
+VW is in a whole lot of trouble right now. Even if this software was only used on cars sold in the United States, the penalties imposed by the EPA and CARB could be enormous. Beyond that, VW's reputation will take an enormous hit. VW markets its diesel-powered cars to green-minded consumers because of their strong fuel-economy ratings. Those consumers won't react well to this news.
+
+If VW did this in other markets, the consequences could quickly multiply. German and European Union regulators are already demanding answers, according to multiple reports. China, where the government is making a big effort to get air pollution under control, is also likely to get involved soon, if it's not already. VW is the largest-selling automaker in China, if it cheated there, the penalties could be even worse than those imposed by the EPA.
+
+This won't blow over quickly
+
+From the U.S. government's perspective -- and apparently the German government's, too -- this is a very big deal. The potential for damage to VW's cash reserve, ongoing sales in key markets, and global reputation is immense. That's why the stock -- which is normally pretty slow-moving -- took such a hit on Monday.
+
+It's also why I'm suggesting investors hold off before "buying the dip" here. It's already bad, but it could still get much worse. Stay tuned.

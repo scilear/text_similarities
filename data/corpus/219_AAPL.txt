@@ -1,0 +1,9 @@
+The value of Apple shares has consistently pivoted on how much of the company’s products are believed to be selling.
+
+Case in point, Apple shares AAPL, +1.53% pushed higher on Monday after the company said preorders for the iPhone 6S and 6S Plus are set to outpace last year’s opening sales of the iPhone 6 and 6 Plus. The analysts covering Apple also got excited.
+
+Blogging for Asymco, industry analyst Horace Dediu has crunched some numbers to figure out what happens if you value Apple on the basis of what people are buying, rather than what’s believed to be selling. He comes up with this chart:
+
+Asymco
+
+And then this one that shows the daily revenue per device inclusive of services and other income. For example, basically a single iPhone earns the company nearly $1 a day, a Mac a few cents less, and so on (and, flipping that around, owning and using a Mac, an iPhone, an Apple Watch, an iPad and Apple TV can presumably be viewed as costing a user between $3.50 and $4 a day). ”With a modest growth rate leading to a billion active devices in use and a normalized revenue per device of $0.92 you can easily see cash flows equivalent to $1 trillion in present value,” says Dediu.

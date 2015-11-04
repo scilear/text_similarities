@@ -1,0 +1,25 @@
+Microsoft (NASDAQ:MSFT) recently acquired Havok, a 3D gaming physics company, from Intel (NASDAQ:INTC) for an undisclosed sum. Havok, which Intel initially acquired for $110 million in 2007, provides the physics engine for blockbuster games like Call of Duty, Halo, and Assassin's Creed. Let's discuss why Microsoft acquired this middleware engine, and why Intel doesn't need it anymore.
+
+Why Microsoft wants Havok
+
+It would be tempting for Microsoft to shut out third-party developers and competitors by only using Havok in its own games. However, Microsoft already stated that it will keep licensing Havok to other companies.
+
+In a statement, Microsoft called Havok a "fantastic addition" to its "existing tools and platform components for developers, including DirectX 12, Visual Studio, and Microsoft Azure." Microsoft also stated that these tools can be used together to build "the most complete cloud service" and highlighted the use of "remote rendering" in the multiplayer mode of Crackdown 3 earlier this year. Remote rendering enabled the destruction of Crackdown 3's game world to be processed in the cloud instead of a local console. This meant that the bullet holes and explosions seen in the game partially relied on processing power being "offloaded" to the cloud.
+
+Purchasing Havok could mean that Microsoft is getting serious about merging cloud-based processing with a dedicated physics engine. That could help Microsoft eventually launch a cloud gaming platform like Sony's PS Now, which could complement the Xbox One streaming feature it recently introduced with Windows 10. It could also help Microsoft Game Studios produce much larger online game environments for multiplayer games.
+
+Havok has also been used for non-gaming purposes before. Four years ago, Havok signed an agreement with combat vehicle design firm Krauss-Maffei Wegmann to license its software for 3D military simulations. ExtremeTech's Joe Hruska speculates that the acquisition of Havok could help Microsoft land "lucrative defense contracts" which could be converted to Azure customers. Havok has also been used to create special effects for movies like The Matrix and Troy, which could help Microsoft expand its Azure ecosystem to Hollywood studios.
+
+Gaining footholds in those industries will certainly help Microsoft achieve its goal of generating $20 billion in annual cloud revenues by the end of fiscal 2018.
+
+Why Intel doesn't need Havok
+
+For Intel, selling Havok makes sense -- it doesn't fit into its current priorities. At the time of the original acquisition, Intel stated that buying Havok could beef up its visual computing and graphics efforts.
+
+Intel is still the largest GPU maker in the world thanks to its embedded graphics chips, but NVIDIA and AMD are the go-to brands for high-end add-in graphics boards. Intel's interests in cloud gaming are now limited to secondary uses for server chips and investments in smaller companies through Intel Capital. As for visual computing, Intel is now more interested in developing depth-sensing cameras than processing 3D graphics.
+
+Intel has three main priorities today -- maintaining its lead in PC and data center chips with "best of breed" processors, reducing losses at its subsidy-saddled mobile division, and expanding into higher growth markets like wearables and the Internet of Things. Therefore, there's no need for Intel to own Havok except to collect some minor licensing fees, which were likely covered by Microsoft's buyout.
+
+A win-win deal
+
+Buying Havok initially looks like a 3D gaming deal for Microsoft, but investors should see it as a cloud-based investment. In addition to boosting its ability to offload processing power into the cloud, it could serve as a foundation for a cloud gaming platform in the near future. Havok's niche uses in the military and filmmaking could also expand Azure's reach. Meanwhile, Intel is merely dumping an extra business which no longer fits in with its major priorities. Therefore, the purchase certainly looks like a minor win-win deal for both tech titans.

@@ -1,0 +1,9 @@
+You’ll soon be able to use Apple Pay in a lot more retailers, starting with Best Buy. The 12th-largest retailer confirmed to Quartz it is testing “NFC payments,” which is the underlying technology behind mobile wallets like Apple Pay and Android Pay. Both payment systems are still scheduled to roll out to every store by the end of the year.
+
+MacRumors first spotted a YouTube video of Apple Pay used in Best Buy.
+
+Best Buy remains a partner of MCX, a consortium of merchants attempting to release its own mobile-payments solution. In October 2014, big retailers including Best Buy and Target said they would not support Apple Pay, opting for their own solution. However, the consortium’s app has experienced continuous delays, and Re/Code reported last month that it may not arrive until 2016. Now, retailers appear to be warming up to Apple Pay, Android Pay, and other mobile wallets. Rite Aid started accepting Apple Pay in mid-August, while Kohl’s announced Apple Pay support in June (though it hasn’t provided a hard date). Target has expressed interest in adding Apple Pay support.
+
+One of the biggest issues for mobile payments has been the lack of adoption by retailers. There will be approximately 1.5 million stores where NFC technology will be supported by the end of 2015, but the technology needs to be ubiquitous in order for customers to use it regularly.
+
+While mobile wallets aren’t a big business for companies like Apple and Google, they get users more locked-in to an operating system. With mobile payment usage still in a nascent stage, adding large and popular retail partners will go a long way toward increasing adoption over the next few years.

@@ -1,0 +1,53 @@
+This post has been updated.
+
+Apple is scheduled to release iOS 9, its latest operating system for the iPhone, iPad, and iPod touch today. It is a free update, and anyone with an iPhone 4S or newer will be able to upgrade.
+
+What’s different?
+
+A new search experience
+
+When you swipe right from the iPhone home screen, you’ll find a new universal search dashboard, where searches will scan your iPhone, email, inside apps, maps, the web, sports scores, your photo library, and more, and will even be able to perform simple math calculations.
+
+A big factor in iOS 9 is that Apple is trying to be more proactive with its recommendations. So this screen will also contain links to things Apple thinks you will want to access: Top contacts, new or relevant apps, local information, and news, contextually tailored.
+
+Big upgrades for messaging apps
+
+As Zach Seward wrote earlier this year, iOS 9 includes several improvements for messaging apps:
+
+Notifications Center will now be ordered chronologically instead of simply bundled by app. This will make it easier to scan incoming messages.
+
+“Quick replies,” which let you reply directly from a drop-down notification, will be supported for all apps. Previously, only Apple’s Messages app could do these.
+
+Messages are also included in the new search features, potentially including messages in third-party services, if they allow the phone to search them.
+
+The end of Newsstand
+
+Apple is discontinuing its Newsstand feature in iOS 9. This means that many news apps—such as the New York Times, New Yorker, and many other newspaper and magazine apps—will just be normal apps again.
+
+Apple is launching (and pre-installing) its own News app in iOS 9, where you’ll be able to subscribe to and read free stories from a variety of publications, including Quartz.
+
+A new look with a new system font
+
+iOS 9 isn’t a dramatic visual change from iOS 8. But Apple has changed the system font to a custom typeface called San Francisco, instead of Helvetica, which it had used since the beginning of iOS. People seem to like it so far. (It’s the same font as the Apple Watch.)
+
+Better battery life
+
+Apple said in June that its under-the-hood improvements can add about an extra hour of real-world use per charge. It’s also adding something called “Low Power Mode,” which it said can extend battery life an additional three hours.
+
+What else?
+
+iOS 9 also includes several improvements for the iPad, including split-screen multitasking mode and picture-in-picture for video.
+
+The Notes app is now more sophisticated. And Apple Maps now has public transit information.
+
+Wallet is the new name for Passbook. It will support a bunch of new types of cards, including some store cards and loyalty programs.
+
+The Apple Watch is also getting a major update called watchOS 2. The main changes here are custom watch-face “complications” and better, more capable native apps. ( Update Sept. 16, 12:40 pm: Apple confirmed it’s found a bug in watchOS 2 and will be delaying its release.)
+
+Apple confirmed it’s found a bug in watchOS 2 and will be delaying its release.) iOS 9 also supports ad-blocker apps, which—as they claim—block ads from web pages and speed up web browsing. It’s not yet clear how popular they will become.
+
+Should you upgrade?
+
+Yes. Unless something unexpected happens and there are major roll-out problems, iOS 9 will likely make your iPhone run better, not worse.
+
+Read this next: Apple’s iPhone Upgrade Program is a brilliant strategy to turn carriers into “dumb pipes”

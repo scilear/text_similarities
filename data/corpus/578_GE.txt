@@ -1,0 +1,19 @@
+Two data reports Friday morning reinforced many investors' working narrative of the U.S. economy in recent months. Consumers are cheering a long-awaited recovery in the labor market and beginning to buy in earnest. Meanwhile, more worryingly, industrials are slumping, burdened by a severe downturn in energy and commodity prices, factors which are tangled up with the strong dollar and China's slowing growth.
+
+Industrial Production
+
+First, the bad news. The Federal Reserve's monthly industrial production index fell 0.2% in September compared to August, not quite the decline analysts had expected, but still far from desirable. August's change over July was revised up to -0.1% from -0.4%, reflecting a less dire utilities and mining situation than had been thought. The capacity utilization rate was 77.5% in September, down 0.3% from the previous month's revised figure. Excess capacity contributes to depressed prices within the manufacturing sector.
+
+The manufacturing sector's struggles can be seen in oil field services firm Schlumberger NV (SLB), which reported a 33% drop in revenues Thursday, though EPS came in a hair above consensus estimates. Shares have lost about 3.5% in Friday afternoon trading, and Haliburton Co (HAL), which reports Monday, has fared worse, losing nearly 4.5%. General Electric Co (GE) and Honeywell International Inc (HON) also reported drops in revenue and better-than-expected profits Friday morning. Honeywell is down around 2%, while GE is up 3.75%.
+
+Consumer Sentiment
+
+The good news is that American consumers may be as much as 92.1% as happy as they were in January 1966 (those were the days). The University of Michigan consumer sentiment index released a preliminary figure of 92.1 for October, above consensus and 5.6% better than August's reading of 87.2. The survey is conducted twice a month, with revised figures coming out at the end of the month. A reading of 100 correspond's to January 1966's sentiment.
+
+Consumers do indeed seem to be perkier as of late. The iShares U.S. Consumer Goods ETF (IYK) has recovered nicely since late August's global swoon, and is now up 4.9% year-to-date, while the S&P 500 is down 1.7% (both calculations are adjusted for dividends).
+
+Earnings season has been kind to the ETF's top holdings so far. Nike Inc (NKE) posted spectacular earnings on September 24, beating revenue and EPS estimates, raising currency-neutral revenues 14% year-over-year and getting an 8.9% one-day pop in stock price for its troubles. PepsiCo Inc (PEP) saw revenues and EPS fall on October 6, but as both figures beat consensus estimates, the stock gained 1.3%. Philip Morris International Inc (PM), despite making all of its sales internationally, accounts for 6% of IYK's holdings, so its revenue and EPS beat—and subsequent 1.9% rise in share price—deserve mention. The cigarette maker's domestic counterpart, Altria Group Inc (MO), reports on October 29. Other upcoming results to look out for: Coca-Cola Co (KO) on October 21 and Procter & Gamble Co (PG) on October 23.
+
+The Bottom Line
+
+For the time being, consumer goods stand to benefit from increasing consumer confidence. Industrials, meanwhile, remain troubled. The question is how long these two measures of economic health can remain divergent. The labor market is as healthy as its been since the crisis, but unless the rust-covered backbone of the economy finds a way to recover, it could begin to drag on more chipper sectors.

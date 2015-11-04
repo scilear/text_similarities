@@ -1,0 +1,13 @@
+NEW YORK (TheStreet) -- Ad blocking on iPhones and iPads may cost digital publishers around $1 billion in lost advertising, according to the latest analysts report from UBS (UBS). The number may seem like a large one but it represents only 0.5% of total global spending on digital advertising and 1.3% of mobile spending.
+
+Both UBS and J.P. Morgan have said that fears over advertising losses have been overblown. Here's why: Ads can only be blocked in Apple's (AAPL - Get Report) safari browser, which holds a mere 22% of global web traffic. Ads within apps cannot be blocked and the majority of users spend more time within apps than browsing the mobile web. Users need to manually download and install ad blockers, which will only work on the latest Apple products and IOS 9 software.
+
+Some sites may be harder hit than others depending on where there traffic comes from and how digitally engaged and tech savvy their readers are. UBS expects Adobe (ADBE - Get Report) and Yahoo! (YHOO) will be the most exposed to ad blocking, given their heavy desktop traffic. Twitter (TWTR - Get Report) and Facebook (FB - Get Report), on the other hand, are expected to have the least exposure, thanks to their heavy mobile and app use.
+
+The UBS note adds that Apple is not the only danger to online ad spend, but that ad blocking in general is on the rise, with a 41% uptick in software usage last year. J.P. Morgan noted that this does not appear to be a one sided battle and publishers are pushing back.
+
+Must Read: 5 Dividend Stocks That Want to Pay You More in 2015
+
+Companies including Washington Post, Cnet and Hulu have all began holding back content from users who have ad blockers installed. There is also the possibility that ads will evolve to become more integrated within within publications or marked as sponsored or promoted content.
+
+J.P. Morgan analysts commented that "blockers remove low-quality ad clutter from the ecosystem and encourage advertisers to produce high-quality creative that is native, relevant and ROI driven."

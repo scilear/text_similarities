@@ -1,0 +1,13 @@
+Apple Inc. has purchased an artificial-intelligence startup that could help make iPhone users’ interactions with the virtual assistant Siri more natural.
+
+Apple AAPL, +1.53% bought VocalIQ Ltd., a U.K.-based software maker working on ways to improve computers’ ability to understand human speech and to “speak” more naturally. Terms of the deal weren’t disclosed.
+
+An Apple spokesman confirmed the deal with the company’s standard statement after an acquisition, saying Apple “buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.” VocalIQ didn’t immediately respond to a request for comment.
+
+The acquisition could help Apple’s efforts to bolster Siri, which is controlled by voice commands and sometimes struggles to understand users. VocalIQ says on its website that its software helps computers speak more naturally by learning from each interaction with a human, employing an artificial-intelligence technique called deep learning. VocalIQ software also seeks to help computers better understand commands and their context.
+
+The tech industry increasingly hopes to use voice commands to control everything from cars to robots to Internet-connected devices in homes. While voice-recognition technology is improving, engineers say computers have a long way to go to consistently understand humans’ intentions and reply in natural ways.
+
+An expanded version of this report appears at WSJ.com.
+
+More from MarketWatch

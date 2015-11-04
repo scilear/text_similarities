@@ -1,0 +1,47 @@
+NEW YORK (AP) -- Technology giants including Apple, Facebook, Snapchat and now Google want to take charge of how we get and see news on our phones.
+
+Google on Wednesday was the latest company to announce a news-focused tool. It is designed to speed up how fast stories appear on a phone's screen after a Google search. It's not widely available yet, but could emerge as a key source of traffic and ad revenue for publishers, and not just news providers, as people increasingly rely on their handheld gadgets.
+
+Google is following several other trendsetters that already have put their own twists on how news flows through phones. Facebook in May started testing "Instant Articles," which load news stories faster from a handful of publishers, like the New York Times, BuzzFeed and the Washington Post, inside the social network's mobile app.
+
+Apple's News app, which came automatically built-in to the latest version of its mobile operating system released last month, has stories from dozens of media brands. The Discover feature of disappearing-messages app Snapchat, launched in January, currently has stories and video from 14 different media brands, including CNN, Mashable, BuzzFeed, People and Vice.
+
+___
+
+WHY NOW?
+
+Phones and tablets are more and more important to publishers, but stories and video can take several seconds to load on the mobile web, to the exasperation of impatient readers and revenue-starved publishers that may lose an opportunity to sell ads. Out of 51 top digital news outlets, which included video-heavy sites like Vice, online arms of traditional newspapers and digital-only brands like Slate, only nine had a bigger audience on personal computers than on phones or tablets, according to the Pew Research Center. If stories or video take too long to load, users could be turned off.
+
+___
+
+ARE THESE NEW APPS?
+
+Not quite. Facebook is speeding up how fast articles from participating publishers load when they're posted on the social network. You don't have to do anything new to see them. The feature is supposed to save at least several seconds because the news articles appear immediately.
+
+Google's version speeds up stories clicked on after a Google search or in a Twitter feed, for example. The company is working with publishers on the coding used to deliver stories, but consumers don't have to do anything differently than they do now.
+
+Snapchat's popularity with young people came from its disappearing-messages function before it started Discover, which you swipe over to when you're already inside Snapchat.
+
+Apple did build a news app that you can tailor to your interests. There are similar services that already exist, like Flipboard. But Apple made it easier on iPhone users by including its app in the latest mobile operating system.
+
+___
+
+IS IT EASIER TO GET NEWS BECAUSE OF THIS?
+
+When stories load faster, that's a big plus because it's more likely to attract readers.
+
+All of these services are also combining news from different publishers. That's useful because it saves you from having to download individual apps from all the sources you like, or going to lots of different sites. They can help you discover new preferences. But they can also overwhelm you with stuff to read and look at.
+
+The ad experience has been better with these tools and apps than it can be online. I haven't seen pop-up ads or ads that block what I'm trying to read.
+
+They can also help give you access to stories you might not see if you're not a paying customer. The Washington Post is publishing its entire lineup of stories and posts to Facebook every day; the company says non-subscribers are usually blocked after 5 stories on the Web.
+
+In Apple News, I saw a handful of Wall Street Journal stories that are usually only available to subscribers offered free each day. The New Yorker, which posts only a summary of some of its stories in Apple News with a link that takes me to a full version of its site, cut me off for full stories after several clicks.
+
+On Snapchat, stories change every 24 hours. They're gone if you miss them that day. Some are exclusive to the app.
+
+DRAWBACKS?
+
+I'm not getting breaking-news alerts from the technology companies, as I would with individual apps from different publishers. Some people don't like these notifications, however, and you can turn them off in publisher apps.
+
+Also, I can't get fresh news if I don't have an Internet connection, unless I saved items previously in Apple News. Some publisher apps will update stories throughout the day and store them, so I can read them when I'm offline. Google says its new tools could let publishers create offline content.

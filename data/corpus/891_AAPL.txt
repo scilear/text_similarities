@@ -1,0 +1,23 @@
+When Apple unveiled the iPhone 6S last week, it told us all about the new 3D Touch technology in its screen its enhanced camera, and its improved processor.
+
+What it didn't tell us, however, is how much RAM (Random Access Memory) is in the phone.
+
+Developer Hazma Sood, who regularly digs up details about upcoming Apple products by noodling around in the company's software, recently discovered that the iPhone 6S and 6S Plus will have 2GB of RAM.
+
+That's a considerable jump from the 1GB of RAM found on the iPhone 6 and iPhone 6 Plus.
+
+Sood posted his findings to Twitter, saying that he made the discovery when using Apple's developer tool XCode, which helps engineers build apps for Apple's platforms. The tweet was quickly picked up by blogs such as 9to5Mac and Macworld, among others.
+
+Not much of a surprise but Xcode confirms 2GB of RAM for the 6s (and 6s plus), and 4GB for the iPad Pro pic.twitter.com/X8Ym4DtamS — Hamza Sood (@hamzasood) September 13, 2015
+
+This is important because it tells us more about the performance enhancements we can expect to see in the iPhone 6S. The more RAM a device has, the more tasks it'll be able to handle at once without stuttering. So you'll be able to run more apps in the background and load more tabs in Safari before your iPhone needs to refresh them.
+
+Here's a really simple way to think about what RAM does for your phone. As Michael Crider from Digital Trends explains, you can think of RAM as the top of a desk. The larger it is, the more room you have to spread out papers and read them all at once. Think of the papers in this analogy as background processes and apps running on your phone.
+
+While Apple has upgraded the iPhone to include 2GB of RAM, other smartphone manufacturers are already cramming twice as much memory into their new phones. Samsung, for instance, has fit 4GB of RAM into its new Galaxy Note 5, which makes it as powerful as a laptop. According to Sood, Apple also packed 4GB of RAM into its new 12.9-inch iPad Pro.
+
+Apple doesn't usually disclose the amount of RAM it puts into its phones and tablets. It's usually not until a company such as iFixit does a full teardown of Apple's new mobile devices that we get to see how much RAM is inside.
+
+Apple did not immediately respond to Business Insider's request for comment.
+
+NOW WATCH: The biggest mistake Apple made with the new iPhone

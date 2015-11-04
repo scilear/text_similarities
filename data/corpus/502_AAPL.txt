@@ -1,0 +1,21 @@
+Apple (NASDAQ:AAPL) acquired yet another company last week and, in typical Cupertino fashion, Apple didn't divulge any details of the deal or why it was acquired. But what we do know is that it's a natural language speech recognition company based in the U.K. called VocalIQ, and it could help fill a gap that Apple's had for far too long.
+
+As much as any Apple fan will talk up the company's devices, if there's one thing Apple hasn't quite gotten right yet it's Siri's speech recognition. If you don't believe me, ask Siri a series of questions and then ask the same ones in the Google app for iPhone and see which voice recognition system hears you better (it may not be a scientific example, but I have no doubt that Google will outperform).
+
+Apple's voice recognition has improved since its first debut in 2011, but it still feels unintelligent at times and, after years of being out of beta, still slightly undeveloped.
+
+But while Apple will likely use VocalIQ to improve Siri on the iPhone, I think the company has much bigger plans for its new acquisition.
+
+Another piece in Apple's Internet of Things puzzle
+
+Right now, Siri isn't learning much about how we talk or ask questions. It simply listens. VocalIQ's speech recognition platform can be placed inside of all sorts of apps, and the company says on its website (just before it was taken down) that, "Every time your application is used it gets a little bit smarter. Previous conversations are central to it's learning process -- allowing the system to better understand future requests and in turn, react more intelligently."
+
+VocalIQ's platform actively learns, as opposed to just listens, which makes its uses much more interesting. And its natural language speech recognition platform wasn't just for mobile devices, but also for automotive infotainment systems, smart homes, wearables, and robotics. In that way, Apple just bought a platform that could help pave the way for enhanced speech systems for nearly everything it creates: mobile devices, Macs, Apple TV, smart home software, and possibly even its rumored Apple Car.
+
+That's important because Cisco estimates that by 2020, there will be 50 billion Internet of Things (IoT) devices, and people will need an easy way to communicate with those connected things. As wearable devices are already starting to show, making smaller touch screens isn't always the best way to interact with a device. So adding more, and better, voice recognition systems could help users better communicate with their growing list of IoT devices.
+
+Where Apple goes from here
+
+Of course, the VocalIQ acquisition is just one small piece of Apple's overall IoT strategy. But as Apple recently showed with the latest release of its voice-activated Apple TV, the company is making speech commands much more of a priority with its devices.
+
+Making products that can understand natural language, and truly learn what users are saying, may not bring in any new revenue for the company, but it could help Apple enhance its current devices and introduce new ones. And as the Internet of Things begins to take shape, an intelligent, learning, speech recognition platform will be more important than ever.

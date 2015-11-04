@@ -1,0 +1,35 @@
+Members of the media are out in force, declaring Apple’s (AAPL) move of enabling third party ad-blocking apps in iOS 9 to be an apocalyptic act.
+
+It’s been called a nuclear option that will bring about the end of mobile monetization and cause the decline of the mobile Web as we know it.
+
+Some believe it may cause a mobile ad-pocalypse, while others suggest that Apple’s scorched-earth advertizing play could lobotomize Google.
+
+While the Silicon Valley tech giant’s gutsy move will cost online publishers a few bucks, the fallout won’t be nearly as catastrophic as it’s being made out to be. Which is not surprising, considering that the source of all those doomsday headlines just happen to be those same media companies.
+
+Look, I don’t mean to sound callous about the loss of precious revenue by firms that make a living that way. Then again, if they didn’t spam users with annoying bandwidth hogs that clutter our screens and take forever to load, none of this would have happened in the first place. So excuse me for being a bit light on the sympathy.
+
+Since nearly every article on the subject seems to whine about how publishers and retailers are going to be hurt by Apple’s move – one even manages to equate it to piracy of intellectual property, if you can believe that – let me provide a broader perspective that actually includes those who matter most, the users … and anyone not named Chicken Little.
+
+First of all, this is not about the media, not even a little. I’m not even sure it’ll significantly impact Google’s (GOOGL) ad revenue. It’s about the users. It’s about Apple giving users the option to improve their experience with its devices. It’s also a strategic move to further differentiate the iOS ecosystem from that of Android.
+
+Google is hands down the biggest threat to users’ privacy, collecting more personal data to fuel contextual ads than the NSA and all the world’s hackers combined. Apple is positioning itself on the opposite side of that equation. Good for them. It’s a smart move that’s consistent with the company’s long-time positioning: The user experience, including users’ privacy and trust, comes first.
+
+And make no mistake, taking advantage of third party apps like Crystal, which sits atop the Apple store as the number one paid app, will rock the user experience. According to the Wall Street Journal, Crystal developer Dean Murphy said, “it can improve performance dramatically,” loading news sites “nearly four times faster” using half the data.
+
+Besides, this is nothing new. Ad blockers for personal computer Web browsers have been around for ages. And the new ad-blocker apps are just for browsers, not in-app ads. Remember that Apple gets a big cut of app sales and it’s not about to curb that growing revenue stream. Not to mention that Apple launched its own news app with iOS 9. Tim Cook is no dummy.
+
+And some developers, including Eyeo, are creating whitelists so publishers that modify their ads to meet certain less obtrusive guidelines – and of course, pay a fee – can avoid being blocked. If that practice catches on, it may ignite a movement to make mobile ads more user and bandwidth friendly, at least on Apple devices.
+
+Even Google CEO Larry Page has gone on the record saying “the industry needs to do better at producing ads that are less annoying and that are quicker to load” at the company’s annual shareholder meeting in June. Well, now he can thank Apple for pushing that process forward.
+
+As for Fortune’s reporting on ad blockers wreaking havoc on online retailers by causing some of their sales content to disappear, that’s just a minor learning curve issue. I’m sure they’ll figure out a way to code around it and the app developers have every reason to help them out. God knows, consumers have to be able to buy, buy, buy.
+
+This whole situation reminds me of TiVo (TIVO). Remember when the breakthrough digital video recorder launched and it first dawned on us that we could fast-forward through commercials? Remember the uproar? The networks threw a fit. Look how that turned out. Streaming online video is changing the TV landscape. DVRs didn’t.
+
+Cook has definitely been taking potshots at Google and Facebook (FB) in recent years, telling folks that, if they’re using products supported by ads, “advertisers are the customers – and you’re the product.” This latest move comes as no surprise.
+
+Clearly, enabling ad-blocking apps in iOS 9 is another shot across Google’s bow, but it’s aimed at positioning Apple’s user experience, privacy and trust above that of its arch rival, not about ad revenue. And I do think it’s a strong differentiator that will work to strengthen Apple’s ecosystem over the long haul.
+
+Besides, the Android faithful love to crow about their dominant market share. Where’s the threat from a couple of niche products like iPhone and iPad?
+
+Steve Tobak is a management consultant, columnist, former senior executive and author of "Real Leaders Don't Follow: Being Extraordinary in the Age of the Entrepreneur." Learn more, contact Tobak or follow his new blog at stevetobak.com. Any opinions expressed are those of the columnist.

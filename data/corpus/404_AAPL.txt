@@ -1,0 +1,31 @@
+Steven Spielberg envisioned a 2054 riddled with optical recognition machines, but analysts now say the "Minority Report" world could be closer to fruition than fantasy.
+
+Bank of America (NYSE:BAC) recently joined the bevy of financial institutions exploring biometrics identification with fingerprint authentication for mobile logins.
+
+In September, Indiana-based First Internet Bank (NASDAQ:INBK) unveiled software from privately held EyeVerify that lets customers log in on their mobile apps using their eyes alone.
+
+Apple's Touch ID feature dates back to its iPhone 5S, and it's helped make biometrics security more popular. View Enlarged Image
+
+In August, MasterCard (NYSE:MA) via the Nymi Band — a University of Toronto spinoff powered by an NXP Semiconductor (NASDAQ:NXPI) chip — completed its first mobile payment using only the customer's unique heartbeat and electrical rhythms.
+
+Some analysts cheer the biometrics move, as many customers have been vexed by forgotten or breached passwords and PINs.
+
+But rather than solve security fears, some say biometrics heighten them — because of the potential security implications of storing an individual's inalterable characteristics on a hackable server or cloud.
+
+In other words, maybe skip the back-alley eye transplant — a la Tom Cruise's John Anderton in the Spielberg flick — for now.
+
+A Billion-Dollar Industry
+
+Still, biometrics is on the rise. Last year, the Biometrics Research Group estimated revenue for biometrics revenue in the banking field would double worldwide to $1.8 billion this year from $900 million in 2012.
+
+"Revenue will primarily be driven by adoption in emerging economies, but market and technological research will be conducted in developed countries," according to the group's white paper.
+
+Local storage — like Apple's (NASDAQ:AAPL) Touch ID — is key to keeping data secure, some analysts say.
+
+But without risking cloud or server storage, biometrics in banking won't ramp enough for widespread adoption, FBR analyst Daniel Ives told IBD.
+
+"The data stored in a secure database is essential to the technology going wider scale," he said. "But the repository needs to be secure ... and that's been one of the things that's held back the technology."
+
+Ives foresees a $2 billion to $3 billion market for biometrics-based banking and payments over the next six years, but says product developers and innovators must perfect the system. In the meantime, he expects some customers to balk in light of big-profile hacks like that of the U.S. Office of Personnel Management in June. The OPM hack resulted in the release of an estimated 21.5 million records including addresses, birth dates, social security numbers and fingerprints of government employees.
+
+Biometric storage offers a new fear — that your fingerprint, iris scan or heartbeat could be stolen, and those are things you can't alter.

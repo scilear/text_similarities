@@ -1,0 +1,21 @@
+Microsoft has admitted to something that used to be unthinkable: using Linux to run some of its own operations.
+
+In a blog post on Thursday, Microsoft Azure networking principal architect Kamala Subramaniam explained how the company developed a new software system, dubbed Azure Cloud Switch, for running the networking gear that Microsoft’s cloud service depends on.
+
+Microsoft has cozied up to the open source community in recent years.
+
+Network switches typically come with their own software baked right into the product. The problem Microsoft faced, according to Subramaniam, was integrating the software that ships with those switches with the wide variety of software it uses to run its Azure cloud service. So Microsoft had to build its own switch software—and it turned to Linux to do just that.
+
+While the move to Linux is certainly a departure for Microsoft, which used to be quite hostile to open source, it’s not a huge surprise. Microsoft has cozied up to the open source community in recent years. It now offers Linux as an option for Azure customers, helped port major open source projects like Hadoop and Node.js to Windows, and even open sourced its own .NET development platform last year.
+
+A Little More Daylight
+
+This also isn’t the first time that Microsoft has used open source operating systems internally. When the company acquired Hotmail in 1997, the web-based email service ran on the Unix descendant FreeBSD and did so for many years after the acquisition. But Microsoft’s decision to use Linux for a new internal project is unusual, especially considering the fact that Microsoft makes a slimmed down version of Windows that can be used to run gadgets like networking switches.
+
+Microsoft isn’t the first tech giant to decide it needs its own software for its networking gear. Facebook and Google have been rolling their own networking software for years. That need for custom networking software among large-scale web companies led to the creation of OpenDaylight, an open source networking platform backed by Cisco, Microsoft and others.
+
+Although there’s no mention in Subramaniam’s blog post of OpenDaylight, Microsoft is using Linux for Azure Cloud Switch for the same reason that any company would use open source: by building on open source software, Microsoft can take advantage of improvements to the code made by other companies with similar problems.
+
+“We’re talking about ACS publicly as we believe this approach of disaggregating the switch software from the switch hardware will continue to be a growing trend in the networking industry, and we would like to contribute our insights and experiences of this journey starting here,” Subramaniam wrote.
+
+That’s what open source is all about.

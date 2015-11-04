@@ -1,0 +1,33 @@
+Apple rolled out its newest Mac operating system this week, El Capitan.
+
+The new OS includes some interesting and fun new features that any computer user will like such as an exploding cursor. (When you jiggle the mouse, it blows up to a ginormous size.)
+
+But OS X also includes a few special goodies for business users and their IT departments, says Tad Johnson, marketing manager for JAMF Software, a company that makes software to help enterprises manage fleets of Macs and iOS devices.
+
+There are three new features that business Mac users will especially like:
+
+1. An updated Mail App. The old included Mail app wasn't particularly wonderful, but the new-and-improved Mail "will help users get through the inbox more quickly," Johnson says.
+
+It's been set up to work more like the new iOS 9's Mail app, supporting the same gestures, for instance.
+
+2. An updated Notes app. In this release, Apple gave its Notes app a major overhaul.
+
+Johnson says you can use it for "free-form note taking, drawings, and you can add photos and annotate them. You can, for instance, drop an image into Notes and circle something and write, 'Update this part of our website.'" Plus the Mac and iPhone Notes app do a good job of syncing together.
+
+3. An updated Spotlight search. As BI's own Lisa Eadicicco describes, you can search for things such as the weather, stocks, and sports scores without opening a web browser. And it understands natural language, so you can type something like "photos I downloaded" rather than trying to remember the name of the file.
+
+Johnson says that this search feature will make it a lot easier for workers to "find and navigate between files."
+
+For the IT department, there's some goodies, too, Johnson says:
+
+4. Apple improved a feature known as the "device enrollment program." IT admins can buy a new MacBook, assign it to a user and all the employee needs to do is go through Apple's setup assistant, log-in with the corporate email/password (or other security credentials) and all the IT department's security policies, and the corporate apps are "automatically" there.
+
+While device enrollment isn't a new feature with El Capitan, it's been "improved, with more security options for different types of organizations," Johnson says.
+
+5. Apple has improved its Volume Purchasing Program (VPP). VPP lets companies buy many app licenses from the Mac or iOS app store for all their employees. VPP isn't new, but it's been updated.
+
+For instance, with El Capitan, an IT department can assign an app license to the PC itself, not to an individual user. So in places where a PC is shared by lots of people, like a hospital nurses' station, the app will be there no matter who logs into the PC.
+
+While that's not a cutting-edge idea — Windows computers have been doing that for eons — it does show how Apple wants to make Macs more friendly for the enterprise.
+
+NOW WATCH: An Army veteran was shot multiple times protecting others students from the Oregon gunman

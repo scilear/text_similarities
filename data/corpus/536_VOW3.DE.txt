@@ -1,0 +1,77 @@
+Working with regulators in California and Canada, the Environmental Protection Agency will retest the emissions from every type of diesel passenger car in the U.S..
+
+The move comes in reaction to revelations that Volkswagen used sophisticated software to cheat on pollution tests on 482,000 diesel vehicles sold in the U.S. The new testing will apply to 39 diesel-powered passenger vehicles sold in the U.S. by 10 automotive brands.
+
+The automaker, which faces a federal criminal investigation and other regulatory sanctions, admitted cheating and said the software could be on as many as 11 million Volkswagen and Audi vehicles worldwide.
+
+“Clearly this is a concern for air quality and public health,” said Janet McCabe, acting assistant administrator of the EPA office of air and radiation. “The Volkswagen violations before us now show that we must continue to improve our oversight.”
+
+The California Air Resources Board and Environment Canada will join in the testing.
+
+“This will allow us to move more quickly to test more models,” said Christopher Grundler, director of the EPA's office of transportation and air quality.
+
+In addition to its five standard emissions tests, the EPA said it now will test or require testing in a setting that emulates normal driving, a measure specifically designed to protect against so-called defeat devices like the one VW employed. The German automaker, the world's largest, installed software that senses EPA testing conditions and adjusts engine performance to hide pollution.
+
+The agency and its partners also will use portable devices to measure the real-life emissions of vehicles as they are driven on open roads, Grundler said.
+
+Environmental groups welcome testing expansion and said it will deter other automakers from evading emissions regulations.
+
+“EPA is on the job,” said Luke Tonachel, director of the clean vehicles and fuels project at the Natural Resources Defense Council. “This expansion of testing is another signal that cheating will not be tolerated.”
+
+There is no evidence to suggest that any other companies are cheating, according to the EPA.
+
+After tips from researchers in Europe and West Virginia University, California and federal regulators discovered that VW had buried an algorithm in 100 million lines of computer code to cheat the tests. The cars met environmental regulations when tested on a dynamometer — a kind of treadmill
+
+for vehicles — in a laboratory.
+
+But in normal driving, the cars emit up to 40 times the legally allowed amount of nitrogen oxide, a pollutant that contributes to smog.
+
+VW's software senses the testing environment by analyzing a variety of data — steering position, speed, duration of engine operation, barometric pressure and changes in the car's performance.
+
+The cheating has enraged buyers of VW diesels.
+
+Elizabeth Davy, a 66-year-old retiree from Lake Elsinore, bought a 2010 Audi A3 diesel after returning to the U.S. from France, where she first drove German diesel cars.
+
+“I have been thrilled with the performance of the car, but this just pulled the rug out,” Davy said. “I am now on a limited income, and I can't afford to lose money on this car and buy a new one. This was supposed to be a reputable company.”
+
+The affected models include Jetta, Golf, Beetle, Passat and Audi A3 models produced in varying model years from 2009 to 2015.
+
+Additionally, Volkswagen and Audi instructed dealers to suspend new and certified used sales of all 2.0-liter TDI four-cylinder diesel models. Sales of 2016 four-cylinder diesel models are held up as they await EPA certification.
+
+NEWSLETTER: Get the day's top headlines from Times Editor Davan Maharaj >>
+
+Grundler said the EPA is working with Volkswagen to evaluate potential remedies for the diesel vehicles' emission systems. Other automakers said they are ready for more rigorous testing of their diesel vehicles.
+
+“We are prepared for testing,” said Annalisa Bluhm, a GM spokeswoman. “We are not changing our diesel strategy as a result of what
+
+is going on with Volkswagen.”
+
+The automaker sells diesel pickup trucks and a diesel version of the Cruze sedan.
+
+German automakers BMW and Mercedes-Benz also issued statements saying that they have not gamed emission testing for their diesel offerings. Mercedes said it supports efforts to develop new testing methods to measure emissions based on real driving conditions.
+
+Diesel vehicles are sold in the U.S. by Audi, BMW, Chevrolet, Jaguar, Jeep, Land Rover, Mercedes-Benz, Porsche, Ram and Volkswagen, according to the Diesel Technology Forum.
+
+That number will grow, the forum said, by 15 more vehicles within the next year. Among the new entries will be light trucks from GMC, Chevrolet and Nissan.
+
+In all, about 3% of all cars and light trucks are sold with diesel powertrains.
+
+The VW cheating scandal prompted the resignation of the automaker's chief executive, Martin Winterkorn. The company named Matthias Mueller, the head of its Porsche division, as CEO on Friday.
+
+The automaker has taken a charge of about $7 billion to cover the cost of the crisis. It faces EPA
+
+fines of up to $18 billion based on the number of cars involved.
+
+Grundler said the EPA was still investigating and had yet to determine the penalty.
+
+jerry.hirsch@latimes.com
+
+Times staff writer Charles Fleming contributed to this report.
+
+MORE ON VW'S EMISSIONS CHEATING SCANDAL
+
+CEO's resignation can't make up for VW's misdeeds
+
+How important are those emissions tests that VW cheated on?
+
+U.S. taxpayers duped into shelling out $51 million in green subsidies for 'clean' VW vehicles

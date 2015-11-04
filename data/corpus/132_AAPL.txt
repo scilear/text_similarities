@@ -1,0 +1,13 @@
+Next October, you might buy that Pumpkin Spice Latte with your iPhone.
+
+At Re/Code’s Code/Mobile conference yesterday, Jennifer Bailey, head of Apple Pay, announced that Starbucks, along with KFC and Chili’s, would roll out support for the mobile wallet in 2016. The coffee chain in particular could give a needed push to the payment system, which has seen slower-than-expected adoption.
+
+While most Americans are still wrapping their heads around mobile payments, Starbucks customers have been using their phones for purchases since 2011. In Starbucks’ most recent earnings call, CEO Howard Schultz said 20% of transactions were made using mobile payments (a figure that doubled in two years), and the company was processing 9 million mobile payment transactions a week.
+
+“Starbucks has shown they can integrate rewards and mobile payments in a highly successful way,” IDC’s head of mobile payments James Wester told Quartz. “It seems like Apple wants to tap into this group that is already adjusted to using mobile payments. In this case, Apple was smart to go to a retailer like Starbucks.”
+
+Starbucks’ mobile-payment system scans a barcode with payment and loyalty information in it, while Apple Pay depends on near-field communication technology, which requires a special terminal. With Starbucks most likely updating their payment terminals due to a nationwide shift toward chip cards, adding ones that also support Apple Pay makes sense. Wester added that rewards capabilities, which Bailey declined to comment on, would be important for customers.
+
+Getting Starbucks customers on board could have a significant effect elsewhere.
+
+“You have an established group of customers who already use mobile payments, who know how to use it, and they may use it at other stores over time,” Wester said. “I think that’s a reason this is so good for Apple, it’s about the repeat use.”

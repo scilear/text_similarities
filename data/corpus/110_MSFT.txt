@@ -1,0 +1,17 @@
+Four months ago Microsoft was reportedly in talks to buy Salesforce.com, in what would have been one of the biggest tech deals on record.
+
+The acquisition never happened, but there are clearly no hard feelings.
+
+Microsoft has taken center stage at Salesforce's annual Dreamforce conference in San Francisco. In addition to a keynote speech from Microsoft CEO Satya Nadella, the software giant's chairman John Thompson was interviewed by Salesforce CEO Marc Benioff during a prime-time session on Wednesday.
+
+None of this was by accident.
+
+"It's an aggressive move but it's worth it," Benioff told a small group of reporters in an informal press conference after his presentation. "We're not afraid of Microsoft. We want to embrace it."
+
+Read MoreSuper Bowl of Software descends on San Francisco
+
+The relationship between Microsoft and Salesforce has blossomed since Nadella replaced Steve Ballmer early last year. In May 2014, the companies announced a strategic partnership to link Salesforce's cloud-based customer relationship management (CRM) software with Microsoft Office and Windows. It was a particularly notable agreement because the companies are fierce rivals in the CRM market.
+
+Under Ballmer, Microsoft took a notoriously go-it-alone strategy, focused on selling more Microsoft products, rather than making it easy for customers to plug in other tools. Nadella has taken the opposite approach, emphasizing partnerships and compatibility, even if it means supporting rivals.
+
+"Ballmer was just anti-partnership," Benioff said. "Satya flipping that switch has really been super powerful for us."

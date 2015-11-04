@@ -1,0 +1,31 @@
+Been Choice, the iOS ad blocker that claimed to block all ads within apps (including those in Facebook and on Apple News), was removed from the App Store last week by Apple, which cited security concerns about the method it used to identify ads.
+
+At the time, Been Choice cofounder Dave Yoon said his team was working with Apple to resubmit the app.
+
+But now he tells us he thinks it's unlikely his in-app blocking tool will be welcome back in the App Store again. And for that reason he is resubmitting the app but removing the in-app blocking capability. Yoon told Business Insider the app had placed Apple in a "conundrum" over user privacy and user choice to block ads.
+
+Been Choice hit the headlines because it was the first ad blocking app known to be able to block ads within popular apps like Facebook and Apple News. Other iOS 9 ad blockers on the market simply blocked ads on the Safari web browser, and, although they proved popular, the impact on the mobile ad market was limited due to the fact that most smartphone users spend the majority of their time within apps.
+
+Been Choice used a technique which saw a root certificate installed on users' phones and web traffic re-routed through a VPN (virtual private network) to its servers where it performed a deep packet inspection to remove the ads within apps. It worked in a similar way that companies use deep packet inspection on company-loaned smartphones to ensure sensitive information never leaves their internal corporate networks.
+
+But last week Apple removed apps that installed root certificates on users' phones from the App Store, including Been Choice.
+
+In a statement emailed to Business Insider last week, an Apple spokesman said: "Apple is deeply committed to protecting customer privacy and security. We’ve removed a few apps from the App Store that install root certificates which enable the monitoring of customer network data that can in turn be used to compromise SSL/TLS security solutions. We are working closely with these developers to quickly get their apps back on the App Store, while ensuring customer privacy and security is not at risk."
+
+Been Choice says it has made the changes Apple asked for, but it doesn't think Apple will reverse its decision
+
+Been Choice said Apple's decision only affected ad blocking in end-to-end encrypted apps like Facebook, Yahoo, Google, and Pinterest. It duly removed the capability for the app to block ads in these apps.
+
+But that hasn't been enough for Apple, according to Yoon.
+
+"They can't let us in if we block in-app ads and [Apple's in-app advertising business] iAds, could they? We obviously don't win by putting the biggest and arguably the best loved company in the world in a conundrum. So we need to work with them," Yoon told Business Insider.
+
+Yoon said Been Choice continues to talk with Apple about in-app blocking: "We need to get back to the App Store without this stopping us since we're trying to be more than an ad blocker."
+
+So for now, the newly-resubmitted app will only allow for ad blocking on Safari.
+
+The Been Choice app isn't just an ad blocker. The "Choice" element of the brand name was picked because users could opt between blocking ads, or earning rewards for sharing their usage data. Rewards included PayPal and Amazon vouchers. Been Choice said it would use the anonymized data to become like a "Gallup or Nielsen" analytics company.
+
+While Been Choice awaits Apple's decision, there are still other apps in the App Store that have in-app ad blocking options, such as VPNs, and the Disconnect app which blocks Malware and tracking.
+
+NOW WATCH: Subliminal sex messages hidden in ads for wholesome brands

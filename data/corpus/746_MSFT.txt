@@ -1,0 +1,77 @@
+Illustration: Daniel Hertzberg
+
+Office workers email each other, text, call, Facebook, FB 2.64 % tweet and talk face-to-face. Do we really need yet another technology to communicate at work?
+
+For many companies, the answer is an emphatic yes. They fear that it’s getting harder for email-swamped employees to collaborate with colleagues and stay on top of projects. At the same time, consumer messaging services—such as Facebook Inc.’s Messenger and Tencent Holdings Ltd. TCEHY 0.73 % ’s WeChat—have changed people’s expectations of communications.
+
+“Clearly people are using these tools and craving that experience” in the office, says Adam Preset, principal research analyst for digital workplace issues at Gartner Inc. IT 1.95 % The technology-research firm estimates half of team coordination and communication by 2018 will occur via group collaboration apps.
+
+The result is a new class of real-time messaging services designed to optimize workplace collaborations. Technology giants have launched or honed business messaging services including Microsoft Corp. MSFT 1.76 % ’s Yammer, Jabber from Cisco Systems Inc. CSCO 2.58 % and Google Inc.’s duo of Google+ and Hangouts. Meanwhile, a cadre of Silicon Valley newcomers such as Jive Software Inc., JIVE 0.84 % Slack Technologies Inc. and Cotap Inc. have flooded the market, too.
+
+With the wave of new offerings, Mr. Preset has a warning to companies: Don’t pick something without doing some basic research. He advises companies to check out what messaging services are being used by workers or teams already and ask them what they get out of it.
+
+He also says companies should try out messaging services for a couple of months or more before going all in. Many of the messaging-service providers make trials easy by offering free use, until the point companies need add-ons, such as archiving of old messages.
+
+For businesses considering internal-messaging technologies, here are four ways to ensure they get the most out of the technology.
+
+Be clear about the goal
+
+Companies need to consider what they want most out of a messaging service. A more efficient way to collaborate on projects or documents? A hub for off-hours communications? Messaging tailored for mobile use?
+
+For Brass Ideas, an advertising and brand agency based in San Francisco, the primary goal was to kill email.
+
+ENLARGE
+
+A year ago, the firm reached its breaking point with emailing Word documents or PDF files back and forth between creative directors, video producers, graphic artists and others in the cadre of far-flung people involved in creating marketing campaigns. One person would start to revise a mock-up of a Web advertisement, only to find he was working on a different version of the ad than everyone else, for example.
+
+Brass Ideas turned to HipChat, a workplace-oriented messaging service from Atlassian Pty. Ltd., an Australian and U.S. company. With HipChat, people in charge of projects can create digital “rooms” where only the involved workers can get access. A panel pops up on the computer screen where people working on the same advertising project can see the latest version of a document, and what changes were made from the prior version.
+
+Now people are less stressed out, as they feel less bogged down with email and complete projects more efficiently, says Andrew Clarke, founder of Brass Ideas. “It’s one of those rare technologies that really has a transformative effect,” he says. (Brass Ideas also was hired to run a marketing campaign for HipChat.)
+
+Still, Mr. Clarke says it took some persuading to get people to use a new piece of technology. To ease the learning curve, he recommends companies opt for a messaging technology that works and feels like the consumer Web services people are used to.
+
+Experts in workplace technology also say if document sharing is a main goal, it’s up to the companies to make sure their instant-messaging services integrate with digital file repositories like Box Inc. BOX 0.47 % or Microsoft’s SharePoint.
+
+Teams can use HipChat free, but Brass Ideas uses a version with extra features, including unlimited file storage and the ability to start a Web video conversation to sort out problems that can’t be resolved in text messaging. HipChat with those extra functions has a monthly list price of $2 for each user.
+
+Lead from the top
+
+It’s a familiar problem in corporate technology: The information-technology department and the boss spend months evaluating something new for workers to use. But when they pull the trigger, employees ignore the new technology and stick to whatever is familiar.
+
+That’s why Poojan Kumar, co-founder and chief executive of PernixData Inc., made sure to set an example when his company, which makes equipment for storing digital corporate data, started using Microsoft’s Yammer for internal communications.
+
+The CEO blocked companywide emails, so corporate updates or other missives intended for all employees go into Yammer instead. On a recent Sunday, Mr. Kumar also posted on the company’s Yammer account photos of company equipment he spotted on a trip to New York City, and the human-resources department posted a picture of every new employee into Yammer.
+
+Mr. Kumar says adopting a new technology can’t be set-it-and-forget-it, which is why he’s done so much to push employees to read, and hopefully post, on the company’s Yammer.
+
+“It’s a change in behavior,” he says. “Going to yet another tool, it will only happen if there’s enough interesting content.”
+
+PernixData for now is using a free version of Yammer, but Mr. Kumar says the company soon might opt for a paid version because some staffers are asking for premium functions, like the ability to easily remove departing employees from the company’s Yammer account. Mr. Kumar also says Yammer isn’t great on mobile devices, which isn’t that important for his company but might be for other firms with large numbers of workers on the go.
+
+A spokesman for Microsoft declined to comment.
+
+One size may not fit all
+
+The reality for most companies is that workers are going to use a mix of workplace messaging services—whether the bosses like it or not. Fair Isaac Corp. FICO 1.34 % , the company behind the FICO credit score, spotlights the benefits and the drawbacks of a tangle of technologies under one roof.
+
+Photo: iStockphoto/Getty Images
+
+FICO has been paying to use Jive for two or three years, primarily for collaboration on projects and documents. Still, Slack has won over some teams in the company, particularly with younger workers who are comfortable with the always-on nature of the messaging service. There also is some use of instant-messaging services within Lync, a Microsoft workplace telecommunication service now called Skype for Business.
+
+“We try to focus on what is the right tool for the right job,” says Tony McGivern, chief information officer of FICO, which has about 3,000 employees.
+
+Experts in workplace technology say companies need to carefully consider whether they’re comfortable with myriad messaging technologies, particularly if they don’t necessarily work with older information-technology systems, or with each other. It isn’t possible, for example, for a Slack user to send messages to a colleague who’s using Skype for Business.
+
+Mr. McGivern says for now he’s fine with workers or teams at FICO using a mix of technologies. But he acknowledges it’s tough to both keep tabs on the myriad messaging tools under FICO’s roof and try to prepare for the next waves of workplace communication technologies, such as an emerging class of group Web video services.
+
+“We’re just in midflight on implementing real-time communication…and along comes video. Does that complicate it, or simplify it?” Mr. McGivern says.
+
+Beware security issues
+
+Workplace messaging services are one more potential place for hackers to target. For security reasons, one public-relations firm, which declines to be identified, has been using real-time messaging services but also restricts what client information can be put into messages.
+
+“A lot of enterprises will still have trouble giving their complete trust over to one of these vendors,” says Gartner’s Mr. Preset. He says it’s imperative companies do basic due diligence about messaging services, like grilling them on security techniques in place at the vendors’ data centers, and how much they encrypt—or scramble—data flowing back and forth between a company’s computers and those belonging to the messaging service.
+
+For companies in regulated industries, such as health care and finance, there also are niche messaging technologies targeting the very privacy-conscious. Startups Vaporstream and Confide, for example, function like corporate versions of Snapchat, so messages self-destruct after a short time and don’t go through centralized computer servers, to limit the number of digital intrusion points.
+
+Ms. Ovide is a former reporter for The Wall Street Journal in San Francisco. She can be reached at reports@wsj.com.

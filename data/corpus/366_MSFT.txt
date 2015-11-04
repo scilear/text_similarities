@@ -1,0 +1,25 @@
+Microsoft is pushing the Windows 10 installer files to users who have not requested them just in case they decide to upgrade.
+
+An eagle-eyed reader of The Inquirer spotted a folder containing the multi-gigabyte Windows 10 upgrade files on their PC.
+
+Microsoft was quick to confirm that the Windows 10 installer files are being delivered via the Windows Update mechanism.
+
+"For individuals who have chosen to receive automatic updates through Windows Update, we help upgradable devices get ready for Windows 10 by downloading the files they'll need if they decide to upgrade.
+
+"When the upgrade is ready, the customer will be prompted to install Windows 10 on the device."
+
+If you plan on upgrading then this is a handy feature, but if you're happy with your existing Windows installation then this spirited (and somewhat forceful) move brings with it a number of potential downsides:
+
+It consumes bandwidth while it is being downloaded (and this could be happening over a capped or metered connection if the user hasn't identified the connection as such)
+
+The users gets no say in whether these installer files are downloaded
+
+It consumes several gigabytes of disk space once downloaded
+
+It nags you to upgrade on each reboot
+
+Microsoft has produced documentation on how to manage and disable the Windows 10 upgrade, although I doubt that this is something that many regular users would come across.
+
+I understand that Microsoft wants to make the jump to Windows 10 as pain-free as possible for its users, and I'm also aware that the company wants to get as many people using the operating system as possible. There's also taking things too far, and this feels as though it crosses the line from being helpful to taking advantage of user's bandwidth and storage (not to mention seeming too desperate for conversions).
+
+See also:

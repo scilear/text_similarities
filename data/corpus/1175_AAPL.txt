@@ -1,0 +1,27 @@
+Hackers have infected one of China's most popular social media applications on Apple's App Store, Chinese Internet firm Tencent said, after dozens of programmes were reportedly affected by a rare breach in the US giant's security.
+
+WeChat, an instant messaging application developed by Tencent, has hundreds of millions of users in China and around the world.
+
+"A security flaw, caused by an external malware, was recently discovered affecting iOS users only on WeChat version 6.2.5," Tencent said in a statement posted on the Wechat blog, adding the flaw had been repaired.
+
+"There has been no theft and leakage of users? information or money," the statement issued at the weekend said.
+
+iOS is the operating system used by Apple's hugely popular iPhone and iPad devices.
+
+Citing US-based cybersecurity firm Palo Alto Networks, the Wall Street Journal said that the attack affected more than three dozen apps.
+
+Apps infected by the malware -- code-named XcodeGhost -- could transmit information about a user?s device, mount phishing attacks to try to steal passwords, and access clipboard information, it said.
+
+Other firms said to be affected included Chinese ride-hailing app Didi Kuaidi, Internet portal NetEase, and mobile phone operator China Unicom, among several more.
+
+Apple reportedly said it had addressed the security breach and had teamed up with developers to help fix affected apps.
+
+?To protect our customers, we?ve removed the apps from the App Store that we know have been created with this counterfeit software and we are working with the developers to make sure they?re using the proper version of Xcode to rebuild their apps,? it said, according to the Journal.
+
+Anti-censorship group Greatfire.org, which tracks Chinese Internet restrictions and events, said the attack appeared to originate in compromised versions of Xcode, Apple's developer software, which were then used by Chinese programmers.
+
+"This is the most widespread and significant spread of malware in the history of the Apple app store, anywhere in the world," it said.
+
+"Apple notoriously manually reviews all app submissions and, in comparison to Android stores, has been relatively malware-free," it added.
+
+Apple did not immediately provide a comment when contacted by AFP.

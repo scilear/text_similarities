@@ -1,0 +1,11 @@
+Yesterday during Apple's September press event, Microsoft took to the stage to show off some of the coming enhancements it is making to Office for Apple's new hardware and updated operating systems.
+
+Microsoft officials shared details in a September 9 blog post on the new features it is adding to Word, Excel, PowerPoint, OneNote, Outlook and Translator for Apple's various platforms.
+
+Microsoft is adding multitasking support for iOS 9, with support for the Apple's new Slide Over and Split View features. Apple Office users also will be able to run Outlook side-by-side with Word, Excel and PowerPoint.
+
+Microsoft is adding inking support to its Office apps so iPad Pro users will be able to use Apple Pencil. There are updates coming to Outlook and Translator on the Apple Watch, too.
+
+Microsoft plans to make the updated Word, Excel, PowerPoint, OneNote, Outlook and Translator apps available for iPad and iPhone once Apple delivers the new iPad Pro (November) and iOS 9 (September 16).
+
+While I had no inkling Microsoft would be on stage at Apple's event yesterday, the fact Microsoft was there didn't really surprise me. Microsoft did roll out Office for iPad before it delivered the updated touch first version of Office for Windows. Microsoft's new management doesn't care as much about where users are running Microsoft apps and services, as long as they are running them somewhere.

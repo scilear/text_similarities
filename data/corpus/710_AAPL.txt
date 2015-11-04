@@ -1,0 +1,35 @@
+This article originally appeared on Fast Company and is reprinted with permission.
+
+By Jared Newman
+
+When Apple launched the iPad in 2010, the biggest question was whether it could carve out a space between smartphones and laptops.
+
+For a while, the answer was yes, as the iPad became Apple's fastest-growing product. But since then, smartphones have become larger and more powerful, while laptops have become thinner, lighter, and more battery-efficient. iPad sales have felt the squeeze, declining for two straight years even as Apple's iPhone and Mac sales flourish.
+
+Rather than give up, Apple is sharpening its focus with the iPad Pro, which is larger and more powerful than its predecessors, with an optional keyboard and drawing stylus. The question now is whether this new space—somewhere between smaller media consumption tablets and full-blown laptops—can help revitalize the iPad as a whole.
+
+Put another way, can the iPad become even more like a laptop without losing its sense of purpose?
+
+Making Trade-offs
+
+During Apple's September event, CEO Tim Cook offered a refresher on what the iPad is supposed to accomplish. "iPad is the clearest expression of our vision of the future of personal computing, a simple multi-touch piece of glass that instantly transforms into virtually anything you want it to be," he said.
+
+What Cook didn't readily acknowledge is that the iPad Pro appears to compromise this vision, with both its hardware and software becoming more laptop-like.
+
+The $169 Smart Keyboard accessory, for instance, could turn out to be essential for anyone doing copious amounts of text entry on the iPad, but it may also feel like a trade-off. As a tablet, the entire device will become heavier and more cumbersome. And as a laptop, there's no trackpad to give your arms a rest from reaching out to the touch screen. (The iPad's software keyboard will offer a cursor for selecting text, but there's no word on how to access this cursor with the physical keyboard attached.)
+
+Even without the keyboard, the size of the iPad Pro brings trade-offs compared to its smaller predecessors. While the display itself may be more immersive, the larger footprint will inhibit certain actions such as thumb typing or cradling the device in one hand. And while the iPad Pro's upgraded processor and RAM will allow for more powerful apps, it could also create a class of software that doesn't work with smaller models.
+
+Meanwhile, the iPad's software is becoming increasingly complex. The new Slide Over and Split View features in iOS 9 let users run two apps side by side, adding an element of window management to the iPad. And with iCloud Drive, users can now expose a file system for all their documents. These features will surely make the iPad much more powerful. But as some observers such as Ben Thompson have pointed out, they also risk making the iPad feel less like a simple piece of glass.
+
+Better Ingredients, Better Apps
+
+Unless Tim Cook has a short memory, he must be conscious of these compromises. It was Cook, after all, who once dismissed laptop-tablet hybrids such as Microsoft's Surface. "Anything can be forced to converge," Cook said in a 2012 earnings call, "but the problem is that products are about trade-offs, and you begin to make trade-offs to the point where what you have left doesn't please anyone."
+
+It makes you wonder why Cook and company ultimately felt that some trade-offs were necessary.
+
+The iPad Pro's more laptop-like qualities could be Apple's way of appealing to app makers, says Kevin La Rue, vice president for photography software maker Macphun. As an example, he points to Adobe, whose Creative Cloud apps will make use of the Apple Pencil stylus, and Microsoft, which is fully embracing Split View multitasking in its Office software.
+
+"I think they had to get there from a hardware standpoint, and I think it could actually cause a resurgence in serious app developers wanting to do stuff for the platform," La Rue says.
+
+Macphun, for its part, is planning to port more of its Mac apps to the iPad Pro in 2016, taking advantage of the Apple Pencil, faster processor, and 4 GB of RAM. (The company is debating whether these apps should have Pro-only features or be entirely exclusive to iPad Pro users). And if anything, La Rue is hoping for even more PC-like conceits, such as connectivity to a second display or an external hard drive.

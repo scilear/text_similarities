@@ -1,0 +1,21 @@
+If you're following Apple (NASDAQ:AAPL) as an investment, you must know the company's iPhone has been on a tear and has added nearly $147 billion to the company's top line in the last four quarters alone, up more than 50% over the prior four quarters.
+
+Unfortunately, the rest of Apple has not experienced the same level of success. Mostly due to the underperformance of the iPad line, the rest of Apple has struggled over the last four quarters on a year on year basis. Over the past four quarters, Apple has booked $77.8 billion in non-iPhone revenue. Unfortunately, that figure is down 3.2% over last year's figure.
+
+For a graphical representation of the divergence in Apple's iPhone line and the rest of the business, see this graph:
+
+Apple's Mac line had been a source of strength in non-iPhone revenue, but that may be coming to an end
+
+Although Apple's found it hard to grow its non-iPhone business lines in aggregate, it doesn't mean every business line is struggling. As previously stated, these struggles center on the iPad that has experienced four quarters of negative year-on-year revenue growth amid a slowing overall market. Smaller gains in other business lines have been unable to offset these losses. As the following table shows, although the Mac line has provided revenue growth, it's not close to the iPad's loss on a percentage basis.
+
+Quarter iPad Revenue iPad Units Mac Revenue Mac Units Q4 '14 (14%) (13%) 18% 21% Q1 '15 (22%) (18%) 9% 14% Q2 '15 (29%) (23%) 2% 10% Q3 '15 (23%) (18%) 9% 9%
+
+In the process of posting four consecutive quarters of growth, Apple's Mac line has surpassed its iPad line in terms of revenue gross in every quarter sans one (Apple's seasonally heavy first fiscal quarter). However, if two reports from research firms IDC and Gartner (by way of The Wall Street Journal) are correct, it seems Apple may no longer be able to count on this product for high rates of growth going forward.
+
+It's hard to swim against the tide
+
+When it comes to its Mac line, Apple should be commended for the past year of revenue and unit-sales growth. Over the last year or so, the computer market has continued to contract as PCs struggle against new form factors such as tablets and (especially) cell phones. Unlike the company's iPad performance, in which the company has fallen victim to the slowing market, Apple has continued to grow both units shipped and revenue at a healthy clip.
+
+If reports are correct, however, it seems Apple may succumb to the greater industry malaise in this product line as well. According to Gartner, the Mac line reported a small increase of 1.5% in units shipped -- from 5.5 million units to 5.6 million -- in the third calendar quarter of 2015 (the timeframe closely corresponds to Apple's fourth fiscal quarter), a figure markedly better than the overall market decline of 7.7%, but a figure much lower than the 9% unit growth it reported last quarter.
+
+IDC analysis paints an even worse picture for Apple Mac. Unlike Gartner, IDC estimates Apple shipped 3.4% fewer units this quarter than in last year's quarter -- 5..3 million and 5.5 million, respectively -- amid an overall PC market that contracted 10.8%. While it should be noted that these are only estimates and are unit -- not revenue -- projections, this means that Apple's iPhone results become even more important to investors and should be watched carefully.

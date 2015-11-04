@@ -1,0 +1,35 @@
+The race to create self-driving cars is on, yet it's no longer just tech companies with deep pockets such as Google (NASDAQ:GOOG) (NASDAQ:GOOGL) and Apple (NASDAQ:AAPL) vying for first place. Today, Detroit's big auto companies are proving you don't need a Silicon Valley pedigree to succeed in the increasingly crowded autonomous tech space.
+
+In July, Detroit's big auto manufacturers including General Motors (NYSE:GM) and Ford (NYSE:F), as well as Toyota, Honda, and others, jointly invested in "Mcity" -- a 32-acre research facility in Ann Arbor, Michigan, dedicated to testing driverless car technology. This closed-course environment will enable dozens of auto companies and researchers at the University of Michigan to test emerging technology that isn't yet safe for public roads.
+
+Gentlemen, start your engines
+
+This is the first collaborative push by major automakers into the fully autonomous car race. While it's still early days for autonomous technology, the market for driverless cars is expected to reach $87 billion by 2030, according to Lux Research. This explains why such a variety of companies are aggressively investing in the space today.
+
+At the opening of Mcity in July, Michigan Senator Gary Peters proclaimed, "Michigan is the center of the universe when it comes to auto technology. Google's got nothing on us." Advocates for the new research center at the University of Michigan argue that its closed-course setting allows researchers to test a variety of terrains and driving conditions without needing to travel to far-away locations.
+
+Unlike California's GoMentum Station, which is an ex-military base near San Francisco that tech giants now use for testing self-driving cars, Mcity is equipped with special transmitters to test vehicle-to-vehicle and vehicle-to-infrastructure technology. General Motors will be one of the first major automakers to test its vehicles at the Michigan-based facility. However, that's hardly surprising given GM's timeline of releasing new Cadillac models as soon as next year with vehicle-to-vehicle and vehicle-to-infrastructure communication software.
+
+Weather is another perceived benefit for Mcity versus Google's open-road testing space in California. Michigan's harsh winters will give researchers a chance to study Lidar sensors (a popular sensing technology that uses a laser to measure distance) and other self-driving components in inclement weather, in which they are known to malfunction. Nevertheless, those in the Silicon Valley camp argue that California's year-round sunshine offers the perfect environment to test self-driving cars all year round without weather-induced interruption.
+
+Friends or foes?
+
+At this point it is unclear whether tech companies such as Google are solely in this for the software payoff or if they intend to build and sell self-driving cars down the road. One thing, however, is clear: The big auto companies aren't waiting around to find out. Rather, they too are now aggressively investing in testing sites and autonomous driving tech. Sure, Google has utilized partnerships with auto suppliers and manufacturers thus far, having incorporated its self-driving technology into Toyota's Prius and various models of Lexus vehicles. However, neither Google nor Apple has said it won't build its own fully autonomous cars from the ground up.
+
+"The interest of tech companies in the auto industry has sparked a race between Silicon Valley and traditional auto hubs, including Frankfurt and Detroit, to secure the talent and resources necessary to compete in a transformed auto industry," writes The Wall Street Journal. This could explain why Motor City is in a hurry to invest in research facilities for testing its own self-driving cars.
+
+Apple is rumored to be working on an electric car. The iPhone maker has reportedly gone as far as requesting access to the Bay area's GoMentum Station -- presumably for research and testing purposes. As for evidence that Apple isn't just interested in creating mobile software for cars but in actually developing a car, there's the fact that the tech giant has been building an all-star roster of auto industry experts.
+
+For example, Apple recently hired Fiat Chrysler's head of quality, Doug Betts, as well as other top auto executives from Ford. Moreover, dozens of Apple employees are reportedly researching automotive products these days, according to The Financial Times.
+
+Ultimately, Apple and Google both have ample cash on hand to invest in auto manufacturing if they do intend to go it alone. At the end of 2014, Apple had a jaw-dropping $178 billion in cash on its balance sheet. This removes cost as a barrier to entry for these tech giants when it comes to entering the auto manufacturing business.
+
+Not to mention, it wouldn't be the first time tech giant Apple found success in a seemingly unrelated business. Remember, there was a time when Apple was solely a purveyor of computers and their entrance into the mobile phone business was dismissed by the industry as laughable at best. Today, Apple's iPhone is credited with establishing the smartphone revolution.
+
+But if we must choose a leader...
+
+When it comes to fully autonomous cars, it seems Google is in the lead at this point. Sure, most of its testing is currently done on public roads, which makes it harder to repeat scenarios for research purposes. However, this has also allowed Google to collect massive amounts of real-world data. There's also the 60 acres of closed testing space that Google leased last year on an old Air Force base in Merced County, California.
+
+As it stands, major automakers like Ford and Toyota are more focused on developing autonomous technology that consists of "human-centric systems," or platforms that still require human oversight. Google, on the other hand, is dedicated to developing cars fully capable of driving without a human behind the wheel.
+
+Google may not have created the autonomous tech market, as there are already cars on the road with semi-autonomous features. However, Google is the undisputed front-runner today in regard to fully autonomous vehicles because of the resources and time the tech giant has so far invested in the venture.

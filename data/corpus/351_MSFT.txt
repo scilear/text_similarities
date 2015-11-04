@@ -1,0 +1,33 @@
+The Apple TV has gotten more than a little dusty over the last few years. Despite constant hype that Apple was going to radically upgrade its TV Internet media-extender, nothing ever happened. Until now.
+
+On September 9 Apple shifted the Apple TV from being merely another media-extender to being a platform. The Apple TV isn't a hobby anymore.
+
+The next-generation Apple TV set-top box does far more than present you with your choice of Internet and locally stored TV shows and movies. It presents developers and users with a new TV-based application platform.
+
+Using tvOS, a new iOS variation, programmers can create Apple TV applications with iOS frameworks and technologies such as Metal, UIKit, On Demand Resources, CloudKit, and Game Center. In addition, developers will be able to make simpler applications with XML and JavaScript.
+
+To make all this happen, Apple has also significantly upgraded the Apple TV hardware. This next-generation Apple TV runs on Apple's 64-bit ARM A8 CPU.
+
+The new Apple set-top also comes with second-wave 802.11ac Wi-Fi and Bluetooth 4.0. It also has an IR receiver, an HDMI port, and a Gigabit Ethernet port.
+
+There will be two models. Both will be available in October. One, the 32 GB base model will sell for $149. The other, a 64 GB model will list for $199.
+
+The new, larger remote supports Bluetooth 4.0. It also has menu, home, volume buttons, and a tiny glass touchpad. For Siri, it comes with a microphone. It also has a Nintendo Wii-like accelerometer and gyroscope. Apple claims that the remote will last up to three months on a single charge.
+
+For television watchers, the Apple TV has a new universal search function that work in iTunes, Netflix, Hulu, Showtime, and HBO. Apple says more channels will be supported soon. Noticeably missing are Amazon, Sling TV, and YouTube.
+
+Search is also an old feature. Roku has had search across the Internet TV channels since 2013.
+
+What is new is Apple, thanks to adding Siri to Apple TV, has brought voice search to media-extenders. So, for example, if you want to watch "new movies starring Jennifer Lawrence," you just press the Siri button, say that phrase, and you'll be on your way.
+
+Other than that, and a cleaned-up interface, there's nothing that makes the new Apple TV stand out as a "TV" device. But then, Apple is not positioning the Apple TV 2015 as a rival to Roku, Amazon Fire, or Chromecast.
+
+First, it costs far more than any of these. Instead, the new Apple TV's more natural rival is Microsoft's Xbox One. While it won't support Xbox style high-end games, it will support some games along with many other applications.
+
+Even here, though, since the Xbox One and PlayStation are primarily game machines, the comparison isn't quite right.
+
+I think what Apple is really trying to do is to recreate an ancient computing niche: The Web TV. This device, which emerged in the mid-90s, gave you a computer that was designed to work with your TV while streaming -- at 28.8 Kilobits per second! -- content to it. Microsoft bought the company, relabeled the devices MSN TV, and kept service running to it all the way until 2014.
+
+Web TV came to little, but if Apple is successful -- and this wouldn't be the first time the company took a moribund technology idea and revitalized it -- we may see a new computing market open up.
+
+Related Stories:

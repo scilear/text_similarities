@@ -1,0 +1,17 @@
+*Disclaimer : This is as of previous day’s close
+
+ETF’s with exposure to General Electric Co.
+
+Here are 5 ETF’s with the largest exposure to GE-US. Comparing the performance and risk of General Electric Co. with the ETF’s that have exposure to it gives us some ETF choices that could give us similar returns with lower volatility.
+
+Ticker Fund Name GE-US Exposure (%) 1 Year Price Performance (%) 1 Year Volatility (%) Net Expense Ratio (%) Number of Holdings FIDU-US Fidelity MSCI Industrials Index ETF 11.87 -6.3 15.93 0.12 344 VIS-US Vanguard Industrials ETF 10.74 -6.12 15.99 0.12 349 IYJ-US iShares U.S. Industrials ETF 10.48 -4.38 16.16 0.45 213 XLI-US Industrial Select Sector SPDR Fund 10.14 -5.7 16.39 0.16 68 EXI-US iShares Global Industrials ETF 7.87 -8.58 15.22 0.48 211 GE-US General Electric Co. 100 1.39 1.18 0 1
+
+Use our ETF screener to find ETF’s that hold GE-US along with other stocks
+
+ETF’s with exposure to stocks in the same focus area as General Electric Co..
+
+Here are 5 ETF’s with the largest exposure to stocks in the same focus area and region as GE-US. These ETF’s may not have the highest percentage of General Electric Co., but offer a broader sector/region exposure further minimizing single stock risk. Comparing the performance and risk of General Electric Co. with the ETF’s that have exposure to it gives us some ETF choices that could give us similar returns with lower volatility.
+
+Ticker Fund Name GE-US Exposure (%) Sector Exposure (%) 1 Year Price Performance (%) 1 Year Volatility (%) Net Expense Ratio (%) Number of Holdings SMH-US Market Vectors Semiconductor ETF 0 63.05 -3.66 22.4 0.35 26 SOXX-US iShares PHLX Semiconductor ETF 0 58.42 -7.31 23.51 0.47 31 FIDU-US Fidelity MSCI Industrials Index ETF 11.87 58.17 -6.3 15.93 0.12 344 IYJ-US iShares U.S. Industrials ETF 10.48 51.92 -4.38 16.16 0.45 213 ITA-US iShares U.S. Aerospace & Defense ETF 0 45.42 2.27 15.89 0.44 39 GE-US General Electric Co. 100 100 1.39 1.18 0 1
+
+Use our natural language search to find ETF’s in any focus area

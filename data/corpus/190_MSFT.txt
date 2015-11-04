@@ -1,0 +1,33 @@
+In terms of design aesthetics, Microsoft's (NASDAQ:MSFT) first-generation Band left a lot to be desired. The software giant's first foray into wearable fitness trackers left a lot of investors scratching their collective heads, but don't just take my word for it. Here's a small collection of major tech sites think about Microsoft Band's looks:
+
+The Verge: "It doesn't look nice or fashionable, it looks like your ugly watch got turned around on your wrist. It's a really chunky, rigid, rectangular device ..."
+
+Engadget: "... it looks less like a fitness device and more like a court-ordered probation tracker."
+
+Wired UK: "The Microsoft Band is an aggressively ugly piece of personal technology."
+
+Fortunately, that may all be about to change.
+
+The second time's the charm?
+
+MicrosoftInsider has leaked some renders of the new device and it is definitely a lot easier on the eyes. Band 2 is expected to sport a metallic finish on the front alongside physical buttons. The display will now be curved, addressing one of the awkward physical traits of the first Band.
+
+Band 2 is also expected to include additional sensors that can bolsters its activity tracking ability. Microsoft should officially unveil the device at an event in the first week of October.
+
+Form vs. function
+
+As far as functionality goes, the original Microsoft Band delivers all of the things that consumers would expect from a fitness tracker. It provides workout guidance, tracks your heart rate and sleep quality, and uses GPS to map your runs. Band is cross-platform compatible with all major mobile operating systems, delivers notifications, and even includes Microsoft's virtual assistant Cortana.
+
+But consumers are increasingly expecting wearable devices, including both fitness trackers and full-fledged smartwatches, to look nice, too. They are expected to wear the devices throughout the day, after all. Wearables are as much a piece of fashion as they are a technological gadget.
+
+This idea is particularly potent when you consider Apple's (NASDAQ:AAPL) positioning of Apple Watch. The Mac maker has gone to great lengths to get the fashion industry's attention with its first wearable device. And not just any segment of the fashion industry -- Apple is going straight for luxury fashion. Strategically, this approach gives Apple much greater pricing power, since high-end fashion items are always bound to fetch a premium. Of course, we don't know what kind of product mix Apple Watch is having right now, but surely some people are buying $10,000-plus Apple Watch Edition models.
+
+Is Microsoft heading the wrong way?
+
+The wearables market is primarily categorized as fitness trackers and smartwatches, and the line between the two continues to blur every day. Microsoft's decision to focus on the fitness tracker segment puts it in direct competition with industry leader Fitbit (NYSE:FIT), which grabbed an impressive 85% revenue share of the U.S. activity tracker market in the first quarter.
+
+If we zoom out to look at the broader wearables market, IDC estimates that Fitbit led the pack with 24% unit share in the second quarter, with Apple quickly grabbing 20% in the Apple Watch's launch quarter. Although I'm generally skeptical of the third-party estimates on Apple Watch, there should be no doubt that Apple is already a major player.
+
+Looking forward, though, IDC expects smartwatches to begin cannibalizing fitness trackers, in much the same way smartphones cannibalized dozens of single-function product categories. That's why it's so strange that Microsoft is choosing to focus on making a fitness tracker instead of a smartwatch. Fitbit is keenly aware of what's happening, which is why it continues to move upmarket by adding more and more features to its devices.
+
+You might recall prior reports that Microsoft axed a smartwatch project named Moonraker that was under development at Nokia. Around the time that Microsoft closed its acquisition of Nokia's device business, it decided to kill the project. Microsoft might be heading the wrong way in the wearables market.

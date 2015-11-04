@@ -1,0 +1,81 @@
+Intel Corp INTC reported third quarter earnings including intangibles amortization and restructuring charges of 64 cents, which were ahead of the Zacks Consensus Estimate of 59 cents on revenues that also topped by 0.5%. Shares dropped 2.8% after-hours.
+
+Our Take
+
+Intel took down its expectations for data center segment growth citing continued weakness in enterprise spending as an offshoot to macroeconomic concerns. While the business will still grow double-digits this year, growth will be a few points short of the previously guided 15%.
+
+That said, the company remains totally focused on growing the data center/IoT/memory business and appears to be executing here. This bucket accounts for 38% of revenue, growing 5.4% sequentially and 12.4% year over year. Of course it’s not an easy comparison because the segment designated memory includes certain cost elements as well. In fact, memory is the bit that may be expected to accelerate significantly through all of 2016. IoT and data center are more complex because of macro concerns in the first case and enterprise spending in the second.
+
+Intel has really cozied up with Chinese players, which may be expected to help both the data center and PC businesses as demand in mature markets moderates.
+
+The client business, of which PCs are a part, is looking up because Intel has started shipping a higher mix of latest generation products, which carry higher ASPs and higher margins. Another positive is the reduction in tablet subsidies, which have been coming down this year and management may be expected to reset expectations at the next earnings announcement. Tablet units are also down in line with the market. Intel chips are getting into many more devices however, which is a boost to results. As long as this business remains stable (last quarter really wasn’t too bad) and the other segments grow, Intel results won’t disappoint.
+
+And this brings us to the subject of yet another capex reduction. In explaining the slight change, management said it was a timing issue that basically pushed out some expenditure into the first quarter of 2016.
+
+The numbers in detail-
+
+Revenue
+
+Intel’s reported revenue was $14.46 billion, better than the guidance range of $14.3 billion (+/-$500 million) and topping the Zacks Consensus of $14.23 billion. The outperformance versus guidance was attributed to stronger pricing in notebook and PCs due to a favorable product mix.
+
+The Client Computing Group that includes both PC and mobile continues to account for the largest chunk of Intel’s business (59%). Segment revenues were up 12.9% sequentially and down 7.5% year over year.
+
+Overall unit volumes were up 3% sequentially but down 19% year over year. PC and notebook units dropped a respective 15% and 14% from last year, but the most disappointing was tablet units, which dropped 29%.
+
+Average selling prices (ASPs) increased 9% sequentially and 15% from last year. The increase from last year came from both notebooks and PCc, which were up 4% and 8%, respectively.
+
+Management said that PC supply chain inventories remain at normal levels. Internal inventories grew in dollar terms likely because of a higher mix of 14nm products. Microsoft’s MSFT Windows 10 and the newly introduced Skylake family remain postives. Intel managed to grow high-end product sales again in the last quarter, but remains focused on increasing the volume of shipments targeting lower-end devices including most of Google’s GOOGL Chromebooks as well as other devices from hardware makers like Hewlett-Packard HPQ, Dell, Lenovo and other Chinese players. Tablet unit growth was negative as that market is shrinking, but impact on ASP was positive because of lower subsidies. SoFIA 4G will ship by year-end and be in products first half next year. The plan is to get the CCG business to stabilize while focusing on growth in other areas.
+
+Data Center, which generated 29% of quarterly revenue, saw both units and ASP grow 6% from last year. They were up 7% and 1%, respectively on a sequntial basis. Segment revenue was up 7.5% sequentially and up 11.9% year over year.
+
+Management said that Intel wouldn’t be able to deliver on the promised 15% growth target this year (this year’s target is revised to low double-digit growth, long term target remains in the mid-teens range). The weakness in the last quarter was on the enteprise side, as companies remain cautious about spending (no commentary on FX though that is also likely a factor). This weakness will continue through the year, but continue to be offset by strength in the cloud (driven by consumer services), network virtualization (includes network workload migration to Intel architecture), network function virtualization, SDN and storage. So not much has changed here, except the additional color on enterprise weakness: its not related to share losses or anything, its macro-driven. Management also mentioned the expanding product line (silicon photonics and FPGAs will join cloud and enterprise next year)
+
+The relatively new segment Internet of Things Group, which also includes Intel’s embedded business segment accounted for 4% of revenue, growing 3.9% sequentially and 9.6% from last year.
+
+Management saidthat growth was driven by video, manufacturing and retail segments. While growth will continue through the year, it will be at a lower rate than initially expected because of macroeconomic concerns.
+
+The Software & Services Group, which generated another 4%, was up 4.1% sequentially and continued to narrow declines to 0.4% year over year.
+
+Management said nothing much.
+
+The Other segment shrank 4.6% sequentially but grew 18.6% from last year although percentage contribution to revenue remained at 5%, as Intel’s NAND business grew more than 20%.
+
+Management said that NAND revenue would continue to grow through the year and in 2016. Both 3D NAND and 3D XPoint that Intel introduced recently will yield cost, yield and performance advantages over the competition although XPoint is a little further off to deployment (engineering samples will begin shipping by year-end). The goal is to take these technologies to the data center and the enterprise customers, where they will generate solid revenue and profits. XPoint will however see much broader adoption.
+
+Margins
+
+The gross margin for the quarter was 63.0%, up 48 basis points (bps) sequentially and down 200 bps year over year, in line with the guidance of 63% at the mid-point. While the gross margin did benefit from the stronger mix/higher ASP, these gains were partially offset by higher-than-expected 14nm ramp up costs (as the maturing 14nm process is used more, costs will come down). The contra revenue or subsidy that Intel is giving tablet makers for the higher cost of using Bay Trail is today less of an offsetting factor and NAND losses too are also coming down. Seasonality was positive in the sequential comparison.
+
+Operating expenses of $4.91 billion were down 3.9% sequentially and flattish with last year. The operating margin was 29.1%, up 525 bps sequentially and down 225 bps year over year. R&D costs as a percentage of sales were lowered during the quarter by 316 bps but remained 71 bps above year-ago levels. MG&A costs were down 157 bps sequentially and 39 bps from last year.
+
+Segment margins showed seasonal improvement— Client Computing 28.6% (up 735 bps sequentially, down 461 bps year over year), Data Center 51.4% (up 351 bps and down 122 bps, respectively), Internet of Things 26.0% (up 5 bps and down 137 bps, respectively) and Software & Services 18.3% (up 1,572 bps and 1,315 bps, respectively). The Other segment continued to make significant losses (management clubs various corporate and other expenses here along with NAND).
+
+Intel Corporation - Earnings Surprise | FindTheBest
+
+Net income excluding restructuring charges was $3.12 billion, or 21.6% of sales, compared to $2.95 billion, or 22.4% in the previous quarter and $3.34 billion or 22.9% in the comparable prior-year quarter.
+
+Including restructuring charges of less thana penny a share, the GAAP EPS was 64 cents in the last quarter, up from 55 cents in the previous quarter and down a couple of cents from 66 cents in the year-ago quarter.
+
+Balance Sheet
+
+Inventories were up 3.1% sequentially with annualized inventory turns moving from 4.1X to around 4.3X. Days sales outstanding (DSOs) went from 27 to around 26. The cash, marketable securities and fixed income trading asset balance at quarter-end was $20.84 billion, up $6.97 billion during the quarter.
+
+Intel has $20.06 billion in long-term debt now as well as $1.13 billion in short-term debt, which has led to drop in the net cash balance to just $345 million. Cash flow from operations was around $5.7 billion. Important usages of cash in the last quarter included $1.21 billion on capex, $1.14 billion on dividends and $1.03 billion on share repurchases and equity investment in Tsinghua Group of $966 million.
+
+Guidance
+
+Intel guided to fourth-quarter revenue of around $14.8 billion (+/-$500 million), up 2.3% sequentially and 0.5% from the Dec quarter of 2014 (roughly in line with the consensus estimate of $14.82 billion). The gross margin is expected to be around 62% (+/-2 percentage points). R&D and MG&A expenses are expected to come in at around $5.0 billion. Restructuring charges are expected to be around $25 million. Management also expects to provide for depreciation of around $1.9 billion and intangibles amortization of around $70 million. Other income/expense and equity investments won’t have any impact on the quarter. Applying the guided annual tax rate of 25% and excluding restructuring charges from calculations, net income comes to around $3.08 billion or 20.8% of revenue, which would be down 1.4% sequentially but down 17.2% from the year-ago quarter.
+
+Full-year capex is now expected to be $7.3 billion, +/-$500 million (previous $7.7 billion).
+
+Intel shares carry a Zacks Rank #3 (Hold).
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report >>
+
+Personal Investing Ideas & Strategies
+
+Finance Trading
+
+Intel Corp
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report

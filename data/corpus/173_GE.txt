@@ -1,0 +1,31 @@
+Last week, General Electric (NYSE:GE) hosted its fourth annual Minds and Machines conference in San Francisco, California. The three-day event focused on the state of the Industrial Internet, which can be thought of as the Internet of Things for industrial applications like manufacturing, power generation, and aviation. More than 1,000 customers, software developers, industry leaders, and GE partners attended.
+
+During the conference, GE launched several services that combine software, Internet-connected machines, and analytics, aimed at improving industrial productivity in real time. The main takeaway from the event was that General Electric is quickly transforming itself into a digital industrial company, capable of leading the world through the next industrial era.
+
+An "App Store" for industry
+
+One of the most notable developments at Minds and Machines was GE's launch of Predix.io, the world's first cloud-based developer ecosystem for industrial applications built on top of the Predix platform. GE's Predix platform is the only cloud-based operating system of its kind that ingests real-time data from industrial machines (GE or otherwise) packed with all kinds of sensors operating in the field, and then converts the raw data into insights with the help of big data analytics to determine a favorable outcome for the operator.
+
+In other words, GE wants to improve how assets perform in the field by leveraging real-time data, predictive analytics, and customer-specific needs. The following two-and-a-half-minute video overviews how Predix works to improve asset performance and reduce unplanned downtime for industrial operators:
+
+Motivating factors
+
+In the industrial world, increasing productivity is extremely valuable, but has proven difficult to realize in the last five years. Consequently, worldwide industrial productivity growth has slowed to 1% per year, down from the 4% per year it was achieving between 1990 and 2010.
+
+At GE alone, a 1% improvement in productivity across its manufacturing supply chain represents a savings of $500 million. Worldwide, a 1% improvement in industrial productivity could boost global GDP by a staggering $10 trillion to $15 trillion over the next 15 years.
+
+Looking ahead, GE believes that if it can transfer its industrial domain and technology expertise to customers in a way that allows them to be more productive, it could catalyze an industrial app economy worth more than $225 billion.
+
+Leading the charge
+
+General Electric is one of the only companies in the world that can converge the physical and digital world for industrial applications. After all, few companies harbor GE's deep industrial domain expertise and are also capable of building software platforms that can unlock real-time insights and outcomes.
+
+A clear value proposition
+
+Predix uses a highly sophisticated algorithm to simulate how an entire industrial site operates under a wide variety of scenarios. It then takes the insights it gains to determine how it can improve a site's efficiency by as much as possible within user defined specifications. Ultimately, virtual modeling gives operators confidence in a potential outcome before any physical assets are put at risk.
+
+Of course, the proof is in the pudding, and Predix's real-world successes are validating that the platform can generate a meaningful return on investment in a wide range of industrial applications:
+
+Although GE's transformation as a leading digital industrial company is in the early stages, its software and solution portfolio is already on track to generate $5 billion in revenue this year and has an additional $6 billion of future orders in hand. In the next year, GE expects that over 20,000 developers will be building apps on the Predix platform, and by 2020, the unit has aspirations to grow into a $15 billion-per-year business.
+
+If all goes to plan, GE may end up sitting at the center of the industrial app revolution.

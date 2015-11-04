@@ -1,0 +1,53 @@
+Creating a drone or internet-connected kitchen scale is hard, particularly when it involves manufacturing in China. Things get easier when you meet Liam Casey.
+
+The hardest part may be finding him. His company, PCH, is based in Cork, Ireland, but Casey spends most of his time in the air – flying between China, San Francisco and the international conference circuit. Once you find him, Casey and PCH can help convert a doodle into a consumer product in less than a year.
+
+For almost two decades, the Irish CEO has built a contracted network of around 100 trusted factories in Shenzhen, China’s manufacturing heartland, to supply technology companies including Apple, Beats and Xiaomi.
+
+More from Bloomberg.com: S&P 500 Ekes Out Gain After Testing 2015 Low; Treasuries Advance
+
+Over the last five years, PCH grew more than sixfold and now boasts more than $1.1 billion in revenue. After buying beleaguered online retailer Fab in March, Casey has turned his attention to startups, taking small equity stakes in return for bridging the gap between Silicon Valley and China. Casey is not alone: Boston-based consultancy Dragon Innovation does something similar, offering advice and contacts on a subscription basis. But PCH is the biggest.
+
+Casey grew up on a dairy farm in County Cork, leaving school at 18 to spend 10 years working in the fashion trade. In 1996 he visited California, where he spotted an opportunity to help Western companies source parts from Asia. When he got home he founded PCH – named after the Pacific Coast Highway.
+
+More from Bloomberg.com: The Real Estate Crisis in North Dakota's Man Camps
+
+He focused on sourcing computer components from Taiwan for U.S. manufacturers setting up in Ireland. He’d fly directly to factories to negotiate, and ship faster than competitors. When his Taiwanese supplier moved to China, Casey followed. Over time he built up a map of the capabilities and reliability of different factories. By 1999 he agreed his first deal with Apple, and by 2011 he’d raised $84.5 million in venture capital. PCH now employs 2,600 people across nine offices.
+
+Chinese ‘Black Box’
+
+PCH can take a simple sketch and move it through design, prototyping, engineering, manufacturing, packaging, distribution and retail. In 10 months it moved Drop, a connected kitchen scale, from idea to Apple Store for a startup called Adaptics. “This is unheard of,” says Casey, pointing out that technology companies typically have a two-to-three year product cycle.
+
+More from Bloomberg.com: Glencore in Freefall as Analysts See Tougher Restructuring
+
+“We think we can bring that process down to around six months,” he adds.
+
+In June 2013 PCH launched hardware incubator Highway1 in San Francisco to provide startups with mentoring, financing, prototyping facilities and access to the consumer electronics supply chain in China - in return for 4-7 percent equity in the business. Selected graduates from the four-month program advance to PCH Access, where they can commercialize already-qualified hardware concepts. These include smart jewelry maker Ringly and health tracker Cue. PCH also works with drone company 3D Robotics and modular electronics company Littlebits.
+
+The first startup Casey helped – prior to launching Highway1 - was bike accessory company Blaze. CEO Emily Brooke, a physicist-turned-designer, had a “really crappy prototype” (her words) of her Laserlight, which projects a bike symbol several meters in front of the bicycle to alert drivers to the cyclist’s presence, and a “great story” (his words).
+
+“I’m China’s worst nightmare,” says Brooke. “I want to make small volumes of high-complexity tech products when China is used to building millions rather than a few thousand.”
+
+PCH helped Blaze ship “Apple-quality products” with a tiny London-based team. “PCH has the leverage with suppliers to get us better deals,” Brooke explains.
+
+Blaze Laserlights are now available in major UK retailers such as Evans Cycles and Wiggle as well as through the company’s website - with orders fulfilled by PCH.
+
+“I could have done it on my own, but I would have had to hire a team out in China and managed my own supply chain,” says Brooke, adding that doing that and getting the quality right would have been “a really brave thing to do.”
+
+Although the large companies PCH works with are responsible for more than 95% of total products shipped, startups keep Casey and colleagues on their toes.
+
+“The level of interest, creativity, innovation, learning and engagement is much higher,” he says, adding that unlike with large companies, “we can actually influence what happens.”
+
+What’s the biggest mistake startups make? “Thinking they can afford sea freight,” Casey says. Shipping by sea requires warehouses to store excess inventory and a “huge amount of working capital.” PCH can ship from China to most major markets within three days, says Casey. “Customers are usually willing to wait that long.”
+
+Supply-Chain Transparency
+
+So confident is Casey in his supply chain that the company has developed an enhanced receipt for PCH products that will show customers exactly where their product was made, who made it (there’s a photo of the factory team), how far it traveled, and how long it took.
+
+A beta-version of this tool showed that a Pono music player (that’s the Neil Young one) took four days and five hours to be customized and shipped from Shenzen to San Francisco.
+
+“We want to bring transparency to the supply chain and encourage the customer to ask questions about where their products are made, who are the people and how are they looked after,” Casey says. “This should become a standard and everyone will have to raise their game.”
+
+More from Bloomberg.com
+
+Read One Irish China Expert is Taking the ‘Hard' Out of Hardware on bloomberg.com

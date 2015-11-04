@@ -1,0 +1,37 @@
+This week it was announced that Starbucks will being accepting Apple Pay, already available at retailers including Whole Foods, Subway, Walgreens, and McDonalds. The hope is that the addition of the iOS payment method—also coming to Best Buy, Chili’s and KFC in 2016—will move the needle on Apple Pay’s adoption rate, which has been falling since August.
+
+But the world’s tepid reaction isn’t just to the Apple version—it’s to all mobile payments, including Samsung Pay and Android Pay. According to one recent study, only 9% of consumers use mobile payment when it’s available. Part of the reason so-called “mobile wallets” haven’t caught on could be due to having three different platforms. If you’re contemplating making purchases with your smartphone, here’s what you need to know.
+
+Apple Pay
+
+How it works: After inputting your credit card information, open Apple Pay at the register with your fingerprint, select the card you want to use, and hold your phone up to the terminal. Your iPhone uses NFC (near-field communication) technology to communicate with the register.
+
+Compatible phones: Only Apple devices; iPhone 6 and later.
+
+Why it’s good: The retailer doesn’t get your credit card, which should prevent fraud.
+
+Disadvantages: Relatively few retailers accept Apple Pay at the moment. (See the list of retailers here.)
+
+Samsung Pay
+
+How it works: Just like Apple Pay, you add your credit cards, open the payment app, select a card, and tap your device against the terminal to pay. But if there isn’t an NFC terminal, simply swipe the phone as if it were a regular credit card.
+
+Compatible phones: Only Samsung phones; Galaxy S6, Note5 or later.
+
+Why it’s good: It works everywhere, since it can mimic a magnetic strip if NFC technology is unavailable; retailers don’t get your credit card info.
+
+Disadvantages: The non-NFC version is finicky.
+
+Android Pay
+
+How it works: What used to be called Google Wallet uses NFC; as with the others, simply select the credit card you want to use from the app and tap your phone against the terminal.
+
+Compatible phones: Android phones with NFC technology.
+
+Why it’s good: It works with more than just Samsung phones; many retailers accept it (find a list here).
+
+Disadvantages: It works only with Android phones.
+
+The Takeaway
+
+The biggest problem facing mobile payment companies is bluntly present in the names: Android Pay, Apple Pay, Samsung Pay; none works on all devices. With marketshare as the ceiling on these payment methods’ success, it would take a united front to knock plastic off its perch, and that’s just not going to happen. So while mobile payment systems have a couple of advantages—they’re convenient (though barely more than other methods), secure, and let you easily track what you spend at various retailers—the real question is whether they’re attractive enough to make you ditch your credit cards.

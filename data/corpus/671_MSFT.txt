@@ -1,0 +1,43 @@
+The launch of Windows 95, 20 years ago, redefined home computing and began a golden age for Bill Gates' company
+
+Twenty years ago, Microsoft (NasdaqGS: MSFT - news) changed the world. On August 24, 1995, Windows 95 was released to the public, beginning a revolution that has helped shaped the technology world for the next two decades.
+
+It (Other OTC: ITGL - news) was by no means the first version of Windows. Home computing had been around for more than a decade, but nothing before, had had the same impact. As well as being a technological breakthrough, introducing features that still define Microsoft’s operating system today, Windows 95 was an unprecedented cultural phenomenon.
+
+Matthew Perry and Jennifer Aniston, better known as Chandler and Rachel from Friends , starred in an hour-long instructional video ; the Empire State Building and Toronto’s CN Tower were lit up in Microsoft’s colours; and the Rolling Stones were paid a rumoured $8m for allowing “Start Me Up” to provide the soundtrack to its television adverts.
+
+For possibly the first time, a software launch became a massive global event. Enthusiasts queued around the block on Windows 95’s release day to pick up a copy, a sight now more commonly associated with the release of a new iPhone .
+
+If Windows 95 was just about glitz, though, we wouldn’t be remembering it today. It was also a pivotal moment, not only in the history of Microsoft, but in personal computing itself.
+
+Introducing features such as the Start Menu which became so popular that Microsoft was forced to reinstate it in the latest version of Windows after removing it in 2012 and the taskbar set the tone for how a computer in the internet age should work.
+
+The software was a leap forward in graphic design, and worked with almost all the hardware on the market, as well as being released with impeccable timing. Not only were home computers becoming rapidly more affordable, consumers were beginning to realise that there was more to PCs than spreadsheets.
+
+Windows 95 was followed a week later by Internet Explorer , which became many people’s first web browser. Consumers began to realise that computers could be used to find a wealth of information and communicate with long-lost friends, and for entertainment.
+
+PC sales subsequently boomed: According to the Office for National Statistics, one quarter of households in Britain had a computer in 1995; by 2001 this had doubled.
+
+Microsoft, along with its chief executive Bill Gates, was the face of this revolution. In 1998, it became the world’s biggest company, and the $613bn market capitalisation it reached the following year is the biggest for any listed entity in recent history, once adjusted for inflation .
+
+Of course, the company’s dominance created a series of headaches. Microsoft has spent much of this century distracted by antitrust cases with US and European authorities, and successes such as 2001’s Windows XP have been countered with disasters like 2007’s Vista , a calamitous follow-up that set Microsoft back years.
+
+A few months after Vista emerged, Apple (NasdaqGS: AAPL - news) launched the iPhone, and a series of blunders under Mr Gates’ successor, Steve Ballmer, meant Microsoft never made so much as an imprint on the smartphone market.
+
+This has cost it dearly. One of Ballmer’s last acts as chief executive was 2013’s ham-fisted attempt to challenge Apple and Samsung’s mobile dominance by paying €5.4bn to acquire Nokia (Milan: 23568.MI - news) 's mobile division . His successor, Satya Nadella, essentially admitted that this was a mistake last month, writing billions off the value of the deal and culling thousands of jobs.
+
+Under Mr Nadella, whom employees say has vastly improved morale (job cuts notwithstanding), the company is re-defining itself. He has demonstrated a willingness to co-operate with Microsoft’s competitors, in stark contrast to the aggressive positioning of Gates and Ballmer, and has focused on the company’s strengths productivity software, cloud computing and business sales instead of insisting on world domination.
+
+Last month, just in time for Windows 95 turning 20, Microsoft launched Windows 10 , the first overhaul of the software in three years. Its success, though, will look very different to its ancestor’s.
+
+Last year, smartphones overtook laptops to become Brits’ most important internet device, according to Ofcom . Meanwhile, the spread of piracy and open-source software over the internet has made many computer users unwilling to pay for software.
+
+Nadella has reacted smartly to these changes. While upgrading to Windows 95 cost more than $100, Windows 10 is free to many users, with Microsoft hoping to use it as a springboard for selling other software. It has also been designed to work on smartphones and tablets, an attempt to woo developers who want to reach as wide an audience as possible.
+
+The world is much bigger too. When Windows 95 sold 40m copies in its first year, it was hailed as a huge success. By 2018, Nadella is aiming for a billion installations of Windows 10.
+
+“The phenomenon has changed,” says Mike Silver, an analyst at Gartner (NYSE: IT - news) . “At the end of the day, the PC is now just one of many platforms that people use. But Windows is still important.”
+
+There are no lines of people queuing round the corner for Windows 10, with updates now downloaded over high-speed connections. But its launch at the end of last month is believed to have smashed internet traffic records, and early responses to the software are positive.
+
+Many feel like Microsoft is on the front foot again. It is still some way, though, from recapturing the spirit of 1995.

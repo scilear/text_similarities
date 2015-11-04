@@ -1,0 +1,57 @@
+By Abhirup Roy and Devika Krishna Kumar
+
+(Reuters) - Microsoft Corp unveiled on Tuesday its first laptop, a line of Lumia smartphones, a new Surface Pro tablet and an updated version of its wearable fitness tracker, Microsoft Band, all running on Windows 10, its latest operating system.
+
+Microsoft is counting on Windows 10, launched in July, to help it win a bigger share of the market for tablets and smartphones, now dominated by Apple Inc and South Korea's Samsung Electronics Co Ltd.
+
+Microsoft said its laptop, the Surface Book, will start at $1,499 and is twice as fast as Apple's MacBook Pro. It will be available from Oct. 26, with preorders starting on Wednesday.
+
+The laptop has a 13.5-inch display with 267 pixels per inch and features a track pad made of glass.
+
+Microsoft, whose shares were up 0.6 percent at $46.89 at midday, said 110 million devices were now running Windows 10.
+
+The company unveiled three phones at an event in New York.
+
+The Lumia 950 and 950XL will have starting prices of $549 and $649 respectively when they go on sale in November, while the Lumia 550 will cost $139 when it becomes available in December.
+
+The Lumia 950 includes a 5.2-inch display and a Qualcomm Snapdragon 808 processor with hexacore CPUs. The Lumia 950 XL has a 5.7-inch display and a Snapdragon 810 processor with octa-core CPUs. The 550 has a 4.7-inch HD display and runs on Qualcomm's Snapdragon 210 processor. (http://bit.ly/1QWM6XT)
+
+The new Surface Pro 4 tablet - a larger but thinner and lighter version of the Surface Pro 3 - is priced at $899 and will be available from Oct. 26 with pre-orders starting on Wednesday.
+
+Launched nearly a year and a half after its predecessor, the Surface Pro 4 features a 12.3-inch screen with 267 pixels per inch. It runs on 6th-generation Intel Core processor and has 16GB of RAM and 1TB storage.
+
+Surface Pro 4 is 50 percent faster than Apple's MacBook Air, Panos Panay, the corporate vice president for Surface Computing at Microsoft, said at the event.
+
+LOVING IT
+
+"We're moving people from needing to choosing to loving Windows, and these devices promise to fuel even more enthusiasm and opportunity for the entire Windows ecosystem," Chief Executive Satya Nadella said at the event.
+
+Microsoft suffered its biggest-ever quarterly net loss in the three months ended June 30 after taking a $7.6 billion writedown on its Nokia handset business.
+
+The company had said savings from the restructuring of the business would be pumped into its new flagship operating system, its fast-growing cloud business and its hardware division, which includes Xbox gaming consoles.
+
+Microsoft also said its new tablet and smartphones will come with Windows Hello, an automatic biometric sign-in option introduced earlier this year.
+
+The feature allows users to scan their face, iris or fingerprints to verify their identity and give them access to Windows phones, laptops and personal computers.
+
+Microsoft also introduced a Surface Pen, which has year-long battery life, 1,024 pressure points and comes in five colors with inter-changeable pen tips.
+
+The 950 and 950XL handsets feature a 20-megapixel rear camera, have up to 32GB of storage, 4K video and use liquid cooling technology. Microsoft said storage on the phones could be extended to up to 2 terabytes using a memory card.
+
+The Microsoft Band 2, which allows users to monitor their fitness and exercise regime, will be priced at $249 when it becomes available on Oct. 30.
+
+Unlike its predecessor, Microsoft's entry product in the wearable technology market a year ago, the new Band has a curved display, which uses the Corning Gorilla glass 3, and has a barometer sensor to track elevation.
+
+"The event was solid and showed Microsoft has stepped up its game on the consumer device front. Now the question is will consumers buy the products," said Daniel Ives, an analyst at FBR Capital Markets, who attended the event.
+
+"...It is clear from presentations as well as speaking with the Microsoft team that Redmond feels that Windows 10 will help finally vault Microsoft into relevance on the smartphone landscape," Ives said.
+
+"That said, this is going to be a long road for Nadella as Microsoft plays major catchup on this key market."
+
+Microsoft said it was taking applications for a development kit for HoloLens, the holographic lens device that allows users to see 3D renderings of computer-generated images. The kit will be available in the first quarter of 2016 for $3,000.
+
+HoloLens, which looks like a wireless visor, gives Microsoft a stake in the emerging market for virtual and augmented reality, which is also being targeted by Facebook Inc's Oculus.
+
+Microsoft's shares have risen less than 1 percent since the start of the year.
+
+(Reporting by Abhirup Roy and Devika Krishna Kumar in Bengaluru; Additional reporting by Kshitiz Goliya; Editing by Ted Kerr)

@@ -1,0 +1,15 @@
+It's been an up-and-down ride for Microsoft's line of Surface tablets -- but the company finally hit on a formula that worked with the Surface Pro 3. It's a device that has inspired a number of competitors, most recently from Microsoft's long-standing rivals Apple and Google. The newly-announced iPad Pro and Pixel C both take clear and obvious cues from the Surface lineup, but fortunately for Microsoft it now has a brand-new Surface Pro 4 to compete with these newcomers. While much of your interest in these devices will likely come from which operating system you prefer, we've lined up the specs below so you can get an idea as to how these tablets will all stack up when they hit stores later this year.
+
+Surface Pro 4 iPad Pro Pixel C Price starts at $899 $799, $949, $1,079 $499, $599 Thickness 8.45mm (0.33 inch) 6.9mm (0.27 inch) 7.1mm (0.28 inch) Weight 766 or 786g (1.69 or 1.73 pounds) 713 or 723g (1.57 or 1.59 pounds) estimated 454g (1 pound) OS Windows 10 iOS 9 Android 6.0 Display 12.3-inch PixelSense display 12.9-inch IPS LCD Retina display 10.2-inch LCD Resolution 2,763 x 1,824 (267 ppi) 2,732 x 2,048 (265 ppi) 2,560 x 1,800 (308 ppi) Aspect ratio 3:2 4:3 3:2 Processor Intel m3 / i5 / i7 Apple A9X NVIDIA Tegra X1 Memory 4GB / 8GB / 16GB NA 3GB Storage 128GB / 256GB / 512GB / 1TB 32GB / 128GB 32GB / 64GB Ports microSD, USB 3.0, Mini DisplayPort, Cover port, Surface Connect Lightning USB Type-C Front camera 5MP 1.2MP FaceTime, f2.2 2MP Rear camera 8MP, 1080p 8MP iSight, f/2.4, 1080p video at 30fps 8MP Cellular radio None Optional
+
+GSM/EDGE
+
+CDMA
+
+UMTS/HSPA/
+
+HSPA+/DC-HSDPA
+
+LTE None WiFi Dual-band 802.11a/b/g/n/ac Dual band 802.11a/b/g/n/ac Yes Bluetooth v4.0 v4.2 Yes Accelerometer Yes Yes Yes Gyroscope Yes Yes Yes Battery 9 hours 10 hours TBA Accessories Surface Pen, Surface Pro Type Cover Smart Keyboard, Apple Pencil Keyboard Cover
+
+Get all the news from today's Microsoft event right here.

@@ -1,0 +1,19 @@
+The parts to make a midrange Apple (NASDAQ:AAPL) iPhone 6S smartphone cost $245, according to a teardown analysis by Teardown.com, a unit of TechInsights.
+
+By comparison, the bill of materials for last year's model, the iPhone 6, cost $228.50, the company said in a blog post Monday.
+
+The most expensive components of the 64-gigabyte iPhone 6S are the applications and baseband processors ($58.50) and display technology ($42.50), Teardown.com said.
+
+Apple's move to 2 gigabytes of memory for the iPhone 6S, from 1 GB for the iPhone 6, is one example of higher component costs. The addition of a pressure-sensitive touchscreen, branded 3D Touch; better cameras; and a redesigned 7000 series aluminum case also boosted the cost of the device, Teardown.com said.
+
+Companies with components in the iPhone 6S include Qualcomm (NASDAQ:QCOM) with the baseband processor, radio-frequency and power-management chips; Cirrus Logic (NASDAQ:CRUS) with the audio codec; and InvenSense (NYSE:INVN) with the gyroscope and accelerometer.
+
+The 64GB iPhone 6S costs $749 when paid in full. Teardown costs do not include manufacturing, shipping, marketing, research and development, and other costs.
+
+In a report ahead of the iPhone 6S release last Friday, Bank of America Merrill Lynch estimated that the costs of the parts in a 64GB iPhone 6S would be $234.
+
+On Monday, Apple said it had sold a record 13 million iPhone 6S and 6S Plus handsets over the weekend.
+
+RELATED:
+
+Apple iPhone 6S Teardown: Skyworks, Avago Still In.

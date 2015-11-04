@@ -1,0 +1,21 @@
+NEW YORK (TheStreet) -- With issues of consumers' mobile-device security gaining more prominence, Apple (AAPL - Get Report) has removed several apps from its App Store that block advertisements that are placed inside of other apps.
+
+"The ad-blocking software is driven by two key tenets of Apple's customer strategy," said Tim Bajarin, president of research firm Creative Strategies. "One is privacy and the other is user experience. This is at the heart of this [app removal] strategy."
+
+The problem with those ad-blocking apps is that they included something called a "root certificate". This piece of software filters out the ads within an app, but also lets an app have access to whatever a person does online. As such, the app with the ad-blocking technology could potentially gain insight to everything from someone's emails to their banking transactions.
+
+"We've removed a few apps from the App Store that install root certificates which enable the monitoring of customer network data that can in turn be used to compromise SSL/TLS security solutions," Apple said in a statement sent to TheStreet. "We are working closely with these developers to quickly get their apps back on the App Store, while ensuring customer privacy and security is not at risk."
+
+Must Read: Elon Musk's Tesla Gets Dinged Again on Model X Concerns
+
+Apple hasn't said how many ad-blocking apps it has taken down from the App Store. Apple's App Store currently has almost 1.5 million apps and more than 10 billion copies of apps have been downloaded from the store. Apple takes a 30% cut of revenue, while an app's publisher gets 70% of sales created via apps from the App Store.
+
+A recent report from UBS said ad-blocking apps will cost $1 billion, as more people install the apps.
+
+It is known that one of the apps is Been Choice, which said it could block ads in apps from Facebook (FB - Get Report) and others. Been Choice has said it will take out the ad-blocking capabilities that impacted apps from Facebook, Yahoo! (YHOO - Get Report) , Google (GOOGL - Get Report) and Pinterest.
+
+In addition to removing the in-app ads, Been Choice's app was also said to be able to remove ads from Apple News, Apple's entrant into the content aggregation arena.
+
+Security has become more of an issue of late for Apple, as the company just launched its new iPhone 6s and iPhone 6s Plus phones, and has entered the mobile-payments industry with its Apple Pay software that allows individuals to pay for items electronically with their iPhones.
+
+The removal of the ad-blocking apps doesn't affect Apple's other ad-blocking technology in the new iOS 9 operating system, which lets users block ads that show up on mobile websites accessed via the Safari web browser.

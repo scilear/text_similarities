@@ -1,0 +1,19 @@
+Apple is not renewing a contract with server virtualization software provider VMware, reports CRN — a move that could save the company millions of dollars.
+
+According to the report, Apple was using VMware ESXi internally to run its internal server infrastructure. Originally, Apple was planning to renew its four-year-old licensing deal with VMware at a cost of around $20 million for the next two years.
+
+VMware, a $33 billion publicly traded company, makes software that helps tech companies like Apple run their data centers more efficiently, at higher scales. It makes money by charging fees to license its software.
+
+There's a growing demand in the tech industry for free, open-source software that can do what VMware does. With the rise of smartphones and cloud computing, data centers are growing ever-larger to meet swelling demand. That means licensing fees like the kind VMware demands can become a headache for enormous companies like Apple, which run massive data centers to do things like sell apps and content and push software updates.
+
+This report says Apple will be ditching the VMware ESXi software in favor of KVM, a free alternative that does largely the same thing. The kind of software is called a "hypervisor," a way to essentially trick one server into thinking it's multiple servers, allowing for a higher level of efficiency.
+
+Apple is no stranger to free software. It uses the Apache Mesos tool to run Siri, the digital personal assistant that runs on the iPhone and iPad.
+
+Meanwhile, VMware seems to recognize the threat that free software like KVM poses to its business, and has been aggressively partnering up with companies like the $1 billion startup Docker for joint solutions, while it tries to figure out how to stay competitive.
+
+"VMware does not comment on confidential agreements or contracts with our customers," said a VMware representative.
+
+Apple did not respond to a request for comment.
+
+NOW WATCH: If you think Apple is a cult, you haven't been to a Tesla event

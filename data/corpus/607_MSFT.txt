@@ -1,0 +1,11 @@
+(Reuters) - Microsoft Corp said it began the worldwide roll-out of Office 2016, the latest addition to its cloud-based subscription service Office 365, on Tuesday.
+
+Microsoft said Office 2016 brings new versions of desktop apps for Windows including Word, PowerPoint, Excel, Outlook and Access and allows people to collaborate and work together.
+
+"These latest innovations take another big step forward in transforming Office from a familiar set of individual productivity apps to a connected set of apps and services designed for modern working, collaboration and teamwork," Chief Executive Satya Nadella said in a statement.
+
+Microsoft launched its much-awaited Windows 10 operating system in July, designed to work across laptops, desktop and smartphones, as part of Nadella's push towards winning back lost ground in the tablets and mobile arena.
+
+The new Office 2016 apps are available in 40 languages and require Windows 7 or later versions. Starting Tuesday, Office 365 subscribers can choose to download the new Office 2016 apps as part of their subscription, Microsoft said.
+
+(Reporting by Sangameswaran S in Bengaluru; Editing by Anupama Dwivedi)

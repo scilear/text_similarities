@@ -1,0 +1,27 @@
+Just days after General Motors settled with federal prosecutors for its deadly negligence over faulty ignition switches, Volkswagen has admitted that it cheated for years on U.S. Environmental Protection Agency emissions tests. Having built its brand in the U.S. around diesel technology, VW faces severe damage to its reputation here, along with billions in EPA fines and now a federal criminal investigation. Worse for consumers, there's no guarantee that the fallout of this scandal will be limited to VW alone.
+
+Clearly, shareholders are spooked: No amount of damage to VW's relatively weak U.S. market position could justify the huge declines in VW's stock price (near 23 percent on the day, for a market-value hit of $17.6 billion). The fear, almost certainly, is that this scandal could end up affecting VW's European market dominance, which is also highly dependent on diesel sales. Having to bring its entire EU fleet into compliance could cost orders of magnitude more than U.S. market repairs, as well as the firm's widely-respected chief executive officer, Martin Winterkorn, his job.
+
+In the U.S., nearly a half-million vehicles equipped with VW's 2.0 liter TDI engine have been deemed out of compliance with EPA regulations after the International Council on Clean Transportation, a nonprofit watchdog group, discovered they emitted far more nitrogen oxide in normal driving than in testing environments. Faced with an EPA threat to decertify new diesel models, VW admitted that it had installed a "defeat device" to give artificially low emissions results in Audi A3, VW Jetta, Beetle, Golf and Passat models.
+
+The EPA is raining righteous fury down on Volkswagen, but its record of clamping down on automakers' malfeasance shows it's on thin ice here. A 2012 scandal in which Hyundai and Kia goosed the numbers on fuel-efficiency tests provided ample evidence that the agency's protocol -- which allows automakers "broad latitude" to test their own vehicles and involves spot-checks on just 10 percent to 15 percent of all models -- is an invitation to corner-cutting and outright cheating. Until emissions tests are improved, or a consistent complimentary "real world" testing regime is put into place, regulators will lack the leverage to pressure automakers into admitting who is cheating and who is merely gaming the rules. Nor will the agency know if the common discrepancies between test and real-world results reflect shortcomings in the test procedure itself.
+
+This distinction between "engineering to the test" and outright cheating is critical to understanding the gravity of Volkswagen's predicament. Investigations by the ICCT and Transport & Environment, a European advocacy group, have shown that European-market diesels from a variety of automakers regularly fail to comply with the tough Euro 6 standard in real-world tests like the one that led to VW's U.S. scandal. The only clear difference between VW and the rest of the industry is that, in this case, the EPA forced it to admit that it actively cheated with purpose-built software
+
+Volkswagen's confession is especially damning because Winterkorn is known as a detail-oriented engineer who, upon taking over VW in 2007, bet the company's future on a diesel-emissions reduction plan centered on the company's new BlueTDI technology. It's difficult to imagine that a man who fixates on such minute details as the noise a steering column adjuster makes would know nothing about active manipulation of diesel emissions while he was in charge. With this scandal breaking in the midst of leadership turmoil at Volkswagen and just two weeks before a critical supervisory board meeting, Winterkorn and his company may be crippled even as it appears ready to pass Toyota to become the world's largest automaker.
+
+Having unsuccessfully attempted to satisfy the EPA with a software update, VW now faces repairs to bring affected cars back into compliance, which could run thousands of dollars per vehicle, or as much as $18 billion, and even potentially reduce interior space. If European regulators demand similar fixes, the costs would be almost unthinkable.
+
+But drivers must still beware: the crackdown on VW hardly means that vehicle oversight will be dependable down the road. Given the uncertain technology of emissions testing and the laxity of authorities in monitoring a regulation system based on self-compliance, there is a good chance that VW isn't the sole scofflaw. It's a situation only made worse by government bailouts and other aid for domestic carmakers, which seem to have us headed back to an era of "national champion" automakers. Certainly, it seems that VW is being treated far more harshly than Honda and Ford were back in the pre-bailout era, when the two automakers paid just $12.6 million and $2.5 million respectively for similar sins.
+
+Until there is a broad reform in emissions testing, the line between egregious cheating and reasonable use of the EPA's "broad latitude" standard remains troublingly unclear. And when carmakers cheat, consumers and the environment pay the price.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Edward Niedermeyer at edward.niedermeyer@gmail.com
+
+To contact the editor responsible for this story:
+
+Tobin Harshaw at tharshaw@bloomberg.net

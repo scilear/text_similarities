@@ -1,0 +1,29 @@
+One of the most exciting parts of Apple's (NASDAQ:AAPL) smartphone launches, at least to me, is the incredible performance that the company delivers with its A-series processors. Part of this great performance is due to the fact that the company has one of the most impressive chip design teams in the industry, and part of it is due to the fact that Apple is often among the first -- if not the first -- to utilize the latest chip manufacturing technologies to build its chips.
+
+The traditional pace of innovation in the world of chip manufacturing is roughly a new process technology every two years or so. Although performance gains can be had through design-level improvements on a proven manufacturing process, the really exciting gains often come with the move to new manufacturing technologies.
+
+If statements from one of Apple's major chip manufacturing partners, TSMC (NYSE:TSM), are accurate, then Apple might be able to deliver two consecutive, major performance enhancements with the iPhone 7s and the iPhone 8.
+
+10-nanometer in 2017, 7-nanometer in 2018?
+
+Apple's next chip, known as the A10, is expected to be built exclusively by TSMC on its 16-nanometer FinFET Plus manufacturing technology. TSMC is expected to begin what it calls "risk production" of its 10-nanometer manufacturing technology later this year, which should mean that volume production of chips on this technology -- if all goes as planned -- should commence in either late 2016 or early 2017.
+
+This should be on time to intercept Apple's iPhone 7s, which should launch in the second half of 2017.
+
+Interestingly enough, TSMC has said that it plans to begin "risk production" of its follow-on 7-nanometer manufacturing technology in the first quarter of 2017, approximately five quarters after risk production of its 10-nanometer manufacturing technology is expected to begin.
+
+This timeline suggests that TSMC should be able to mass produce chips on this 7-nanometer technology starting in the first half of 2018. That's in time for an iPhone launch in the second half of 2018.
+
+If TSMC can execute, Apple should be able to deliver some serious performance gains
+
+The roadmap from TSMC is quite aggressive, particularly if the company plans to deliver substantial performance and area scaling at the 7-nanometer node relative to its 10-nanometer node.
+
+That being said, on TSMC's April 2015 earnings call, company co-CEO Mark Liu said that the company plans to "leverage most of the tools used in 10-nanometer" at the 7-nanometer node.
+
+This sounds an awful lot like what TSMC did with its 20-nanometer and 16-nanometer nodes; 20-nanometer brought a substantial area improvement over the prior generation 28-nanometer processes, and 16-nanometer delivered a new transistor architecture, allowing for massive performance improvements.
+
+To achieve this aggressive timeline, I could see TSMC reusing a similar metal stack to what it plans to deliver at the 10-nanometer node and grafting on top of it a novel transistor architecture. TSMC could also tighten the transistor gate pitches of this technology relative to its 10-nanometer technology, allowing for some area scaling even with a similar interconnect stack.
+
+At any rate, what this means is that if TSMC can deliver, Apple should be able to deliver several large consecutive improvements in its iPhone chip performance as it leverages this rapid-fire succession of chip manufacturing improvements to deliver incredible performance levels in its next generation phones.
+
+I, for one, can't wait.

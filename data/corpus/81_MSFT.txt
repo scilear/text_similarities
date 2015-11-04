@@ -1,0 +1,23 @@
+When Xi Jinping walks into Microsoft headquarters on Wednesday for a global technology forum, he should have an extra spring in his step. Last week, Dell announced that 42 percent of the computers it sells in China now come pre-loaded with NeoKylin, a Chinese government-designed operating system which hopes to seize some of Windows's 97.2 percent market share in the country.
+
+That's an eye-catching sales bump -- and welcome news for a Chinese regime that's unsuccessfully sought to challenge Windows for the last 15 years. It's also, however, a reminder of how quickly technology continues to outpace Beijing's efforts to control it.
+
+The Chinese government's eagerness to develop a homegrown OS grew out of fears that Microsoft and other software developers had built security vulnerabilities into their products that could be exploited by the U.S. government. Such suspicions have naturally intensified in the wake of the Edward Snowden revelations. The Chinese government has subsidized the effort since 2001, and more recently it's pushed state-owned enterprises, government agencies and banks to transition away from Western technology like Windows by 2020. Dell, which controls around 11 percent of China's PC market, sells largely to such big institutions.
+
+At the same time, authorities hoped that a Chinese-designed OS would also serve as a platform for innovation, thus boosting the local software industry. That effort has largely failed. Whatever Beijing has invested in OS development -- the total hasn't been publicized -- there's been little to show for it. Red Flag Software Company, a high-profile enterprise formed by the Chinese Academy of Science, produced a local variant of the open-source Linux operating system that went bankrupt in 2014, having never generated more than $1.57 million in annual revenues. According to CCID, a China-based research and outsourcing consultancy, the market for Chinese-made operating systems amounted to a paltry $51 million in 2014 and may grow to $68 million in 2017.
+
+The project that would become NeoKylin started in 2004 at China's National University of Defense Technology, and until quite recently it didn't appear to have much better prospects. As with other Chinese-made operating systems, its technology lagged foreign competitors: As of last year, NeoKylin still couldn't run Tencent's QQ, China's most popular instant messaging platform with roughly 800 million registered accounts; the program works just fine on Windows and Mac OS. NeoKylin's struggles point to a wider problem: Software designed exclusively for a Chinese audience is inevitably going to be more buggy, and will support fewer programs, than technology that benefits from an international community of developers, users and critics.
+
+More importantly, while government agencies may still depend on desktops, the majority of Chinese no longer do. As of 2014, more Chinese are accessing the Internet via smartphones than PCs. And the gap is growing, driven by the explosion in homegrown mobile apps. Indeed, even as the government has poured resources into OS development for PCs, private Chinese companies have been churning out some of the world's most innovative and popular software for the fast-growing mobile computing sector. In particular, Tencent's WeChat messaging app has so deeply integrated personal finance, e-commerce, and browsing functions that it's become a kind of mobile operating system in its own right. As Connie Chan at Andreessen Horowitz recently wrote, China is essentially leapfrogging "over the PC era directly to mobile."
+
+NeoKylin isn't part of that great leap. True, if the government's top concern is security, then backing a clunky-but-safe operating system is probably justifiable -- even if the technology never draws meaningful market share away from Microsoft. But if China wants to become a center of innovation, wasting government resources on technologies that can't compete globally -- and have shrinking markets, to boot -- is pointless. Authorities would be better off taking steps to create an environment that encourages innovation, beginning with better enforcement of intellectual property laws. Over the long term, that's more likely to produce a stronger, and more secure, China.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Adam Minter at aminter@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Nisid Hajari at nhajari@bloomberg.net

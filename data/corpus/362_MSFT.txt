@@ -1,0 +1,37 @@
+Maybe there's still at least an outside chance that Microsoft's new premium Lumia Windows Phones might get at least a little more carrier love before they launch in November.
+
+MJ Foley During this week's Windows 10 devices launch, Microsoft officials said relatively little about the Lumia 950 and 950XL phones that the company will make available next month. It was like pulling teeth to get anyone from Microsoft to talk about which carriers would be offering the phones.
+
+Word was that AT&T would carry at least the 5.2-inch Lumia 950, though not as an exclusive. Microsoft officials also said the company would offer both phones unlocked via the Microsoft stores.
+
+But there still may be at least a possibility that more carrier support coming.
+
+"We're refocusing our channel strategy, narrowing it in the short-term and plan for broader operator availability longer term. While there was interest across the board from U.S. operators, currently we've made the decision to have AT&T carry the Lumia 950, and then sell both the Lumia 950 and Lumia 950 XL unlocked through our own channel in the Microsoft Stores," said a company spokesman in the latest statement on the topic.
+
+"In Europe, Deutsche Telekom will carry the Lumia 950 and Lumia 950 XL, and we'll have more to share about other carriers shortly," the spokesperson added.
+
+Yesterday, T-Mobile CEO John Legere ranted on Twitter about Microsoft's failure to reach out to T-Mobile about carrying the new Lumia phones.
+
+"To be clear: We did not turn down the new Windows devices. MSFT gave to AT&T. If @microsoft wakes up, we'll talk about @TMobile carrying," tweeted Legere.
+
+(I myself wonder whether Microsoft might have reached out to some in Legere's organization and perhaps he just wasn't aware. I can't imagine Microsoft not wanting to get more carrier pick-up for the phones.)
+
+A number of us Microsoft watchers had been expecting Verizon to skip the latest Lumia phones, given the carrier's lackluster support of Windows Phone, coupled with Microsoft's decision to retrench with phones and focus its efforts on carriers and countries where Windows Phone had received more acceptance. Given the new Lumias aren't supporting CDMA, it does seem Verizon is unlikely to carry them.
+
+Some Verizon users, me included, were hoping we could somehow use the LTE bands to get around this limitation. Microsoft won't comment, but one mobile industry watcher told me lack of CDMA support means the new Lumias would be unlikely to be able to authenticate, so using them in any real way for voice/data would be highly unlikely.
+
+The feeling among a number of us who attended the Windows 10 hardware launch in New York this week was that Microsoft isn't really pushing the new Lumias as much as it is the Surface Book and Surface Pro 4. The phones feel like a stopgap -- something Microsoft is hoping will allow the company to maintain at least a bare-bones presence -- until the new unified hardware team under Panos Panay has a chance to put its stamp on Microsoft-branded phones.
+
+As one of the two percent using a Windows Phone (and on Verizon, on top of that), I'm wondering what to do next. If I can't run an unlocked Lumia 950 or 950 XL, both of which look like really nice devices, by the way, I'm not sure whether, at some point in the near future, I'm going to have to go... Android? (For now, I'm sadly thinking this is the lesser of two evils, since I'm very tied into Verizon.)
+
+In related news, Microsoft also didn't talk about Windows 10 Mobile, the version of Windows 10 for Windows Phones and ARM- and Intel-based tablets this week.
+
+When asked for an availability update, a spokesperson provided the following statement:
+
+"Windows 10 is available on PCs and tablets now, and while Lumia 950 and Lumia 950 XL ship with Windows 10 for phones, broad availability of Windows 10 on other devices, including mobile phones, will begin rolling out in December. For more information on Windows 10 for Lumia, please visit http://www.microsoft.com/en/mobile/windows10/."
+
+
+
+There's still no official word as to which existing Windows Phones will be able to upgrade to Windows 10 Mobile. Microsoft's web page states:
+
+"While we're working hard to make Windows 10 available for other Lumia devices, the following is a first list of Lumia smartphones that will receive a free upgrade when available: Lumia 430, Lumia 435, Lumia 532, Lumia 535, Lumia 540, Lumia 635 (1 GB RAM), Lumia 640, Lumia 640 XL, Lumia 735, Lumia 830, and Lumia 930. Features may vary by device. 8 GB of internal memory required."

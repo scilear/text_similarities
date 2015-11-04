@@ -1,0 +1,37 @@
+When Apple (NASDAQ:AAPL) unveiled its next-generation iPhones, there was quite a lot of grumbling that Apple hadn't upgraded the base model of the phone to feature more than 16 gigabytes of storage. As my fellow Foolish colleague Evan Niu recently argued, the whole purpose of the 16 gigabyte model is to push customers to spend a little extra ($100 more, to be precise) to get a lot more usable storage with the 64 gigabyte model.
+
+This is good for Apple's average selling prices and for its gross profit margins. However, there is a much more important long-term implication of this average selling price increase that should allow Apple to significantly strengthen its competitive positioning in future iPhones. Allow me to explain.
+
+Higher average selling prices means that Apple can safely pack more into its future iPhones
+
+If Apple has reasonable assurance that its average selling prices will remain elevated as a result of the mix shift toward the more expensive 64 gigabyte and 128 gigabyte models, then this means Apple can cram more functionality (which usually means higher production costs) into its phones.
+
+To illustrate, suppose that Apple's target iPhone gross profit margin is 45%. During the first quarter of its fiscal 2014, Apple sold 51.025 million iPhones for $32.498 billion in revenue, meaning that the company's average iPhone selling prices came in at just about $637.
+
+If we assume that Apple's iPhone gross profit margins are 45%, then this would mean that, on average, it cost Apple $350.35 to manufacture each of the iPhones that it sold that quarter.
+
+Fast-forwarding to the first quarter of Apple's fiscal 2015, we see that the company sold 74.468 million iPhones and generated $51.182 billion in iPhone revenue, translating into an average selling price of $687 -- a whopping $50 increase year over year.
+
+Now, under the assumption that Apple aims to keep its margins flat at that assumed 45% rate, Apple would now be able to "afford" to build iPhones with a bill-of-materials cost that's in the ballpark of $378 -- a solid $28 increase from the average selling prices seen during the peak quarter of the iPhone 5s ramp-up.
+
+Is $28 really enough to make a phone that much more compelling?
+
+Although an additional $28 in bill-of-materials cost (under the assumptions I already outlined; these numbers are for illustrative purposes only) doesn't sound like it could buy much in the way of improved specifications, it's actually quite a lot.
+
+That $28 per-unit would probably be enough for Apple to do some reasonable combination of the following (although I caution that this is not an exhaustive list):
+
+Improve display quality and performance.
+
+Add faster and more robust wireless capability,
+
+Increase the die sizes and transistor counts (thus increasing functionality) of the A-series processors used in future iPhones.
+
+Add more robust camera features and capabilities.
+
+Do even more interesting things with the industrial design.
+
+A sensible combination of these factors should ultimately lead to more attractive products that could ultimately mean improved sales figures via accelerated upgrades and/or market share gain.
+
+Investors and consumers alike, embrace the lowly 16GB model
+
+Investors should very clearly like that Apple is making the 16 gigabyte iPhone so unattractive that iPhone buyers are more likely to buy up the stack. However, I think this is a good thing for consumers, too. At the end of the day, customers will probably wind up paying more, but I think that what they will ultimately get by buying up the stack is a better smartphone overall.

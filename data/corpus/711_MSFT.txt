@@ -1,0 +1,27 @@
+Despite its nearly 5% stock price increase in October, IBM (NYSE:IBM) shareholders are still about 6% in the red year to date. Last quarter's 32% drop in hardware-related revenue, along with a 10% decline in both software and services sales apparently didn't sit well with investors. Nor did the $20.8 billion in total revenue IBM reported in Q2 -- 13% less than the year-ago quarter.
+
+Considering its meandering stock price, IBM's third-quarter results scheduled for release on Oct. 19 will go a long way toward determining whether shareholders are celebrating or grumbling by year's end. But the bigger question is: How should IBM's quarter, and year for that matter, be measured?
+
+Many investors and industry pundits alike will almost certainly focus on the aforementioned hardware and PC-related financials when "grading" IBM's third quarter, which has become par for the course. But it's also wrong, and exactly why IBM, with its 3.5% dividend yield, remains one of the tech industry's best long-term growth and income investment alternatives.
+
+Lost in transition
+
+CEO Ginni Rometty has made no secret of the fact that IBM was slow to shift its focus from the seemingly ever-declining PC industry to new, cutting-edge markets -- and she was hardly alone. Microsoft (NASDAQ:MSFT) is certainly familiar with the pain involved in transitioning away from old-school, traditional PCs and shifting energy and resources toward burgeoning markets.
+
+IBM isn't quite as far along as Microsoft in some respects -- namely cloud-specific revenue -- but it has taken the lead in other markets that offer similar, high-growth opportunities. Unfortunately for IBM shareholders, changing the business focus of a $147 billion in market capitalization behemoth is akin to an ocean liner making a U-turn -- it takes time and patience, two attributes sorely lacking with some investors.
+
+The envelope, please
+
+The results of Rometty's "strategic imperatives" in Q3 will determine whether IBM is making headway on its transformation efforts, and if the last several quarters are any indication -- and they are -- investors can expect more progress on these all-important fronts. One of the largest and most advanced, in terms of revenue-generation, of IBM's strategic efforts lies in the cloud.
+
+Once again, IBM reported a significant jump in cloud sales last quarter, climbing over 70% after removing the impact of currency, to an annual run rate of $4.5 billion. Similar to industry-leading Microsoft with its more than $8 billion in annual cloud sales, IBM's efforts in what is expected to become a $100 billion-plus market are paying off big time. Will cloud revenue growth continue? If IBM's two recent cloud service deals valued at $1.7 billion are any indication, the answer will be a resounding yes.
+
+Leader of the pack
+
+Depending on which estimate you choose to believe, the market for big data solutions -- assimilating, analyzing, and ultimately utilizing the massive amounts of information being collected in today's digital world -- is expected to top $100 billion this year. As another key piece of IBM's strategic imperatives, big data is quickly becoming big revenue.
+
+IBM was reluctant to share specific sales results from its Watson and Watson Health cognitive computing divisions, but its business analytics unit -- the home of big data -- grew more than 20% last quarter, after accounting for currency headwinds. IBM has since announced major acquisitions within the division, including the recently closed $1 billion deal for Merge Healthcare that, when combined with its cognitive computing solutions, will allow Watson to "see" and interpret images.
+
+Naturally, with so much revenue potential, Microsoft and others are developing their own big data and cognitive computing services. But unlike the hierarchy of cloud providers in which Microsoft reigns supreme, when it comes to big data, IBM and its Watson groups top the list.
+
+Cloud and big data are two of the primary pillars of Rometty's strategic imperatives, but IBM is also focused on mobile solutions, security and social media. Already, 27% of IBM's total revenue is derived from its strategic areas of growth, and that's expected to jump to 40% by 2018. Will IBM continue making progress in these key areas? That's the question that really matters.

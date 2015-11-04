@@ -1,0 +1,67 @@
+The internet went nuts last week after many people discovered that not only does Adblock Plus — one of the most popular ad blockers — not block all ads, but that it charges internet advertising companies and publishers to get themselves on its whitelist.
+
+Eyeo, the company that owns Adblock Plus, has actually been charging companies for a placement on its "Acceptable Ads" list — which means the ads abide by a policy that stipulates they must not be intrusive to the user experience, amongst other rules — for a while.
+
+The company won't confirm how much it charges customers as it has individual, confidential contracts with each of the 70 or so companies it accepts payment from. Earlier this year, The Financial Times reported companies such as Google, Microsoft, and Amazon were paying Eyeo a fee of "30% of the additional ad revenues" they would have made were their ads unblocked.
+
+For years, Adblock Plus' business model has been compared to everything from "blackmail" to "extortion" to being a "Mafia-like advertising network."
+
+On one hand, you can see why the publisher and advertising community might be annoyed. Eyeo has essentially erected toll booths on the internet, and the only way to prevent Adblock Plus from siphoning off revenue (by blocking ads from being served to Adblock Plus users) is to pay at the gate.
+
+But many people fail to look at what Adblock Plus is doing from the polar opposite view. And if they did, maybe they might see it's not as much of a gangster outfit as people are making it out to be.
+
+The view of an Adblock Plus customer
+
+A top executive at a company that helps publishers make money from ads, which pays a "significant" amount to Adblock Plus each year told Business Insider it is "happy" with the partnership.
+
+Ultimately, he thinks the benefits outweigh the costs
+
+"Our customers asked us over the years: 'what can we do to to help monetize blocked traffic?' So when we were approved as part of Adblock Plus' Acceptable Ads agreement, we felt fortunate that we were adding a service. If we can provide incremental revenue because some of our customers' ads were being blocked, then believed we were doing what we're supposed to be doing. We're providing value to the publishers [by adding revenue] and the users [by serving them 'acceptable' rather than annoying ads.] You pay because the alternative is zero [of your ads being served,]," said the executive, who asked for neither him nor his company to be named.
+
+We also asked whether he sympathized with those people who accuse Adblock Plus of extortion because it's charging companies to remove something that wouldn't even be a problem if Adblock Plus didn't exist.
+
+He thinks those people need to look beyond blocking and realize what Adblock Plus has done to actually benefit (yes, benefit!) the advertising sector: "We think that Adblock Plus helped spark a conversation about what is a good ad experience, between pop-ups, privacy, tracking, and more — which is a good thing."
+
+The Adblock Plus view
+
+I call it paying the kidnappers ransom. Publishers weigh options for buying their way out of blocked ads https://t.co/HMkMSlRIfI @digiday — nickfriese (@nickfriese) September 28, 2015
+
+Only 10% of the companies on Adblock Plus' Acceptable Ads list pay to be there. The Acceptable Ads list has also been taken up by other ad blockers including the recently released popular iOS 9 ad blocker Crystal.
+
+Ben Williams, Eyeo communications and operations manager, told Business Insider: "Those that pay do so because it's a lot of work for us to whitelist a big advertising network or publisher. It's like a tax on the 1%, but of course, they are getting something in return. At the same time, for an open-source company that gives away our product for free, we have an HR overhead, admin costs, and so on, so we see it as an acceptable compromise ... and 90% of the work we do to keep the list up is completely pro bono."
+
+Adblock Plus never set out to have this business model. In its early days, it was a hobby project, designed to block 100% of ads on the web.
+
+As the browser extension's popularity grew, the company behind it began to have misgivings about this heavy-handed approach. Its cofounders became concerned that 100% ad blocking would destroy the free internet. So Adblock Plus began a test: If it noticed users were loyal visitors to a particular publisher, a pop-up would appear, asking whether they would consider adding the website to their filter list.
+
+Users were unsurprisingly annoyed by the pop-ups. And so, in 2011, Adblock Plus dropped the approach and the "Acceptable Ads" list was born.
+
+Adblock Plus cofounder Wladimir Palant asked the Adblock Plus community and Reddit to help form the criteria for the Acceptable Ads list. The company still uses its own forum and the EasyList forum (EasyList provides the blocking list for other ad blockers such as Ublock too) for help in deciding which ads should be deemed acceptable and for input on updating the policy as new ad formats are created.
+
+Williams paints Adblock Plus' mission as a noble one: encouraging innovation in the advertising space and giving users control over the ads they are served.
+
+But cynics will still no doubt see Adblock Plus' business model as a way to make a quick buck by exploiting a loophole in the system — and indeed Adblock Plus has been taken to court in Germany four times by publishers who argue Eyeo should not be legally allowed to block ads on their sites nor operate its Acceptable Ads Policy. Adblock Plus has emerged victorious each of those occasions.
+
+We asked Williams how the company can defend itself against criticisms that suggest it is simply a racketeering outfit.
+
+"It’s not extortion because we don’t get to decide what gets blocked; the open-source community does. We’ve just created the tool to let users apply the filter and take back control of their internet experience. We have a simple agreement with a handful of companies who help us sustain our model of creating an internet with acceptable ads. If they thought it was extortion, they obviously wouldn’t pay us a dime. Besides, we’d be pretty poor racketeers if we let 90% off for free," Williams said.
+
+After this article was originally published, Eyeo announced it plans to allow an independent board — which will include publishers, marketers, media companies, and agencies — to determine which ads will appear on its Acceptable Ads List, The Wall Street Journal reported.
+
+Perhaps much of the reason shots are fired in Eyeo's direction is the name "Adblock" itself, which in itself sounds aggressive and suggests 100% blocking.
+
+"We should really be called a web customizer. That's the hurdle people have to get over. It's a complicated model that can't always be expressed fully in a 15-minute interview or a conference presentation. But any time you make an innovative product, you will piss people off. If you're not doing that, you're not doing it right. Already, users have spoken. Ad blocking came about as a symptom of the environment," Williams said.
+
+Disruption is always going to irritate those being disrupted
+
+In a way, parallels could be drawn with the way taxi drivers around the world have protested against Uber, or the way the music industry fought to shut down Napster. The newer companies threatened the legacy companies' revenues, but ultimately the newer companies were providing what many users demanded in terms of price and convenience.
+
+Shaul Olmert, CEO and founder of digital publishing platform PlayBuzz, told Business Insider: "If you want to disrupt, you're going to have to shake things up. Advertisers are not going to say: 'Let's not convince people to buy things so much, let's encourage them to spend more time with their families!' The only way to tell people they have gone overboard is to shake things up."
+
+But Olmert says the case of Adblock Plus is slightly nuanced due to the way it ultimately operates the Acceptable Ads list, even though it does receive input from its community.
+
+He added: "At the same time, if you try to force, impose, and play judge and juror, that's not going to fly, because nobody asked them to."
+
+Adblock Plus' business model won't sit easily with everyone, but it's worth considering that it has at least added some value — by way of opening up conversations about improving advertising on the web — to make up for some of the reported billions dollars it blocks in unserved ads, or the money it takes in fees.
+
+NOW WATCH: See if you can spot the subliminal messages hidden in these corporate logos

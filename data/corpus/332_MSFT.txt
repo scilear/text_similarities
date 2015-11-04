@@ -1,0 +1,35 @@
+Microsoft Office 2016 goes on sale Tuesday, bringing real-time collaboration, improved Skype integration and quick access to many options to the suite that includes Word, Excel and PowerPoint.
+
+The updates aren’t big leaps. But Microsoft, which has seen long-time customers turn to Google, Apple and others for word processing, spreadsheets and other competing apps, says Office 2016 will improve on older versions.
+
+It’s not about new icons or fancier menus, said Shawn Villaron, a group manager for PowerPoint. The best way to assess the latest version is to “look at the new scenarios we’re enabling,” he said in an interview. “We believe the Office 2016 release represents that big shift from ‘me productivity’ to ‘team productivity.’”
+
+The update includes a Groups feature in Outlook for a corporate team or even just a group of friends planning a trip to manage messages and documents. Word lets two people work on a document and see each other’s changes in real-time. Skype video calls can sit comfortably on top of the document during editing.
+
+Since the initial features won’t work in every program at launch, Tuesday’s release can be viewed as planting a flag, Villaron said, showing the direction Microsoft is heading.
+
+“We clearly have caught up to Google” on the collaboration front, he contended.
+
+That’s not to say Office is necessarily as simple as competitors’ offerings. With more programs and more features than almost anyone, the new Office could still take some effort.
+
+A user must learn to save files to OneDrive or Sharepoint, and switch between browser apps and the traditional desktop programs. New tools like Sway, a way to make instant PowerPoint presentations, and Planner, an app to manage projects, could be hits --but only if they’re spotted.
+
+Microsoft’s catch-up play has been underway since Satya Nadella took over as chief executive early last year. He’s made Office programs compatible with more Apple and Android devices, and pushed the company’s developers to take bigger gambles.
+
+Office 2016 Microsoft Office 2016 is available as a standalone copy or through an Office 365 subscription. By subscribing, users get new features and content each month. Microsoft Office 2016 is available as a standalone copy or through an Office 365 subscription. By subscribing, users get new features and content each month.
+
+Most important for Microsoft’s future, he’s pushing to get people to pay more for Office, and pay more regularly, than the usual $150 for a new version every few years.
+
+With Office 365, a service that starts at $7 a month and includes online versions of the apps, users get monthly updates: New Excel chart types, new co-working tools, more tie-ins with the Cortana virtual assistant app and other enhancements based on user feedback.
+
+Microsoft has persuaded 15 million consumers and 4 of 5 Fortune 500 companies to subscribe. It’s an “exciting” source of revenue growth over the long-term, Nadella told analysts in July.
+
+Amy Hood, Microsoft’s chief financial officer, described Office 365 as “critical” because a deeper, consistent relationship with customers makes it easier to sell them add-ons or additional services.
+
+Office 2016 requires Windows 7 or newer, and it’s free to new and existing Office 365 subscribers. Office also includes note-taking program OneNote.
+
+Old-school, buy-it-once versions are still available for $149 for Windows and Mac (a $229 business option includes Outlook). These non-subscription copies get security updates, but they’re locked in to the Sept. 22 version on the feature side. They won't have the Publisher or Access programs either.
+
+New items include several “intelligent” tools. Outlook will try to determine how you manage your inbox and automatically organize it for you. A new search box called Tell Me on PowerPoint, Word and Excel lets you search for a feature -- say “Columns” -- and immediately pull up the relevant menu. That saves you from reading through a help article or digging around menus. When not connected to the Internet, some features will automatically turn off while the document remains accessible.
+
+Chat with me on Twitter @peard33

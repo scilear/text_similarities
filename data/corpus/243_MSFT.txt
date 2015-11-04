@@ -1,0 +1,71 @@
+The headline feature of Microsoft's Office 2016 is real-time collaboration. Personal Tech columnist Geoffrey A. Fowler tests if it can it keep up with Google Docs.
+
+I’ve purchased the latest Microsoft MSFT 1.76 % Office for every computer I’ve owned. It was a foregone conclusion. Dating back to when Word was white type on a blue screen, I used it so often I could recite the shortcuts. (Thesaurus? Shift-F7.)
+
+But Microsoft has run out of reasons to keep me paying. How we get work done on computers has fundamentally changed.
+
+For the new Office 2016, Microsoft wants you to pay $150 for collaborative capabilities that others already do better, free. It brings little new to people who rely on deep features in Word, Excel, PowerPoint or Outlook. Its mediocrity led me to a larger conclusion: It’s time for Microsoft to press Control-Alt-Delete on the whole concept of Office.
+
+My relationship with Office started to sour as smartphones carried my work everywhere while my Office files stayed in the cubicle. I began emailing myself instead of fretting about scattered .doc files.
+
+Google ran with the work-anywhere idea early. Its free Web-based word processor and spreadsheet allow people in different locations to edit a document together. With Google Docs and Sheets, there’s no more emailing drafts back and forth.
+
+ENLARGE Although Windows PC users can collaborate in real time with Word 2016, it’s still not as easy as it is with Google Docs. Here, two Surface Pro tablets show different parts of the same document. Photo: Geoffrey A. Fowler/The Wall Street Journal
+
+And Office? Hardly opened it in the past year. Microsoft followed Google with a Web-based Office Online, but gave us little reason to use it.
+
+Office 2016 is Microsoft’s attempt at catching up. The Windows version arrived two weeks ago, and looks on the surface almost identical to its nearly three-year-old predecessor. But now if you use Microsoft’s OneDrive to store your work in the cloud, you can cocreate and edit Word docs in real-time. There’s Skype video chat, screen sharing and text messaging built right in, too, along with a box labeled “Tell me” that saves you from hunting through Office’s deep menus.
+
+The target customer for much of Office’s evolution is corporate. But there are 15 million people who pay $70 or more a year for Office updates—and countless more who, like me, have bought Office for a home computer.
+
+For a few weeks, I gave Office a second chance. I wrote articles, took notes and built spreadsheets with Office 2016 on all the devices in my life: a Windows 10 laptop at the office, an iMac at home and an iPhone and iPad on the go. My trusty Shift-F7 was back.
+
+I can’t wait to get back to Google Docs.
+
+Despite Microsoft’s fanfare about collaboration, Office 2016’s Internet capabilities are superficial. In a few spots—gah, even the Save function—they can cause the whole program to crash. Yes, you can collaborate live, but first everyone has to be on the same exact software and click seven things perfectly. At least that’s how it feels.
+
+Let’s compare. With Google Docs, a project someone shares shows up in an email or your Shared With Me tab. Click to open it from the Web or a mobile app, and you’re editing together—everybody with their own color cursor. Zero patience required.
+
+ENLARGE Beyond collaboration, Office 2016 includes a few minor updates, but it is largely indistinguishable from Office 2013 for Windows. Photo: no credit available
+
+With Word 2016, an invite to collaborate on a doc shows up only in email. OK, no biggie. Click on a link in the email, and it opens an Office Online Web page with the document. To start editing, click another button labeled Edit. But that just opens another pane that asks whether you want to edit in Word Online or inside the Word program. You want the whole Word 2016 enchilada, so you click that option. Your Web browser throws up a warning—opening this could be dangerous! That’s weird, but you click OK, and Word opens.
+
+Psych! Your Word doc is there, but there’s yet another warning message in a yellow bar at the top of the screen. Word has launched in “protected view” because it fears this file was clearly sent to you by some kind of maniac. Click OK and you’re finally editing.
+
+How could Microsoft miss so many details?
+
+• When you’re live-editing a Word doc, there’s occasionally a delay that can lead to not-so-hilarious “Who’s on First?” scenarios with your colleagues. You also can’t both edit the same paragraph, like you can in Google Docs.
+
+• You can’t collaborate in real time yet in Excel and PowerPoint—or the Word apps for Mac, phones or tablets.
+
+• The Save As screen presents the option to place files in a recent collaborator’s OneDrive account. Sounds handy, but clicking on it made the whole app crash every time I tried.
+
+• If you’re using a laptop somewhere without Internet access, there’s no quick way to save a document to make sure it will go online later. (To do it, you have to menu hunt.)
+
+ENLARGE Microsoft has worked hard to put its Office suite on Apple and Android devices, but the collaboration tools available in Office 2016 only work on Windows PCs…and only in the Word 2016 app. Photo: WILSON ROTHMAN / THE WALL STREET JOURNAL
+
+Microsoft’s response: We’re working on it. They’re updating applications monthly, and my Save issues are on the list. And the warnings are designed to protect consumers, a spokesman says. It also has the free Web version of Office, which offers collaborative capabilities with slimmed-down features.
+
+But why ship a new version before nailing these Internet essentials? They should have started with real-time capabilities on their phone apps, because few of us can work without them.
+
+I can see some of you shaking your fist at this page: “But I don’t care about collaboration!” Many use Office for a specific capability. There are functions only Excel can perform, and Google’s Slides still can’t hold a candle to PowerPoint. Those people include my septuagenarian dad, a scientist. He uses Office almost every day because he’s memorized where to find what he needs.
+
+But if you’re in my dad’s camp, you don’t need to keep buying new versions of Office. Microsoft hasn’t added a ton of new innovations to typesetting and presentation building—those all work just fine on what you’ve already got. My dad was using Office 2008 for Mac, so I asked him to install 2016. His verdict: It’s not terrible, but he sees no reason to change. (There are also a number of free or cheap basic productivity programs, including Apple’s iWork suite and LibreOffice, that, like Google, can still open and save in compatible Office formats.)
+
+There’s a generational divide at work here: A survey last summer by the tech firm BetterCloud found that companies whose employee base averaged between 18 and 34 were 55% more likely to use Google than Office; those who average 35 to 54 were 19% more likely to use Office.
+
+At 37, I sit almost in the middle of those age brackets. I held off using Google Docs for years because opening a Web browser to write felt strange. But Google Docs still works in the Chrome browser without Internet access, and stores your documents until you next connect online. (Google, like Microsoft, also offers two-factor authentication on accounts to keep hackers out.)
+
+And Google isn’t the only game in town: Companies like Evernote, Quip and Slack—even Facebook FB 2.64 % —help workers get on the same page figuratively as well as literally. Many data jockeys who used to swear by Excel and PowerPoint now present real-time updates to managers in online dashboards. As a writer, the notion that I need Word to set type on virtual 8½-by-11-inch paper feels comically antiquated.
+
+The smart folks at Microsoft, especially under the leadership of CEO Satya Nadella , understand the world is changing. They deserve credit for accelerating the effort to keep Office relevant by delivering apps for Apple and Android devices. Microsoft has even added intriguing new apps like Sway, built to automatically format text, photos and video into a format that makes sense online and on phones and tablets.
+
+Still, Microsoft needs to rethink the entirety of Office. It rebooted Internet Explorer as the stripped-down Edge browser. You could even say Windows 10 itself is a major reboot.
+
+People shouldn’t have to buy software built to do everything for everybody. I would pay a smaller amount for a more streamlined product that was truly an asset to my workflow, like I do for Dropbox and Evernote.
+
+Some 1.2 billion people use Office, its maker likes to remind us. “Cocreation is an important part, but it is not the only part” of what makes Office valuable, the Microsoft spokesman says.
+
+Perhaps. But Office 2016 doesn’t give enough reasons for previous Office owners to upgrade. And people looking for rich collaboration don’t need to wait for Microsoft to catch up.
+
+Write to Geoffrey A. Fowler at geoffrey.fowler@wsj.com or on Twitter @geoffreyfowler.

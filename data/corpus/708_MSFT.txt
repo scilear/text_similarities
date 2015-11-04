@@ -1,0 +1,27 @@
+Sales of Apple's (NASDAQ:AAPL) Macs are slowing down, according to research firms Gartner and IDC. During the third quarter, Gartner estimates that Mac shipments only rose 1.5% annually to 5.6 million units, while IDC believes that shipments actually declined 3.4% to 5.3 million. Both figures would represent the slowest annual growth in Mac shipments in two years. Both firms attribute those declines to the strong U.S. dollar making Macs more expensive in overseas markets.
+
+On the bright side, Macs fared much better than the overall PC market. Gartner and IDC respectively claim that global PC shipments fell 8% and 11% during the third quarter. Out of the top five PC vendors listed by Gartner, Apple and Dell were the only two vendors with positive growth. None of IDC's top five posted positive growth, but Apple and Dell's sales declined the least. Both firms ranked Apple as the fourth largest PC maker in the world with a 7% to 8% market share.
+
+Nonetheless, a slowdown in Mac sales is troubling for Apple investors, since it's the company's biggest money maker after the iPhone. Let's discuss how much the Mac matters and whether or not Apple can prevent sales from slipping further.
+
+Why the Mac matters
+
+Last quarter, 63% of Apple's revenue came from the iPhone, up from 53% in the prior year quarter. The iPad was once Apple's second pillar of growth, but sales have declined for six consecutive quarters and only accounted for 9% of Apple's revenue during the third quarter.
+
+As iPad sales declined, Mac sales improved. Last quarter, Mac sales rose 9% annually and accounted for 12% of Apple's top line. During the conference call, CFO Luca Maestri stated that most of that growth was "driven by portables," and that Apple was "delighted with the very strong customer reception" of the new MacBook.
+
+However, the projected slowdown of Mac sales during the third quarter indicates that the PC market has become crowded with too many strong competitors, and 2-in-1 devices like Microsoft's (NASDAQ:MSFT) Surface are luring customers away from both tablets and laptops. Last quarter, Microsoft's Surface revenue soared 117% annually, defying the sluggish growth of the tablet and laptop markets.
+
+What's Apple's game plan?
+
+For now, Apple probably hopes that new Mac models will boost sales. The company recently expanded its lineup with new iMacs with Retina displays. The 21.5-inch iMac will get a Retina 4K display, while the 27-inch model will gain a Retina 5K display. But since Apple admitted that most Mac growth came from portable devices last quarter, it's unclear if these new iMacs will move the needle.
+
+Another approach is to follow the iPad into the enterprise market. Apple promoted Macs as enterprise devices before, but their higher price tags made them a tough sell to cost-conscious businesses. Apple's refusal to merge iOS and OS X also doesn't compare favorably to the scalability of Windows 10. Although many customers consider Macs to be more secure than Windows devices, that reputation was recently tarnished by malware attacks. A recent survey by endpoint security software firm Avecto indicates that 40% of CIOs now have less confidence in Mac security.
+
+Despite those challenges, Avecto reported that only 21% of surveyed businesses owned no Macs at all, and 36% of surveyed CIOs claimed that the number of Macs used in their businesses had increased over the past year. Therefore, if Mac sales slow down considerably during Apple's current quarter, we'll likely hear more talk about selling Macs to enterprise customers.
+
+Don't worry about Apple yet
+
+If Gartner and IDC's estimates are accurate, Apple won't escape the slowdown in the PC market and foreign exchange pressures unscathed. However, Apple is faring better than most of its peers, which means that it could bounce back the fastest when the overall market recovers. Gartner and IDC both expect the market to stabilize and possibly recover next year.
+
+For now, investors shouldn't fret over the slowdown in Mac sales. However, they should realize that the Mac is still Apple's main defense against declines in iPhone sales, which could happen as early as next year, according to Pacific Crest Securities. If Apple's Mac sales growth is positive when that happens, the blow could be less severe.

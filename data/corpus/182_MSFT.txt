@@ -1,0 +1,33 @@
+In today's fast-changing world of technology, it can be hard to find tech stocks that offer prudent investors an adequate margin of safety -- that is, stocks that are priced significantly below what their underlying businesses are worth, affording investors minimal downside risk.
+
+But it's not impossible. We asked three of our contributors for their favorite tech stocks that offer big margins of safety. Here's why they think Cisco (NASDAQ:CSCO), Apple (NASDAQ:AAPL), and Microsoft (NASDAQ:MSFT) each fit the bill:
+
+Steve Symington (Cisco): After an brief post-earnings pop the day after its better-than-expected quarterly report in August, Cisco stock promptly fell along with the broader market and now looks tantalizingly cheap trading around 15.3 times trailing 12-month earnings, 10.9 times next year's estimates, and an enterprise value-to-EBITDA ratio of just 7.2.
+
+To be fair, Cisco's growth at first glance seems unimpressive. Revenue climbed just 4% year over year last quarter to $12.8 billion, while adjusted net income per share fared slightly better rising 7.3% to $0.59. But at the same time, analysts were expecting lower revenue and earnings of $12.65 billion and $0.56 per share, respectively. And keep in mind Cisco is striving to not only maintain its dominance as a supplier of routers and switches, but is also enjoying fairly steady 14% growth in the promising collaboration and data center markets. As Cisco continues to drive its business toward software subscription products and services -- deferred revenue grew 7% last quarter, including 21% from subscription products -- it should also enjoy more attractive margins and a more predictable revenue stream over the long term.
+
+In the meantime, Cisco just raised its quarterly dividend by a penny per share to $0.21, equating to an annual payout of roughly 3.2% at today's prices. And after spending roughly $1 billion to repurchase and retire shares last quarter, Cisco still has around $4.3 billion remaining under its current repurchase authorization. If you're worried about Cisco's ability to fund these efforts, note that last quarter alone the company generated around $3.8 billion in free cash flow and ended the period with net cash and investments on its balance sheet of roughly $35 billion, or nearly 27% of its current market capitalization.
+
+In the end, for long-term investors willing to let compounding do its work as Cisco positions itself for future growth, I think Cisco is one of few tech stocks to offer such a significant margin of safety.
+
+Andrew Tonner (Apple): To argue whether Apple is undervalued, one must pay attention to its growth prospects in the years to come.
+
+Why?
+
+Because by virtually every valuation metric available, Apple is demonstrably cheap. Here's a quick snapshot of just a few relevant metrics to show you what I mean.
+
+Metric Apple S&P 500 Nasdaq Composite Price-to-earnings ratio 12.6 19.2 25.3 Enterprise value-to-EBITDA ratio 8.2 10.3 11.9
+
+Hopefully, the part of the valuation margin of safety discussion is pretty clear cut. This alone would be enough to make the case that Apple enjoys an appreciable margin of safety among tech stocks today. However, as with all good investing, understanding the growth outlook for Apple only serves to strengthen this argument.
+
+As evidenced by its record-setting 13 million first-weekend sales, Apple's critical iPhone business shows little sign of slowing down. However, of far greater importance for long-term Foolish investors, Apple's multi-year product-development cycle seems to contain ample growth opportunities to support its shares for years to come. Far-fetched as it might have sounded even weeks ago, Apple's project Titan alone could double Apple's revenue base under fairly plausible circumstances. I'm similarly excited by the possible opportunity Apple enjoys in another emerging big-ticket tech market -- the connected home. However, even if you disagree with my smart-home leanings, the continued expansion of the Apple Watch, the Mac, Apple TV, Apple Music, and even the iPad thanks to the iPad Pro should also help keep Apple's growth engine humming and give investors in its shares plenty of margin of error today.
+
+Tim Brugger (Microsoft): Much has been made of Microsoft's "mobile-first, cloud-first" mantra -- both good and bad. For the naysayers, Microsoft's paltry piece of the smartphone pie is indicative of a failed effort and is at least partly to blame for its anemic stock price year to date.
+
+Proponents, however, are quick to point out that Microsoft generated nearly $1 billion in revenue from its tablet-ish devices, the Surface Pro 3 and Surface 3, last quarter, and now with the rapid expansion of its reseller partners around the world to over 4,500, investors should see more growth in the quarters ahead.
+
+Of course, where Microsoft really shines as it transitions away from a PC-dependent business model is as the preeminent provider of cloud-related solutions. As it demonstrated again last quarter, Microsoft's cloud sales continue to impress, nearly doubling again to an annual run rate of over $8 billion. Just as impressively, even during the past couple of years of significant change, Microsoft has remained a financially sound, dividend-paying machine.
+
+At the end of fiscal Q4, Microsoft was sitting on a whopping $96.53 billion in cash and equivalents, up nearly $11 billion from the year-ago period. Microsoft's "safety net" of cash grew despite buying back nearly $4.3 billion of its own stock last quarter, and it will probably continue to swell even after boosting its dividend yield to 3.16% after the board OKed a raise of $0.05 to $0.36 on Sept. 15.
+
+In addition to Microsoft's strong balance sheet, it's trading at a mere 14.84 times forward earnings, making it one of the tech industry's safest, most undervalued growth and income stocks around.

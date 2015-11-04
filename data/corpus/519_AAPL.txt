@@ -1,0 +1,31 @@
+Back in March, Apple (NASDAQ:AAPL) CEO Tim Cook addressed criticisms that his company had become the "new Microsoft (NASDAQ:MSFT)" -- a company that depended too much on aging products while avoiding big risks. In an interview with Fast Company, Cook said that he didn't accept those comparisons because Apple was "willing to lose sight of the shore" and replace aging technologies like optical drives in its new devices. Microsoft's problem, in Cook's opinion, was its refusal to "walk away from legacy stuff" and embrace future technologies.
+
+While Cook's points were valid, Apple's recent special event revealed that the company might have more in common with Microsoft than it would openly admit. The star of the show, the iPad Pro, looked a lot like Microsoft's Surface Pro. Apple even brought a Microsoft exec on stage to use the device to run productivity apps like Office. Yet Apple's transformation into the "new Microsoft" started long before the iPad Pro arrived. Let's discuss three ways Apple ended up following Microsoft's footsteps under Tim Cook's leadership.
+
+1. Dependence on hit products
+
+Under former CEO Steve Ballmer, Microsoft relied heavily on its Windows and Office cash cows. However, that comfortable upgrade cycle caused Microsoft to grow complacent, and the company overlooked the rise of free operating systems and cloud-based productivity software. Windows and Office users also started sticking with "good enough" versions of the software, and both user bases became increasingly fragmented.
+
+Apple has become increasingly dependent on a single cash cow: the iPhone. Last quarter, sales of the iPhone accounted for 63% of Apple's top line -- up from 53% in the prior year quarter. Just as Microsoft once believed in constant Windows and Office upgrades, Apple now thinks that iPhone users will blindly upgrade their iPhones every two years. That's why it introduced monthly payment plans, which let customers lease iPhones and upgrade them to the latest models when they arrive.
+
+That seems like a sound idea since an RBC Capital Markets survey from June found that over 83% of iPhone owners planned to stick with Apple. But this system also breeds complacency and could discourage Apple from taking bigger risks.
+
+2. Follower, not innovator
+
+Under Ballmer, Microsoft constantly responded to the market instead of producing market-leading products. It launched the Zune MP3 player five years after Apple introduced the iPod. Its first mobile OS with multitouch capabilities, Windows Phone 7, arrived three years after iOS.
+
+Under Steve Jobs, Apple reinvented niche products for mainstream consumers. With the iPod, Apple disrupted existing MP3 players by offering more storage, a larger screen, and an easy-to-use click wheel. The iPhone replaced the clumsy keyboards of leading smartphones with an all-touch interface. The iPad dumped the awkward PC element of tablets and treated them as big smartphones. All those devices were initially ridiculed by critics, but they all disrupted their respective markets.
+
+It's unfair to compare Cook to Jobs, but most of Cook's "new" products merely followed the footsteps of others with higher prices while lacking game-changing improvements. Apple launched the iPad Mini in response to the market shift toward smaller tablets. It introduced the iPhone 6 in response to the popularity of phablets. The Apple Watch basically offers the same features as a high-end Android Wear smartwatch, and the new Apple TV is just an awkward combination of a Fire TV and a Wii. The iPad Pro is just a reaction to the fact that iPad sales have declined as Surface sales have risen.
+
+3. Playing Wall Street's game
+
+Steve Jobs never bowed to investor demands for buybacks or dividends. But Tim Cook has piled on both since be became CEO in 2011. Over the past 12 months, Apple spent $38.4 million on buybacks and $11.4 billion on dividends. Some of those decisions were likely influenced by big investors like Carl Icahn, who has repeatedly asked Apple to buy back more shares.
+
+These buybacks and dividends are easy to cover since Apple finished last quarter with over $200 billion in cash, but it shows that Cook is a bit too eager to please Wall Street. That's exactly what Microsoft does -- it bought back $13.8 billion in shares and paid out $9.9 billion in dividends over the past 12 months.
+
+Paying bigger dividends and boosting buybacks increases shareholder value, but it can also discourage tech companies from taking big risks or using their free cash flow to make large acquisitions. A reduction in outstanding shares can also obfuscate true earnings-per-share growth. That's why many "mature" tech companies often end up with low stock valuations but stagnant growth.
+
+The key takeaway
+
+With a forward P/E of 12 and a projected earnings growth rate of 15% over the next five years, Apple still looks fundamentally cheap. However, Apple's dependence on the iPhone, its use of high prices to mask its lack of innovation, and its willingness to play Wall Street's game are worrisome. Apple hasn't become the new Microsoft yet, but it's traveling down a familiar path toward becoming a mature tech stock, so investors should have realistic expectations regarding its long-term future.

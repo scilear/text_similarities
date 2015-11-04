@@ -1,0 +1,47 @@
+By Patrick May / October 5, 2015 at 11:09 AM
+
+As Apple continues to integrate its virtual assistant Siri into more of its product line, most recently with the introduction of its new Siri-enhanced remote control for Apple TV, the Cupertino tech giant is looking to make its disembodied concierge more, well, smart.
+
+With news of its recent purchase of U.K.-based AI startup VocalIQ, Apple is betting that with a little help Siri can become more conversational and intuitive. A report in the Financial Times cites people familiar with the deal who say the company’s expertise in software that helps people and computers communicate more naturally should help Siri do the things we ask of her and provide us the answers we seek.
+
+Providing its natural language database to developers who can employ VocalIQ as a digital helper in the apps they create, the company employs technology that retains and then builds upon the communication app users have with their devices. The result, Apple is hoping, is a brighter Siri whose answers don’t make us all slap our foreheads and say “What the heck is she thinking?”
+
+According to a post by Edison Investment Research analyst Richard Windsor, the acquisition of VocalIQ could be a boon to Apple as its tries to keep up with rivals like Google and Amazon who are developing their own virtual assistants:
+
+VocalIQ specialises in making machines more capable of understanding normal speech and working out what it is that the user is actually asking for. This is something that is very important in the overall user experience but is only one factor in how Google always scores much better than its rivals in this area.
+
+And Windsor says Apple has its work cut out for it, especially when Siri goes up against Google Now:
+
+When Google Now is tested against Siri, Cortana and Alexa (Amazon) it consistently outperforms all of its rivals by a wide margin. This is true for both its ability to understand natural speech and its ability to return the correct and most relevant answer to an inquiry or request. This is an area in which Apple has struggled for some time and it is hoping that the inclusion of VocalIQ across all of its products will move it closer into contention.
+
+This acquisition will certainly help but artificial intelligence has to be able to return the right answer and fulfil the request in a way that is relevant, easy and delightful for the user. This requires machine learning, and it is here where Google really makes its strength felt.
+
+So is it too late for Siri to compete with Now? Stay tuned, says Windsor:
+
+Google remains the leader in this field and I see nothing in the medium term that comes close to challenging that position. However, our research indicates that Google’s grip on Android may be beginning to weaken, threatening its ability to continue growing Android revenues in the medium term. This combined with its fair valuation in the market continues to leave me preferring Microsoft of which very little is expected.”
+
+Photo: Gary Reyes/Mercury News
+
+Share this: Email
+
+Twitter
+
+Facebook
+
+LinkedIn
+
+Reddit
+
+Google
+
+More
+
+Pinterest
+
+Tumblr
+
+
+
+
+
+Tags: acquisition, AI, Apple, artificial intelligence, Google, google now, siri, VocalIQ

@@ -1,0 +1,69 @@
+October is here, packed with fall festivals and pumpkin spice everythings. And as we roll over into another new month, it's high time to take a fresh look at your investment portfolio. A panel of Motley Fool contributors came together to create a veritable Oktoberfest of fantastic buying opportunities from the tech sector.
+
+At first glance, it's a diverse bunch. Business software expert Workday (NYSE:WDAY) doesn't seem to have much in common with consumer electronics titan Apple (NASDAQ:AAPL). It's even tougher to draw a straight line between touchscreen controller specialist Synaptics (NASDAQ:SYNA) and Internet infrastructure manager Internap (NASDAQ:INAP). And how does business-oriented social network LinkedIn (NYSE:LNKD) fit into this picture?
+
+But they do share one very important attribute at the start of October: They all offer excellent value for long-term investors.
+
+Want to know more? Dig deeper into the 5 top tech stocks to buy in October, starting here:
+
+Tim Beyers (Workday): No business owner escapes the task of managing administration. From human resources to accounting, inventory management and more, it all has to be handled somehow. In the software industry, the business of managing a business is called "enterprise resource planning," or ERP.
+
+No one has been better at providing install-and-manage ERP software than Germany's SAP. In the cloud it's a different story, and Workday is already emerging as a leader.
+
+About three years ago Workday was capturing headlines almost daily as one of 2012's hot IPOs. Lately, the shares have cooled. That's why I like it. Any time business improvements outstrip share movements, there's an opportunity for investors. That's what we have here, as the following chart shows:
+
+Notice the divergence. Workday may have outperformed since its IPO, but over the past year it's down almost 15% despite growing revenue 68% and more than doubling cash flow from operations. All signs point to Workday earning more from its existing clients while still capturing new ones.
+
+History also has me interested. Co-founder and Chairman Dave Duffield helped turn PeopleSoft into enough of a competitor to Oracle that CEO Larry Ellison paid $10.3 billion to acquire it.
+
+Today, over a decade after starting Workday, Duffield still owns 35.08% of the company's shares outstanding, according to S&P Capital IQ. If common shareholders win, he does, too -- a historically powerful combination that I expect to pay off here, too.
+
+Andrew Tonner (Apple): Although this pick should put me in the running for "least creative stock pick ever," the recent pullback in Apple's shares creates an attractive entry point for long-term investors.
+
+Perhaps the seemingly constant refrain on investing in Apple occasionally grows tired, but the investment community's fixation on the world's largest publicly traded company remains merit-based. Apple currently trades at 13.0 times its LTM earnings, versus 18.9 times and 21.5 times for the S&P 500 and Nasdaq, respectively.
+
+Despite this valuation gap, Apple's near-term and long-term growth outlooks appear more compelling than many of its peers. The average of 40 analysts' estimates call for Apple's EPS to increase 32.4% in the current quarter, a data point supported by Apple's again record 13 million iPhone 6s sales in its opening weekend. Apple should also benefit from the gradual ramping of Apple Watch sales, and the iPad Pro should help buoy its struggling tablet business.
+
+Looking further into the future, our gradual understanding of long-tailed new product initiatives like Project Titan point to a market opportunity with the potential to double Apple's revenue base. So to summarize, Apple offers investors more growth at a lower valuation in the short term with ample big-picture catalysts to support sustainable long-term growth. Throw in likely gains from ongoing dividend increases and stock buybacks, and hopefully you see why Apple looks like a great buy today.
+
+
+
+
+
+Anders Bylund (Internap): I love to pounce on short-lived discounts. They are created when fundamentally solid companies make a fairly minor adjustment, only to send investors running for the exits in a wild panic.
+
+That's what happened to Internap at the end of September. The Internet infrastructure operator lowered its full-year revenue guidance by 3.4%, slashed EBITDA profit guidance by 8.3%, and reduced its full-year earnings targets by 13.3%. The market responded with a full-scale rout, pulling Internap shares more than 18% lower the next day and down by 27% in September as a whole.
+
+That's an overreaction any way you slice it. Internap's shares are priced for absolute disaster today. Now, I'll admit that it isn't the strongest business on the planet -- Internap investors are currently looking back at negative earnings and cash flows over the last four quarters and the company carries a crushing $373 million total debt load. But sales have trended strongly upward in recent years, and there's no doubt in my mind that core networking operators like Internap have a solid place in the modern business world for decades to come.
+
+And the clincher, of course, is that Internap's sudden share price plunge was based on a decidedly short-term issue. The company is rolling out a new traffic routing platform at the moment, and it'll take a quarter or two longer than expected before that investment starts paying dividends.
+
+Management expects to start reporting positive free cash flows very soon, and then the routing upgrades should start bringing new clients to Internap's data center doorsteps. That's all. A slight delay, no canceled orders or plunging market interest.
+
+So the third and fourth quarters of 2015 will be slightly soft. But Internap's long-term business value looks solid, and investors just aren't paying attention right now.
+
+There's your buy-in window -- right here, right now. The company is certainly worth a curious and greedy look before Mr. Market comes to his senses again.
+
+Tim Brugger (Synaptics): [Editor's note: Tim wrote this portion of this roundtable article before SYNA's jump on Sept. 30. He has added some post-pop perspective at the end of his write-up.] For long-term growth investors willing and able to ride out the inevitable ups-and-downs of a mid-cap stock, Synaptics offers one of the best values around. Since announcing fiscal 2015 annual and Q4 earnings on July 30, Synaptics shareholders have endured a more than 20% drop in share price from pre-earnings levels. Based solely on that, you'd think Synaptics' Q4 was a complete failure. Nothing could be further from the truth.
+
+Last quarter's record-breaking $479 million in revenue was an impressive 52% jump year-over-year, and it gets better. On an annual basis, Synaptics had its best year ever: reporting an 80% jump in sales to $1.7 billion. Better still, according to Synaptics CFO Wajid Ali, investors can expect the stellar growth to continue heading into fiscal 2016. Ali forecast between $450 million and $490 million in revenue this quarter, equal to an improvement between 59% and 73%, respectively.
+
+Earnings per share (EPS) also increased in both Q4 and annually, despite ratcheting up research and development (R&D) costs for new technologies like its recently unveiled "SideTouch" solution used by Xiaomi, one of China's fastest-growing smartphone manufacturers, for its new Mi4c device.
+
+Despite incredibly strong financials, a product suite consisting of touchscreen, display, and fingerprint ID solutions -- all exploding markets in our mobile world -- and a stunningly low forward price-to-earnings ratio (P/E) of only 8.5, Synaptics is currently trading more than 40% below analysts' consensus price target of $94.82. No doubt about it, Synaptics warrants a spot on the list of five top tech stocks to buy in October.
+
+
+
+Post-pop perspective: Some investors may assume that Synaptics no longer represents the same long-term growth opportunity after reports that it had received, and promptly rejected, an acquisition offer of $110 a share resulted in a $15-a-share price spike.
+
+However, even at $79 a share as of this writing Friday morning, the offer from a group of China-based investors simply confirms what was apparent following the company's strong fiscal Q4: Synaptics’ incredibly strong revenue growth, and expectations for more, warrant a good, long look. A price target of nearly $95 a share, industry insiders offering what was a 70% premium to acquire it, and still trading at a mere 10 times forward earnings all point to one thing: Synaptics remains a solid, long-term opportunity.
+
+Andres Cardenal (LinkedIn): LinkedIn stock is down by more than 30% from its highs of the last year, and this looks like a buying opportunity for investors looking to invest in a disruptive growth business with massive long-term potential at a discounted entry price.
+
+LinkedIn is the undisputed leader in online professional contacts and job opportunities, and the company has almost no relevant competition in its core business. The platform has nearly 380 million members and 37,425 companies using its services as of the end of the second quarter, and this huge scale provides a crucial source of competitive advantage in the business.
+
+LinkedIn makes most of its revenue from talent solutions, meaning companies that pay LinkedIn to view and contact potential job candidates. This business produced 62% of total revenue during the second quarter, with sales growing by a strong 38% year over year.
+
+Revenue from premium services grew 22%, accounting for 18% of total sales, while online advertising revenue grew 32% and represented 20% of sales.
+
+LinkedIn's different segments are producing rapid revenue growth, and the company should be able to deliver increasing profitability over the years as the business matures and reinvestment needs decline in comparison to sales. Powerful sales growth in combination with rising profit margins bode well for investors in LinkedIn over the years to come.

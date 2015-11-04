@@ -1,0 +1,37 @@
+Image: Sarah Tew/CNET Android handset makers continue to compete for a smaller share of smartphones sales across Europe, according to new sales figures.
+
+Android's market share across Europe's big five countries -- Great Britain, Germany, France, Italy, and Spain -- fell on average by 3.3 percentage points compared with last year, according to figures for the three months to August compiled by market research firm Kantar Worldpanel ComTech.
+
+With a 72.2 percent share, Android devices still dominate overall sales across Germany, the UK, France, Spain, and Italy.
+
+However, Android has seen its share decline by as much as seven percent in Europe's largest markets while only making slight year-on-year gains in Spain and Italy, where consumers lean heavily towards pre-paid mobile subscriptions.
+
+Are Android smartphones finally poised to conquer the enterprise? Android has long ruled the consumer smartphone market – but can it make an impact on the business market too? Read More
+
+The big winner in Spain and Italy is Huawei where it's now respectively the second and third top brand by sales, Kantar's Europe business director, Dominic Sunnebo, told ZDNet
+
+The recent quarter in the UK was a lowlight for Samsung, which still leads but saw its market share fall period-over-period and year-over-year. Sony and LG were the only two Android vendors able to grow share over the last year and over the three months ending in July 2015, said Sunnebo.
+
+Across Europe, Samsung still leads Apple by a long but shrinking margin, with its share falling from 42 percent a year ago to 39 percent in the current period, while Apple's share grew from 13.7 percent to 16.2 percent. Microsoft's Lumia phones are in third place with a 10.6 percent share, followed in descending order by Sony, Huawei, LG, Wiko, HTC and Motorola.
+
+Kantar Worldpanel ComTech
+
+Windows share of smartphone sales on average stood at 11 percent, up 1.6 percentage points compared with last year, though as the brand-specific breakdown above shows third-party Windows devices make very little difference.
+
+In Germany, Android accounted for 75 percent of sales, down from 82 percent a year ago, while iOS sales rose from 9 percent last year to 13.6 this year during the period. Despite Android's decline, Samsung's share inched upwards to 50 percent in Germany, said Sunnebo.
+
+Android sales declined 5.2 percentage points each in France and the UK, with current Android shares at 54.1 percent and 71 percent, respectively.
+
+France was a highlight for Windows in this period where sales hit 13.1 percent, up from 9.9 percent a year ago, while in the UK Microsoft's share was flat at 11.3 percent. Windows share in Italy, where Microsoft's cheaper Lumia phones proved popular, declined to 13.7 percent this year from 14.5 percent a year ago.
+
+Microsoft's fortunes could change in coming months, however, following yesterday's unveiling of the Lumia 950 and 950XL.
+
+In the UK, the unlocked Lumia 950 will retail for £499.99 while the larger 950XL will sell for £549.99. Microsoft hasn't released UK pricing for the Lumia 550, though specs put it on the same tier as the cheap but strong selling Lumia 530. It will go on sale in December in the US at $139 unlocked.
+
+The Microsoft stores in Germany and France are listing the Lumia 950 at €599 and the Lumia 950 XL at €699.
+
+A new premium and low-end lineup could help revive interest in Windows Phone, which Kantar's chief of research Carolina Milanesi noted has had little impact on sales, despite aggressive pricing.
+
+"At the Windows 10 New York launch on October 6, we saw Microsoft refocused on offering a companion phone for users of Windows 10, and enterprise-class devices to IT departments - a more modest goal perhaps, but certainly a more realistic one," Milanesi said.
+
+Read more about Android and Lumia

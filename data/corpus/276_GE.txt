@@ -1,0 +1,100 @@
+Email Research Recipient email addresses will not be used in mailing lists or redistributed. Recipient's
+
+Email
+
+Use semicolon to separate each address, limit to 20 addresses. Enter the
+
+characters you see Can't read?
+
+Try a new set Send Cancel Email Research Thank you for your interest in sharing Moody's Research. You have reached the daily limit of Research email sharings. OK Thank you! You have successfully sent the research.
+
+Please note: some research requires a paid subscription in order to access. OK Related Issuers Synchrony Credit Card Master Note Trust, Series 2015-4 Related Research Rating Action: Moody's assigns definitive ratings to Synchrony's 2015-4 card ABS SEC Rule 17g-7 Report of R&Ws: Synchrony Credit Card Master Note Trust, Series 2015-4 Deal v1.1 Compared To Credit Cards v2.0 Pre-Sale Report: Synchrony Credit Card Master Note Trust, Series 2015-4 Notes SEC Rule 17g-7 Report of R&Ws: Synchrony Credit Card Master Note Trust, Series 2015-4 Deal v1.0 Compared To Credit Cards v2.0 Rating Action: Moody's assigns provisional ratings to Synchrony's 2015-4 card ABS Global Credit Research - 25 Sep 2015 Approximately $324 million of asset-backed securities rated New York, September 25, 2015 -- Moody's Investors Service has assigned a provisional Aaa (sf) rating to the Class A Notes, a provisional Aa2 (sf) rating to the Class B Notes and a provisional A2 (sf) rating to the Class C Notes of Series 2015-4 to be issued by Synchrony Credit Card Master Note Trust (formerly known as GE Capital Credit Card Master Note Trust), sponsored by Synchrony Bank (formerly known as GE Capital Retail Bank) (unrated). Moody's complete rating action is as follows: Issuer: Synchrony Credit Card Master Note Trust, Series 2015-4 $275,000,000 Class A Notes, Assigned (P)Aaa (sf) $26,369,863 Class B Notes, Assigned (P)Aa2 (sf) $22,602,739 Class C Notes, Assigned (P)A2 (sf) RATINGS RATIONALE The ratings are based on the counterparty risk assessment (CR Assessment), private monitored rating or low volatility credit estimate, as applicable, of the sponsor, which we use to assess the likelihood of the sponsor becoming insolvent and shutting down its credit card portfolio, the quality of the underlying credit card receivables, the transaction's structural protections, the expertise of General Electric Capital Corporation (GECC) (A1 stable/P-1), as servicer, the credit enhancement from subordinate classes of notes in the series and the Excess Collateral Amount. The sponsor is currently approximately 85% indirectly owned by GECC, but GECC expects to exit from its remaining ownership in the sponsor by the end of 2015. As a result, our stress assumptions used to rate the notes reflect GECC's expectation to exit from its ownership of the sponsor. The Class A Notes comprise 73% of the total collateral amount of the series, the Class B Notes 7% of the total, the Class C Notes 6% of the total and the Class D Notes 9% of the total. The Excess Collateral Amount comprises 5% of the total. The Class A Notes, Class B Notes and Class C Notes have fixed rate coupons. These notes have an expected maturity date of 15 September 2020 and a legal maturity date of 15 September 2023. Moody's ratings address the likelihood of interest payments being made when due and the return of principal by the legal maturity date. Assets of the trust consist of private label and co-branded credit card receivables generated on accounts originated and underwritten by Synchrony Bank. Retailers that are currently included in the trust portfolio are, among others, JCPenney, Lowe's, Sam's Club, Wal-Mart, Gap, Belk and Chevron. Moody's expects performance in the range of 5.5% - 7.5% for charge-offs, 26.0% - 29.0% for yield and 12.5% - 14.5% for the principal payment rate. Moody's performance expectations for a given variable indicate Moody's forward-looking view of the likely range of performance over the medium term. From time to time, Moody's may, if warranted, change these expectations. Performance that falls outside the given range may indicate that the collateral's credit quality is stronger or weaker than Moody's had anticipated when the related securities were rated. Even so, a deviation from the expected range will not necessarily result in a rating action nor does performance within expectations preclude such actions. The decision to take (or not take) a rating action is dependent on an assessment of a range of factors including, but not exclusively, the performance metrics. Methodology Underlying the Rating Action: The principal methodology used in these ratings was "Moody's Approach to Rating Credit Card Receivables-Backed Securities" published in June 2015. Please see the Credit Policy page on www.moodys.com for a copy of this methodology. Factors that would lead to an upgrade or downgrade of the rating: Up Moody's could upgrade the ratings of the securities if our expectation of the trust's performance following a sponsor default and portfolio shutdown (i.e., Aaa LGSD) improves materially, specifically, if the charge-off rate falls or the payment rate or yield rises. A decrease in Moody's assessment of the likelihood of the sponsor shutting down its credit card portfolio, generally reflected from an upgrade to the sponsor's CR Assessment, private monitored rating or low volatility credit estimate, as applicable, could also lead to an upgrade to the rating of the securities, because we use it to assess the likelihood of defaulting and shutting down its credit card portfolio. Down Moody's could downgrade the ratings of the securities if our expectation of the trust's performance following a sponsor default and portfolio shutdown (i.e., Aaa LGSD) deteriorates materially, specifically, if the charge-off rate rises or the payment rate or yield falls. An increase in Moody's assessment of the likelihood of the sponsor shutting down its credit card portfolio, generally reflected from a downgrade to the sponsor's CR Assessment, private monitored rating or low volatility credit estimate, as applicable, could also lead to a downgrade to the rating of the securities, because we use the rating of the sponsor to assess the likelihood of defaulting and shutting down its credit card portfolio. Loss and Cash Flow Analysis: In rating this transaction, Moody's uses a cash flow model to determine the collateral losses in a maximum stress scenario. As a second step, Moody's haircuts such collateral losses based on the sponsor's credit quality. Finally, Moody's compares note available credit enhancement with the adjusted collateral losses, taking into account loss allocation and other structural features, to derive the expected loss for each rated instrument. REGULATORY DISCLOSURES For further specification of Moody's key rating assumptions and sensitivity analysis, see the sections Methodology Assumptions and Sensitivity to Assumptions of the disclosure form. Further information on the representations and warranties and enforcement mechanisms available to investors are available on http://www.moodys.com/viewresearchdoc.aspx?docid=PBS_SF417743 Moody's describes its loss and cash flow analysis in the section "Ratings Rationale" of this press release. Moody's quantitative analysis entails an evaluation of scenarios that stress factors contributing to sensitivity of ratings and take into account the likelihood of severe collateral losses or impaired cash flows. For ratings issued on a program, series or category/class of debt, this announcement provides certain regulatory disclosures in relation to each rating of a subsequently issued bond or note of the same series or category/class of debt or pursuant to a program for which the ratings are derived exclusively from existing ratings in accordance with Moody's rating practices. For ratings issued on a support provider, this announcement provides certain regulatory disclosures in relation to the rating action on the support provider and in relation to each particular rating action for securities that derive their credit ratings from the support provider's credit rating. For provisional ratings, this announcement provides certain regulatory disclosures in relation to the provisional rating assigned, and in relation to a definitive rating that may be assigned subsequent to the final issuance of the debt, in each case where the transaction structure and terms have not changed prior to the assignment of the definitive rating in a manner that would have affected the rating. For further information please see the ratings tab on the issuer/entity page for the respective issuer on www.moodys.com. For any affected securities or rated entities receiving direct credit support from the primary entity(ies) of this rating action, and whose ratings may change as a result of this rating action, the associated regulatory disclosures will be those of the guarantor entity. Exceptions to this approach exist for the following disclosures, if applicable to jurisdiction: Ancillary Services, Disclosure to rated entity, Disclosure from rated entity. Regulatory disclosures contained in this press release apply to the credit rating and, if applicable, the related rating outlook or rating review. Please see www.moodys.com for any updates on changes to the lead rating analyst and to the Moody's legal entity that has issued the rating. Please see the ratings tab on the issuer/entity page on www.moodys.com for additional regulatory disclosures for each credit rating. Alan Birnbaum
+
+Asst Vice President - Analyst
+
+Structured Finance Group
+
+Moody's Investors Service, Inc.
+
+250 Greenwich Street
+
+New York, NY 10007
+
+U.S.A.
+
+JOURNALISTS: 212-553-0376
+
+SUBSCRIBERS: 212-553-1653
+
+Matias Langer
+
+VP - Senior Credit Officer
+
+Structured Finance Group
+
+JOURNALISTS: 212-553-0376
+
+SUBSCRIBERS: 212-553-1653
+
+Releasing Office:
+
+Moody's Investors Service, Inc.
+
+250 Greenwich Street
+
+New York, NY 10007
+
+U.S.A.
+
+JOURNALISTS: 212-553-0376
+
+SUBSCRIBERS: 212-553-1653
+
+Moody's assigns provisional ratings to Synchrony's 2015-4 card ABS No Related Data. © 2015 Moody’s Corporation, Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and/or their licensors and affiliates (collectively, “MOODY’S”). All rights reserved.
+
+
+
+CREDIT RATINGS ISSUED BY MOODY'S INVESTORS SERVICE, INC. AND ITS RATINGS AFFILIATES (“MIS”) ARE MOODY’S CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, CREDIT COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES, AND CREDIT RATINGS AND RESEARCH PUBLICATIONS PUBLISHED BY MOODY’S (“MOODY’S PUBLICATIONS”) MAY INCLUDE MOODY’S CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, CREDIT COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES. MOODY’S DEFINES CREDIT RISK AS THE RISK THAT AN ENTITY MAY NOT MEET ITS CONTRACTUAL, FINANCIAL OBLIGATIONS AS THEY COME DUE AND ANY ESTIMATED FINANCIAL LOSS IN THE EVENT OF DEFAULT. CREDIT RATINGS DO NOT ADDRESS ANY OTHER RISK, INCLUDING BUT NOT LIMITED TO: LIQUIDITY RISK, MARKET VALUE RISK, OR PRICE VOLATILITY. CREDIT RATINGS AND MOODY’S OPINIONS INCLUDED IN MOODY’S PUBLICATIONS ARE NOT STATEMENTS OF CURRENT OR HISTORICAL FACT. MOODY’S PUBLICATIONS MAY ALSO INCLUDE QUANTITATIVE MODEL-BASED ESTIMATES OF CREDIT RISK AND RELATED OPINIONS OR COMMENTARY PUBLISHED BY MOODY’S ANALYTICS, INC. CREDIT RATINGS AND MOODY’S PUBLICATIONS DO NOT CONSTITUTE OR PROVIDE INVESTMENT OR FINANCIAL ADVICE, AND CREDIT RATINGS AND MOODY’S PUBLICATIONS ARE NOT AND DO NOT PROVIDE RECOMMENDATIONS TO PURCHASE, SELL, OR HOLD PARTICULAR SECURITIES. NEITHER CREDIT RATINGS NOR MOODY’S PUBLICATIONS COMMENT ON THE SUITABILITY OF AN INVESTMENT FOR ANY PARTICULAR INVESTOR. MOODY’S ISSUES ITS CREDIT RATINGS AND PUBLISHES MOODY’S PUBLICATIONS WITH THE EXPECTATION AND UNDERSTANDING THAT EACH INVESTOR WILL, WITH DUE CARE, MAKE ITS OWN STUDY AND EVALUATION OF EACH SECURITY THAT IS UNDER CONSIDERATION FOR PURCHASE, HOLDING, OR SALE.
+
+
+
+MOODY’S CREDIT RATINGS AND MOODY’S PUBLICATIONS ARE NOT INTENDED FOR USE BY RETAIL INVESTORS AND IT WOULD BE RECKLESS FOR RETAIL INVESTORS TO CONSIDER MOODY’S CREDIT RATINGS OR MOODY’S PUBLICATIONS IN MAKING ANY INVESTMENT DECISION. IF IN DOUBT YOU SHOULD CONTACT YOUR FINANCIAL OR OTHER PROFESSIONAL ADVISER.
+
+
+
+ALL INFORMATION CONTAINED HEREIN IS PROTECTED BY LAW, INCLUDING BUT NOT LIMITED TO, COPYRIGHT LAW, AND NONE OF SUCH INFORMATION MAY BE COPIED OR OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON WITHOUT MOODY’S PRIOR WRITTEN CONSENT.
+
+
+
+All information contained herein is obtained by MOODY’S from sources believed by it to be accurate and reliable. Because of the possibility of human or mechanical error as well as other factors, however, all information contained herein is provided “AS IS” without warranty of any kind. MOODY'S adopts all necessary measures so that the information it uses in assigning a credit rating is of sufficient quality and from sources MOODY'S considers to be reliable including, when appropriate, independent third-party sources. However, MOODY’S is not an auditor and cannot in every instance independently verify or validate information received in the rating process or in preparing the Moody’s Publications.
+
+
+
+To the extent permitted by law, MOODY’S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability to any person or entity for any indirect, special, consequential, or incidental losses or damages whatsoever arising from or in connection with the information contained herein or the use of or inability to use any such information, even if MOODY’S or any of its directors, officers, employees, agents, representatives, licensors or suppliers is advised in advance of the possibility of such losses or damages, including but not limited to: (a) any loss of present or prospective profits or (b) any loss or damage arising where the relevant financial instrument is not the subject of a particular credit rating assigned by MOODY’S.
+
+
+
+To the extent permitted by law, MOODY’S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability for any direct or compensatory losses or damages caused to any person or entity, including but not limited to by any negligence (but excluding fraud, willful misconduct or any other type of liability that, for the avoidance of doubt, by law cannot be excluded) on the part of, or any contingency within or beyond the control of, MOODY’S or any of its directors, officers, employees, agents, representatives, licensors or suppliers, arising from or in connection with the information contained herein or the use of or inability to use any such information.
+
+
+
+NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, TIMELINESS, COMPLETENESS, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OF ANY SUCH RATING OR OTHER OPINION OR INFORMATION IS GIVEN OR MADE BY MOODY’S IN ANY FORM OR MANNER WHATSOEVER.
+
+
+
+Moody’s Investors Service, Inc., a wholly-owned credit rating agency subsidiary of Moody’s Corporation (“MCO”), hereby discloses that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by Moody’s Investors Service, Inc. have, prior to assignment of any rating, agreed to pay to Moody’s Investors Service, Inc. for appraisal and rating services rendered by it fees ranging from $1,500 to approximately $2,500,000. MCO and MIS also maintain policies and procedures to address the independence of MIS’s ratings and rating processes. Information regarding certain affiliations that may exist between directors of MCO and rated entities, and between entities who hold ratings from MIS and have also publicly reported to the SEC an ownership interest in MCO of more than 5%, is posted annually at www.moodys.com under the heading “Investor Relations — Corporate Governance — Director and Shareholder Affiliation Policy.”
+
+
+
+For Australia only: Any publication into Australia of this document is pursuant to the Australian Financial Services License of MOODY’S affiliate, Moody’s Investors Service Pty Limited ABN 61 003 399 657AFSL 336969 and/or Moody’s Analytics Australia Pty Ltd ABN 94 105 136 972 AFSL 383569 (as applicable). This document is intended to be provided only to “wholesale clients” within the meaning of section 761G of the Corporations Act 2001. By continuing to access this document from within Australia, you represent to MOODY’S that you are, or are accessing the document as a representative of, a “wholesale client” and that neither you nor the entity you represent will directly or indirectly disseminate this document or its contents to “retail clients” within the meaning of section 761G of the Corporations Act 2001. MOODY’S credit rating is an opinion as to the creditworthiness of a debt obligation of the issuer, not on the equity securities of the issuer or any form of security that is available to retail clients. It would be dangerous for “retail clients” to make any investment decision based on MOODY’S credit rating. If in doubt you should contact your financial or other professional adviser.
+
+
+
+For Japan only: MOODY'S Japan K.K. (“MJKK”) is a wholly-owned credit rating agency subsidiary of MOODY'S Group Japan G.K., which is wholly-owned by Moody’s Overseas Holdings Inc., a wholly-owned subsidiary of MCO. Moody’s SF Japan K.K. (“MSFJ”) is a wholly-owned credit rating agency subsidiary of MJKK. MSFJ is not a Nationally Recognized Statistical Rating Organization (“NRSRO”). Therefore, credit ratings assigned by MSFJ are Non-NRSRO Credit Ratings. Non-NRSRO Credit Ratings are assigned by an entity that is not a NRSRO and, consequently, the rated obligation will not qualify for certain types of treatment under U.S. laws. MJKK and MSFJ are credit rating agencies registered with the Japan Financial Services Agency and their registration numbers are FSA Commissioner (Ratings) No. 2 and 3 respectively.
+
+
+
+MJKK or MSFJ (as applicable) hereby disclose that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by MJKK or MSFJ (as applicable) have, prior to assignment of any rating, agreed to pay to MJKK or MSFJ (as applicable) for appraisal and rating services rendered by it fees ranging from JPY200,000 to approximately JPY350,000,000.
+
+MJKK and MSFJ also maintain policies and procedures to address Japanese regulatory requirements.
+

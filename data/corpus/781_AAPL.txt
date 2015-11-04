@@ -1,0 +1,49 @@
+This article, 16 GB SO-DIMM RAM modules: Everything you need to know, originally appeared on TechRepublic.com.
+
+View photo .
+
+Image: iStock/khz
+
+16 GB SO-DIMM modules are now starting to become generally available from multiple vendors, which eases RAM constraints in devices that have a limited number of slots for RAM modules. However, due to hardware limitations, these RAM modules do not work with all systems that are able to utilize lower density modules.
+
+The reason for this is processor support -- Intel's implementation of the JEDEC DDR3 specification in previous generation processors does not account for the introduction of high-density modules. To complicate things further, the vendor specification sheets do not accurately reflect what processors are compatible.
+
+The first generation of 16 GB modules
+
+In late 2013, the first generation of 16 GB RAM modules saw a limited release from an independent vendor named Intelligent Memory, which uses a creative workaround to compensate for the lack of 8Gbit DRAM chips that were available in the market at the time. Instead of waiting for the higher-capacity modules, these stack two 4Gbit chips together -- an operation that requires picosecond-level timing accuracy to work reliably.
+
+As Intelligent Memory was the only vendor with 16 GB DDR3 modules, and owing to the difficulty of DRAM stacking, these modules have been available at a substantial premium.
+
+Wide availability of 16 GB modules
+
+Crucial, one of the brands of Micron Technology, is now selling 16 GB modules directly, with the same part slowly becoming available in retail channels (at a slightly lower price than directly from Crucial). Other vendors have generic 16 GB modules, though your mileage may vary -- as with any new technology, it may be best to wait for reviews from other buyers.
+
+Processors compatible with 16 GB modules
+
+Any system using an Intel Skylake (6000-series) or Broadwell (5000-series) processor
+
+Intel Atom Avoton and Rangeley processors
+
+AMD processors that accept DDR3 RAM, except G-Series embedded processors
+
+Tilera, Freescale, and Cavium processors, which support DDR3 RAM
+
+Motherboards that use the Intel X79 chipset can theoretically utilize 16 GB modules, though support for this is somewhat inconsistent -- the silicon supports it, though in most circumstances it requires a BIOS update.
+
+Potential use cases for 16 GB modules
+
+Certain notebooks are thinner than previous generations by soldering components onto the main system board, rather than include slots for user-replaceable RAM. Among these include the ThinkPad T450s, which has 4 GB of DDR3 RAM onboard, but leaves one user-replaceable DDR3 slot. Because of this design choice, users of those laptops have been limited to a maximum of 12 GB RAM. With the availability of 16 GB modules, these systems can be configured from the factory (or modified by the end user) to use 20 GB RAM.
+
+Intel's Next Unit of Computing (NUC) systems are increasingly popular, though owing to their small form factor, only include 2 SO-DIMM slots. With high-density RAM modules, these systems can now have 32 GB RAM.
+
+Additionally, low-profile servers such as the ARM-powered HP Moonshot m700 are good candidates for expanding RAM availability. Although the m700 can use four DDR3 modules, RAM use on a server can become particularly heavy, depending on the application -- 64 GB would certainly be a welcome upgrade for many workloads.
+
+Note of caution for Apple users
+
+The current generation of Apple products do not use Broadwell processors, making them incompatible with high-density RAM modules. However, Apple's tendency toward soldering RAM onto the main system board on all current generation models of notebooks -- and the Mac Mini -- renders upgrading impossible. Rumors are flying about the potential for an iMac refresh using Intel's new Skylake processors, but whether these will also use soldered RAM is yet to be seen.
+
+What's your speed?
+
+Do you need large amounts of RAM for your notebook or small form factor PC? If so, what type of task are you using it for? Share your experiences in the comments.
+
+Also see

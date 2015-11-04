@@ -1,0 +1,37 @@
+Computing giant Apple said Monday it has removed software from its App Store, after reports said hundreds of apps including some of China's most popular were infected with malware.
+
+More than 300 apps including the hugely popular instant messaging service WeChat and ride-hailing app Didi Kuaidi were infected with code potentially allowing tracking of user data, Chinese state-run media said.
+
+The reports were a blow to the US firm, which has Greater China as its second-largest market.
+
+Apple told AFP that it had "removed" the affected apps from its online store.
+
+Citing US-based cybersecurity firm Palo Alto Networks, the Wall Street Journal said that the attack affected more than three dozen apps on Apple's iPhone and iPad devices.
+
+Apps infected by the malware -- code-named XcodeGhost -- could transmit information about a user?s machine, mount phishing attacks to try to steal passwords, and access clipboard information, it said.
+
+It was not clear whether all the infected apps were Chinese.
+
+But other firms said to be affected included Chinese ride-hailing app Didi Kuaidi, Internet portal NetEase, and mobile phone operator China Unicom, among several more.
+
+Anti-censorship group Greatfire.org, which tracks Chinese Internet restrictions, hacking and other online issues, said the attack appeared to originate in compromised versions of Xcode, Apple's developer software, which were then used by Chinese programmers.
+
+"This is the most widespread and significant spread of malware in the history of the Apple app store, anywhere in the world," it said.
+
+"Apple notoriously manually reviews all app submissions and, in comparison to Android stores, has been relatively malware-free," it added.
+
+Chinese authorities impose a range of restrictions on the Internet in the country, dubbed the Great Firewall, which can slow access to sites abroad to a trickle.
+
+Many Chinese developers prefer to download software from domestic websites, Greatfire.org said, "because of slow download speeds from foreign websites in China".
+
+Wee Teck Loo, head of consumer electronics at Euromonitor International, added: "It is definitely embarrassing for Apple but the reality is that malware is a persistent problem since the days of PCs."
+
+Tencent, which makes the WeChat software with around 500 million users in China said: "A security flaw, caused by an external malware, was recently discovered affecting iOS users," adding it had repaired the flaw.
+
+"There has been no theft and leakage of users? information or money," the statement issued at the weekend said.
+
+The makers of taxi-hailing app Didi Kuaidi, which claims 200 million regular users, said its software had been infected but denied users' privacy was compromised.
+
+Following a software upgrade ?there?s no longer any threat?, it said in an online statement.
+
+Apple told AFP: ?To protect our customers, we?ve removed the apps from the App Store that we know have been created with this counterfeit software and we are working with the developers to make sure they?re using the proper version of Xcode to rebuild their apps."

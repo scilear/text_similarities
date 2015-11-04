@@ -1,0 +1,31 @@
+American companies keep an enormous amount of cash overseas as a not-at-all-subtle way to avoid tax liability at home.
+
+Apple (NASDAQ:AAPL) leads all other multinational corporations in employing this practice, holding $181.1 billion in offshore accounts, according to a recent report released by Citizens for Tax Justice, an advocacy group. The iPhone maker is not alone in doing this, according to the report. Most of America's largest corporations maintain subsidiaries in offshore tax havens. At least 358 companies, nearly 72% of the Fortune 500, operated subsidiaries in tax haven jurisdictions as of the end of 2014.
+
+Of all those companies, Apple is the worst offender, and its tactics, while legal, are keeping the U.S. from claiming its full share of tax revenue. It's a staggering amount of money, and of the total amount of federal taxes being avoided using offshore tax havens, Apple is responsible for nearly two thirds.
+
+How does it work?
+
+As noted above, Apple is not doing anything illegal, or even unethical. It's just taking advantage of favorable laws. The CTJ, which certainly has its biases, explained how it works:
+
+U.S.-based multinational corporations are allowed to play by a different set of rules than small and domestic businesses or individuals when it comes to the tax code. Rather than paying their fair share, many multinational corporations use accounting tricks to pretend for tax purposes that a substantial portion of their profits are generated in offshore tax havens, countries with minimal or no taxes where a company's presence may be as little as a mailbox.
+
+The use of tax havens by multinational corporations allows them to avoid an estimated $90 billion in federal income taxes each year, according to the report.
+
+How much would Apple owe?
+
+The overall estimated uncollected taxes comes to $90 billion, and Apple is by far the worst offender. CTJ, which used data from the 57 Fortune 500 companies disclosing what they would expect to pay in U.S. taxes if these profits were not officially booked offshore, laid out what the company would owe:
+
+Apple has booked $181.1 billion offshore -- more than any other company. It would owe $59.2 billion in U.S. taxes if these profits were not officially held offshore for tax purposes. A 2013 Senate investigation found that Apple has structured two Irish subsidiaries to be tax residents of neither the United States, where they are managed and controlled, nor Ireland, where they are incorporated. This arrangement ensures that they pay no tax to any government on the lion's share of their offshore profits.
+
+Apple is being smart in doing this, and you could even say it has a responsibility to shareholders to minimize tax liability as long as it's operating legally, but it's still a troubling practice. There's no reason for the company to stop using these tactics, but it would certainly be logical for Congress to find a way to close these loopholes.
+
+It's a tough negotiation
+
+If Congress passes laws that are too strict, it could force companies to actually move their business away from the United States. The correct solution lies in a compromise where companies can repatriate their assets -- pay a reasonable amount of taxes -- and then pay a lower rate, but on all earnings going forward.
+
+Neil Buchanan, a professor at George Washington University, talked to Ars Technica about the issue:
+
+Losing $90 billion of potential tax revenues every year is a very big deal. That money could be used to reverse recent cuts in Head Start, and/or assistance to state governments to fund education at all levels, or increase the Earned Income Tax Credit, and on and on. Politicians who respond to proposals to fund these programs by saying that "we can't afford it" are simply saying, "I'd rather cut Apple's tax bill than educate our children."
+
+It is, of course, not quite that simple. Companies like Apple do business all over the world and have tax liability in multiple countries. Still, a lot of money is being left on the table, and Congress should work out a reasonable solution. Ultimately, that will cost Apple a little more, but it will also give it freer use of its capital and stop it from having to play so many tax games.

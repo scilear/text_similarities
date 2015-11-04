@@ -1,0 +1,15 @@
+Volkswagen has been cheating on its U.S. government emissions tests for years. And it was a small, independent research institution, not the Environmental Protection Agency, that caught VW in the act.
+
+Which of these facts you find more offensive depends in part on your view of which is worse: corporate malfeasance or government incompetence. There's no right answer. In this case, however, the facts argue for a criminal investigation of Volkswagen -- which the Justice Department has already begun.
+
+The EPA lays out a breathtaking pattern of duplicity on VW's part. When the EPA and the California Air Resources Board were alerted in May 2014 to the results of a study commissioned by the International Council on Clean Transportation, which showed the problems with VW's vehicles, the company blamed technical issues and "unexpected in-use conditions." In December 2014, it recalled 500,000 vehicles to address the problem. But follow-up testing by California and the EPA revealed not only that higher emissions persisted, but that the vehicles' diagnostic systems weren't picking them up.
+
+Only when the two agencies threatened to withhold environmental certification from VW's 2016 models did the company come clean: Beginning in 2009, it had installed software that would fully switch on a vehicle's emissions controls only when it was being tested. Under normal driving conditions, VW's diesels would spew 10 to 40 times the amount of nitrogen oxides they emitted during the tests.
+
+A brief emissions primer: Nitrogen oxides react with other compounds to form small particles that, as the EPA helpfully notes, "penetrate deeply into sensitive parts of the lungs and can cause or worsen respiratory disease, such as emphysema and bronchitis, and can aggravate existing heart disease, leading to increased hospital admissions and premature death."
+
+Volkswagen has halted sales of the affected cars, both new and used. Chief Executive Officer Martin Winterkorn has said he's "deeply sorry" and that the company will do "everything necessary in order to reverse the damage this has caused." VW's shares have cratered on the news. The EPA has the authority to impose civil penalties of up to $37,500 for each violation -- or about $18 billion. The consumer class-action suits are just beginning.
+
+And if the EPA's allegations about VW's fraud prove correct, those responsible will find themselves defending far more serious claims than VW's shiny marketing campaign for its "TDI clean diesel" technology.
+
+To contact the senior editor responsible for Bloomberg View’s editorials: David Shipley at davidshipley@bloomberg.net.

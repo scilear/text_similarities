@@ -1,0 +1,57 @@
+Volkswagen, the world’s second-largest carmaker, has been found to have installed software in diesel vehicles that enables cheating on emissions tests.
+
+In the US, the Environmental Protection Agency has ordered the recall of almost 500,000 VW and Audi cars. However, the German manufacturer revealed on Tuesday that up to 11m of its vehicles worldwide could be affected and set aside €6.5bn to cover the potential cost of fixing them. If you are a VW or Audi owner, this is what you need to know.
+
+Q: I own a Volkswagen diesel. How will the emissions scandal affect my car?
+
+A: Not all diesel models are affected. In the US, the EPA has listed five models built by the VW group since 2009, each powered by a two-litre turbocharged diesel engine, which allegedly uses software to cheat emission tests. The cars all carry the TDI (turbocharged direct injection) designation.
+
+The model variants are:
+
+• Jetta (Model year 2009-2015)
+
+• Jetta SportWagen (MY 2009-2014)
+
+• Beetle (MY 2012-2015)
+
+• Beetle Convertible (MY 2012-2015)
+
+• Audi A3 (MY 2010-2015)
+
+• Golf (MY 2010-2015)
+
+• Golf SportWagen (MY 2015)
+
+• Passat (MY 2012-2015)
+
+Further details may of the US models may be found here.
+
+Alexander Dobrindt, the German transport minister, warned on Thursday that “vehicles in Europe with 1.6 and 2.0 litre diesel engines were . . . affected by . . . manipulations”, but there was not complete clarity on which VW diesel-engined cars in Europe have the software used to cheat in emission tests.
+
+VW is working on releasing a list of all types affected. In the meantime, Skoda and Seat — which, like Audi, are owned by VW and use many common parts, including engines — have confirmed that some of their cars are running the same software.
+
+Q: What do I do if I own one of the cars on the list?
+
+A: At the moment, nothing. In the US, the authorities have given VW up to a year to devise a fix that will make the 482,000 cars the manufacturer said are affected compliant with emission standards. Once the authorities are satisfied with any proposed fix, owners should expect a recall notice from VW.
+
+Outside the US, another 10.5m vehicles could be affected worldwide — but emission limits vary country by country, so national and EU authorities will need to work out if VW is in breach of their regulations. Owners in other parts of the world will therefore have to wait for the outcome of these investigations. What seems certain is that even if the engines are compliant with emission standards, they are still likely to be fitted with the same software that manipulates emissions during testing. So, in the end, VW is likely to have to fix those vehicles as well.
+
+For owners, the key issue is whether they are legally required to get the issue fixed, which will vary from country to country. Indeed, in the US it varies by state with some requiring proof that emission-related recalls have been performed before issuing the annual vehicle registration. Without the fix, the vehicles could also breach US federal emission standards.
+
+Q: Does a recall notice mean the cars are unsafe to drive?
+
+A: No, the cars are perfectly roadworthy.
+
+Q: How much will it cost to fix?
+
+A: All costs for modifications will be met by VW, hence the carmaker’s announcement on Tuesday that it will set aside €6.5bn in its third-quarter accounts to cover the costs of the scandal.
+
+Q: But if I have an affected car — will I lose out?
+
+A: Assuming VW can find a fix that works, it is possible that the performance of your car could suffer. If a software fix cuts emissions, then the acceleration or the fuel consumption of the car is likely to be hit, or a mixture of both. Alternatively, if a physical change is made to the design of the vehicle, then it could add to the weight of the vehicle, and increase fuel consumption. There are existing systems on some VW models that use urea to reduce emissions of the offending gases — nitrogen oxides. But adding an urea tank and injector system to all affected models would add bulk, and cost.
+
+Higher fuel consumption will obviously mean it costs more to run your car.
+
+Q. How will this affect the value of my vehicle?
+
+Resale values of the affected vehicles — which were originally priced at significant premiums to normal petrol models — could suffer. It is also likely that owners, particularly in the US where emissions standards are much stricter, will find it difficult to find buyers for an affected car before a fix is in place.

@@ -1,0 +1,37 @@
+Amazon (NASDAQ: AMZN) may have failed in its attempt to launch a smartphone, and its tablets may be struggling for market share, but the company's set-top streaming box has been a clear success.
+
+Fire TV and Fire TV Stick pushed the company into the third spot in the top four selling brands in the United States in 2014, which account for 86% of all digital streaming players, according to research from Parks Associates. That's even more impressive when you consider that the original Fire TV box was not introduced until April 2014, and the Stick didn't hit the market until November of that year.
+
+"Roku continues to lead streaming media device sales in the U.S. with 34% of units sold in 2014. Google is second with 23%, and new entrant Amazon overtook Apple for third place," said Barbara Kraus, Director of Research at Parks Associates. "The market consolidation around these four brands forces new entrants to develop more creative features and functionality to tap into the strong consumer demand for streaming content. "
+
+The intense competition has also forced Amazon to update both Fire TV platforms with new features in order to keep pace with rivals -- specifically the new Apple TV.
+
+I see your Siri and raise you an Alexa
+
+The most notable new feature on the improved Fire TV box, which is also offered on some versions of the Fire TV stick, is improved voice search powered by Alexa. The original Fire TV -- which I own and use on my main living room television -- has a pretty robust voice search that works well. The new, improved system, however, is smarter, and it offers a number of perks like being able to deliver weather forecasts and sports scores.
+
+The company explained how the new technology, which is being used to power its Echo wireless speaker/smart device, will improve the voice search experience in a press release:
+
+With Alexa, Fire TV voice capabilities become even better -- simply speak into the voice remote and ask Alexa for the weather, sports scores, traffic, music, and more. Alexa provides natural-language responses, combined with an immersive on-screen display, each time you ask a question on Amazon Fire TV. Just say "Alexa, play some jazz" to listen to your favorite music and simultaneously view album art, song title, and more via the on-screen experience. Say "Alexa, when do the Seahawks play?" to find out when the next game is on, or say "Alexa, how's the weather tomorrow?" to see if you need to bring your umbrella and simultaneously view the five-day forecast on your big screen TV.
+
+Like Siri, Alexa (which I have tested extensively on an Echo) has its faults, but it's a largely useful tool that brings some neat, albeit not entirely needed features to Fire TV.
+
+More than just improved voice controls
+
+In addition to adding Alexa, the new Fire TV box also offers support for 4K Ultra HD and High Efficiency Video Coding, which delivers a higher-quality picture over less bandwidth, according to the company. Amazon has also upped the specs on its top-of-the-line $99 Fire TV in other ways, according to the press release:
+
+It's faster: The new box has 75% more processing power. It uses a MediaTek 64-bit quad-core processor, a dedicated GPU, as well as expanded memory.
+
+Better Wifi: Fire TV features the latest standard in Wi-Fi technology -- 802.11ac MIMO -- which "gives you faster throughput and longer range for better performance, even if your router is located in another part of the house," Amazon wrote.
+
+Expandable microSD Storage: On top of the 8GB of on-device storage, a microSD card slot can add up to 128GB of additional storage for downloaded apps and games.
+
+Help when you need it: Mayday Screen Sharing gives users an easy way to get help from a live person on their screen who can connect to Fire TV (with permission) to troubleshoot any problems.
+
+Fire TV Stick does not quite match its more expensive sibling, but its hardware has been upgraded to a comparable degree. It's also being sold for $49.99 with a voice remote that gives it access to Alexa as well.
+
+The biggest thing here is price
+
+With Apple charging $149 for its new set-top box, the most important factor for Amazon may be that its top-tier Fire TV still costs $99 and Stick starts at $39.99 if you're willing to pass on the voice features. Alexa is a solid answer to Apple adding Siri-enabled search to its own offering.
+
+Amazon also has the advantage that its Prime members will be drawn to Fire TV because of its growing video library, which includes originals as well as many classic HBO shows. The online retailer has at least kept pace with its rival, and in some areas, it may even outclass the Apple offering. Doing that and charging less for it suggests that the new Fire TV will keep the company's quickly built momentum going.

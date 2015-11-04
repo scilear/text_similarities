@@ -1,0 +1,21 @@
+While the PC market is currently in a funk, there is one type of PC seeing explosive growth. Sales of hybrid devices, which combine the functionality of a laptop and a tablet, are expected to reach 21.5 million units this year, a 70% increase compared to 2014, according to Gartner. The research company expects hybrid mobile devices to account for 12% of all mobile PC sales this year.
+
+Windows 8 from Microsoft (NASDAQ:MSFT) made the hybrid form factor possible, with the OS supporting both touch-based applications as well as the legacy Windows desktop. Windows 10, which launched in July, built on this foundation, adding polish and fixing many of the issues that held Windows 8 back.
+
+The rapid rise of tablets, particularly Apple's iPad, has cannibalized sales of laptops over the past few years. But tablets aren't great productivity devices, something Apple is attempting to rectify with its recently announced iPad Pro. Tablets are great for the consumption of content, but they fall well short of laptops when it comes to creating that content.
+
+Hybrids attempt to combine the best of both worlds, giving users the convenience of a tablet as well as the productivity of a laptop, with Windows 10 acting as the glue. For users who need or want both a laptop and a tablet, hybrid devices are a compelling option. Gartner expects hybrid device sales to reach 58 million units by 2019, and this growth will benefit both Microsoft and Intel (NASDAQ:INTC).
+
+No pain, no gain
+
+Microsoft's decision to build an operating system that could run on both traditional PCs and touchscreen devices led to quite a bit of pain for the company. Windows 8, Microsoft's first attempt, swung too far toward tablets, treating the Windows desktop as a second-class citizen. This was largely corrected in a major update, but the damage to the perception of the OS was done.
+
+The weakness of Windows 8 likely drove users to alternatives like MacBooks, tablets, and Google's Chromebooks. With Windows 10, Microsoft has more fully realized its ambition, creating a well-received OS that can truly run on any device. Windows is the only OS capable of this feat.
+
+Android has been put on laptops, and keyboard attachments for both the iPad and Android tablets have been available for quite some time. But neither Android nor iOS are designed to be used like a PC. Both are built for touch, and while iOS 9 includes some new productivity features, it's still a far cry from a Windows PC.
+
+Apple has iOS for touch devices and OS X for PCs. Google has Android for touch devices and Chrome OS for PCs. Microsoft has Windows, and its unique ability span all form factors essentially hands the hybrid market to the company. Devices like Microsoft's Surface Pro are simply in a different league than an iPad with a keyboard.
+
+The success of Windows in the hybrid market will also be a boon for Intel. Windows 10 PCs run on x86 processors, and Intel is the overwhelming market leader in that area. Intel has spent heavily breaking into the mobile market, and its mobile business is still losing billions, but it has a near-monopoly when it comes to Windows PCs. The company's new Skylake processors include versions that use as little as 3.5 Watts of power, enabling thin, light, and fanless hybrid designs.
+
+Microsoft's decision to build one OS for all devices is starting to appear prescient, although that certainly wasn't the case a few years ago. The market for hybrid devices is soaring, and both Microsoft and Intel are well suited to take advantage. Just as the tablet market disrupted the PC market, the hybrid market could return the favor and pull tablet users back to Windows.

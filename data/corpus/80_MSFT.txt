@@ -1,0 +1,33 @@
+Microsoft's presentation of new devices running the new Windows 10 operating system Tuesday left no doubt that the company's chief executive, Satya Nadella, is a visionary. He has put the company on a new technological path and perhaps ahead of the curve, showing that the maturing market for mobile devices is still vulnerable to disruptive innovation. The trouble is that Microsoft does a terrible job of making coherent presentations, and competitors could reap all the benefits by copying its innovations.
+
+When Microsoft teased Windows 10 a year ago, I suggested that the system tentatively promised to deliver something that has eluded the leaders of the mobile universe, Google and Apple: A single platform for all devices that would run the same applications on a desktop or laptop computer, a tablet or a smartphone. It wasn't clear then how that dream could be realized given the vast differences in hardware. Now Microsoft has rolled out a full range of devices that will run on the single platform, and if it hasn't aced the challenge, it has handled it surprisingly well.
+
+Microsoft now allows developers to create applications for its Universal Windows Platform, leaving it up to the programmers to decide which "device families" to target with their product. For example, an app can be designed to run on a desktop and a tablet or across all devices, from an Xbox gaming console to a mobile phone. That sounds exciting, but there aren't yet enough devices running Windows 10 to draw much interest from developers.
+
+At the end of August, Windows 10 was running on about 75 million machines, mostly desktops and laptops. Last year, shipments of Android-powered devices passed the 1 billion mark for the first time, and Apple shipped 193 million iOS devices. The installed base of these systems is so huge that it even makes sense to develop niche products for them. By comparison, creating a universal Windows app is an uncertain bet that big players can afford but smaller ones will avoid. At the event Tuesday, Microsoft hailed some of its "app partners" -- including Facebook, Netflix, Twitter and Shazam. Their participation won't be enough to ensure that Windows is a popular mobile platform: That would require matching the Google and Apple app stores, which each have more than a million products.
+
+To demonstrate the potential of the new universal platform to developers and equipment makers, Microsoft has to make its own devices. On Tuesday, it unveiled some: a new version of the Surface Pro -- the tablet-laptop hybrid both Apple and Google recently copied, for the iPad Pro and Pixel C devices -- two new phones (Lumia 950 and 950 XL), a laptop with a detachable screen, called the Surface Book; a dock station that allows a phone to be hooked up to a monitor and keyboard; an augmented reality device called Hololens and a fitness band.
+
+Is Microsoft trying to be Apple? Yes and no. As it has proved with the modestly successful Surface Pro 3, it's not into scaling up production to sell tens of millions of units. That would undermine its partnerships with equipment manufacturers, which have allowed it to dominate the corporate market. It's not the company's goal to compete with hardware makers: It wants to show them what to make so that its software can be put to the best use.
+
+The new product line is a demo of Nadella's philosophy, which he laid out in a July interview:
+
+If anything, one big mistake we made in our past was to think of the PC as the hub for everything for all time to come. And today, of course, the high volume device is the six-inch phone. I acknowledge that. But to think that that's what the future is for all time to come would be to make the same mistake we made in the past without even having the share position of the past. So that would be madness.
+
+At times, Nadella appeared to be having trouble describing his alternative approach. "It's a graph," he said. "It's not any one node. It's the entirety of the device family."
+
+The Microsoft chief executive is no Steve Jobs or Tim Cook. He's got a big idea, but he lacks the ability to sell it powerfully to the general public. Apple does a better job of explaining that you can start a task on one device and continue it on another, even though Apple's desktop and laptop computers run on one software platform, phones and tablets on another and wearables on a third. Running the very same apps, the exact same code, on all the hardware you use goes much further than that -- and yet Microsoft is not getting credit for this giant step, because it's not delivering the message pithily enough.
+
+That's a problem. Even if developers, equipment makers and information technology managers grasp what Nadella is saying, the absence of buzz means they may not believe in his vision of a future in which only the platform matters because it can run on anything that has a processor -- from a fridge to a self-driving car. Engineer Nadella's approach is, "build it and they will come." But will they?
+
+Judging from the first reviews, the implementation of this vision is impressive, though not perfect. I'm pretty sure Nadella is right. But Apple and Google are both capable of building single platforms like Windows 10, and of making them more user-friendly and marketing them better. Nadella needs a better interface to allow consumers to catch on to this creation -- a seamless computing universe.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Leonid Bershidsky at lbershidsky@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Max Berley at mberley@bloomberg.net

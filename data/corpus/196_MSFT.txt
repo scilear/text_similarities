@@ -1,0 +1,29 @@
+When Phil Schiller introduced Microsoft (NASDAQ:MSFT) during his presentation of the iPad Pro last week, the audience seemed to be waiting for a punchline. "And who to know better about productivity than Microsoft?" Schiller asked rhetorically to an audience of apparently blank stares. "Yeah ..." he queued the audience to applaud, "these guys know productivity!"
+
+But this isn't the first time Microsoft appeared at an Apple (NASDAQ:AAPL) keynote. In 1997, Steve Jobs announced Microsoft was investing $150 million in Apple to keep it from going bankrupt. Additionally, Microsoft would develop a version of Office for the Mac.
+
+It's interesting that Microsoft's help came at a time when Mac sales neared their nadir in the 1998 fiscal year. Today, Apple is facing a similarly challenging environment for the iPad, which has seen sales fall six straight quarters. Apple's solution is to develop a new device, but more importantly, it needs to separate the iPad from the iPhone, as well as the Mac, to spur sales. That requires the help of software developers like Microsoft.
+
+Why Apple needs Microsoft
+
+Apple is trying to expand the iPad from an entertainment device aimed at consumers to a productivity device aimed at enterprises and designers. In order to do that, it needs help from other companies that have expertise in enterprise and creativity.
+
+To that end, Apple already partnered with a couple of large enterprise computing companies, and Microsoft already offers Office for iPad and iPhone. Additionally, the iPad already sports several apps aimed at creatives, including its homegrown GarageBand, and Paper made by FiftyThree.
+
+But Apple needs Microsoft and others to support iPad as a primary platform, not just a device that people can use when they're away from their desktop or notebook. Just the same, it needs other developers to view the iPad as a computing device, not just a big iPhone. That's why much of Schiller's presentation was spent comparing the iPad Pro to desktop computers, focusing on computing power, multitasking, and showcasing the keyboard and stylus.
+
+In Tim Cook's introduction to the iPad Pro, he said, "iPad is the clearest expression of our vision of the future of personal computing: a simple multi-touch piece of glass that instantly transforms into virtually anything you want it to be." In order for that vision to ring true, Apple needs developers to create apps for everything users want to do. That includes Microsoft and its industry-leading productivity suite.
+
+Why Microsoft needs Apple
+
+Under Satya Nadella, Microsoft is transforming into a services company. Office is no longer a piece of software you install on your Windows Machine. Office is a service you subscribe to, and you can use it on any machine. With a growing percentage of computing devices using an operating system other than Windows, Microsoft needs to work -- and work well -- across multiple platforms, including its old nemesis Apple.
+
+Indeed, it's this subscription model that makes it viable for Microsoft to develop its software specifically for the iPad Pro. Smaller, unproven companies are unable to compete with Microsoft in the same way because customers aren't going to subscribe to something they've never even heard of before.
+
+That limits competitors' abilities to generate meaningful revenue via the App Store. Microsoft can therefore eliminate competition for Office on the iPad, as long as it continues to develop for the device.
+
+Eleven percent of computing devices shipped last year were running OS X or iOS. That number continues to grow as Mac increases share of the PC market despite declining iPad sales. Moreover, the number of Apple devices sold is closing in on the number of Windows devices -- 262 million vs. 333 million. With the high-end customer base at Apple, succeeding as a software company all but necessitates working well with Apple products.
+
+As mentioned earlier, the previous successes of Microsoft with Office allows it to compete very well on iPad. Apple could, however, benefit from offering additional flexibility to developers when it comes to selling their software.
+
+Trials and upgrades could be a start, and better development tools geared toward the iPad Pro, in particular, could produce even better results. If Apple wants to turn iPad sales around, it needs help from more developers than Microsoft.

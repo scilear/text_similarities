@@ -1,0 +1,21 @@
+Must Know: Micron's Short- and Long-Term Growth Strategies
+
+(Continued from Prior Part)
+
+Earlier in this series, we saw that Micron (MU) has been increasing its DRAM (dynamic random access memory) capacity through acquisitions and investments. The company had 60% of its revenue in fiscal 4Q15 come from DRAM. In the fiscal 4Q15 earnings call, Micron’s CEO (chief executive officer) Mark Durcan said, “we believe the DRAM industry; supply demand balance will continue to be favorable for the foreseeable future.”
+
+Micron has been ramping up DRAM production on the 20-nanometer node, which will put the company in a competitive cost position and boost DRAM output. However, cost benefits won’t be seen until the second half of fiscal 2016. The company is shifting its DRAM production capacity away from PCs (personal computers) to mobile and embedded solutions.
+
+In the previous part, we discussed how Micron became Apple’s (AAPL) DRAM supplier after the acquisition of Elpida Memory. Micron has set aside a major portion of mobile DRAM output from its Japan fabrication facility for Apple orders.
+
+Apple’s iPhone 6 and iPhone 6 Plus are equipped with Micron’s 1 GB LPDDR3 (low power double data rate third generation) SDRAM (synchronous dynamic random access memory). Future Apple products are expected to consume 25% of the DRAM industry’s production capacity. This will have a positive impact on Micron’s revenues.
+
+PC DRAM prices are expected to stabilize as the introduction of Intel’s (INTC) PC processor Skylake and Microsoft’s Windows 10 may increase PC demand. This will be supported further by Samsung’s (SSNLF) likely reduction in PC DRAM production. If these expectations are correct, Micron will benefit from higher PC DRAM sales at higher gross margins in the second half of fiscal 2016.
+
+While Micron is optimistic about the DRAM market, Gartner anticipates DRAM pricing environment to be volatile until the end of fiscal 2017. The research firm expects that the oversupply in the DRAM market will reduce worldwide memory spending by 13.6% in 2016.
+
+If you are interested in Apple and Micron you can invest in the PowerShares QQQ ETF (QQQ). QQQ has a 13.1% exposure in Apple and 0.3% exposure in Micron.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

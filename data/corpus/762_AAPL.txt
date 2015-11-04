@@ -1,0 +1,11 @@
+Apple doesn't typically go into details about the specs of devices at product unveilings - for that we usually have to wait for a teardown - but at yesterday's iPhone event a promotional video was shown that leaked the battery specs.
+
+Here's a screen capture from that video:
+
+That graphic shows that the battery is a 1715 mAh unit. The battery in the current iPhone 6 is an 1810 mAh unit, which means the new battery has a little over 5 percent less capacity. This information fits in with a leak by a Chinese tech site last week.
+
+Will this 5 percent drop in capacity matter? Probably not. The chances are that it won't as its effect has been offset by power savings made through more efficient electronics and within iOS. Also, the listed battery lifetimes have not changed for the iPhone 6s and iPhone 6s Plus, so owners will still get the same number of usage hours from the new smartphones.
+
+Was this an accidental leak or did Apple leak this now to take the wind out of the revelation during the teardown? No idea. Could it even be wrong? There's a possibility. Maybe we will have to wait for a teardown after all.
+
+See also:

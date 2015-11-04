@@ -1,0 +1,15 @@
+Microsoft has released a group-scheduling app called Invite, and has made it available first for the iPhone.
+
+The new free app is another of those "experimental" products from Microsoft's Garage incubator.
+
+Invite, available for iPhones and iPads as of September 24 from the Apple AppStore, requires iOS 8.1 or later. The app is available for now in the U.S. and Canada only. It is "coming soon" for Windows Phone and Android phones, according to a Microsoft blog post.
+
+Invite is all about helping groups agree on a time to meet -- even when the participants can't see each others' calendars.
+
+Invite "works best for people with Office 365 business and school subscriptions, but also works great with any email -- Outlook.com, Gmail and Yahoo Mail included," according to Microsoft. With Invite, scheduled meetings will show up in the calendar of the account users sign in with.
+
+Invite is somewhat different from the "Send Availability " feature that's in Outlook on iOS and Android, as it provides additional automation to the scheduling process, Microsoft's blog post says.
+
+Microsoft's Garage is the company's tech incubator for lightweight consumer-focused apps for iOS, Android and Windows devices. The Garage apps are cross-platform, available in the Apple App Store, Google Play and/or Windows Store, where applicable. The Garage apps are all in the "experimental" phase, and are updated and improved based on user experience and feedback.
+
+Other recently introduced Microsoft Garage apps include Send, an in-mail chat app, and Snip, a snipping tool that allows for ink and voice annotation.

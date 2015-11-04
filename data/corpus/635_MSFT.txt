@@ -1,0 +1,31 @@
+By Andrew Chung
+
+NEW YORK (Reuters) - Microsoft Corp (MSFT.O) avoided a potentially costly setback to its mobile phone business on Friday as the U.S. International Trade Commission declined to block the import of its devices in a longstanding patent dispute.
+
+The decision rejected a ruling in April by a U.S. trade judge who found that Microsoft had infringed two InterDigital Inc (IDCC.O) wireless patents, and recommended an import ban.
+
+The commission's action is good news for Microsoft, which has been struggling to compete with Apple Inc (AAPL.O) and Samsung Electronics Co Ltd devices. The Redmond, Washington-based company has captured just 3 percent of the smartphone market in the United States and globally, according to recent estimates.
+
+Microsoft last month posted a record quarterly loss as it took a $7.5 billion charge on its handset business, which it bought from Nokia last year.
+
+InterDigital's Chief Executive Officer William Merritt said in a statement that the decision was disappointing but would have limited impact "given the decline of the Nokia mobile device business under Microsoft’s control and its limited market position."
+
+A Microsoft spokesperson said the company was "grateful the Commission stopped InterDigital from trying to block our products."
+
+InterDigital stock was down 3 percent after hours on Friday.
+
+The two companies are at odds over how much InterDigital should be able to charge to license its patents, which are considered essential to cellphone technology.
+
+Wilmington, Delaware-based InterDigital first accused Nokia in 2007 of infringing its technology for optimising a cellphone's power to connect to a network.
+
+In April, the U.S. trade judge ruled that Microsoft used InterDigital's patents, considered standard in the industry, but refused to pay for a license to them. An import ban would have affected any Microsoft phone using 3G cellular technology, including its Lumia smartphones.
+
+After reviewing that ruling, the commission said on Friday that Microsoft did not violate the patents, but it did not address the issue of fair licensing for essential patents.
+
+Earlier this month, Microsoft sued InterDigital in Delaware federal court, claiming InterDigital violated U.S. antitrust law by breaking promises to offer licenses on reasonable terms.
+
+Companies frequently sue both at the ITC, which has the authority to block the import of products that infringe a U.S. patent, and in district court to win monetary damages.
+
+The case at the ITC is No. 337-613.
+
+(Reporting by Andrew Chung; Editing by Matthew Lewis)

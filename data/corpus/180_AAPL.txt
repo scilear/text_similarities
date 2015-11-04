@@ -1,0 +1,29 @@
+Don't knock Apple for offering up a bunch of new products -- an iPhone, iPad and Apple TV -- that look a lot like its old ones or copy the competition. What the company is doing might be smarter than meets the eye.
+
+The new iPhone 6s has just one truly novel feature -- so-called 3D Touch, a screen that reacts differently to pressure of varying force, like the one in the Apple Watch. It's of questionable value: People only use a few of the most intuitive gestures on their phones -- the swipe, the scroll, the tap and the pinch. Others are hard to remember, and interface designers advise developers against "over-gesturizing."
+
+The 6s's improved camera offers picture quality similar to that in all top-line mobile phones. It's fine for social network use or anything else an amateur photographer might have in mind, but no mobile phone camera will ever satisfy a pro. Stressing camera improvements means you're almost out of ideas: That's what Nokia did just before selling its mobile handset business to Microsoft.
+
+The 6s generation probably won't be as successful as the previous one, which broke a Steve Jobs dogma by offering a larger screen. Dawn Chmielewski at Re/code has suggested a neat way of measuring its relative performance: If the new model achieves 70 percent of all iPhone sales in its launch quarter, it's doing fine. The 5s failed that test, and the bar is high for the 6s: In the three months through June, Apple sold 47.5 million iPhones, more than it ever had in the third quarter after a launch.
+
+The smartphone market has matured. The rapid growth of recent years can't continue forever. It was, to a large extent, fueled by geographical expansion: In the three months through June, Apple sales in greater China more than doubled, to $13.2 billion, compared with the year before. Now the Chinese economy is slowing, and budget manufacturer Xiaomi has recaptured leadership. Only India could give Apple's sales the kind of boost China provided. It's not ready for Apple prices yet, though.
+
+Apple is not a miracle factory. It's an extremely well-managed business. The iPhone accounted for 63.2 percent of its sales in the last quarter. Chief executive Tim Cook knows this makes Apple vulnerable, and nobody has yet figured out what a new quantum leap in smartphones might look like. Apple doesn't have a potential new flagship, either. So the only way to maintain solid growth is to strengthen the products that have been lagging. That's exactly what Apple is doing with the iPad and the Apple TV set-top box.
+
+Apple is now experiencing the slowest tablet sales since it launched the iPad in 2011. The entire market is shrinking along with Apple's market share, as no-name manufacturers encroach and people see little point in upgrading. So the company is attempting to differentiate itself, especially in the corporate market. The new iPad Pro is a shameless attempt to imitate a form factor perfected at great expense by Microsoft -- the tablet-laptop hybrid. As soon as Microsoft's Surface Pro line started getting good reviews and selling well, Apple pounced (a move I predicted a year ago). Apple's version has a large screen, a detachable keyboard, a stylus (anathema to Jobs) and a desktop-grade processor. The main difference is that the iPad doesn't run Apple's desktop operating system, Mac OS -- such a switch would be a blow to developers now making good money selling applications for iOS, the operating system for iPads and iPhones.
+
+It's good that Apple isn't afraid of copying. I never bought the Surface Pro, despite my admiration for it, because being forced to use Windows at work was enough of an aggravation. I'm seriously considering getting the iPad Pro as a laptop replacement. The stylus would allow me to take shorthand notes the way I'm used to. Though the device is expensive, starting at $799 without the keyboard and the $99 stylus, it's competitive with the Surface Pro.
+
+Apple TV has always been something of a stepchild at Apple. Jobs once said that the first iteration of the device was "not what people wanted." It did, however, generate about $1 billion of revenue for Apple every year, even though it was inferior to similar devices from Amazon, Roku and Google. The new Apple TV catches up to the competition in functionality, introducing voice search, among other features. It's not a groundbreaking device by any means, but it eliminates the need for Apple users to go outside the ecosystem. They'll pay to stay in their comfort zone.
+
+It's no use waiting for Apple to make a mistake. This is a company that knows its markets, keeps track of all the competing products and works diligently to at least stay even with them. Given the huge number of people who already own its products, it's bound to continue reaping the advantages of its closed ecosystem. Apple's latest product launch was a powerful demonstration of its powers as an ordinary company.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Leonid Bershidsky at lbershidsky@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Mark Whitehouse at mwhitehouse1@bloomberg.net

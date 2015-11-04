@@ -1,0 +1,35 @@
+LONDON--(BUSINESSWIRE)--
+
+Delivering unmatched access to Microsoft Azure via Microsoft Azure ExpressRoute
+
+euNetworks, a unique bandwidth infrastructure provider, today announced its collaboration with Microsoft Azure, enabling direct access to Microsoft Azure for clients via Microsoft Azure ExpressRoute. Azure ExpressRoute runs over euNetworks’ owned and operated fibre optic network, connecting customers’, whether from their office or a data centre environment to Azure.
+
+This Smart News Release features multimedia. View the full release here: http://www.businesswire.com/news/home/20150930005674/en/
+
+euNetworks delivers cloud connectivity with its Cloud Connect solution, offering connectivity through a private network in preference to using the Internet. Azure ExpressRoute connections in place with this new relationship do not go over the public Internet and offer more reliability (improved SLA), a lower committed latency and higher security as a result. Connection speeds range from 10Mbps to 10Gbps, with granular access methods suited for large enterprises to small branch offices. As a specialist in high bandwidth low latency connectivity solutions, euNetworks offers both scalable and predictable connectivity to the cloud.
+
+“We are a bandwidth infrastructure company, owning and operating our own fibre networks that connect more than 260 data centres and 1,000 buildings across Europe as well as offering direct access to cloud platforms,” said Kevin Dean, Chief Marketing Officer of euNetworks. “Our relationship with Microsoft Azure means we offer unmatched direct access to this platform across our pan European footprint, offering significant benefit to companies as they move more of their IT infrastructure into the cloud.”
+
+“We are delighted to welcome euNetworks to the Azure ExpressRoute ecosystem,” said Ross Ortega, Principal Product Manager, Networking, Microsoft Azure. “Their technical expertise and network footprint across Europe is a great addition to our growing partner network as demand for access to Azure continues to grow.”
+
+About euNetworks
+
+euNetworks is a bandwidth infrastructure provider, owning and operating 13 fibre based metropolitan networks across Europe connected with a high capacity intercity backbone covering 45 cities in 10 countries. The company leads the market in data centre connectivity, directly connecting over 260 in Europe today and is also a leading cloud connectivity provider. The company offers a portfolio of metropolitan and long haul services including Dark Fibre, Metro Wavelengths, Wavelengths, Ethernet, and Internet. Media, finance, enterprise and carrier customers benefit from euNetworks’ unique inventory of fibre and duct based assets that are tailored to fulfil their high bandwidth needs.
+
+euNetworks Group Limited is headquartered in London. For further information please visit www.eunetworks.com.
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20150930005674/en/
+
+euNetworks
+
+Hannah Fox
+
+Senior Director, Marketing
+
+email: hannah.fox@eunetworks.com
+
+skype: hannah_britt
+
+office: +44 20 7952 1338
+
+mobile: +44 7717 896 446

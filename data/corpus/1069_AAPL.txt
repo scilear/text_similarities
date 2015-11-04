@@ -1,0 +1,49 @@
+Apple acknowledged Monday that malicious code had found a way into some of its popular Chinese mobile apps, raising security concerns as the US tech giant prepares its newest iPhone launch.
+
+The company said it had removed tainted applications from its App Store, days after security researchers revealed the infiltration into Apple's normally secure system which aims to weed out infected applications.
+
+In China, more than 300 apps including the hugely popular instant messaging service WeChat and ride-hailing app Didi Kuaidi were infected with the "XcodeGhost" malware potentially allowing tracking of user data, Chinese state-run media said.
+
+The reports were a blow to the US firm, which has Greater China as its second-largest market.
+
+Apple told AFP that it had removed the affected apps from its online store.
+
+"To protect our customers, we've removed the apps from the App Store that we know have been created with this counterfeit software and we are working with the developers to make sure they're using the proper version of Xcode to rebuild their apps," the firm said.
+
+Apple's reaction came days after US-based cybersecurity firm Palo Alto Networks uncovered the flaw, saying the malware came from computer code uploaded to Baidu's cloud file sharing service for used by Chinese app developers.
+
+Anti-censorship group Greatfire.org, which tracks Chinese Internet restrictions, called the news "the most widespread and significant spread of malware in the history of the Apple app store, anywhere in the world."
+
+Apple, which reviews and approves each application, has generally kept its apps malware-free, analysts say.
+
+But Alan Cockerill at the US security firm Lookout said "there are no perfect systems."
+
+In a blog post, Cockerill said that "while Apple has traditionally done an excellent job of keeping malware out of its App Store, malicious actors are always looking for new ways to break through.. XcodeGhost unfortunately shows that when there's a will here's a way."
+
+"The malicious code may have hundreds of millions of victims," Cockerill said.
+
+- Apple checks failed -
+
+Johannes Ullrich at the SANS Technology Institute said that "the real problem here is this malicious code made it past the Apple App Store check-in process."
+
+"Apparently there is some trust between Apple and some of these developers of large applications like WeChat so these applications aren't necessarily tested as carefully if they are coming from a name-brand company," Ullrich said.
+
+Palo Alto Networks said the malware was hidden in computer code -- notably the Xcode software required for apps -- and made its way into applications without the knowledge of developers.
+
+But once installed, the malware could allow a third party to gain access to private and personal information on an Apple device.
+
+The malware can issue a fake dialog alert to gain access to passwords, or hijack a browser to direct users to a fake website. It can also read and write data in the user's clipboard, which could be used to get passwords, according to Palo Alto.
+
+Only Chinese apps were known so far to have been infected -- although some of those, including WeChat, are also used outside of China.
+
+Chinese apps are thought to be vulnerable because developers often bypass the official, more secure, Apple channels, which can be slowed by Chinese Internet monitoring.
+
+Tencent, which makes the WeChat software with around 500 million users in China said: "A security flaw, caused by an external malware, was recently discovered affecting iOS users," adding it had repaired the flaw.
+
+"There has been no theft and leakage of users' information or money," the statement issued at the weekend said.
+
+The makers of taxi-hailing app Didi Kuaidi, which claims 200 million regular users, said its software had been infected but denied users' privacy was compromised.
+
+Following a software upgrade "there's no longer any threat," it said in an online statement.
+
+bur-rl/ec

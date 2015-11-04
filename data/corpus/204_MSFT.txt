@@ -1,0 +1,31 @@
+Last week, Apple (NASDAQ:AAPL) took the wraps off its new 12.9-inch, iPad Pro. It's a behemoth of a tablet that can be paired with an optional Smart Keyboard and Apple Pencil stylus -- and it's launching at the perfect time.
+
+The IDC estimates that 2-in-1 devices (tablet and computer hybrids) will grow by 86.5% this year. The research firm estimates that these devices, with screens lager than 10 inches, will grow from 18.6% market share last year to 39.5% by 2019.
+
+But in order for Apple to succeed with its iPad Pro, it'll have to be beat out 2-in-1s that currently occupy the enterprise space.
+
+Commanding the enterprise market
+
+When it comes to enterprise 2-in-1's, Microsoft (NASDAQ:MSFT) unsurprisingly garners most of the attention, and with good reason. The company is on its third version of its Surface Pro (with its fourth version about to launch), makes the prolific Office suite, and the recent launch of Windows 10 could drum up more interest in new 2-in-1 sales. Both Windows and Android are hitting this market hard, and it's starting to affect Apple's enterprise stronghold.
+
+A report released by Good Technology last month showed that iOS held 64% of enterprise tablet activations in Q2 2015, down from 81% a year ago. As the report noted, "The erosion in iPad dominance points to a change in the tablet market as the long-predicted role of tablets as laptop replacements finally becomes a reality."
+
+Despite Apple's drop, we can conclude it still has a major advantage right now. First, based on Good Technology's activation numbers, we see that the enterprise market prefers iPads. And second, the enterprise market started to shift away from iPads because there were better laptop replacement options, but Apple just fixed that problem with the iPad Pro.
+
+
+
+Apple may have taken a page out of Microsoft's handbook with the iPad Pro, but that doesn't mean the iMaker is by any means the underdog. Apple attempted (I think successfully) to dismiss the long-running theme that the iPad is merely a consumption device by bringing Microsoft itself up onto the stage at its event to show off the iPad's productivity capabilities. By doing so, it proves that even Apple's competition recognizes the iPad Pro as serious enterprise machine.
+
+If that weren't enough, Apple's new partnerships with IBM and Cisco should prove the company's commitment to the enterprise market. The iPad maker and IBM have worked together more than a year on new apps, enterprise training, and new enterprise version of AppleCare. And just last month, Apple partnered with Cisco to optimize iOS devices and apps to run on Cisco's enterprise environments and work on other collaborative projects.
+
+What to look for
+
+Remember that this is just the beginning of Apple's journey into the 2-in-1 market. The Surface took several iterations (and some all-out flops) to find its footing. The iPad Pro will hardly flop, but it might take a year for it to truly find its stride.
+
+But Apple doesn't need blockbuster sales of the iPad Pro, at least to begin with. If it can convince enough users in the enterprise sector to purchase the device, along with the Smart Keyboard and even Apple Pencil, then it could boost its iPad average selling price (ASP), and hopefully increase revenues.
+
+Right now, iPad ASPs hover just above $400, a far cry from their peak of around $650 back in 2011. The chart below shows just how far the iPad has dropped, while Apple has maintained, and recently increased the iPhone's ASP.
+
+But with an introductory price of $799 and the keyboard alone costing $169, that should change. Investors will likely want higher iPad unit sales and rising ASPs, but might settle for the latter for the time being.
+
+The iPad Pro fits the growing demand of 2-in-1 devices and delivers strong productivity features, all with access to Apple's vast App Store. If the enterprise market liked the iPads of old (and they have), then they should surely love the iPad Pro.

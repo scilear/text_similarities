@@ -1,0 +1,23 @@
+It's safe to say electronics conglomerate Samsung (NASDAQOTH:SSNLF) has seen better days. Although the company is still No. 1 in terms of total market share, it's recently seen its formidable lead significantly narrow. More recently, Samsung's seen its bifurcated smartphone strategy come under pressure, with Apple taking market share in the high-end, developed markets and a host of vendors peeling off users in the low-end markets.
+
+As a result, the company has reported seven straight quarters of operating profit declines. And while Samsung is a wide-ranging consumer-electronics company, one of the company's largest operating profit centers is its IT and Mobile Communications division because of its smartphone sales. For example, in the first half of 2015, 43% of its op-profit came from the division -- only surpassed by its high-margin semiconductor section of the company's Device Solutions division, which was responsible for half of operating profit.
+
+For the former, the company has struggled as the prior-gen Galaxy S5 was unable to build upon the success of the Galaxy S4. The company's current-gen Galaxy S6 has seemingly been unable to correct that trend, but it seems Samsung is working through its problems.
+
+Finally, an operating profit increase
+
+For Samsung's third quarter, it seems this unfortunate string of year-on-year drops will end. Per the company's guidance (via Reuters), Samsung estimates its operating profit will increase to 7.3 trillion won ($6.3 billion), on sales of 51 trillion won ($44 billion), Estimates from Reuters had the company reporting 6.7 trillion won, so that means the company would beat analyst expectations to the tune of 9%.
+
+When compared with last year's third quarter, the company looks to do even better. Last year, the company reported 47.4 trillion won for its top-line figure, good for a 7.4% increase this year in constant currency (more on this later), but the real shocker was the aforementioned estimated 7.3 trillion won operating-profit figure, as this guidance is up 80% above last year's 4 billion won figure.
+
+Are smartphones leading Samsung's path forward?
+
+Naturally, it would be logical to assume Samsung's IT and Mobile Communications division would be responsible for -- or at least have a part in -- this turnaround in performance. After all, the company did recently release its phablet form-factor phones, the Galaxy S6 Edge + and the Galaxy Note 5. However, I'm not sure if that's what's mostly responsible for Samsung's change in fortunes.
+
+While the larger form factors may contribute to Samsung's excellent quarter, these models are probably not as popular as the flagship Galaxy S6 and Galaxy S6 Edge units that have been on sale for nearly half a year now. Reuters also reports the two major South Korean mobile carriers are cutting the prices on these flagship models, pointing to less-enthusiastic sales for the units.
+
+I'd expect more contribution to Samsung's op-profit from these places
+
+Instead, I think the reasons for Samsung's operating profit surprise are twofold: favorable currency tailwinds and its semiconductor business. As for the former, Samsung was the beneficiary of a 12% currency depreciation against the dollar for the third quarter, and South Korean analyst Yoo Eui-hyung estimated this alone added roughly 300 billion won to Samsung's op-profit.
+
+Finally, I expect Samsung's Semiconductor/Device Solutions business was the beneficiary of a product ramp-up from competitor Apple, as it is still a foundry with Apple's new A9 chip. In addition, Samsung counts Alphabet's new Nexus manufacturer Huawei as a client in the ramp-up to the new launch. I'd expect to find overperformance in this high-margin division more so than its IT and Mobile Communications business.

@@ -1,0 +1,21 @@
+Microsoft began rolling out Office 2016 for Windows on September 22. Since then, I've been getting a lot of questions around timing and installation techniques from those attempting to move to the latest version of Microsoft's Office suite.
+
+It turns out that not everyone has been able to upgrade to the latest release this week, in spite of Microsoft declaring the suite generally available. Instead, as many have discovered, the Office 2016 rollout is a staggered one, and one which has resulted in some OneDrive, Skype for Business and other app and service installation and compatibility issues.
+
+While Microsoft officials did say a week ago that the company would be moving to a servicing/branch model with Office 2016 similar to the one the Windows 10 team is using, details on exactly how that would play out for Office users were scarce. But thanks to a find from the SuperSite for Windows folks -- plus a few other Microsoft pages and KB articles -- we now know more.
+
+It turns out anyone in the Office 365 First Release program was able to get the latest Office 2016 apps for Windows as of this week. The same is true of those on the existing Office 365 Small Business Premium, Business and/or Business Premium -- but only for those who are buying new subscriptions, according to the chart from a Microsoft community answers post, embedded above. Automatic updates to Office 2016 for those on these three plans won't begin until the fourth quarter of 2016..
+
+Just to add a little more complexity to this already complex set of rules, Microsoft is in the midst of replacing its Office 365 Small Business, Small Business Premium and Midsize Busines plans with three new ones. The three: Office 365 Business, Business Essentials and Business Premium. Microsoft has pushed the suggested migration date kick-off for these new plans back from October 1 to December 1, 2015, The reason for the date change: "The renewal experience will be best for users who have the latest version of Office," meaning Office 2016.
+
+Those with Office 365 ProPlus SKUs -- meaning Office 365 Enterprise, Midsize and Education -- are on the Current Branch for Business. This means these users cannot upgrade to the new Office 2016 for Windows bits right now unless the administrators change the update branch to be used by some/all of their users to Current Branch.
+
+"For Office 365 ProPlus subscribers, administrators can opt to upgrade by manually rolling out to their users with Office deployment tools available today, September 22. Automatic updates for Office 365 ProPlus customers will begin early next year," a Microsoft spokesperson confirmed when I asked.
+
+Here are some more links that might help those interested in making the move to Office 2016:
+
+Microsoft made the Office 2016 for Windows release available to MSDN subscribers on September 22. Volume licensees will have access to the new release via the Volume License Servicing Center (VLSC) as of October 1.
+
+DreamSpark users got access to Office 2016 on September 22. Microsoft Action Pack and MPN subscribers will get access on October 1. And Home Use Rights for Office 2016 for Windows and Mac, both, will be available as of October 7, according to Microsoft.
+
+Any other Office 2016 questions? Chime in below in the comments and I'll do my best to try to find more answers

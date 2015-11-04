@@ -1,0 +1,27 @@
+NEW YORK (AP) -- Microsoft got a chilly reaction from a federal appeals court Wednesday to its claims that the United States should not be able to touch data it stores for customers overseas.
+
+Microsoft lawyer E. Joshua Rosenkranz told a three-judge panel of the 2nd U.S. Circuit Court of Appeals in Manhattan that "global chaos" could result if it failed to overturn a lower-court judge's ruling last summer. That judge ordered the Redmond, Washington-based company to turn over a customer's email account that it stores in Dublin, Ireland, for a narcotics probe.
+
+"If we can do it to them, then other countries can do it to us," Rosenkranz said.
+
+Circuit Judge Gerard Lynch seemed unfazed by Rosenkranz's predictions that other nations would react negatively if the U.S. was permitted to get the records.
+
+He said Congress can respond if foreign relations are affected.
+
+"That's on them," Lynch said. "They're the people who make the laws and deal with foreign relations."
+
+Rosenkranz said the case was about national sovereignty and the need to protect from the reach of the U.S. government everything from attorney-client communications to love letters to trade secrets.
+
+"We would go crazy if they tried to do that to us," he said of other countries that might try to get access to records stored in the United States.
+
+Assistant U.S. Attorney Justin Anderson said the U.S. properly followed the law.
+
+He said the U.S. government had repeatedly asked Microsoft without success to cite what foreign law might be compromised if it receives the Dublin email file that can be retrieved by U.S.-based Microsoft employees.
+
+Lynch said it seems there might not be as much protection of electronic communications as service providers might like.
+
+The case was initiated by Microsoft after prosecutors obtained a warrant for the information in December 2013, saying there was probable cause to believe the account in a Dublin facility opened in 2010 was being used to further narcotics trafficking. Microsoft turned over the customer's address book, which was stored in the United States.
+
+Dozens of organizations and businesses submitted written arguments to the appeals court, including 29 major U.S. and foreign news and trade organizations. They said journalists and publishers worldwide rely on email and cloud-storage services provided by Microsoft and others to gather, store and review documents protected by the First Amendment.
+
+A ruling in the case is unlikely for months.

@@ -1,0 +1,13 @@
+Washington, May 23 (ANI): Apple's next-generation operating systems, for both mobile devices and PCs, are reportedly going to have a strong focus on zapping bugs and improving stability, reports 9to5Mac.
+
+Apple is also said to be working on improving iOS support for older devices - including ones that aren't even necessarily on sale anymore.
+
+According to the Techcrunch web site, the iOS 9 will feature a new optimization method to better support older hardware, including the iPad mini and the iPhone 4S.
+
+Apple typically extends iOS compatibility to devices a few generations prior to the current shipping model, but in the past it has not done a terrific job of making OS updates all that friendly for those older iPhones and iPads.
+
+Typical user complaints include reports of significant performance slowdowns post-update.
+
+Apple also typically disables the most demanding features of new software updates, which can also detract from the overall user experience.
+
+This time around, Apple is focusing specifically on performance efficiency for older gadgets running iOS 9, with an effective core app and then features added as they go, provided they don't impeded the quality of the overall OS user experience. (ANI)

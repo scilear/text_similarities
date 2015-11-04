@@ -1,0 +1,25 @@
+Amazon has significantly widened its hardware ecosystem for its Dash Replenishment Service with Samsung, General Electric, Oster and a host of others building devices.
+
+The move is interesting given Amazon's Dash button, which can automatically order supplies when they run low. For Amazon, the win is obvious: More customers can put orders on autopilot and the e-commerce giant gets more predictable revenue streams. For consumers, there is some convenience to auto-ordering supplies.
+
+Previously: Amazon wants you to stick Dash wi-fi 'buy' buttons all over your home | Amazon's Dash Button: Could it really take off? Also see: CNET's Smart Home
+
+As it stands today, Amazon's Dash Replenishment Service (DRS) can either be built into hardware directly or exist as its own standalone button. The program is in beta but expanding dramatically now. Amazon said device makers can implement Dash with 10 lines of code and the company will show the ecosystem off at its re:Invent Amazon Web Services conference next week.
+
+Amazon said it is adding 11 new device makers to the DRS roster. Those device makers include appliance heavy hitters GE, Samsung and Oster.
+
+The integrated DRS would work like this. A connected device would measure supply usage using sensors or scales and then order consumables when needed. Today, Amazon's Dash button enables orders when customers press a button.
+
+Among the new hardware partners:
+
+GE will add Wi-Fi and DRS to its high-efficiency washers. Laundry detergent will be ordered when supplies run low.
+
+August will provide a smart lock that will automatically order batteries and notify customers when there needs to be a change.
+
+Gmate has a smart blood glucose meter that will order testing supplies automatically.
+
+Oster's smart pet feeder will replenish food automatically.
+
+Samsung printers will order toner cartridges automatically.
+
+Since Amazon is taking the back-end work out of reordering supplies many hardware makers are likely to give DRS a spin.

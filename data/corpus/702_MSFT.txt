@@ -1,0 +1,35 @@
+Microsoft (NASDAQ:MSFT) wants to make Windows 10 phones more popular by making them more than phones.
+
+Instead of just being powerful, portable computers that fit in your pocket, the company's new flagship phones, the Lumia 950 and Lumia 950 XL, also act as actual PCs. By plugging them into the new Microsoft Display Dock, the two phones can add a keyboard, monitor, and mouse. Using what the company has called Continuum, the 950 and the 950 XL are handsets that can easily become desktop computers.
+
+The company explained how it works in a press release:
+
+With Continuum capability for phones enhanced by the new Microsoft Display Dock accessory, connect the phone to a monitor and transform it for larger-screen entertainment, or add a keyboard and mouse to work like a PC with Windows 10 apps like Microsoft Office, while simultaneously taking calls or performing other tasks.
+
+It's a unique way to make a phone into a dual-purpose device, and it's a play by Microsoft to not just put the power of a computer into people's pockets, but actually putting a computer there.
+
+What is Continuum?
+
+Continuum brings the Windows 10 experience from PC to tablet to phone. In the case of the new Lumia Phones, it allows the user experience to change from a phone interface when the user holds the handset, to a computer-like experience when it's plugged into the dock.
+
+Once the Lumia 950 or 950 XL gets hooked up to a full-sized monitor, mouse, and keyboard, it presents the user with a desktop Windows 10 interface. There are still a few things that don't work (yet) -- splitting apps side by side, and minimizing windows, for example -- but running individual programs works just like it does when using an actual desktop. It's also possible to toggle between apps, and the various shortcut keys work.
+
+While you are using your phone as a computer with a full-size monitor you can also use the handsets screen to make calls, send text messages, or perform other actions.
+
+How well does Continuum work?
+
+The technology shows an amazing amount of promise, but it's not quite there yet. Continuum lets your phone work as a PC, but it's a very limited PC that only has the processing power of a phone. That does impact your productivity, and it makes using your phone as a PC more of a work in progress than a practical reality.
+
+GeekWire's Jacob Demmitt, who got a chance to play with a phone and dock, explained it well in his hands-on review:
+
+As it stands right now, I don't see many people relying on Continuum in a very meaningful way. It could be useful when you travel, but you would still need to lug around the Display Dock, a keyboard, mouse and all the cords. At that point, I'm much more likely to bring a laptop. Microsoft says, "leave your laptop at work," on the website promoting the Display Dock, but I just don't see many people doing that.
+
+Continuum moves Windows Phone in an exciting new direction, but it hasn't quite arrived yet.
+
+Can the New Lumia phones replace your computer?
+
+Nobody's going to stop using their desktop or laptop because they have a Lumia with Continuum. Still, the ability to dock your phone and use it as a faux computer might come in handy when traveling for business reasons.
+
+If you are visiting an office to deliver a presentation, it's reasonable to ask them to have a monitor, keyboard, and mouse on hand. The technology might also make sense in a secondary location -- like a vacation home -- if you happen to have an extra set of peripherals.
+
+Right now, this technology isn't good enough to be all that useful, but it's very promising. The day when your primary computer is your phone has not arrived, but Continuum suggests it might be coming soon.

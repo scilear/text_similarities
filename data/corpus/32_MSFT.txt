@@ -1,0 +1,53 @@
+>> Microsoft is playing a very dangerous game.
+
+The tech titan is betting big on its plan to get the new Windows 10 operating system to a billion devices — smartphones, tablets, but mostly PCs — over the next two or three years.
+
+That means that people actually have to want to use Windows PCs. At 110 million installs after two and a half months, Microsoft is off to a strong start.
+
+This week Microsoft upped the ante with exciting new hardware, including the Surface Pro 4 two-in-one, the Microsoft Surface Book laptop, and new phones that can pull double duty as a kind of desktop PC.
+
+On the surface (pun intended), it seems weird that Microsoft is building its own computers. The company relies on PC manufacturers like Lenovo, HP, Dell, and Asus to push Windows 10 into every single market it possibly can, from cheap tablets for students to luxury laptops for power brokers.
+
+But Microsoft's VP of Windows and Devices, Terry Myerson, says that it's not competing with partners. Microsoft simply wants to have enough great hardware available so people choose Windows 10 — and, hopefully, ditch Apple.
+
+"I think those customers should choose Windows," Myerson says. "I believe we built a better product."
+
+No alarms and no surprises
+
+When it came to Microsoft's internal hardware efforts, Myerson says that the company was as "transparent" as it could be with those partners so nothing announced this week was a surprise.
+
+>
+
+And when only 1% of Windows users have a laptop that costs over $1,500, the entry-level price for the new Surface Book, Myerson says, it's definitely not a bullet aimed at any Microsoft partner.
+
+"MacBook Pro is the competitor for the Surface Book," Myerson says.
+
+Really, Myerson says, the entire Surface line is about making sure that every customer looking for a Windows 10 device finds something that suits their needs. Microsoft never wants customers to be in a position where they'd prefer Windows 10 but simply refuse to buy a Windows 10 computer because there's no suitable hardware available. If Windows is going to get to 1 billion users, he says, it'll happen "one customer at a time."
+
+>
+
+That's also why Microsoft is building stuff like the HoloLens holographic computer, which will push Windows in "exciting new directions," he says. It's also why the Xbox One is getting an update that brings the Windows 10 operating system in a behind-the-scenes update.
+
+"We're building devices to be able to reinvent categories, and to create new categories for the Windows ecosystem," Myerson says.
+
+And there are plenty of categories. Dell, HP, and Asus all announced new Windows 10 devices of their own this week. Asus, in particular, has unveiled the ROG 752 laptop, a liquid-cooled monster of a Windows 10 machine tailored towards gamers.
+
+>
+
+Myerson, who was in San Francisco to help Asus promote the ROG 752, says that it offers performance and computing power well beyond what even the Surface Book, with a graphics-processing unit built into the keyboard, can offer. It's just about picking the right device.
+
+"Choice can be confusing, but choice can also be a strength," Myerson says.
+
+Once users are on Windows 10, Microsoft has a master plan to use it as a sales funnel towards its growing roster of subscription-based services, including Office 365 and OneDrive. But its Windows Store app store, a key to Microsoft's Windows 10 marketing, has been struggling to attract developers.
+
+It seems a little dangerous to focus so much on growing Windows 10 at Apple's expense, given that the overall PC market is rapidly weakening, with sales not expected to start growing again until 2017.
+
+But in the long-term, Microsoft is clearly hoping that the Surface line, and the devices from its partners that follow Microsoft's lead, will make sure that Windows 10 stays relevant no matter what happens to the PC industry.
+
+NOW WATCH: The 7 best new features coming to Windows 10
+
+
+
+
+
+More From Business Insider

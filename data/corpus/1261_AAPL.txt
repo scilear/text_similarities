@@ -1,0 +1,27 @@
+Earlier this week, Apple (NASDAQ:AAPL) announced an expansion to its existing equity compensation program for employees. Historically, grants of restricted stock units have been limited to management and engineering positions, but Apple's new move will open up the RSU grant program to a much broader range of employees, including retail and AppleCare reps.
+
+In an email to employees, Tim Cook said the program was much larger than those offered by other companies, because it essentially allows all employees to be eligible for an RSU grant. He described the expansion as "an unusual step" and "very special."
+
+What's the benefit?
+
+Naturally, the primary reason to offer higher levels of equity compensation and RSU grants is stronger employee retention. Apple's retail stores are believed to have relatively higher retention rates than other retail stores, a sector where high turnover is simply a fact of life, although there isn't much data available on the topic.
+
+While there have been plenty of headlines of Apple poaching engineers from Tesla Motors (NASDAQ:TSLA), the upstart electric-car maker is also poaching quite a lot of talent from the Mac maker, according to a Bloomberg report from February. Apple's aggressive poaching from Tesla has supposedly also been contributing to development delays at Tesla.
+
+Even though Apple is reportedly offering hefty cash-signing bonuses, Tesla is probably offering more equity grants, because it has less cash on hand. And with Tesla shares soaring in recent years, perhaps the roller coaster of being a Tesla shareholder is more enticing compared to the relative maturity of Apple shares.
+
+Either way, by definition, there's a directional correlation between larger RSU grants and higher employee retention rates.
+
+What's the cost?
+
+To be clear, this is a very big expansion of the RSU program. Consider the fact that, at the end of last fiscal year, 46,200 out of 92,600, or half of Apple's full-time equivalent employees (not including temporary employees or contractors), worked within the retail segment.
+
+It's worth noting that Apple's retail segment is also one of the areas where Apple's hiring is growing fastest. Of the 12,300 employees that were hired in fiscal 2014, more than a quarter of the additions were in retail. This trend should continue as Apple aggressively expands its retail footprint in China. These figures will be updated once Apple reports fiscal fourth-quarter earnings in a couple of weeks, and subsequently releases its latest 10-K.
+
+Apple is also more conservative in terms of stock-based compensation compared to peers like Alphabet (NASDAQ:GOOG)(NASDAQ:GOOGL). Apple's total stock-based compensation last quarter was $856 million, compared to Alphabet's $1.1 billion. Lacking retail operations, Alphabet's total full-time work force is much smaller, at 53,600 as of the end of 2014. It makes sense that Alphabet's stock-based compensation is higher, considering the composition of its work force -- most are engineers in research and development.
+
+Unlike the vast majority of other companies, Apple does not report non-GAAP results. One of the most common exclusions in non-GAAP reporting is stock-based compensation, because it's a non-cash expense. As Apple's stock-based compensation expenses will surely rise in a meaningful way going forward, this will put some mild pressure on profitability.
+
+Compensating retail employees is classified under selling, general, and administration expenses, so an increase here would affect operating and net margins -- not gross margin. Excluding the stock-based compensation within cost of sales, stock-based compensation was about 13% of total operating expenses last quarter.
+
+The bottom line is that it's the right thing to do to boost employee retention and morale, and Apple can easily afford it.

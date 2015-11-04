@@ -1,0 +1,13 @@
+Washington, May 30 (ANI): Apple has detailed an official solution for its iMessage service which has been recently crashing due to a small string of text characters, blocking users from reading incoming texts.
+
+According to the Verge, Apple has detailed an official workaround for the problem in a support document on the company's website.
+
+The company said the iPhone owners who are facing this problem can solve the issue by using Siri to unlock their Message app,
+
+The users have been directed to ask Siri to "read unread messages" and use Siri to reply to the malicious message.
+
+After users reply, they will be able to open Messages again wherein they have to swipe left to delete the entire thread or tap and hold the malicious message.
+
+They can also tap More and delete the message from the thread.
+
+Apple's official workaround is similar to fixes already suggested by iPhone owners, who have used Siri to reply to the original sender, used the Messages app on a Mac to add another message to the conversation. (ANI)

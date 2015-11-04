@@ -1,0 +1,13 @@
+Antuan Goodwin/CNET
+
+For years we've been praising Volkswagen's TDI vehicles for their excellent blend of driving performance and fuel efficiency, but a recent claim by the US Environmental Protection Agency asserts that VW's diesel emissions may not be as clean as we've been led to believe.
+
+The EPA claims that illegal emissions control software was used on Volkswagen and Audi diesel vehicles sold in the United States between the model years 2009 and 2015. In its official statement, the EPA explains its findings:
+
+"A sophisticated software algorithm on certain Volkswagen vehicles detects when the car is undergoing official emissions testing, and turns full emissions controls on only during the test. The effectiveness of these vehicles' pollution emissions control devices is greatly reduced during all normal driving situations. This results in cars that meet emissions standards in the laboratory or testing station, but during normal operation, emit nitrogen oxides, or NOx, at up to 40 times the standard. The software produced by Volkswagen is a "defeat device," as defined by the Clean Air Act."
+
+Allegedly, the cars run in a clean mode when hooked up to testing equipment and switch back to a not-so-clean mode when disconnected. This causes the torquey TDIs to actually spew up to 40 times more tailpipe emissions when driven in the real world.
+
+The affected vehicles are 2009-2015 model year Volkswagen Jetta, Beetle and Golf, the 2014-2015 VW Passat, and 2009-2015 Audi A3, totaling roughly 482,000 diesel passenger cars.
+
+Neither the EPA's official statement nor its notice of violation to the Volkswagen Group of America makes any mention of a recall, but the agency did state that "VW may be liable for civil penalties and injunctive relief for the violations alleged in the [notice]." With a maximum possible fine of $37,500 per vehicle, VW and Audi could be looking at up to $18 billion in fines.

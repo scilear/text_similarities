@@ -1,0 +1,29 @@
+One of the most common complaints about Microsoft's (NASDAQ:MSFT) Windows Phone platform is its lack of first-party apps from Alphabet's (NASDAQ:GOOG) (NASDAQ:GOOGL) Google. Instead, users have to use clumsy third-party apps which often suffer from API disruptions. Google also drew a line in the sand by blocking Microsoft's YouTube app in 2013.
+
+But all that could soon change. Microsoft and Google recently agreed to drop all lawsuits against each other, and a new rumor suggests that Google could finally launch first-party apps for Windows 10 Mobile as part of the deal. If Google really brings its core apps to Microsoft's mobile OS, would it be a win for both companies?
+
+What Google apps mean for Microsoft
+
+Windows Phones account for less than 3% of the worldwide smartphone market today, according to IDC. Yet Microsoft has made surprising progress against Google on mobile devices by forging alliances with Android OEMs. Earlier this year, over 30 handset makers agreed to pre-install Microsoft's Android apps on their devices. While this didn't mean that the Microsoft apps would directly replace their Google counterparts, it did mean that consumers gained pre-installed second options.
+
+Microsoft also made it easier for Android and iOS developers to port their apps to Windows 10, which can reach a much wider audience of PC, Xbox One, tablet, and smartphone users. In China, Microsoft and Xiaomi even developed a Windows 10 ROM which could be installed on the latter's flagship Mi4 Android smartphone.
+
+Those moves suggested that Microsoft was prioritizing ecosystem expansion over Windows Phone hardware sales. But if Google launches first-party ecosystem apps for Windows 10 Mobile, Android users might be more inclined to purchase new Microsoft devices like the Lumia 950 and 950XL. At the same time, Google's software could potentially steal users away from Microsoft's services, which could hurt Microsoft's goal of creating a "One Windows" cloud-based ecosystem across multiple platforms.
+
+A tangled web will be woven
+
+Launching Google apps for Windows 10 Mobile might not initially seem that different from bringing them to iOS. But there's a crucial difference -- Microsoft and Google are competing software makers, while Apple mainly produces hardware.
+
+Google's introduction of iOS apps is more similar to Microsoft's strategy of pre-installing apps on Android OEMs. Both companies are trying to piggyback their apps on other companies' hardware to expand their ecosystems. However, Microsoft's introduction of core apps on Android is an attempt to breach Google's ecosystem while at the same time Google could be trying to do the same by bringing its first-party apps to Windows 10 Mobile.
+
+
+
+Microsoft will likely embrace Google apps on Windows 10 Mobile because they'll boost the appeal of all Windows 10 devices. Since Microsoft is leveraging its dominance of the PC market to support smartphone sales with scalable features like Continuum, it would be ideal to offer as many popular mobile apps as possible. Microsoft might lose a few ecosystem users to Google, but the increased appeal of the Windows OS could be well worth it.
+
+However, Google could accidentally undermine the appeal of its own Android devices by launching core apps for Windows 10 Mobile. For consumers who want access to core Google services as well as compatibility with Windows' widespread PC applications, it might make more sense to buy a Windows 10 Mobile device instead of an Android one.
+
+The road ahead
+
+Google was recently hit by antitrust probes in Europe and the U.S. regarding its app-bundling practices on Android. Several of Google's competitors, including Microsoft, have accused the company of making it nearly impossible to get their apps pre-installed on Google-tethered Android devices.
+
+Therefore, launching its core apps for Windows 10 Mobile might be a defensive move against charges of anti-competitive behavior. At the very least, it would be a strong vote of confidence for the future of Windows 10, which has already claimed almost 7% of the PC market since its launch in late July.

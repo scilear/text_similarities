@@ -1,0 +1,25 @@
+NEW YORK (MainStreet) — Numbers from the Federal Reserve are a smack in the face of mobile banking proponents. Some 87% of U.S. adults have mobile phones, but only 39% have used mobile banking in the past year. Among smartphone users, just 52% have used mobile banking in the past 12 months, up a slim 1% from the year earlier. The take-away: mobile banking adoption has stalled.
+
+
+
+What’s the hang up? Per the Fed: “Concern about the security of the technology was a common reason given for not using mobile banking or mobile payments (62% and 59%, respectively, of non-users).”
+
+
+
+Just one problem: by any measure, said multiple experts, mobile banking is dramatically more secure than online banking. Online banking has been under assault by criminals essentially since it launched in the U.S. 20 years ago. Literally millions of computers are infected with malware called Zeus and variants that are created to “keylog” - copy - banking usernames and passwords and communicate them to a control that puts them to use stealing the money of victims.
+
+
+
+Mobile banking’s safety comes down to numbers. There are millions of malware strains targeting online banking users - on both Windows and Apple laptops and desktops, said identity theft expert Robert Siciliano. But, he added, there are only “tens of thousands targeting mobiles, Android specifically.”
+
+
+
+There are of course some targeting iPhones - especially jailbroken phones - but the numbers are small, said experts, mainly because Apple continues to be vigilant in guarding its apps store (recent lapses aside).
+
+
+
+“Mobile banking is the safest way to bank. There is no question about it,” said Sajad Ghanizada, formerly with Homeland Security, now with Hurdlr, a support service for Uber drivers. Mobile, said Ghanizada, just offers criminals few attack vectors: “It requires a lot more work to compromise a mobile app or phone than a website that you can have access to from anywhere in the world, 24 hours a day.”
+
+
+
+1 of 3

@@ -1,0 +1,33 @@
+If your new iPhone 6S is pink, it might be because it's blushing. A teardown by iFixit on Friday — the day of the iPhone 6S launch — reveals the usual suspects but notes no major content increases from Apple (NASDAQ:AAPL) chip suppliers Avago (NASDAQ:AVGO) and Qorvo (NASDAQ:QRVO), according to Mizuho Securities analyst Vijay Rakesh.
+
+"Overall the teardown results appear in line," he wrote in a research report. "Content at Skyworks Solutions (NASDAQ:SWKS) is up on the (iPhone) 6S/6S Plus, while Avago and Qorvo appear to be flat."
+
+It looks like Samsung, and not rival Taiwan Semiconductor Manufacturing (NYSE:TSM), manufactured the Apple A9 processor, according to iFixit, though TSM also could be making some of those key components.
+
+Intel (NASDAQ:INTC), which has vied for Apple business, was absent from the 6S chip party, as expected.
+
+The iPhone 6S carries modem, intelligence, power management and radio frequency transmission chips from Qualcomm (NASDAQ:QCOM), plus power amplifiers from Skyworks and Avago, says iFixit.
+
+NXP, Cirrus, InvenSense Also In
+
+Other suppliers include NXP Semiconductors (NASDAQ:NXPI) with a controller (integrated into the A9) and Cirrus Logic (NASDAQ:CRUS), which teamed with Apple on an audio chip. Texas Instruments (NASDAQ:TXN) provided a power management chip.
+
+InvenSense's (NYSE:INVN) gyroscope and accelerometer chip made its debut in the original iPhone 6 and came back for an encore in the iPhone 6S series, the teardown shows. NXP's display chip, which first appeared in the iPhone 5S and 5C, also played a repeat performance in the 6S, with somewhat of a face-lift, says iFixit.
+
+IFixit gives the iPhone 6S a seven out of a possible 10 on repairability, noting that the tucked-away Touch ID cable and proprietary screws complicate an otherwise easy-to-repair phone.
+
+But teardowns are an incomplete science and might offer a skewed view of Avago and Qualcomm's chips, Mizuho's Rakesh wrote.
+
+"Discrete filters such as those from Avago FBAR (film bulk acoustic resonator) are tough to identify on teardowns and so the actual Avago content might be higher," he wrote.
+
+Rakesh has buy ratings on Avago, NXP, Qorvo and Skyworks. He rates Qualcomm stock as neutral.
+
+Apple chip-supplier stocks benefited from Apple's "Big Event" earlier this month — its annual September product unveilings — and repeated the pattern Friday.
+
+In midday trading Friday, Cirrus Logic was the clear winner among chip stocks, up more than 15% and trading above 31. Apple — its stock flat in midday trading — seemingly dragged its chip suppliers out of the mud.
+
+Of the suppliers named here, only InvenSense stock was down. InvenSense shares were down 2.5%.
+
+Skyworks and Avago shares were up 3% in midday trading on the stock market today, with Qorvo stock was up 4.5%. Taiwan Semi and Qualcomm were up a fraction.
+
+Connect with Allison Gatlin on Twitter @IBD_AGatlin and on Facebook.

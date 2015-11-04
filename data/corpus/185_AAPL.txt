@@ -1,0 +1,47 @@
+Ever since Apple let slip in June that the latest version of its operating system for iPhones and iPads would enable ad blocking, the discussion of the looming apocalypse for ad-dependent publishers has been impossible to avoid -- unless you’ve installed ad-blocking-discussion-blocking software, of course. A study released in August showing growing use of ad blockers on computer Web browsers also fanned the flames, but the fear that the practice is about to engulf the much-faster-growing mobile world is most intense.
+
+Now the adblockalypse would appear to be upon us, with iOS9 installed on more than half of Apple mobile devices and an ad-blocker called Crystal atop the paid-download list in Apple’s App Store.
+
+This has brought some drama: Marco Arment, developer of an even faster-selling ad-blocking app than Crystal, abruptly pulled it from the App Store, saying that while ad blockers “do benefit a ton of people in major ways, they also hurt some, including many who don’t deserve the hit.” Humor, too: the Onion actually devoted one of its American Voices person-on-the-street columns to Arment’s decision.
+
+What there hasn’t been is an actual apocalypse. The Internet trundles on. Online ads are delivered, a few people even look at them. That’s partly because the iOS change targets the Safari browser; the majority of users who consume media on smartphones via social networks and other apps aren’t affected. It’s also because this is just another skirmish in what has been a long-running war. Here’s an ad executive, quoted in a 1987 Philadelphia Daily News article, fretting about the rising popularity of videocassette recorders:
+
+When a viewer records a network program to play it back at a later time, they often zip through the commercials or they zap them out entirely. And that hurts advertisers.
+
+Poor advertisers! They survived the VCR threat just fine, of course. Same with DVDs, DVRs, pop-up ad blockers and a long series of other supposedly existential technological threats to media that turned out to be largely harmless or even a boon. As Randall Rothenberg, chief executive officer of the Interactive Advertising Bureau, the digital ad industry trade group, told the Wall Street Journal this week:
+
+Without minimizing the fact that there’s a problem, this is following the pattern we’ve seen for every crisis du jour in our industry over the past 10 years… I’m not worried because the marketing and media value chain has shown remarkable resilience. There is a natural human need to have businesses proposition you with goods and services and vice versa.
+
+This doesn’t necessarily mean, though, that they will keep doing that propositioning in the same ways and via the same channels. Some existential threats to media really do pan out -- regional newspapers are dying, the music industry is alive but in dramatically different and probably diminished form. It is at least worth considering that this really is the beginning of the end for most advertising on the Internet, at least advertising of the kind we’re used to, and find so irritating.
+
+This irritation is a persistent theme in writings about ad blocking. It is often attributed to the way advertisers track consumers across the Internet, clogging up their browsers, invading their privacy and sometimes just creeping them out. Buy some underpants, or visit a site that sells them, and you will be accosted online for weeks by photos of crotches. Such advertising can be counterproductive -- the underpants thing has been happening to me lately, and I think it has convinced me never to go near any online outpost of underwear seller Mack Weldon again -- but that effect is hard to measure, while the tiny percentage of people who click through on the ads and buy stuff are of course easy to count.
+
+This is actually a crucial point, because most advertising on the Internet isn't of the sort that attempts to fill us with warm feelings about brands. It is instead the online equivalent of junk mail or late-night TV infomercials: technology-enabled, data-driven, personalized pitches intended to get us to buy something now.
+
+Blogger and marketing prophet Doc Searls thinks the key to fixing online advertising is to make this kind of targeted advertising -- he calls it adtech -- much harder:
+
+In marketing lingo, adtech is a form of direct response marketing, which is descended from the direct (aka junk) mail business, not from Madison Avenue. The difference is critical, because what we really need to block is adtech, not all of advertising. The baby in the adblock bathwater is Madison Avenue, which has paid for nearly everything on newsstands, radio and TV since their beginnings. Even if we didn’t like ads fattening our magazines or interrupting our programs, we knew the economic role they played, and we appreciated their best work.
+
+The problem with this proposal is that mass-market, Madison-Avenue-style ads have never been very successful on the short-attention-span, increasingly small-screen Internet. When they try to command users’ attention by delaying access to articles or with auto-playing videos, they’re just as irritating as ad tech, and are in fact a major target of current ad blockers.
+
+I know of no online equivalent of the September issue of Vogue magazine or the Super Bowl, where the ads are more interesting than the content. Buzzfeed is trying hard to come up with forms of brand advertising that people actually want to share online (this one almost makes the cut), and that will surely be one path to survival for ad-supported media companies. But the ability to target and track individual users is such a big part of what Internet advertisers do that it’s hard to imagine them giving up without a vicious fight.
+
+Plus, not all tracking is irritating. I really don’t mind that the Public Theater in New York has been following me around online since I went gaga in January for the musical “Hamilton,” which premiered there. One of these days I’ll probably click on one of their ads and buy a ticket. The “cookies” used to track me also make it possible for me to read the Financial Times and Wall Street Journal online without having to log in every danged time.
+
+What we’re probably in for, then, isn't some elegant sorting of good ads from bad, but an arms race. ESPN.com already makes it impossible for some users of ad blockers to view videos; similar ad-blocker-blocking will surely become common. At the same time, Lucia Moses reports in Digiday, ad-tech types are looking for ways to target users of ad-blocking software because, “as a demo that’s young, male-skewing and tech-focused, they’re an attractive audience for certain advertisers.”
+
+Apple and Facebook, meanwhile, are intensifying efforts to keep users in walled gardens that curate the advertising experience and steer more revenue into their own coffers. The Verge’s Nilay Patel argues that Apple’s iOS9 ad-blocking move was aimed squarely at archrival Google and its central role in the existing Internet advertising infrastructure. Digital publishers that lose ad revenue as a result are just collateral damage.
+
+Doc Searls has in the past described a vision, which I find extremely appealing, of an online world in which individualization and targeting are possible, but the consumer controls the process. Instead of being pursued as prey, we would cast our intentions into the marketplace and entertain offers. Or something like that. Maybe the adblockalypse will eventually lead to such a result. For now, though, I think it will just make online life more aggravating.
+
+(Corrects organization name in sixth paragraph of article published Sept. 23 to Interactive Advertising Bureau from Internet Advertising Bureau.)
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Justin Fox at justinfox@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

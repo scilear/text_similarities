@@ -1,0 +1,47 @@
+When Microsoft first introduced its Surface Book laptop last week, Surface exec Panos Panay made the bold claim that it was twice as fast as the MacBook Pro.
+
+Microsoft VP of Windows and Devices Terry Myerson doubled down on that claim in an interview with Business Insider, saying that the Surface Book laptop is squarely aimed at winning over Apple fans.
+
+As you might expect, Apple fans are skeptical of this claim, especially since Microsoft has yet to release many details on the dedicated graphics unit that sits in the Surface Book's keyboard.
+
+And at first blush, Microsoft's numbers are looking a little suspicious, especially in light of the Surface Book specs we have, which show that it's a powerful laptop, but not extraordinarily so.
+
+But the company is backing Panay's statement all the way.
+
+The "mantra" on the Surface Book team when it comes to comparisons with Apple is "our best vs. their best," meaning that Microsoft is pitting "best available Surface Book against the best available 13-inch MacBook Pro.”
+
+Here's why Apple fans are still unconvinced.
+
+A matter of design
+
+The thing that's so special about the Surface Book, beyond its neat industrial design and detachable tablet, is that in the higher-end models, the keyboard itself adds some horsepower to the equation, beyond just the regular processor (CPU) housed in the tablet portion.
+
+When the tablet is docked with the keyboard, the laptop gets access to a superfast Nvidia GeForce graphics processing unit (GPU) that turns Surface Book into a gaming and media powerhouse. That GPU has 1GB GDDR5 of high-speed memory, customized by Nvidia to fit into the Surface Book's svelte shell.
+
+That approach is a part of why the Surface Book commands a price tag that starts it at $1,699 for one with the dedicated graphics chip in the keyboard. It's a cost well above the vast majority of Windows machines. But those prices are similar to many MacBook models.
+
+This has sparked conversations, like this Reddit thread, about whether or not the Surface Book is actually twice as fast as the MacBook Pro, especially compared to Apple's selection of 13-inch screen models.
+
+Comparing processors
+
+Hold tight, because this is going to get a little nerdy.
+
+The base Surface Pro has a Intel Core i5 2.4 GHz dual-core chip, and the high-end ones ship with an Intel Core i7 2.6 GHz. Meanwhile, the lowest-end MacBook Pro, with one of Apple's super-sharp Retina displays, sports a cheaper $1,300 price tag — and an Intel Core i5 2.5 GHz processor, just slightly better than the base Surface Pro.
+
+The only way the Surface Book conclusively beats the MacBook Pro in speed, just based on the specs we have available and not accounting for performance, is if you redline that sucker and order a maxed-out model for $2,699.
+
+Even then, it offers worse CPU performance than a tricked-out $2,199 13-inch MacBook Pro, which has a 3.1 GHz processor. The only win is on graphical performance, since the MacBook Pro has an integrated graphics unit, compared with the Surface Book's dedicated unit in the keyboard.
+
+Moreover, the maxed-out Surface Book's $2,699 price tag is still a little higher than the $2,499 you'd pay for a high-end 15-inch MacBook Pro, which offers a bigger screen and a graphics unit with twice as much memory as Microsoft's laptop.
+
+The bottom line: Without knowing more about the Surface Book's graphics unit, it's hard to tell for sure. But Microsoft's claims that the Surface Book is twice as fast as a MacBook Air are going to be tough to back up.
+
+Microsoft stands by its claims
+
+Still, Microsoft is sticking to its guns. A company spokesperson sent the following statement:
+
+Our validated performance claims are for the Microsoft Surface Book with an Intel Core i7 with 16GB RAM and custom discrete NVIDIA GeForce GPU against the MacBook Pro 13-inch with Retina display with an Intel Core i7 with 16GB RAM. We used third-party benchmarks to test the best available Surface Book against the best available 13-inch MacBook Pro.
+
+In other words, Microsoft isn't worrying about the 15-inch MacBook Pro at all, neither is it concerned about the price tag or bang for the buck compared with Apple. All Microsoft is aiming at here is building a blazing-fast 13-inch laptop.
+
+NOW WATCH: Microsoft's first laptop looks like a MacBook killer

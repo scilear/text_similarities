@@ -1,0 +1,93 @@
+Last year, Apple announced a technology that will let you control the appliances in your home with Siri.
+
+It's called HomeKit. And if Apple's plans work out, it will turn your home into one giant computer — like the iPhone, but everywhere.
+
+The iPhone, like any other computer, is a piece of hardware built by a certain company that can run apps and games built by other companies and developers all over the world.
+
+These apps expand the functionality and usability of your phone — if you could only use apps made by Apple on your iPhone, imagine how limiting the experience would be.
+
+Apple is opening up similar opportunities with HomeKit by allowing developers to build new features and apps that run your home.
+
+The HomeKit vision
+
+In most basic terms, HomeKit is a language that allows internet-connected appliances to speak to one another in your home.
+
+For instance, if the HomeKit-enabled light in your kitchen turns on, that might tell the HomeKit-connected coffee pot to kick on and start brewing the first pot of coffee for the day. Or, perhpaps your smart door lock would trigger the lights in your bedroom to turn on as soon as you walk through the door.
+
+There are also smart plugs that work with HomeKit, which turn any normal home appliance into a "smart" device. Plugging a lamp, an air conditioner, or any other home appliance into one of these plugs allows you to control it with your phone or with your voice using Siri.
+
+HomeKit also has something called "scenes" — preset scenarios that make it easier to control a group of HomeKit devices at once. For instance, a "leaving home" scene might turn off all of your HomeKit gadgets at once. Or a "going to bed" scene might tell the lamp plugged into your HomeKit-enabled plug to turn off while telling the HomeKit-connected thermostat to make the temperature more comfortable for sleeping.
+
+Unleashing the app makers on your home
+
+The clever part: You don't need to make the actual appliances or hardware to make an app for HomeKit. Anybody could theoretically create an app that makes a Philips Hue light bulb act a certain way when a certain song or TV show is on (for instance).
+
+This scenario depends on some cooperation from the hardware makers — in this case, Philips would have to open up its light bulb to the HomeKit community.
+
+But in general, Apple wants third parties to be able to build their own apps and features for HomeKit devices.
+
+It's a near repeat of what Apple did with the iPhone. When it first came out in 2007, it only included pre-bundled apps from Apple. A year later, Apple opened it up to app makers and created the App Store, and the rest is history.
+
+Opening HomeKit to the broad community of app makers has its pros and cons, according to Chris Allen, the CEO of iDevices, which makes smart plugs and thermostats that work with HomeKit.
+
+"It's a double-edged sword," Allen said to Business Insider. "The fact that companies can take my product and do something with it that I don't control, [that] scares me. There's a fear factor associated with that, and we're working through it."
+
+But ultimately, Allen expects this openness to lead to better apps, since it gives talented software developers who understand interface design the chance to make apps for the gadgets in your home.
+
+"What [I think] Apple was trying to do," Allen says,"is take app developers that maybe created great gaming apps and other apps and bring that experience into HomeKit."
+
+The trick is getting the app makers involved, not just the hardware companies, agrees Dr. Markus Fest, the CEO of Elgato, which makes a HomeKit-connected sensor called Eve that measures air quality, temperature, and more.
+
+"There's a great opportunity for software-focused guys to come out and make an app that blows everyone out of the water," Fest told us.
+
+Both Fest and Allen pointed out that apps made by hardware manufacturers often don't have the greatest design. With HomeKit, third parties can step in and add design flourishes that make those products easier and more fun.
+
+For instance, clever software makers could add an icon such as a pinwheel to control the temperature in your home, or let you control the temperature with the digital crown on your Apple Watch.
+
+Any developers building apps for HomeKit have to use the same safety guidelines as the device makers themselves — this means they need clear, overt privacy policies and must follow Apple's guidelines to gain access to data about your home.
+
+View gallery .
+
+"How hard is this?"
+
+Although Internet-connected home appliances aren't widespread yet, adoption is set to take off this year, according to research from Parks Associates. According to the firm, 40% of broadband households in the US are planning to buy a smart home device in 2015, compared to the 16% of households that have them now.
+
+One reason why these devices are rare: They're often difficult to set up.
+
+"There's been a little bit of a block in, 'How hard is this? What does it take to set it up?'" Mike Tummillo, senior vice president of general merchandising at Lowe's, said to Business Insider.
+
+With HomeKit, Apple made a strong effort to fix this problem. All HomeKit devices, regardless of which manufacturer has made them, offer the same setup steps so that the experience is consistent. You would simply download the necessary companion app required for your device to begin the setup process, which requires inputting the setup code on your gadget.
+
+This is even easier in iOS 9, since you can scan this setup code with your iPhone's camera rather than typing it in. This prompts the device to quickly and securely pair to your iPhone. (It's similar to how you add a new credit card when setting up Apple Pay.)
+
+The HomeKit "scenes" are also consistent no matter which device you're using — so you could have an iDevices plug or an Ecobee thermostat, and they'd all work the same way with the "leaving home" scene you set up. Those scenes are easy to set up from your iPhone or iPad as well.
+
+View gallery .
+
+HomeKit also has built-in triggers that allow your HomeKit devices to communicate with one another — to the extent that your home is essentially controlling itself.
+
+Triggers, as the term implies, cause your HomeKit gadgets to perform certain tasks based on a set of predetermined factors. These triggers can be based on your location, time of day, or the actvity of other HomeKit devices.
+
+For instance, let's say you always get home from work at 6:30, and your apartment gets really hot during the summer. You might set a HomeKit trigger that tells the air conditioner plugged into HomeKit-enabled smart plug to kick on around 6pm so that your home is nice and cool by the time you get home.
+
+Or, for instance, if you're using a HomeKit-connected device that can monitor air quality, you might set a trigger that tells the HomeKit-enabled air purifier to kick on if the device reads that the air quality conidition is poor.
+
+Jumping on the back of the "800 pound gorilla"
+
+Apple is not alone in wanting to turn your home into a giant controllable computer.
+
+In May, Google unveiled an initiative called Brillo that's similar to HomeKit. It's a platform that allows connected home devices to speak one common language created by Google, similar to the way HomeKit devices communicate using Apple's language.
+
+Samsung also said during this year's CES that 90% of its products will focus on The Internet of Things by 2017. The Internet of Things is a buzzy term that generally refers to connecting an everyday object — whether it be a coffee pot, a washing machine, or your car — to a computer network or the broader Internet in some way. Samsung also bought SmartThings, a startup developing a platform for smart home products, a year ago in August for $200 million.
+
+In fact, smart home devices existed before Apple's HomeKit and Google's Brillo. But these devices usually require different types of software and communicate differently, making it difficult for them to work together. For instance, you'd be able to turn on your light from an app on your phone or start your first pot of coffee with a single tap, but there wasn't really a great way for those devices to work together.
+
+Part of what makes Apple and Google's smart home initiatives stand out is thatboth companies have already created a strong operating system and ecosystem on mobile. That gives them more room to connect the devices in your home more easily.
+
+"The thing that kept us from doing it prior to HomeKit and even Brillo is that it's a forced integration," Allen said when asked what makes Apple and Google different than the other companies getting into the smart home space.
+
+He used Samsung as a hypothetical example, explaining why he's rather side with Apple and Google if Samsung were to eventually launch its own smart home platform.
+
+"They [Samsung] have great products, they sell a ton of products, but they don't have an operating system on a phone," he said. "Their operating system in [based on] Google, and so they're reliant on what Google does through Brillo to get that adoption...We jumped on the back of the big 800 pound gorilla with Apple, [and] we'll do it again with Brillo as it evolves."
+
+NOW WATCH: Here's the type of info hackers have after breaking into the extramarital hookup site Ashley Madison

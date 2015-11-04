@@ -1,0 +1,67 @@
+Volkswagen's sales pitch captured exactly what Jonathan Lea wanted — a sporty car that logged top fuel economy and was so green the federal government rewarded buyers with a $1,300 tax credit.
+
+"It was the total package," Lea said.
+
+Now that he knows the truth about the car's pollution, and VW's cheating on emissions tests, he wants the automaker to buy the car back and send it to the scrap heap. His 2009 Jetta TDI has already lost a lot of resale value, and he wants a different — and legitimately green — car.
+
+"It is quite a predicament that they are in — and that I am in," Lea said. "Hopefully, it will be resolved soon."
+
+A quick resolution is doubtful as VW faces an extraordinarily complex recall of 482,000 cars in the U.S. and as many as 11 million worldwide. "Fixing" the cars is likely to hurt the car's performance and fuel economy. And that means VW will have to find another way to compensate owners on top of the repairs, experts say.
+
+The remedy should include VW buying the cars back, said Harvey Rosenfield, an attorney at Consumer Watchdog. Short of that, the automaker should make a payment of "thousands of dollars" to cover the fraud and diminished value of the vehicles, he said.
+
+Volkswagen admitted the test rigging and has set aside $7.3 billion to cover the costs of retrofitting, which is likely to require reprogramming engine management software and, in some cases, extra emissions equipment. That tab is likely to grow.
+
+Volkswagen also faces as much as $18 billion in U.S. fines for Clean Air Act violations, plus a criminal investigation and hundreds of consumer fraud lawsuits. It has temporarily suspended efforts to get its crop of 2016 diesels certified by the Environmental Protection Agency for sales in the U.S.
+
+"We are determined to make things right. This includes accepting the consequences of our acts, providing a remedy and beginning to restore the trust of our customers," Michael Horn, chief executive of Volkswagen Group of America, said in prepared remarks for a hearing by a House Energy and Commerce Committee panel Thursday.
+
+But Horn didn't say what Volkswagen was prepared to do for its U.S. customers.
+
+Lea, a business graduate student at UCLA, wants nothing short of a buyout of the car.
+
+"This would also allow the original purchasers to purchase newer, cleaner vehicles," he said.
+
+That's unlikely — but not without precedent. In July, the National Highway Traffic Safety Administration ordered Fiat Chrysler Automobiles to buy back as many as 193,000 Ram trucks that have defective steering parts that can cause drivers to lose control.
+
+VW also should offer a financial inducement to get owners to have their cars fixed once the automaker has a remedy that's approved by federal and California regulators, Rosenfield said.
+
+"Nobody has an incentive to bring their cars in because the likely result is that they will get poorer fuel economy," he said.
+
+Other automakers have made direct payments to compensate owners, but on a relatively small scale.
+
+Ford offered payments to owners of its C-Max hybrid several years ago after regulators found that the vehicle didn't get the fuel economy claimed on its window sticker. People who purchased the cars received $550, while those who leased the hybrid received $350.
+
+Last year, General Motors offered $25 gift cards to induce owners of its cars recalled for a deadly ignition switch issue to have the vehicles fixed.
+
+Volkswagen plans to send recall notices to its European customers by January and expects to have the millions of cars there retrofitted by the end of 2016.
+
+"In many instances, a software update will be sufficient," said Matthias Mueller, named VW's chief executive last month after his predecessor, Martin Winterkorn, resigned. "Some vehicles, however, will also require hardware modifications."
+
+Action in the U.S. is likely to take longer because it requires the approval of the EPA and the California Air Resources Board, which have ordered the automaker to reduce smog-forming nitrogen oxide emissions from 2009 to 2015 models with 2.0-liter, four-cylinder diesel engines.
+
+Removing the evasive software seems like only the start of fixing the problem and compensating owners, said Allen Schaeffer, executive director of the Diesel Technology Forum.
+
+Horn provided a glimpse of the problem's complexity. There are three groups of vehicles involved, each containing one of three diesel engine generations.
+
+"Each will require a different remedy," Horn wrote in his prepared remarks for the scheduled Thursday hearing.
+
+To meet emissions requirements, Mercedes-Benz, BMW and General Motors rely on a method called "selective catalytic reduction," which injects an ammonia-rich urea solution into the exhaust system. The ammonia and exhaust mixture flow into a catalytic converter where nitrogen oxide emissions are converted into harmless nitrogen and oxygen
+
+It's expensive — and a key reason diesel vehicles cost more than those powered by gasoline. The system also takes valuable interior space and the urea fluid tank has to be refueled periodically, adding an extra service expense for drivers.
+
+VW considered but rejected a deal to license an SCR system from rival Mercedes-Benz. Instead, Volkswagen's engineers and former CEO Winterkorn decided to use less costly nitrogen oxide traps in smaller, less expensive diesel cars.
+
+Known as a "lean NOx trap," the system collects nitrogen oxide in a device resembling a catalytic converter. Software instructs the car to shoot fuel-rich exhaust into the trap every few minutes, creating a chemical reaction that reduces the nitrogen oxide to plain nitrogen.
+
+But the lean NOx trap systems tend to lose their effectiveness over time, said Addy Majewski, a chemical engineer and the editor of DieselNet.com, an emissions information service.
+
+Only in recent years has VW adopted the selective catalytic reduction system like the one used by other automakers. That system is on all 2015 and 2016 VW diesels sold in the U.S. as well as model year 2012 through 2014 Passats.
+
+Those vehicles can likely meet emissions requirements with a software update.
+
+"It's the least expensive fix," said Paul Hughes, an Air Resources Board emissions compliance manager.
+
+But that might require more frequent injections of the urea fluid, adding to the expense of servicing the vehicles, automotive engineers said.
+
+The VWs that relied on the nitrogen oxide traps are more complicated. Corrective action could range from using more fuel to clear the nitrogen oxide in the catalytic converter, installing a larger trap or retrofitting the cars with the urea injection system.

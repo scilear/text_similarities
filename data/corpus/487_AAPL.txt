@@ -1,0 +1,9 @@
+What: Shares of Cirrus Logic (NASDAQ:CRUS) jumped on Friday following the official launch of the iPhone 6s. According to a teardown done by iFixit, the iPhone 6s contains two audio integrated circuits from Cirrus, compared to just one in the previous iPhone 6. At 12:45 Friday, the stock was up about 12%.
+
+So what: In what has become an annual tradition, the new iPhone has been dissected in an attempt to determine which suppliers have won more business from Apple. One thing to note: The manufacturer of at least one IC found in the iPhone 6s by iFixit couldn't be identified, so there is some uncertainty in these teardowns.
+
+Back when iFixit disassembled the iPhone 6, which launched last year, they found just one IC that they could attribute to Cirrus, the 338S1201 Audio Codec, which was, according to Chipworks, also found in the iPhone 5s. In the iPhone 6s, iFixit found two Audio ICs from Cirrus, the 338S00105, and the 338S1285. This suggests that Cirrus was able to increase the number of chips sold per iPhone shipped.
+
+Now what: Apple is by far Cirrus' largest customer, accounting for nearly two-thirds of the company's revenue during the latest quarter. It's not surprising, then, that the stock reacted in such a big way to this news, since additional business from Cupertino could have a significant positive impact on Cirrus' top and bottom line.
+
+Of course, this heavy dependence on one customer also means that Cirrus losing business from Apple would be a disaster. For this round of the iPhone, however, Cirrus looks like a winner.

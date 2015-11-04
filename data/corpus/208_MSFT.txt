@@ -1,0 +1,55 @@
+Microsoft Windows is the dominant operating system in China, but the government is trying to encourage homegrown replacements. The most popular one is called NeoKylin. We gave it a whirl to see how the hottest China-made OS looks and feels.
+
+NeoKylin is developed by China Standard Software, based in Shanghai. Behold the login screen.
+
+Here’s a video tour, but read on if you want more on what NeoKylin actually is.
+
+NeoKylin has long been part of the Chinese government’s hopes that a successful domestic OS would emerge. This has been driven by Microsoft dropping support for Windows XP—still widely used in China—and the government’s push to limit dependence on foreign technology, primarily for security reasons.
+
+Now NeoKylin is starting to be considered a legitimate option even for users outside the government. Workers in the entire city of Siping switched to it. Over 40% of commercial PCs sold by Dell in China are running NeoKylin, the company says.
+
+“The NeoKylin OS is available on Dell Latitude commercial laptops, Dell OptiPlex commercial desktops, and DellPrecision workstations,” a spokesperson for Dell in China told Quartz. The Dell China website advertises several models shipping with NeoKylin, like this Latitude:
+
+NeoKylin is offered with Dell Latitude laptops in China. (Dell China)
+
+So what’s it like to use? We downloaded and installed the latest “community version” of NeoKylin 6.0, previously available on China Standard Software’s website.
+
+This community version is not identical to what is shipping with Dell computers, said Cui Wenzhe, a spokesperson for China Standard Software. But “the basic code is the same,” he said, and the differences he mentioned are minor, like improvements to the interface and extra drivers that help the OS interact with Dell’s hardware.
+
+It is an XP replacement, alright. It looks nearly identical to Microsoft’s venerable OS.
+
+The NeoKylin desktop
+
+The user interface elements look basically the same as XP’s, from the minimize, maximize and close window controls to the folder icons and the start button. The terminology is the same, too: There’s My Computer, My Documents, Recycle Bin, Control Panel, etc.
+
+The classic rolling-hills-and-clouds desktop background, on the other hand, has been replaced with a qilin, the mythical chimera-like beast that the OS is named after. The Kylin name—an odd English rendition of qilin—comes from a decades-old government-run effort to create a Chinese OS, part of the same state-backed technology development plan that produced the Tianhe supercomputers Shenzhou spacecraft.
+
+The NeoKylin interface.
+
+It offers a Unix terminal, a telltale feature of a Linux system, which we can use to reveal the OS’s internals. That’s pretty ironic, given how similar it feels to a product made by Microsoft, long the enemy of open-source Linux evangelists.
+
+Linux in your Windows-like OS.
+
+It’s not totally clear what flavor of Linux, of which there are many, NeoKylin is built on, but the existence of the yum package-management utility and a similar-looking install screen suggests that it is based on a recent version of Fedora.
+
+NeoKylin is not very user-friendly. It comes pre-installed with just a few apps: Firefox for web browsing, a music player, the open-source image editor GIMP, a calculator, and so on. There are also Linux alternatives for classic Windows games like Minesweeper. Cui said Dell’s version comes with a larger collection of applications.
+
+Adding more software proved to be a considerable challenge. We tried to install the version of Google Chrome that would be used on Fedora, but NeoKylin blocked us from running it, saying that it was not allowed. It wasn’t just Chrome.
+
+We were only able to install extra programs using the aforementioned yum, as is common in the Linux world, after considerable experimentation and wading through Chinese blog posts. All the places yum usually looks to find programs appear to be disabled in NeoKylin, and have to be added manually by editing system files.
+
+One notable piece of sofware on NeoKylin, however, is the NeoShine office suite, also developed by China Standard Software. It offers something like Excel, something like Word, and something like PowerPoint, each with icons that look strikingly similar to those of their Windows counterparts.
+
+Those NeoShine icons sure look familiar…
+
+The user interfaces for these are also very similar to those of Microsoft Office, and they work pretty well. One reason might be that, as one Chinese blogger analyzing NeoKylin (link in Chinese) found, NeoShine appears to be based on code originally in OpenOffice, a now-defunct open-source productivity suite.
+
+NeoKylin’s NeoShine looks to be based on OpenOffice (Hillwoodhome.net)
+
+This might all seem like a massive rip-off of a Microsoft product. But the background of this OS is mysterious, and the original Kylin had already started to look a lot like Windows back in 2001. If China Standard Software was tasked with making an XP replacement, they succeeded. And it’s likely that the version shipping with Dell computers does not look so XP-like. There is also an alternative visual option in NeoKylin that looks a bit more modern; the Dell version might be closer to that.
+
+An alternative to the XP-derivative theme.
+
+The other major caveat here is that it is standard practice in China, like in many countries, for a local PC seller to load up a new purchase with whatever pirated software the buyer asks for. So a Dell PC coming pre-loaded with NeoKylin does not directly translate to an actual NeoKylin user. The OS might just be replaced with a pirated version of Windows downstream.
+
+Josh Horwitz and Zheping Huang contributed reporting.

@@ -1,0 +1,43 @@
+Apple’s iPad Pro was introduced just a few weeks ago, and rumors are that the Microsoft Surface Pro 4 could be presented during Microsoft’s October event.
+
+Hardware specifications, software capabilities and accessories already available for those devices show that there is a new trend on the horizon that will fundamentally change the way we use them.
+
+Let me explain. In the past, tablets were no more than companion devices. Software available for them was, and still mostly is, hindered by low memory and limited processing power. That means that for any serious work, such as professional video or graphic editing, you still need your desktop computer or a beefy laptop, like mine. With Apple Inc.’s AAPL, +1.53% iPad Pro and even more so with Microsoft Corp.’s MSFT, +1.76% Surface Pro 4, all of this could change, or so the companies claim.
+
+When pitching iPad Pro and its third-generation CPU, A9X, on their website and during their live event, Apple said that it “gives iPad Pro the power to easily take on tasks that were once reserved for workstations and PCs.” The keynote presentation continued in the same direction, and with Microsoft Surface-like keyboard and stylus accessories presented, it was easy to see how one could use the device as something much more than just a tablet. I wanted to test their claim and even kick it up a notch; could iPad Pro really replace my laptop and become my next workstation?
+
+As a professional graphic designer, I was both impressed and left wanting with what was presented during the Apple keynote event. It was amazing to see just how powerful tablets are becoming, but although I love the processing power and recognize the potential of apps, it wasn’t quite what I expected. As a visual professional, I wanted to see Photoshop, After Effects, InDesign and Illustrator, with all their bells and whistles, to come alive on the iPad’s screen. That would mean my work flow could continue seamlessly from the PC to my new iPad Pro.
+
+Since Apple claimed that its device was “more powerful than 80% of the laptops shipped in the last year,” I didn’t think I was asking for too much. Sadly, it appears that I was.
+
+What I saw during the keynote demo was a series of custom apps handling things like retouching, text placement and sketching. The apps looked nice and interaction was smooth, but the features seemed limited. The UI Adobe Demonstrator used was clean; in fact, too clean and almost bare-bones, implying a lack of advanced functions their desktop-grade counterpart has.
+
+Apple Inc. Apple’s new iPad Pro
+
+You may find it hard to believe, but I expected the iPad Pro to really be much more than a tablet. I was disappointed that a mouse (or at least a touchpad) was not introduced as an entry-level accessory, along with the corresponding native iOS 9 support. Using powerful, feature-rich apps, with complex, multilayered UIs while having to rely solely on a stylus and keyboard shortcuts will be sub-par, both ergonomically and efficiency-wise.
+
+At this point you may be outraged and ask how I dare compare the iPad Pro with a desktop computer (or a laptop) so literally. Well, I do, because I want professional mobility to be revolutionized and blur the border between tablets and laptops even further. Also, Apple assured me the device could be my new workstation, and more.
+
+Moreover, I have a personal interest in this. I travel quite often, and find myself less and less inclined to carry my 10.5-pound Asus ROG laptop with me everywhere I go. I also needed a replacement for my aging iPad 2 and I hoped the iPad Pro would fit the bill. But at the moment it seems like it’s nowhere near replacing my Asus. Still, things could change substantially, as there are rumors that a full version of Photoshop is in the works. The new iPad certainly has the hardware to run it. What we need now are the accessories that can leverage that power.
+
+Microsoft Corp. Microsoft’s Surface Pro 3
+
+What about the Surface Pro 4? If you remember, I mentioned both iPad Pro and Surface in an article a few months ago. Back then, spec rumors were pretty impressive, and as time went by they got even better. Here’s how it compares to iPad Pro.
+
+Please note that I’m comparing top-tier variants. The Surface Pro 4’s screen could be 1.1 inch larger than the iPad Pro, featuring as much as eight times the storage (1,000GB vs. 128GB) and four times the RAM (16GB vs. iPad Pro, which is rumored to have 4GB).
+
+All these specs are decidedly important in my line of work. I need a lot of RAM for video editing, as well as when dealing with those megapixel-heavy photos. I also need a decent amount of storage space to store my projects and resources, especially because I can’t afford to keep it on the cloud. While I don’t intend do to a lot of video editing, having a powerful CPU certainly helps. It’s rumored that the Surface Pro 4 will sport either the latest Intel Corp. INTC, +3.09% CPU, Skylake or a power-saving Broadwell chip. Having the latter would mean 30% longer battery life than its predecessor (currently only 272 minutes of heavy use), as well as passive cooling, which would mean no fans and less overheating.
+
+Unlike the iPad Pro, Surface Pro 4 accessories promise a familiar working environment by including a mouse and an expandable docking station, which are both a huge step toward reaching my workstation-replacement goal. Still, nothing says “seamless” like a full version of the desktop operating system I already use: Windows 10. That not only means that I know what to expect, but also that it’s not going to be some stripped-down, “optimized for mobile” version of the OS. Furthermore, I know I won’t need to make additional software purchases; instead, I will be able to continue using the same software. So far, so good, right? Well, not so fast.
+
+The current Surface Pro 3 isn’t a perfect device. There are plenty of issues with display scaling, especially for some of the Adobe Systems Inc. ADBE, +2.71% products I use. Although tweaks are available and some are even easy to implement, this is still a concern, since I need to be able to actually see the UI in order to use it. Another important downside is Wi-Fi connectivity issues some users were complaining about; that could adversely affect my work flow because it depends on me being almost constantly online. (I use a 4G Wi-Fi router when out and about.) Notice how I’m talking about the Surface Pro 3, not the 4. This is because I haven’t yet seen the new Pro 4, and I hope Microsoft doesn’t carry these issues over to its new flagship.
+
+Although my verdict may seem clear, there is still much to be said about both devices; time will tell which one lives up to expectations or even surpasses them.
+
+Chances are that I may actually end up buying both — first, because I think the iPad Pro will be the perfect candidate to replace my iPad 2, and second, because I am looking forward to lightening up my work load significantly, and (at least on paper) the Microsoft Surface Pro 4 may just be the laptop replacement I have been looking for.
+
+What do you think about both of these devices? Please let me know in the comment section below.
+
+Disclaimer: I use Adobe CS, a software suite of graphic design and video editing applications developed by Adobe Systems. This requires a quick turnaround, seamless multi-tasking across several applications and an advanced functionality expected from professional-grade software. This article is an attempt to assess the practical feasibility of using an iPad Pro and Microsoft Surface Pro 4 in a specific, professional way. It’s by no means a general assessment of these devices. If you want to know more about that, I advise you to read this article (iPad Pro). After I get my hands on a Microsoft Surface Pro 4, I’ll be happy to provide a follow-up.
+
+More from MarketWatch

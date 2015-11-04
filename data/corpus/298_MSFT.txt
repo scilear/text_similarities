@@ -1,0 +1,47 @@
+Microsoft may be tight-lipped about what will be revealed at its October 6th device event, but that doesn't mean that everything is a mystery. In some cases, a slew of leaks have telegraphed Redmond's plans in advance. More Lumia phones, anyone? However, there are still a few questions left. What about the fabled Surface Pro 4? When does Windows 10 reach your existing phone? And will there be any wearable tech? We'll answer as many of those questions as we can so that you have a good idea of what to expect when Microsoft's execs take the stage.
+
+Windows 10 phones: the Lumia 950, 950 XL and 550
+
+The Lumia 950. Image credit: Evan Blass, Twitter
+
+If there's anything that's a lock for the Windows 10 event, it's the launch of new Lumia smartphones. Microsoft promised that Windows 10 Mobile would arrive later this year, and you know that it wasn't going to let a major operating system release go by without introducing some hardware to match. We'd add that Microsoft is overdue for releasing high-end Windows phones under its own name -- its last flagships were the Nokia-branded Lumia 930 and Icon from early 2014.
+
+Thankfully, it looks like you'll get just that. Numerous leaks (including one from Microsoft's UK store) point to Microsoft unveiling two range-topping Windows 10 phones: the 5.2-inch Lumia 950 and 5.7-inch Lumia 950 XL. Both should bring the Lumia series into the modern era with sharp Quad HD (2,560 x 1,440) displays, 32GB of storage, iris scanning (for secure sign-ins) and refined 20-megapixel PureView cameras. The biggest expected differences are the processor choices (a Snapdragon 808 in the regular 950, an 810 in the XL) and possible pen support on the larger model, so your choice may boil down to whether or not you want a Galaxy Note-style experience. It's not certain when these latest Lumias will ship (possibly when the New York City store opens on October 26th), but we wouldn't count on immediate availability.
+
+And what if you don't have a lot of cash to spend? You may be covered there, too. Leaks have hinted at a Lumia 550 that proves you can run Windows 10 on budget hardware. While it won't be a powerhouse, it could represent the first significant bump in specs for the 500 series since the Lumia 535 and 540 -- the claimed 4.7-inch, 720p screen and quicker Snapdragon 210 chip would definitely be noticeable. The only real unknown is the value for money. Microsoft currently asks $149 up front for the Lumia 535, but it's hard to say for sure that the 550 will carry a similar price.
+
+Windows 10 for existing phones
+
+Windows 10 Technical Preview on a low-end Lumia phone.
+
+Of course, the Windows 10 Mobile rollout isn't just about shiny new hardware. Microsoft also vowed to update many current phones to Windows 10, and there's a possibility that you'll hear something about the upgrade schedule on October 6th. If history is any indication, the new OS will see a staggered rollout that's dependent on both the particular phone you have and your choice of carrier. Factory-unlocked phone models are most likely to be first in line. You may be waiting weeks (or months) longer if your phone is tied to a carrier, especially if that provider tends to be pokey with updates.
+
+The Surface Pro 4
+
+The Surface Pro 3.
+
+Let's not beat around the bush: If you're reading this, you probably came here to read something about the next Surface Pro (most likely called the Surface Pro 4). The Surface Pro 3 was a hit among Windows fans, and the combination of early rumors with official price cuts has fueled anticipation for months. Microsoft will surely unveil a fourth version of its high-performance tablet on October 6th, won't it?
+
+Well, probably. The climate is certainly right for one. Intel recently released faster, more power-efficient sixth-generation Core processors that would be a good fit for a new Surface Pro, and it's been roughly 16 months since the Pro 3 arrived. However, there's been a conspicuous lack of solid leaks -- we've seen just a trickle of relatively trustworthy info. The most credible claims are that the Pro 4 will tout a very high-resolution display (possibly 4K), a more portable design, improved pen recognition (thanks to the N-trig acquisition) and features that take advantage of Windows 10, such as biometric logins.
+
+After that, it gets sketchy. One rumor from Digitimes insists that Microsoft is developing two Surface Pro models, one at the familiar 12-inch size and another at 13 to 14 inches. The site has a decidedly hit-or-miss track record, though, and the same rumor also discussed a 12-inch Amazon tablet that hasn't materialized. Another site, W4pHub, is making an even more extravagant claim: It talks about a "smart frame" that would shrink the tablet's size in tablet mode, and expand it in laptop mode. We're not completely ruling out these rumored features, but there's nothing to support them beyond the say-so of their respective sites.
+
+Wearables: the new Band and VR Kit
+
+The rumored Band 2. Image credit: MicrosoftInsider
+
+Although the event is likely to revolve around phones and PCs, there's a real chance that wearables will play a big role. If so, the centerpiece is likely to be the next Band (for sake of reference, the Band 2). The second-generation fitness device is rumored to track additional stats, like stair climbing, but its biggest improvement may simply be in the looks department. A curved display and metal accents could make the Band 2 something you'd like to wear, rather than the slightly clunky wearable you see today.
+
+On top of this, you might hear more about VR Kit, the answer to Google Cardboard that makes its official debut sometime this month. The hoopla isn't so much about the virtual reality viewer itself (surprise: It's foldable cardboard) as the software that will go with it. Microsoft would no doubt want to talk about how the peripheral brings VR to Lumia phones, but a camera cutout suggests that augmented reality will also play a part. You could see the company frame VR Kit as a primer for HoloLens, giving you a taste of that hybrid real-plus-digital experience without having to either wait or spend a ton of cash.
+
+Wild cards: Xbox and beyond
+
+The Xbox One.
+
+Microsoft occasionally pulls rabbits out of its hat at events. Who'd have thought that it would unveil a holographic headset like HoloLens, or an 84-inch touchscreen computer? While there's no guarantee that it'll have similar surprises in store for October 6th, you should be prepared for the unexpected.
+
+What could the company unveil that isn't already anticipated, though? New Xbox hardware is one option. It's been nearly two years since the Xbox One reached stores, and the Windows 10 underpinnings of the system's next update make the console eligible for an announcement. You could see new peripherals, new software-based functionality or even a redesigned system to mark that two-year anniversary. With that said, we're not counting on anything. Microsoft usually saves its big Xbox news for E3, and the gaming expo already had its share of new gear.
+
+There are other possibilities, too. It wouldn't be out of the question to see Surface hardware beyond tablets, especially if there's any truth to that rumor of a 13- to 14-inch device. New accessories (for the Surface or otherwise) would make sense as well. Also, Microsoft may use its event as an excuse to showcase Windows 10 machines from other companies, giving the overall platform a boost as it enters its first holiday shopping season. While we wouldn't bet money on any of these showing up when the event should already be chock-full of gadgets, they're not so far-fetched that we'd rule them out altogether.
+
+[Image credit: AP Photo/Elaine Thompson (Satya Nadella); Evan Blass (Lumia 950); MicrosoftInsider (Microsoft Band)]

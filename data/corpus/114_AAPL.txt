@@ -1,0 +1,17 @@
+Apple (NASDAQ:AAPL) reportedly yanked "a few" applications from its App Store on Thursday that could be used to install certificates that would allow developers to spy on their users' encrypted data, according to TechCrunch .
+
+It wasn't clear how many applications were deleted nor when they might return.
+
+"We've removed a few apps from the App Store that install root certificates which enable the monitoring of customer network data that can in turn be used to compromise SSL/TLS (transport layer security/secure sockets layer) security solutions," Apple told IBD in an emailed statement.
+
+Ad-blocker apps reportedly were among those scrapped. Been Choice, a free app that blocks ads in Safari, tweeted Thursday that it was among those removed.
+
+"Been Choice's app was pulled from the App Store," the company tweeted. "We'll remove ad blocking for Facebook (NASDAQ:FB), Google (NASDAQ:GOOG), Yahoo (NASDAQ:YHOO) and Pinterest apps."
+
+With Been Choice and other apps that can block ads, basically the root certificate functions like a VPN that allows the developers' servers to remove the ads.
+
+"Apple is deeply committed to protecting customer privacy and security," the Apple statement said. "We are working closely with these developers to quickly get their apps back on the App Store, while ensuring customer privacy and security is not at risk."
+
+Apple stock was up nearly 2% in afternoon trading in the stock market today, near 111.50. Shares hit an all-time high in April of 134.54, but Apple stock now is up just 1% this year.
+
+Follow Allison Gatlin on Twitter @IBD_AGatlin and on Facebook.

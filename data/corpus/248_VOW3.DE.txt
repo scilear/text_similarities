@@ -1,0 +1,35 @@
+Had Martin Winterkorn conceded defeat in his boardroom battle with Volkswagen corporate patriarch Ferdinand Piech five months ago, he would have avoided the disgrace of the company's U.S. pollution control scandal, which earlier today wiped nearly a quarter off the value of VW's stock. Instead, Winterkorn, having recently been given a five-year extension on his contract, has some tough questions to answer.
+
+Before becoming VW chief executive in 2007, Winterkorn was the company's top executive responsible for "technical development," which encompasses engineering and innovation. The cars, which according to the U.S. Environmental Protection Agency, came with software that cheated emission tests, were mostly produced since 2009. On Winterkorn's watch, the German automaker apparently put its considerable engineering expertise to underhanded use in support of the questionable business decision to meet ever stricter emissions rules by betting heavily on diesel technology.
+
+It was in 2007 that the U.S. announced tougher curbs on the emission of nitrogen oxide (NOx), and VW suspended sales of its diesel cars there. It told the public, however, that it had something up its sleeve.
+
+Volkswagen's June 2007 "Powertrain and Fuel Strategy," published six months after Winterkorn took over as chief executive, said independence from fossil fuels lay at the end of the industry's evolutionary path, but existing technology would still dominate for a long time, so VW would concentrate on developing it to fit new standards. "New powertrains, including an engine concept developed for use in the USA, under the working title 'BlueTDI,' are already in the prototype stage," the document said. "These engines will fulfill the toughest emissions laws in the world – even the so-called 'Tier2 Bin5' in California, one of the most stringent emissions standards in the world."
+
+In 2008, VW announced that the development of BlueTDI was completed, and in 2009, cars with such engines -- the same ones the EPA has found to be in violation of the U.S. Clean Air Act -- went on sale.
+
+The problem with "clean diesels" that weren't really all that clean has been known for years in Europe, where diesel cars routinely account for more than 50 percent of new vehicle registrations. Janez Potocnik, then the European Union's environment commissioner, called in 2013 for a compliance crackdown on diesel fuel cars, noting that required a reduction in "real world emissions from diesel cars." Last year, the International Council on Clean Transportation put out a white paper on diesel cars' "real-world" NOx emissions and concluded that the technology for their reduction was already in existence; only carmakers were slow to adopt it. The tests run for the white paper showed, for example, that cars equipped with so-called "selective catalytic reduction" were the best at reducing NOx, while "a lean NOx trap," used in the first version of the BlueTDI engines, was insufficient. VW only started using SCR technology in 2012.
+
+With hindsight, it appears that VW realized its early "clean diesels" didn't really conform to environmental standards, so it added software that turned up the emission control systems when tests were being run and turned them down again when the car was on the road.
+
+Winterkorn has promised to make VW a leader in environmental protection, but the cost of compliance with regulations has been a source of angst to him. "Climate protection is not available free of charge," he railed at the Paris auto salon last year. "Every gram of reduction in C02 costs us 100 million euros. Every gram!"
+
+In the U.S., the cost was higher than that: VW was losing share in the world's biggest car market because it couldn't sell diesel cars there. Its North American sales took a 1.4 billion euro ($1.6 billion) dip in 2007 and kept sliding through 2009 before rebounding strongly.
+
+The rebound took place in large part thanks to the new diesel engines, which were the mainstay of VW's U.S. strategy. In a March 2015 presentation, the German company boasted that it sold 70 percent of all "clean diesel" cars in the U.S. -- 98,500. That was 16 percent of its unit sales last year.
+
+It doesn't really matter whether Winterkorn knew how VW engineers enabled the business decision to introduce the new diesels before they were "clean" enough. As Ferdinand Duedenhoffer, a professor at the University of Duisburg-Essen who has consulted top German car manufacturers, told the Westdeutsche Allgemeine Zeitung: "Either Winterkorn knew what was going on, and that's bad for him, or he didn't know what was going on, which would be even worse. In that case he didn't have a grip on his business." The chief executive now says resolving the U.S. problem is a "first priority" for him, because it's a matter of trust in the company. It should have become a priority much earlier -- at least when European officials started talking about discrepancies between lab and road tests for diesel emissions. It shouldn't have taken intervention from the EPA and what will probably be a multibillion-dollar fine.
+
+VW should never have been as exposed to the U.S. charges as it turned out to be. Its dominance in diesel cars -- the result of a Winterkorn strategic decision -- has turned into a problem that will set back the carmaker's effort to remain competitive in North America.
+
+This year, Volkswagen overtook Toyota to become the world's biggest carmaker. The American fiasco will almost certainly undermine its leadership in the industry. To maintain that position, the German company will need to restore faith in its own leadership first.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Leonid Bershidsky at lbershidsky@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Therese Raphael at traphael4@bloomberg.net

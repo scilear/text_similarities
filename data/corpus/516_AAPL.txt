@@ -1,0 +1,31 @@
+A while back, an analyst with Northland Securities claimed that Intel (NASDAQ:INTC) would grab about half of the modem orders for Apple's (NASDAQ:AAPL) iPhone 6s/6s Plus. If this report ultimately turned out to be true, it could have been quite positive for Intel's struggling mobile business and a negative for mobile chip leader Qualcomm (NASDAQ:QCOM), which has been the exclusive supplier of modems into Apple's iPhones for quite some time.
+
+Although there haven't yet been tear-downs of the iPhone 6s/6s Plus to either confirm or deny the claim from the Northland Securities analyst, I can tell you right now that the new iPhones do not feature Intel modems. Here's why.
+
+The big tip-off
+
+According to the cellular speeds that Apple has claimed for the iPhone 6s/6s Plus, the Intel modem that would fit the bill for these devices would be the XMM 7260. At first glance, it would seem that the XMM 7260 hits the right key feature sets in order to be viable for the iPhone 6s.
+
+Now, as I have written about in the past, Intel's modems do not support the CDMA 1xEV-DO standard, which is still supported by some major carriers such as Verizon (NYSE: VZ) and Sprint (NYSE: S).
+
+This fact alone wouldn't necessarily mean that Intel was absolutely not in the iPhone 6s/6s Plus; after all, Apple could produce models of its iPhones with EV-DO support for use on carriers that still support the standard and models without EV-DO support for the carriers that don't.
+
+However, if we look at Apple's iPhone 6s/6s Plus "tech specs" page, it is immediately obvious that all of the iPhone 6s/6s Plus models have EV-DO support:
+
+This, in my view, is a dead giveaway that Intel has won precisely zero iPhone 6s/6s Plus modem business.
+
+What does this mean for Intel's chances in future iPhones?
+
+I believe that for as long as the CDMA EV-DO standard is relevant, Apple will support it in its iPhones. Although Apple would probably benefit from being able to multi-source its cellular modems, it seems that the company wants to keep the hardware differences between iPhone models sold on different carriers at a minimum.
+
+As long as this remains the case, and as long as Intel chooses not to build in CDMA EV-DO support into its cellular modems, it appears likely that Intel will be "locked out" of the iPhone modem business.
+
+So, does Intel actually have any potential customers for its stand-alone modems?
+
+In a recent note from Raymond James analyst Hans Mosesmann (via Barron's), the analyst claims that Intel's Aicha Evans, the General Manager of the Intel Communication and Devices Group, "told the audience of analysts and investors that if Intel couldn't get to scale in modems, it would basically be done."
+
+At this point, it's hard to see Intel landing major customers with its stand-alone modems. Intel has previously had some success in landing its stand-alone modems in some Samsung (NASDAQOTH: SSNLF) devices, but the opportunities there -- in light of Qualcomm's high-end modem leadership and Samsung's apparently solid progress in developing its own modem solutions -- seem limited going forward.
+
+Intel's best chance at this point to gain scale with its modem technology seems to be in selling low-end and mid-range applications processors with modems integrated in.
+
+This is a topic that I hope Intel management discusses at its upcoming investor meeting in November.

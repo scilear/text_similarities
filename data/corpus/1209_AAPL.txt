@@ -1,0 +1,11 @@
+This type of process exposes this secure traffic as it is being transported from your phone to the app's servers. A hacker could potentially carry out what's known as a "man-in-the-middle" attack to intercept this traffic and steal sensitive data.
+
+However, Apple has not indicated that anything malicious has happened so far.
+
+In the latest update to its operating system, the Cupertino-based tech giant has built in the safe capability for ads to be blocked in its Safari mobile browser. But the apps that were pulled were blocking ads by installing root certificates, which is insecure.
+
+"Apple is deeply committed to protecting customer privacy and security. We've removed a few apps from the App Store that install root certificates which enable the monitoring of customer network data that can in turn be used to compromise SSL/TLS security solutions," the company said in a statement.
+
+"We are working closely with these developers to quickly get their apps back on the App Store, while ensuring customer privacy and security is not at risk."
+
+Been Choice, an in-app ad blocker, was one such app affected by Apple's move. The company confirmed via Twitter that it was making changes and will resubmit its app to comply with Apple's policy.

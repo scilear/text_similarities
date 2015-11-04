@@ -1,0 +1,19 @@
+Almost everyone in digital media this week was talking about ad blocking after Apple's latest operating update saw ad blocking on iPhones and iPads allowed for the first time, sending ad blocking apps to the top of the app charts.
+
+Digital publishers are already acutely aware that ad blocking is on the rise. A report published by PageFair and Adobe released last month claimed the number of consumers using ad blocking software worldwide increased 41% year-on-year to 198 million monthly active users.
+
+Now we have some more data out, this time from "ad blocker blocker" Sourcepoint and internet analytics company comScore. Like PageFair, Sourcepoint makes its business from fighting the ad blockers, so it would make sense for it to paint a bad picture about the state of ad blocking. However, comScore's analytics are the accepted standard for web analytics among digital publishers, so there's reason for publishers to sit up and take notice of this new data.
+
+Of the countries the report looked at, France had the highest incidence of ad blocking. Almost one in 10 internet users in the US block ads.
+
+Worryingly for web publishers, it's the people that consume the most content that are most likely to be blocking ads.
+
+And an even bleaker chart: Adblock users are publishers' most prized users too. People with higher incomes are more likely to have ad blocking software installed. That's a worry because the high-income segment tends to attract higher advertising rates.
+
+These companies won't be on publishers' Christmas card lists. Here are the most popular ad blockers in the market. Adblock Plus dominates with more than half of the desktop ad blocking sector.
+
+The full Sourcepoint and comScore "state of ad blocking" report will be released later this year.
+
+Of course, the rise of ad blocking doesn't mean the death of online publishing. It's certainly a bump in the road, but the growth of ad blocking software is also sparking new thinking in advertising creative, online subscriptions, and content delivery, which could ultimately serve, in the long-run, to boost revenues generated from publishers' most valuable readers.
+
+NOW WATCH: The new trailer for ‘Steve Jobs’ makes it clear that Sorkin is going to show us the man like never before

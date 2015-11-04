@@ -1,0 +1,17 @@
+It's official. As I reported last week, Microsoft is now supporting Google's open-source WebM/VP9 video in its Windows 10 Edge web-browser.
+
+This move is part of Microsoft, along with Google and Mozilla, walking away from Adobe's security hole-ridden Flash video. It also shows how Microsoft CEO Satya Nadella continues to move Microsoft from proprietary to open-source software.
+
+In this case, Microsoft is following up its joining the open-source Alliance for Open Media by integrating WebM and VP9. WebM is an open-source video file format that works with the HTML5 video tag. VP9 is its video codec. The pair works with Xiph Foundation's open-source Vorbis and Opus audio compression codecs.
+
+Earlier this year, Microsoft announced it was giving up on its own proprietary Silverlight media format. The Edge team said they were doing this because of the "emergence of viable and secure media solutions based on HTML5 extensions."
+
+According to Microsoft, "Initial support for VP9 will be available in Windows Insider Preview builds soon." Sources close to the matter say that you can expect to see WebM/VP9 support in the Insider Preview version of Edge by October.
+
+At first, Microsoft won't be supporting Vorbis and Opus audio. "Our initial VP9 implementation in Microsoft Edge will ... be specifically targeted to meet the needs of websites that use VP9 to deliver video in combination with MP4/AAC or other audio codecs already supported by Microsoft. We are working on future support for VP9 for media tags and local playback, as well as considering support for additional audio formats likely to be used with VP9 such as Opus."
+
+When VP9 arrives it will be as a technology preview. It will be implemented as an experimental flag in Edge. If you want to try it after VP9 support arrives, you will need to change Edge's VP9 setting by navigating to 'about:flags' in the browser.
+
+Sources say VP9 will not be supported in IE 11 or earlier Microsoft web browsers.
+
+Related Stories:

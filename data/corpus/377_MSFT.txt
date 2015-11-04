@@ -1,0 +1,31 @@
+Ever since the One Microsoft reorg, the Redmondians have had an affinity for codenames and concepts that include the word "One."
+
+Examples: OneSync, OneCore, OneStore, OneGet ... and OneNet.
+
+OneNet may be new to some, though it seemingly has been in development for a year or more. Recently, Microsoft changed the OneNet codename to "Prajna."
+
+Prajna/OneNet is a Microsoft Research project that's about building a distributed functional-programming platform for those wanting to build cloud services that make use of big-data analytics. That's a lot of buzzwords in one sentence. Let me try to dissect it a bit.
+
+Prajna is the main project in development by Microsoft Research's Cloud Computing and Storage (CCS) group. From the description on that group's Web page:
+
+"Currently, the main project of the CCS is Prajna, an open sourced distributed platform for building cloud service and interactive big data analytics. Prajna can be considered as a set of SDK(s) on top of .Net that can assist a developer to quickly prototype cloud service, and write his/her own mobile apps against the cloud service. It also has interactive, in-memory distributed big data analytical capability similar to Spark." Hadoop and Spark: A tale of two cities It's easy to get excited by the idealism around the shiny new thing. But let's set something straight: ​Spark ain't going to replace Hadoop. Read More
+
+Like Hadoop, Apache Spark is an open-source big-data framework that can handle sophisticated analytics. Spark can be used for batch processing, streaming, interactive queries, and machine learning workloads, but does not provide its own distributed storage system. Hadoop and Spark don't perform exactly the same tasks and can actually be used together in certain cases.
+
+The "functional programming" component of Prajna has to do with F#, the .Net functional programming language. As a recent Microsoft job posting notes, though Prajna is written in F#, it's consumable in any .Net language.
+
+"Prajna offers real-time in-memory data analytical capability similar to Spark (but on .Net platform), but offers additional capability to allow programmer to easily build and deploy cloud services, and consume the services in mobile apps, and build distributed application with state (e.g., a distributed in-memory key-value store)," that job posting adds.
+
+An abstract written by the head of the Prajna project noted that Prajna/OneNet, like Spark, is a distributed functional programming platform. However, the Microsoft team claims that Prajna is pushing the distributed functional programming model further than Spark does by "enabling multi-cluster distributed programming, running both managed code and unmanaged code, in-memory data sharing across jobs, push data flow, etc."
+
+Jin Li, the head researcher on Prajna, wrote: "I believe that OneNet is more flexible and extensible than Spark, and will revolutionize how high performance distributed program is build inthe future."
+
+For those interested, here's the Github repository for Prajna.
+
+Prajna isn't Microsoft's first foray into distributed computing frameworks. Other Microsoft Research projects that have tackled programming distributed systems include DryadLINQ, Naiad and Orleans. Earlier this year, Microsoft made the Orleans code open-source.
+
+Speaking of SCOPE, there was an interesting mention during Microsoft's Cortana Analytics Workshop in Redmond last week about Cosmos, Microsoft's big-data computation, analysis and storage service. Though Cosmos is not currently an externally facing (and paid) service available outside Microsoft, the company is planning to make it one, I've heard from my sources.
+
+At last week's workshop, a Microsoft Technical Fellow and big-data engineering leader told attendees that Microsoft is still planning to make Cosmos available to those outside the company. (See the tweet from an attendee above.)
+
+Cosmos consists of a number of piece parts, including the "Kona" analysis engine, the "Cabo" storage engine and a SCOPE-derived SQL-friendly language known as SQL-IP. Microsoft officials declined to say, when I asked, when the company planned to make Cosmos a commercially available Azure service.

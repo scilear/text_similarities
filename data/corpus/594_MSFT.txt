@@ -1,0 +1,33 @@
+By Leila Abboud
+
+PARIS (Reuters) - French data privacy regulators took a step towards sanctioning Google by rejecting the company's request to drop a case against it for refusing to clean up information from its search engine results.
+
+Under Europe's so-called right to be forgotten, individuals can ask search engines such as Google and Microsoft's Bing to remove information that appears under a search of their name if it is incorrect, out of date, irrelevant or inflammatory.
+
+Since the European Court of Justice ruling last year that granted this right to European residents, Google has fielded nearly 320,000 requests, granting about 40 percent of them. But it only de-lists the links on European versions of its sites, such as Google.fr or Google.de not globally, meaning the information remains available.
+
+The French authority, the CNIL, in June ordered Google to de-list on request search results appearing under a person's name from all its websites, including Google.com.
+
+The company refused in July and requested that the CNIL abandon its efforts, which the regulator officially refused to do on Monday.
+
+"The President of the CNIL rejects Google's informal appeal against the formal notice requesting it to apply delisting on all of the search engine's domain names," the watchdog said.
+
+France is the first European country to open a legal process to punish Google for not applying the right to be forgotten globally.
+
+But an umbrella group of European data protection watchdogs took a similar position in December on the issue of cleaning up search results globally, saying that it was the only way to ensure the "effective and complete protection of data subjects' rights and that EU law cannot be circumvented".
+
+A CNIL spokesman said Google was required to comply immediately and begin de-listing information about French residents from all of its sites.
+
+If it refused, the CNIL will spend the next two months preparing sanctions that can include up to 150,000 euros ($169,000) in fines, climbing to 300,000 euros for repeat offences.
+
+Google said it had worked hard to implement the right to be forgotten ruling "thoughtfully and comprehensively in Europe" and would continue to do so.
+
+"But as a matter of principle, we respectfully disagree with the idea that a single national Data Protection Authority should determine which webpages people in other countries can access via search engines," said a spokesman for the company.
+
+In July, Peter Fleischer, Google's global privacy counsel, called France's request to clean up global results "troubling" and said it could risk "serious chilling effects on the web".
+
+"While the right to be forgotten may now be the law in Europe, it is not the law globally," Fleischer wrote.
+
+($1 = 0.8870 euros)
+
+(Additional reporting by Julia Fioretti in Brussels; Editing by Keith Weir)

@@ -1,0 +1,29 @@
+Microsoft's (NASDAQ:MSFT) HoloLens, the company's take on a virtual-reality headset, seems like a pleasant flight of fancy -- an interesting enough experiment with no real immediate prospects for mainstream success.
+
+That, however, may be selling the device short, as one research firm, Tractica, believes HoloLens could become exactly what its maker thinks it will be: the next computing platform in the workplace. Because the device is built on the universal Windows 10 platform, meaning it can run everything from Office to Skype, analyst Aditya Kaul told ComputerWorld that HoloLens had the potential to replace the traditional PC in the office.
+
+Kaul didn't give a timetable for his prediction, but even suggesting HoloLens will become a viable, mass-market product is a bold statement. Suggesting it will supplant the traditional computer in work settings is something else entirely.
+
+What is the HoloLens?
+
+Microsoft, which has yet to release even a developers' kit for HoloLens, has shown off prototypes of the technology at recent media events. What little has been seen has been impressive, but moving from media demos of Minecraft to meaningful uses in the real world requires quite a bit to happen.
+
+That hasn't tempered the company's enthusiasm for the product, which was described in these robust terms on its website:
+
+Microsoft HoloLens is the first fully untethered, see-through holographic computer. It enables high-definition holograms to come to life in your world, seamlessly integrating with your physical places, spaces, and things. We call this experience mixed reality. Holograms mixed with your real world will unlock all-new ways to create, communicate, work, and play.
+
+It's more than a headset with an overlay and even more than previous rival attempts at virtual reality. Judging by the public demos, what Microsoft has said, and some media accounts, HoloLens has the potential to create virtual worlds and offer a new type of interface in the real one.
+
+The device has lots of potential, but getting people to adopt it and developers to create uses for it are entirely different things.
+
+A dose of reality
+
+Consumers have never embraced any sort of headset-based computer interface for anything other than gimmicks or games. That hasn't stopped companies from trying and Facebook withwith its purchase of Oculus, Google withGlass, and Sony withits newly named PlayStation VR are also making efforts to breakthrough in that space.
+
+The problem is that no company has. Facebook and Sony are still in the development stage with their headset-type devices, but Google Glass has already been pulled by its parent company as a consumer product. Yes, Glass has achieved some limited traction for certain professional uses -- such as in the medical field -- but whatever wins the product has had have been very minor ones.
+
+Microsoft believes HoloLens can't be compared to existing virtual reality and augmented reality experiences and explained how in an FAQ on its website.
+
+With AR, the user sees a layer or screen of data that overlays the real world. While this data can be contextual to the user's location, or where the device's camera is pointed, it is not the same as being able to see holographic objects pinned, or anchored, to specific physical locations or objects in the real world. With VR, the user is completely immersed in a computer-generated reality, or virtual world. While immersed in a virtual world, users are best advised to stay seated or keep still to avoid collisions with physical objects they cannot see in the real world. Holographic experiences on Windows are about delivering a mixed reality that lets you enjoy your digital life while staying more connected to the world around you – transforming the ways you create, connect, and explore.
+
+That's saying quite a bit, but it does explain how HoloLens might work in the business. world. In theory, the device would allow someone to experience things that are actual and things that are virtual in the same reality.

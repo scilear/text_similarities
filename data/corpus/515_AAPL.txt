@@ -1,0 +1,41 @@
+As far as we mere mortals (public investors) can tell, Apple's (NASDAQ:AAPL) self-driving car known as Project Titan was started in early 2014.
+
+The very first rumors that were leaked came from Business Insider in February, after an anonymous Apple employee sent the site an unsolicited email saying that Apple was indeed working on "vehicle development" and that it would "give Tesla (NASDAQ:TSLA) a run for its money." Just days later, The Wall Street Journal followed up with a full-fledged report on the purported electric car, saying that Tim Cook approved the project "almost a year" prior. That could potentially put its start date in the March 2014 to April 2014 ballpark.
+
+I actually spotted an Apple-branded vehicle on the road earlier this month here in Colorado. Sadly, it wasn't a self-driving electric car prototype. It was a boring minivan that's part of the Apple Maps fleet (note that Denver is listed here for August-September) that's going around gathering map imagery for an inevitable Street View clone.
+
+Just last month, The Guardian reported that Apple was already scouting out secure test locations in the Bay Area for a self-driving car, specifically the GoMentum Station near San Francisco that has military-grade security since it was previously a naval base. The Guardian is now saying that Apple recently met with California's DMV to discuss regulations around autonomous vehicles. California is one of the most progressive states when it comes to autonomous vehicle technology, which isn't too surprising since California is home to Silicon Valley.
+
+But here's what I don't understand. All of these reports, if true, would suggest that Project Titan has advanced far more than most people would think. Car design cycles are notoriously prolonged and can are typically about 3 years for existing automakers making traditional internal-combustion engine vehicles. How can Project Titan be this far along after perhaps 18 months?
+
+I have a ridiculous theory
+
+This is probably going to sound absurd, but hear me out for a moment and just humor me. I think it's possible that Apple and Tesla have been secretly collaborating in some form or fashion for various underlying technologies that go into self-driving electric cars.
+
+Consider this timeline:
+
+Spring 2013: Apple M&A chief Adrian Perica meets with Elon Musk, according to a February 2014 SFGate report.
+
+Spring 2014: Project Titan begins, according to aforementioned February 2015 WSJ report.
+
+February 2014:Musk confirms to Bloomberg that he did have "conversations with Apple" but was unable to elaborate about what was discussed. However, he does add these comments:
+
+"I think [that Tesla's selling itself is] very unlikely because we need to stay super-focused on achieving a compelling, creating a compelling mass-market electric car. And I'd be very concerned in any kind of acquisition scenario, whoever it is, that we become distracted from that task, which has always been the driving goal of Tesla. "... Well, if there was a scenario where it seemed like it would be more likely that we would be able to create the mass market, affordable, compelling electric car, then possibly it would make sense to entertain both [emphasis added] discussions. But I don't currently see any scenario that would improve that probability so that's why I think it's very unlikely."
+
+June 2014: Tesla open-sources all of its patents, vowing not to initiate patent lawsuits against anyone using its intellectual property.
+
+October 2014: Musk confirms to USA Today that other car companies are starting to use its patents.
+
+February 2015: Musk clarifies at the DetroitAuto Show that no formal discussions are necessary for companies to use Tesla patents, and other companies can "just use them." WSJ reports on Project Titan.
+
+May 2015: Apple scouts GoMentum Station.
+
+August 2015: Apple meets with California DMV officials.
+
+Those are the purported facts, as far as media reports are concerned. If you consider Musk's comments to Bloomberg, among many others he's made, mainstream adoption of electric cars is Tesla's overarching goal. He's not concerned about competition, if that competition can help save the world from climate change.
+
+My theory is that Apple and Tesla met to discuss various ways that they could collaborate on electric car technology. And we know that Tesla has been pioneering autonomous driving functions as well. Also, Musk said "both discussions," but he was only being asked about acquisition scenarios. What other discussion could he be referring to?
+
+Technically, collaborating with Apple for an Apple Car would undoubtedly qualify as a "scenario" that could bring a mainstream electric car to market, considering the Mac maker's track record with popularizing nascent technologies.
+
+I'm not saying that Apple and Tesla are definitely collaborating on electric cars, but I'm not saying that they're not.

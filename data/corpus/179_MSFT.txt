@@ -1,0 +1,37 @@
+The end of the video game disc is rapidly approaching.
+
+Both Sony (NYSE:SNE) and Microsoft (NASDAQ:MSFT) have increasingly pushed digital downloads over buying physical discs. That makes sense given that games delivered over the Internet cut out the middleman. By not having to involve a retailer in the transaction, the console makers can, in theory, sell titles at lower prices and still make more money.
+
+That's a win for consumers along with companies, and it appears to be an inexorable march that has only been slowed by limits in home Internet connections. But despite these efforts and the rising tide in support of downloads, both the Xbox One and the PS4 still have disc drives.
+
+The next console from Nintendo (NASDAQOTH:NTDOY) may not.
+
+What is happening?
+
+While Sony and Microsoft are unlikely to release new console platforms for many years, Nintendo may replace its struggling Wii U much sooner than its rivals. The company has filed a patent for a next-generation console, and the first line of filing describes it as being disc-free:
+
+A stationary game apparatus, comprising: an internal hard disk drive storing a program and/or data; a communication unit transmitting/receiving a program and/or data via a network; and a processor executing a program stored in the hard disk drive to perform game processing, wherein the game apparatus is not provided with an optical disk drive.
+
+Companies file patents for products that never come to market all the time, but this one simply makes sense. Nintendo has never succeeded by having the highest graphic resolution or the fastest processors in its consoles. Instead, its success has been in innovating and being ahead of the curve.
+
+Its last major console hit, the original Wii, was radically different then its competitors, the Xbox 360 and the PS3. In order to fight its way back into the conversation, the company needs a radical reinvention. That will certainly have to go beyond simply dropping the disc drive, but that's a fine start.
+
+What are Sony and Microsoft doing?
+
+Microsoft has already released multiple version of its Xbox One with 1TB of storage (double the standard capacity) specifically to facilitate storing games without using discs. The company has also released Xbox One Elite, which includes "a 1TB Solid State Hybrid Drive, which stores frequently accessed files on a solid state partition and optimizes system performance so you can get to the action up to 20% faster from energy-saving mode," the company said in a blog post.
+
+Sony has not yet released its 1TB console, but there have been extensive rumors that it plans to introduce a "PS4 Slim" model with the increased storage before the holiday season.
+
+The day is going to come
+
+As you can see from the chart below, digital downloads have slowly been gaining as a percentage of overall sales. In 2014, the percentage of sales tipped in favor of digital downloads, and that number is likely to grow.
+
+There is simply too much economic logic for the console makers to eliminate discs. In addition to cutting out the retailer and its piece of the action, digital downloads also either eliminate or give the companies considerable control over the resale of games.
+
+Currently, when you buy a disc, it's easy enough to sell it back to a retailer when you're tired of it. You could also give it to a friend, or share it in any way you want as it's your physical property. That does not have to be the case with digital downloads, as has been demonstrated in the music and book markets.
+
+Back when physical CDs and books were the principal formats for distributing that content, stores selling pre-owned copies and even informal lending between friends, family, and colleagues was the norm. Now, the leading seller of digital books does not allow sharing except in very strict circumstances, and the used market has begun to dry up.
+
+That is almost certain to happen with video games if the companies can make digital downloads the default. In addition, a pure-digital world would allow the console makers to sell subscription services and even all-you-can-play plans if they can work out terms with content publishers.
+
+Nintendo's patent application seems to put it slightly ahead of the curve, but this is where the market is going. It's really only a question of how long it will take to get there.

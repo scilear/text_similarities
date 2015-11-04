@@ -1,0 +1,41 @@
+Instead of hosting the event or beginning it by delivering a keynote speech, Microsoft (NASDAQ:MSFT) CEO Satya Nadella chose to wait until the end before appearing onstage at the company's October 6 Windows 10 hardware event.
+
+After a fairly impressive showing, where the company managed to actually surprise the media in attendance by introducing its first-ever laptop, the Surface Book, the CEO served as sort of cherry on the sundae. His appearance was an after-the-fact explanation as to why Microsoft has chosen to stay in the hardware game.
+
+It was a "How you like me now?" moment, with Nadella appearing onstage with no introduction to bask in the reflected glory of Surface Book. He made a low-key entrance, but was met with a rousing ovation that was as clear as if the crowd had chanted "Thank you, Satya."
+
+It's about pushing Windows
+
+While the various hardware presentations during the event -- HoloLens, the Band, Surface Pro 4, Lumia Phones, and Surface Book -- all are powered by Windows 10, that was not always front and center. Nadella brought that message home in his opening, linking everything together and making it clear that the OS was the overarching theme making all the new tech possible.
+
+"Sitting backstage gave me an opportunity to see our work," he began, after thanking the crowd. "I've seen it many times before but it gave me the opportunity to see it with a fresh set of eyes and reflect. It's amazing to see the innovations and momentum with Windows."
+
+Nadella reminded the crowd that in January he had set the company's goal as moving people from "needing Windows to choosing Windows to loving Windows."
+
+A new philosophy for devices
+
+In order to have people come to love Windows, Microsoft needs to create devices and experiences that people love, he explained. He added that innovative products are key, but said that no device would be forever.
+
+"What matters most is the mobility of your experience, not the mobility of any single device," he explained. "As devices come and go and evolve, you persist. The journey of personal computing has taught us this single lesson. No single device will be a hub of activity forever. The hub is you."
+
+That seems like an odd message from the CEO of a company that just introduced a number of new devices, but it makes sense when you consider that the ability to move between devices was a prevalent theme during the earlier presentations. Microsoft introduced phones that can become computers, a laptop that's also a tablet, a tablet that's also a laptop, and even a virtual reality device that can work with the same software as all the other devices.
+
+"You content, your data, settings, apps, need to be mobile with you to whatever device makes the most sense at a given time at a given place," Nadella said.
+
+Because it only makes sense for Microsoft
+
+Nadella called Windows 10 a unified platform and explained in whimsical terms why the Microsoft has stayed in the hardware business despite its struggles to become a player.
+
+"The innovation we saw today drives home the point of why we build devices. We build them to create and complete magical experiences," he said. "We think of ourselves [as being in] the experience business. We're not just building hardware for hardware's sake...We plan to invent new personal computers and new personal computing."
+
+In a broad sense, Microsoft has to develop products like Surface and HoloLens because its partners won't. If it can establish those form factors, then in theory its partners will follow. That has clearly been the case with Surface, which essentially created the hybrid tablet/laptop. It has been less successful in Windows Phone, where Microsoft has created innovative devices but has struggled to gain public or partner support.
+
+From the ground up
+
+One advantage Microsoft has over its partners is that it can develop devices like Surface and HoloLens alongside its creation/evolution of its operating system. "We reason and build Office, WIndows, Surface together from the ground up," Nadella said. "This is how we're going to reinvent productivity."
+
+He wholeheartedly believes that it makes sense to develop hardware specifically to take full advantage of Windows 10. He also believes that Microsoft has a mission.
+
+"Our mission at Microsoft is to empower every person and every organization on the planet to achieve more," Nadella said. "... We make things that help you make things and make things happen."
+
+In saying that, the CEO makes it clear that Microsoft will keep making things even if they're not immediately successful. For him, his company can't leave the potential of its OS solely to its partners. Even if its devices simply inspire others to use Windows 10 in different ways, it's very clear Nadella will keep pushing his team to create new hardware.

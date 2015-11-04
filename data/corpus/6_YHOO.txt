@@ -1,0 +1,85 @@
+View photo .
+
+Alphabet Inc (NASDAQ: GOOG) (NASDAQ: GOOGL) (formerly Google Inc) and Yahoo! Inc. (NASDAQ: YHOO)’s recent ad platform updates came about because cookies don’t function properly in mobile browsers, according to Fluent CMO, Jordan Cohen. Marketers with large email lists could be winners overall. Addressable TV ads are the “Holy Grail” and email just might be the “tie that binds.”
+
+Google and Yahoo recently announced major updates to their ad platforms, including the ability for marketers to create custom audiences using email-marketing lists.
+
+To find out what this means, Benzinga spoke with Fluent CMO Jordan Cohen.
+
+Related Link: A Look At Apple's Most Popular Products And Features
+
+Benzinga: What’s the problem with cookies not working or functioning well on mobile browsers?
+
+Jordan Cohen: Cookies have limited or zero support in mobile browsers, which has been a huge challenge for mobile advertising solutions.
+
+Google, the biggest online advertising company on the planet, actually started losing shares to Facebook in mobile online advertising. It was a direct result of being reliant on cookies and not having much to offer beyond a basic search.
+
+BZ: What gives Facebook an edge in advertising?
+
+JC: Facebook has the ability to target people not based on cookies, but on their actual identities. Logged-in users of Facebook with confirmed identities are also tied outside of Facebook through their email addresses.
+
+The rumor [that] Google was going to roll this out first broke in April in the Wall Street Journal. This week (Google) actually announced it.
+
+BZ: What, besides Facebook, inspired this move by Google and Yahoo?
+
+JC: First, it's a response to the mobile shift. According to our own advertising platform here, Fluent, more than 60 percent of all ads are served on a mobile device.
+
+Then there’s the fact this type of advertising is very popular with advertisers.
+
+Facebook's version, called custom audiences, is hugely popular and performs four times better than Facebook's own targeting.
+
+BZ: Targeting by identify is key then?
+
+JC: It makes a lot of sense. First, you're serving ads to consumers who are already your biggest fans. They've actually signed up. They've opted in and given permission to get email marketing from these companies.
+
+They've invited them into their lives so naturally they'll be more receptive when they see ads on Facebook or on Google.
+
+Look-alike marketing is incredibly powerful because they're able to target people who are already hand-raisers – people who share many traits with people who are already the most enthusiastic fans.
+
+BZ: It sounds as if getting permission is another big factor.
+
+JC: If you want to reach people, the best way to do it will be to get permission to market to them through direct channels as opposed to online display advertising.
+
+If you do this, why would people download ad blockers? I'm glad this is being talked about, because so much online advertising is annoying and intrusive.
+
+At (Fluent) we're very conscientious of that. I like to think we are and I think the whole industry needs to rally around the fact that consumers are empowered. They’re in control, and ad experiences need to be relevant.
+
+BZ: How does email-based targeting work?
+
+JC: You’re not really handing over your actual email address. It's what's called an MD5 Hash. It's a way of encrypting email files so you're not actually transferring actual email addresses.
+
+On the receiving end, Facebook and now Google, or any ad platform that has the email address of that user is able to decrypt it, confirm the Hash and then serve ads to the user.
+
+BZ: How do companies like Fluent fit in?
+
+JC: Fluent is an ad platform that specializes in performance-based advertising. Companies don’t come to us just for branding.
+
+We aren’t paid just for showing an ad on our network. We are only paid when a consumer responds to the ad in some way.
+
+Many marketers come to Fluent to build their email databases. They run ads saying, "Opt in for great savings from Shoe Carnival," or "Opt in to get special offers from Western Union."
+
+We try, from a science perspective, to make sure people we serve those ads to fit the description of the most valuable customers of our advertisers, but at the end of the day, marketers are coming to us to grow this email lists.
+
+BZ: What’s the big takeaway for email marketing?
+
+JC: Email marketing is not just about marketing to the inbox anymore. Email addresses now have this new value, which might be even bigger than inbox marketing in terms of their ability to target with much more precision and accuracy.
+
+In addition, this isn’t just about conversion and engagement on social media platforms, but now also display advertising platforms.
+
+Related Link: Sponsorhub's Acquisition By Rentrak Corporation Creates Synergy, Says CEO
+
+BZ: With email-based targeting providing an opportunity for more selective advertising, what’s on the horizon that hasn’t been possible up to now?
+
+JC: Addressable TV advertising has been the Holy Grail.
+
+Oracle’s Kevin Akeroyd did an interview (in which he said) the key thing in this industry is coming up with a universal identity that could be used to target individuals with precision across literally every single marketing handle that's out there.
+
+This is exciting for a company like ours. I've been in the email industry in different companies for over 10 years now, and it's exciting to see that email is actually surfacing as the tie that binds.
+
+At the time of this writing, Jim Probasco had no position in any mentioned securities.
+
+Image Credit: Public Domain
+
+See more from Benzinga
+
+© 2015 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

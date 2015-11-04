@@ -1,0 +1,49 @@
+ENLARGE Apple’s new line of all-in-one iMac desktop computers now feature high-resolution Retina screens on both the 21.5-inch and 27-inch models. Photo: Jason Henry for The Wall Street Journal
+
+Even as Apple AAPL 1.53 % carries the banner of the post-PC world with large smartphones and even larger tablets, it isn’t done tweaking its desktop computer. On Tuesday, Apple updated its line of iMacs with some nice-to-have display and input technologies that you won’t find on other consumer desktops.
+
+Apple is adding ultra-high resolution 4K Retina screens to its 21.5-inch iMacs, and making 5K resolution standard on larger 27-inch iMacs. Those displays also now show a 25% greater range of colors, making photos look more detailed and eye-poppingly vibrant.
+
+Larger iMacs are also getting boosted graphics capabilities and a new faster kind of Intel INTC 3.09 % processor called Skylake. And for the first time since 2010, Apple redesigned its Magic line of keyboards, mice and trackpads to do a few more tricks, like recharging with the same cord used by the iPhone.
+
+After using the new iMacs for a few days, I was reminded of why they’re my favorite computers: It’s all about that screen. The new displays underscore the appeal of the desktop for hours of immersive work like writing and creating images. Yet the iMac refresh left me disappointed on an important front: Apple isn’t moving fast enough on Macs to solve the password hassle.
+
+Screen Queen
+
+A big, beautiful monitor is the iMac’s greatest advantage, and its new version is the kind of tech you have to see to appreciate.
+
+Last year, Apple began offering an upgrade to 27-inch iMac called Retina 5K that quadrupled its resolution (5120x2880 pixels)—so many pixels that they seemed to just melt away, and made text look like the printed page. But Apple originally targeted professionals by charging a $700 premium for iMacs with these screens. Now Retina screens come standard on all 27-inch iMacs, starting at $1,800.
+
+There’s also a new screen for the smaller 21.5-inch iMac. At a resolution of 4096x2304 pixels, it packs 4.5 times as many as before for $1,500, a $400 premium.
+
+The new color capabilities may take more of an experienced eye to appreciate. The human eye and high-end cameras can see a wider range of colors than most LCD screens can reproduce. But in the last year, manufacturers have figured out how to amp up the color range (called gamut) even on consumer-level monitors and TVs.
+
+ENLARGE The new Retina iMacs can show 25% more colors than last year’s models (particularly reds and greens), exceeding the sRGB standard and nearly matching the wider DCI-P3 standard. Photo: Apple
+
+When you look at these new iMac screens, reds and greens in particular look brighter or more vibrant, like somebody cranked up the saturation dial to 11. With 25% more colors to work with, there’s also more detail because the monitors aren’t eliminating certain hues.
+
+With an old and new iMac side by side, I could spot the difference on some photos, but not all. One problem is that many of our photos—including ones taken with the latest iPhone 6s—are saved in a reduced color palette called sRGB. To take advantage of the new screens, you need images or video saved in a format called DCI-P3. (Not coincidentally, the Mac’s Photos app can now save to that format, but you’ll have to start with high-quality images, like from a DSLR.)
+
+Powerful Peripherals
+
+The iMac’s new input devices solve a headache with past Apple mice, keyboards and trackpads: having to constantly throw out their batteries. The new models contain sealed rechargeable batteries that you juice up using the same Lightning plug as an iPhone. I haven’t had a chance to test how long the batteries last, but Apple reports all three can go for about month on a single charge, and the mouse can give you a nine-hour day’s worth of pointing and clicking with a two-minute charge.
+
+ENLARGE The new Apple trackpad. Photo: Jason Henry for The Wall Street Journal
+
+The keyboard and trackpad also look a little different. The keyboard (included with the new iMac but also sold separately for $100) takes up a bit less desk space and angles up slightly less, which felt comfortable for my wrists. The trackpad (which costs extra when ordering an iMac or is sold separately for $130) is 29% larger. It now takes advantage of the pressure-sensitive controls, known as Force Touch, that Apple built into its laptops and latest OS X El Capitan.
+
+Apple says its new mouse ($80) is a bit lighter and better at gliding, but I don’t find its flat shape as ergonomically pleasing as what you get with other mice.
+
+Missing In Action
+
+Amid this flurry of iMac improvements, two mysteries remain. First, amid the rabbit warren of ports at the back of the iMac, Apple didn’t include a port called USB Type-C—used on the new MacBook laptop (with some controversy) for charging and input alike. Not including USB Type-C on the iMac sends an odd message about Apple’s commitment to that burgeoning standard.
+
+ENLARGE The new Apple keyboard. Photo: Jason Henry for The Wall Street Journal
+
+And finally, the iMac doesn’t do anything new to help us with the hassle of passwords for signing into the computer, apps and websites. On the iPhone, the fingerprint scanner called TouchID has become a core part of the experience, from logging into apps to buying things. This makes the Mac feel like a step backward, forcing me to remember or look up passwords for things my iPhone just knows.
+
+Biometrics are no longer a novelty. Apple should have built TouchID into its new trackpad or keyboard—or even inside the Apple logo on the iMac’s face. (OK, maybe design guru Jony Ive would nix that because of the fingerprint smears.) Or what about using the iMac’s built-in camera to securely identify us? One of my favorite features in Windows 10, called Hello, allows certain high-performance PC cameras to recognize your face, saving you from having to type in a password.
+
+Apple has the right idea about one thing: To keep the desktop relevant in the post-PC world, it needs to offer experiences you can’t get in mobile devices, like incredible, immersive screens and precision keyboards and mice. But it also can’t let the iMac fall behind the mobile world in advantages like biometrics, which are changing how we interact with our digital world.
+
+Write to Geoffrey Fowler at geoffrey.fowler@wsj.com or on Twitter TWTR -0.51 % at @GeoffreyFowler.

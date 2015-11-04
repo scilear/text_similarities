@@ -1,0 +1,39 @@
+Dell and EMC just announced a massive $67 billion merger deal Monday that's estimated to be the largest in tech history.
+
+According to a note by Daniel Ives at FBR, the EMC/Dell deal could be a "major wake-up call" to other big old tech companies.
+
+"We do believe this deal is a 'shot across the bow' in particular to Cisco, IBM, HP, Microsoft, and Oracle that Dell is serious about becoming a major enterprise tech player. Ultimately, we view this deal as a wake-up call to traditional IT stalwarts that they must finally use their massive treasure chests to be more aggressive on M&A, otherwise they risk losing their seat at this game of high-stakes poker," the note said.
+
+Here are some of the other big tech deals Ives thinks could go down next:
+
+Cisco and NetApp
+
+Cisco and FireEye
+
+IBM and Splunk
+
+IBM and Tableau
+
+HP and Fortinet
+
+HP and Qlik
+
+Oracle and Verint
+
+Oracle and Netsuite
+
+Microsoft and Imperva
+
+Microsoft and Salesforce
+
+FBR wrote M&A activity will pick up due to several reasons, including slowing growth among mature tech companies, customers' shift to the cloud, and the increased competition across the whole industry. It also pointed out a lot these big enterprises are sitting on top of massive piles of cash, which basically give no returns, and it would make more sense for them to spend the money on acquisitions, which theoretically would spurn more growth.
+
+Some of the companies mentioned in this note, however, seem less concerned about the merger.
+
+IBM CEO Ginny Rometty shrugged off questions about the merger on Tuesday, saying, "You build your own strategy. You don't define it by what another competitor is doing."
+
+HP CEO Meg Whitman even sent out a company-wide email after the Dell/EMC deal saying, "The reality is that we are two years ahead of the game and it will be difficult for others to catch up...We’re organized, we have a strong balance sheet and our innovation engine is humming."
+
+But some analysts still believe the rumored Salesforce/Microsoft deal is not dead, and talks of it could soon re-emerge some time down the road.
+
+Stifel's Tom Roderick told us in a previous interview, "If legacy vendors like Oracle, SAP and Microsoft weren’t sufficiently aware that the Cloud Train has left the station at this point, it would likely be far too late for all of them...Oracle and Microsoft have the benefit of scale and currency on their side, and we should all fully expect both of them to maintain an aggressive M&A stance."

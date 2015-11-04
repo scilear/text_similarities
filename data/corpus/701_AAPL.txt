@@ -1,0 +1,67 @@
+Fans of Apple's smaller iPad Mini caught a tough break last fall when the company unveiled its new tablets for the year. Although Tim Cook & co. lavished plenty of attention on the faster, slimmed-down iPad Air 2, the upgraded iPad Mini 3 was regarded as a mere afterthought. The list of changes was so short, in fact, that some of us wondered why Apple would introduce a performance gap between the Air and Mini lines. Still more people wondered when they'd get a Mini with enough power to match its larger sibling. Turns out, the answer was "a year later." I've been testing the new iPad Mini 4 for over a week now and can say with confidence this is the Mini we should've gotten last year.
+
+88 Apple iPad Mini 4 $399 Buy Now Pros Vibrant screen
+
+iOS 9 is great for multitasking
+
+Solid performance
+
+Respectable battery life Cons Rotation lock switch is gone
+
+Still less powerful than the iPad Air 2
+
+Base model only has 16GB of storage Summary After a yearlong wait, we finally have a properly upgraded iPad Mini. While it adopted the iPad Air 2's super-slim aesthetic and got a similarly great screen, the iPad Mini 4 makes do with Apple's dual-core A8 chipset. Performance is remarkably solid, though, and the smaller battery inside doesn't do the tablet a disservice. Still, with only a $100 difference between the most basic Mini 4 and the Air 2, you'll have to think on what size tablet you can really fit into your life.
+
+Hardware
+
+Apple's design team did most of the heavy lifting with the iPad Air 2 and now we're finally seeing that sleek aesthetic trickle down to the Mini. The 4's fit and finish is still first-rate and, more importantly, the whole package is about a tenth of a pound lighter than last year's model. That might not sound like a dramatic difference, but when you're building a device with a bigger-than-phone-sized screen, every ounce and gram matter. The iPad Air 2 felt almost unnaturally light for its size, so you can imagine how light the even smaller Mini 4 feels -- holding it aloft and watching YouTube videos for hours was none too painful.
+
+The Minis were never exactly tanks, of course, but this year's thinner and lighter model (0.65 pound and 6.1mm, the same thickness as the Air 2) makes prolonged, one-handed use a pleasure. The Air-ification of the Mini line also means that handy rotation-lock switch -- part of the iPad's hardware formula for years -- has been excised. Keeping your screen from spinning around now requires you to swipe up the Control Center and tap an icon down there. This is one of those little changes that most people won't notice until they start feeling around for that familiar nubbin. Despite not using it that frequently, I still miss having it there.
+
+It's easy to imagine Apple just took a shrink ray to an iPad Air 2 and called it a day, but there's more going on here than meets the eye. You see, rather than carry over the modified A8X from the Air 2, Apple kitted out the new Mini with the same A8 processor that's currently powering the iPhone 6, albeit except it's paired with 2GB of RAM instead of one. I've never had much reason to complain about the iPhone 6's performance, and the combination of that chipset and the extra RAM means the Mini 4 is, unsurprisingly, a snappy performer (more on that later). My review unit was a 128GB model, although Apple also offers 16GB and 64GB options with prices starting at $399 for a WiFi-only configuration. Toss in an updated 8-megapixel rear camera, not to mention faster 802.11ac WiFi and 20 LTE bands, and we've got a much-improved device on our hands.
+
+Display and sound
+
+The iPad Air 2 might give you more screen real estate, but the Mini 4 wins on pixel density, hands down. Like the Mini 3 before it, the newest generation squeezes 326 pixels into each linear inch of the device's 7.9-inch screen, making for crisp text and eye-popping visuals. Even better, Apple finally got rid of that tiny gap between the Mini's display panel and the slate of arsenic-free glass covering it; it's all been combined into a single, laminated panel.
+
+What sounds like an exercise in LCD screen minutiae makes for some dramatic changes: It means less glare, better viewing angles and a touch more crispness. When we tested the Air 2 and the Mini 3, the difference in color clarity and saturation was pretty pronounced, but that's thankfully now a non-issue. Oh, and a brief aside: Older Minis also made a bit of a hollow thunk sound when you tapped them a certain way, an issue that's been addressed on the new model.
+
+If you're hell-bent on using the Mini as a media machine, you've probably got a decent pair of headphones to go with it. Thankfully, you needn't fret if you accidentally leave them at home: The speakers housed on the Mini's bottom edge are impressively loud for their size. You won't be able to fill a room with the mid-heavy sound they churn out, but I discovered I could leave a video playing in the kitchen and still hear it while folding laundry downstairs.
+
+Software
+
+iOS 9 is such an important step forward that we just published a few thousand words all about it. Assuming you don't have the time to sift through our full review, here's a quick rundown on what iOS 9 means for the new Mini. In short, Apple's latest software update is focused more on stability and thoughtfulness, using Siri's new proactive smarts to surface information and apps when you might want them. Throw in plenty of neat design changes -- like a revamped app switcher and a fantastic "Back" button that lets you follow the breadcrumb trail of apps you were just using -- and we've got a more smartly put-together update than we initially gave Apple credit for.
+
+iPads got plenty of attention in this update, and fans of mobile multitasking should be especially pleased. Consider Slide Over, which lets you swipe open a drawer full of first-party apps that can be opened in a smaller, separate window that takes up about a quarter of the screen. By jumping into any of those apps, you're effectively putting the other, primary application you were just using on pause until you're done texting or checking Apple News. You can go a step further and drag the line that divides those apps; that resizes both of them until they each take up 50 percent of the screen. Why hello, Split View. Honestly, as neat as this trick is, it feels sort of silly on a screen this small. Running two apps side by side makes sense on a larger display -- say, on a full-sized Air 2 or an enormous iPad Pro. Shoehorning two apps onto an 8-inch screen can feel a little claustrophobic after a while.
+
+Then there's picture-in-picture mode, which, yes, is exactly what it sounds like. Any time you play a video in Apple's stock media player, you can tap an icon to shrink it down and stick it in a corner so you won't miss a moment of JK Simmons being an epic jerk in Whiplash. Give that small window a quick pinch-zoom and it'll roughly double in size; the default view on the Mini 4 is pretty tiny, so you'll probably spend most of your time in this mode.
+
+Moving on, the Notes app also now supports richer text formatting (heck yeah, subheadings) and packs a reasonably thorough sketching tool for adding drawings and diagrams to your text. The smaller screens on iPhones make random doodling tricky, but that's not a problem with the Mini's nearly 8-inch screen. All told, iOS 9 is a must-have download, and the Mini 4 gives it plenty of space -- and power -- to shine.
+
+Camera
+
+I'll be the first to admit I sometimes glare at people shooting tab-photos in public, but the appeal is pretty obvious. For one, it might be the only camera folks have on them, and we all know the adage there. A bigger screen also makes it easier to frame shots, and really, who among us couldn't stand to be better at that? What I'm saying is this seemingly silly habit isn't going anywhere, and the iPad Mini 4's rear-facing 8-megapixel camera does a fine job of capturing the world around you.
+
+Tablet photos are hardly ever outstanding, but the Mini 4, like the Air 2 before it, is capable of capturing crisp colors and reasonable detail when the light is right. White balance is generally more accurate now too, which is especially apparent since the Mini didn't get left in the display quality dust this time. Things obviously get muddier in dimmer conditions, but really, if you're using a tablet to take photos in the middle of the night, you might want to rethink your strategy. Meanwhile, the front-facing camera is stuck at 1.2 megapixels, but it now has an f/2.2 aperture lens to help suck in the light bouncing off of your face. Still, I haven't noticed much of a difference between this camera and the one in last year's Mini.
+
+Other changes include the ability to shoot in burst mode thanks to the A8 chipset thrumming away inside, and improved support for HDR photos and video. The iPad Mini 4 isn't going to be anyone's first choice for mobile photography, but it's a solid, if unremarkable, performer.
+
+Performance and battery life
+
+I sort of alluded to this earlier, but let's be clear: The Mini 4 is not just a shrunken-down Air 2. The difference in the chipsets powering these things is apparent in our benchmark tests below, but the Mini 4 is still no slouch compared to its more premium cousin. It's buttery smooth as you leap in and out of apps and swipe through web pages. The only time I noticed the Mini's A8 chipset struggling was while running two apps in Split View, and even then, it was only when I was trying to fiddle with both simultaneously. While I'm comparing the Mini 4 to other iPads, it's noticeably quicker to react than last year's Mini. In fact, Apple says the A8's CPU is 30 percent faster than the Mini 3's A7, and that graphical performance is up 60 percent from last year. That helps explain why Asphalt 8 and Modern Combat 5: Blackout ran like a dream, but I'll let the numbers do the rest of the talking.
+
+iPad Mini 4 iPad Air 2 iPad Mini 3 NVIDIA Shield Tablet Geekbench 3.0 3,236 4,510 2,470 3,423 Basemark X 17,212 29,518 14,839 TBD 3DMark IS Unlimited 16,291 21,659 14,595 30,970 SunSpider 1.0 (ms) 349 303 439 463 SunSpider: Lower scores are better.
+
+So, pretty much exactly what I expected: The Mini 4 strikes an appropriate balance between the Mini 3 and the Air 2 (which has the edge thanks to an extra CPU core). Usually it performs just a hair better than last year's iPhones too. Of course, horsepower means nothing without battery power, and the new Mini has that in spades. The usual Apple refrain is that the Mini is rated for about 10 hours of continued use, but that might have been understating things a bit. In our usual video rundown test (video looping with the screen brightness set to 50 percent), the Mini 4 lasted 13 hours and 4 minutes before needing an emergency trip to the power outlet. That's just short of the 13 hours and 45 minutes on last year's model, which isn't bad at all considering the new Mini 4 actually has a smaller, 5,124mAh battery.
+
+The Mini fared similarly well in the battery test called "living with me." After pulling it off of the charger at around 7 AM, schlepping to the office and using it for emails/reading articles/the occasional game, I'd usually wind up with 10 percent remaining when I returned home at 9 PM.
+
+Tablet Battery life iPad Mini 4 13:04 iPad Air 2 11:15 iPad Mini 3 13:45 iPad Air 13:45 (LTE) Apple iPad Mini 12:43 (WiFi) Samsung Galaxy Tab S (10-inch) 12:30 Microsoft Surface 3 9:11 Galaxy Tab S2 7:30
+
+The competition
+
+If you're in the market for a sleek tablet, consider Samsung's Galaxy Tab S2 (starting at $400 for the 8-inch model). While it lacks the kooky style of its immediate predecessor, the 10-inch screen is one to behold -- it is Samsung after all -- and it's only 5.6mm thick. The downgraded battery might sting, though: It only managed 7.5 hours in our tests, down from 12.5 hours for the previous-gen model. Itching for something more portable? ASUS just launched its 8-inch ZenPad S, a $200 Android slate with a waistline similar to the Mini 4's and a 2,048 x 1,536 display, to boot. Then there's the iPad Air 2 itself, which is still the most powerful tablet in Apple's roster. It's incredibly sleek and can be held one-handed for longer than you might expect, but its size means it's just not going to fit into some lifestyles. The thing is, it's almost worth trying to see if the size can work for you; prices for the Air 2 start at $499, and sales or buying refurbished can bring that base price down even lower.
+
+Wrap-up
+
+Some might gripe about the Mini 4's year-old internals, but after my week of testing, I feel confident saying that it doesn't matter much. The tablet's entire package, from the still-snappy A8 chipset to the beautiful and almost-pocketable screen, to the incredibly sleek chassis, makes it worthy of your consideration. If you're on the lookout for a super-portable tablet with strong fundamentals and great app support, you probably won't find a contender better than this one. That said, if you can fit a bigger tablet into your life, you could easily upgrade into an iPad Air 2 for not much more money and get even more processing power.

@@ -1,0 +1,11 @@
+Microsoft has announced the Lumia 950, the smartphone that will carry the burden of being the company's first Windows 10 mobile flagship. The device comes with a 5.2-inch WQHD (2,560 x 1,440) OLED display that'll also offer up constantly glanceable notifications that'll save on battery life. In addition, the unit comes with the same liquid-cooling technology that you'll find inside the Microsoft Surface Pro 3. Internals-wise, the company is promising an hexa-core Qualcomm processor and 32GB of internal storage, but the phone can actually take up to a 2TB microSD card as soon as they're available to buy.
+
+Of course, the biggest draw of any Microsoft phone is the camera, and the Lumia 950 come with a 20-megapixel PureView shooter. The Carl Zeiss lens comes with optical image stabilization that'll promise buttery-smooth 4K video without any blur or judder. Oh, in addition, the imaging unit is paired with a triple-LED RGB flash that, it's promised, should end the days of everyone looking washed-out in your nighttime pictures.
+
+Interestingly, Microsoft's Panos Panay opened his presentation by talking about the phone's dual-antenna setup. Apparently, the Lumia 950 can switch between the two in order to find the best mobile signal in any given location. He didn't say more than that, but it sounds like a similar sort of technology to what was found in some of BlackBerry's smartphones, as created by Paratek Adaptive RF. We'll dig into this a little more when we get our hands on the hardware, as it sounds very promising indeed.
+
+The Lumia 950 is packing a USB Type-C port at its base, and with it comes not only super-fast data transfer, but also very quick charging. Microsoft is promising that the phone will go from an empty battery to 50 percent capacity in just 30 minutes should you let the cell run empty.
+
+At the same time as launching the 950, Microsoft is launching a slightly larger device as a companion, the 950 XL. The internal specifications are broadly similar, with the headline difference being that the XL is packing a 5.7-inch OLED display. Both devices will launch in November, with the 950 retailing for $549, while its bigger sibling will cost you $649.
+
+Get all the news from today's Microsoft event right here.

@@ -1,0 +1,15 @@
+Microsoft (NasdaqGS: MSFT - news) on Thursday said it was buying a startup that specializes in analyzing email, meeting schedules and other work data to increase people's efficiency on the job.
+
+Microsoft did not disclose financial details regarding its acquisition of Seattle-based VoloMetrix.
+
+"I am excited about this big step forward in our company ambition to reinvent productivity and business process, and how it will deliver new value to our customers with organizational analytics," Microsoft Outlook and Office 365 corporate vice president Rajesh Jha said in a blog post.
+
+VoloMetrix scrutinizes information from workers' calendars, messages and more to find personalized ways for them to more productively use time and energy.
+
+"Similar to how fitness trackers help us understand our health in our personal lives, innovative new solutions are emerging to objectively measure and prioritize our time at work," Jha said.
+
+VoloMetrix technology will be used in Office 365 and a Microsoft organizational analytics offering, according to Jha.
+
+"We started VoloMetrix 4.5 years ago with the belief that people are every company?s most valuable asset and the mission to transform knowledge worker productivity through data, transparency and feedback loops," startup co-founder and chief executive Ryan Fuller said in a blog post.
+
+"Our goals were to fundamentally change companies' understanding of how their people drive their outcomes and empower every employee to take back their time and have the very best tools to be successful."

@@ -1,0 +1,17 @@
+Two weeks after Apple suffered one of its biggest security blows ever, another strain of malware has affected some users in China, where the company remains a beloved brand.
+
+According to research from Palo Alto Networks, a California-based network security company, Chinese iPhone owners could find themselves subject to downloading a strain of malware dubbed YiSpecter.
+
+It’s not clear how many users have been or could be affected by YiSpecter, which researchers say has been around in various iterations on various software platforms since November 2014. But its reach is likely more contained than XCodeGhost, the malware strain that Apple found itself inadvertently distributing in the App Store last month.
+
+YiSpecter primarily spread through downloads of an imitation version of QVOD, a video streaming app published by Beijing’s Kuaibo, which distributes visual content that is sometimes pirated or pornographic. After being raided by authorities in April last year, Kuaibo appears to have removed the real QVOD from Apple’s and Google’s app stores, judging by its scant presence on App Annie.
+
+But it seems the architects of YiSpecter took advantage of QVOD’s removal by creating an imitation app billed as “QVOD version 5.0,” and paying for app install ads across China’s internet. Those ads were published on web forums, media sites, and even pushed by China’s ISPs themselves. The ads also appeared in jailbroken iOS app stores like Cydia, and in various web forums on the Chinese internet.
+
+XCodeGhost, meanwhile, was distributed through an unofficial version of Apple’s developer toolkit XCode, which developers at some of China’s biggest internet companies obtained because it was faster to download than Apple’s approved version. This meant 150 of China’ s most popular apps were at one point affected with the malware, and all were readily available in Apple’s official iOS app store.
+
+Upon download, YiSpecter collects information about the user’s phone usage habits, and also arbitrarily downloads new apps, uninstalls existing ones, and alters search and other settings in Apple’s Safari browser. XCodeGhost only collects data but did not tinker with the contents of one’s phone.
+
+A source close to the matter tells Quartz that the vulnerability permitting YiSpecter’s spread has been fixed for iOS 9, the iPhone’s most recent operating system upgrade.
+
+Claud Xiao, author of the report by Palo Alto Networks, says that while YiSpecter and XCodeGhost remain unrelated, they both highlight how Apple remains vulnerable amidst the murky waters of China’s internet. “The world where only jailbroken iOS devices were threatened by malware is a thing of the past,” writes Xiao. While that might be correct, China’s pothole-riddled internet remains a thing of the present, and software firms that are concerned about security among their Chinese users will likely have to give extra attention to the region.

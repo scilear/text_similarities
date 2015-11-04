@@ -1,0 +1,59 @@
+This article, Microsoft drops the ball: Access 2016 not included in Office 365, originally appeared on TechRepublic.com.
+
+View gallery .
+
+Image: Microsoft
+
+Microsoft believes we are living in a mobile first, cloud first world, which sounds good, I guess, but what does that really mean in a practical business setting? The answer may surprise you, especially if you rely on Microsoft Access and you fail to choose your Office 365 subscription very carefully.
+
+Where is Access?
+
+Last week, I received an email from a reader about Office 2016 and Office 365 that asked a very simple question: Where is Microsoft Access? I had recently purchased an Office 365 Business Premium subscription myself, so I checked--and low and behold, to my surprise, Microsoft Access is not included with the Office 365 Business Premium subscription.
+
+In fact, Access 2016 is not included with any of the Office 365 Business subscriptions. Access is not even included in Office 365 E1 or Office 365 Pro Plus enterprise subscriptions. If you want Microsoft Access 2016 in your enterprise, you have to opt for the full Office 365 E3 subscription (Figure A).
+
+Figure A
+
+View gallery .
+
+Image: Mark Kaelin
+
+Office 365 options.
+
+I find the decision to leave Microsoft Access 2016 out of so many Office 365 subscriptions to be curious and more than a little bit perplexing. Even more perplexing is the fact that Microsoft Access 2016 is included with the less expensive Office 365 Home and Office 365 Personal subscriptions (Figure B). At first, I couldn't make sense out of this--why would home and personal users need Access 2016, and why would business and enterprise users not need it?
+
+Figure B
+
+View gallery .
+
+Image: Mark Kaelin
+
+Office 365 Home and Office 365 Personal subscriptions.
+
+Money as motivation
+
+And then it hit me... this is all about how Microsoft can generate more revenue. For businesses subscribing to Office 365 that have critical Microsoft Access databases and applications, the only way to get Access 2016 is by buying it separately from the Microsoft Store for $109.99 (USD) per license.
+
+Obviously, this is going to come as a surprise to many businesses who depend on Microsoft Access to run apps vital to their businesses. To save yourself some money and perhaps some headaches, you may have to get creative with your Office 365 subscription choices.
+
+For example, if you have a small business with five employees, and you need Microsoft Access, but you don't need all of the cloud and collaboration tools, a better option than an Office 365 Business Premium subscription may be to buy a subscription to Office 2016 Home.
+
+The Office 2016 Home subscription would cost you $100 per year and allow you to have Office 2016 apps, including Access 2016, running on five PCs. The Office 365 Business Premium subscription would cost you $150 per year/per person ($750) for Office apps, less Access 2016, which would cost you another $110 purchased separately.
+
+If we simply do the math, that's $100 per year for five users vs. $860 per year for five users. Are collaboration tools worth $760 per year to your business and five-person team?
+
+In the context of Microsoft's often repeated mantra of mobile first, cloud first, this makes very little sense, but there you have it.
+
+Bottom line
+
+The dropping of Access 2016 from business subscriptions to Office 365 is disappointing to say the least. For most of 2015, I've been praising Microsoft's business strategy. The desire to create productivity software for everyone, regardless of device or operating system, is exactly what we need. Now, they go and institute a pricing scheme for Access 2016 that can only be described as an underhanded way to make a few extra bucks from business customers who are caught between a rock and a hard place.
+
+To be fair, in aggregate, Access is probably the least used Office app in the entire lineup, but that's still no excuse for keeping it out of Office 365 business subscriptions. Database applications are business applications, and Access should be included in all business and enterprise Office 365 subscriptions, without exception.
+
+Microsoft has dropped the ball on this one and should take immediate steps to rectify the situation. If the company's goal is to be a leader in productivity applications for a mobile first, cloud first world, this Microsoft of the past, monopoly-pricing shell game must be eliminated.
+
+Your thoughts
+
+Do you use Access in your business? Have you noticed that Access is mysteriously missing from Office 365? Do you think this is an underhanded pricing scheme perpetrated by Microsoft, or am I missing something? Tell us what you think in the discussion thread below.
+
+Also see

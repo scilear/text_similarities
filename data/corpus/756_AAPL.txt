@@ -1,0 +1,39 @@
+At its product announcement in New York City, Microsoft unveiled its new line of products including several new phones and the first ever Microsoft laptop. Ed Baig reports.
+
+NEW YORK, NY - OCTOBER 06: Microsoft Corporate Vice President Panos Panay introduces a new tablet titled the Microsoft Surface Pro 4 at a media event for new Microsoft products on October 6, 2015 in New York City. Microsoft also unveiled a virtual reality head set titled the HoloLens, a phone titled the Lumia 950, a laptop titled the Surface Book and a biometrics wristband titled the Band 2. (Photo by Andrew Burton/Getty Images) *** BESTPIX *** ORG XMIT: 578969291 ORIG FILE ID: 491550260 (Photo: Andrew Burton)
+
+NEW YORK — Microsoft and Apple are ancient tech adversaries, dating back to when Bill Gates and Steve Jobs ran the companies. Now that we're in the Satya Nadella-Tim Cook era, the slugfest is proceeding anew.
+
+That was apparent during today's Windows 10 event in Manhattan with Microsoft training its sights on Cupertino with the introduction of the Surface Pro 4 tablet hybrid, and Surface Book notebook computer.
+
+The latter is Microsoft's first ever full-fledged laptop, pinning the company not only against Apple, but against its many computing partners who are trotting out their own fresh Windows 10 notebooks.
+
+But the main event today was clearly more about Microsoft vs. Apple. Microsoft first bold claim is that Surface Pro 4 is 50% faster than Apple's MacBook Air, which it clearly views as Surface's natural competitor.
+
+But so it seems would be the larger display iPad Pro tablet that is coming later this fall. Panos Panay, who runs the Surface business for Microsoft, pointed out that the pen that comes with Surface Pro 4 has an eraser, a dig at the new Apple Pencil accessory that works with iPad Pro, which lacks such an eraser.
+
+Panay then went after the upper tier MacBook Pro, saying the new Surface Book laptop is twice as fast.
+
+Like the MacBook Pro, Surface Book is meant to be a premium notebook aimed at gamers and serious creative types. As with Surface Pro 4 it boasts a pen (and eraser), which Apple eschews for its laptops, and has a 13.5-inch screen that can be easily detached and carried like a clipboard. It weights 1.6-pounds when it is detached, and roughly double that with the keyboard, putting it in the same weight class as as the MacBook Pro with a 13-inch Retina display.
+
+Microsoft says Surface Book boasts a 12-hour battery life, in line with Apple's own claims for the MacBook Pro.
+
+Of course, the chief difference is that the Surface runs Windows 10—obviously—while the MacBook Air runs Mac OS X, which got its own recent operating system update with the move to El Capitan. The operating systems are at the very core of this deep rooted tech rivalry.
+
+While it'll be fun to see how the laptop battle plays out, when it comes to phones, Microsoft remains a monumental underdog. Global market-share for Windows phones is less than 3% according to IDC, and Microsoft badly trails both Android and iOS.
+
+I certainly don't see many people ditching their iPhones for the new Lumia $549 950 or $649 950 XL smartphones, which is not meant to disparage Microsoft's new handsets.
+
+As you'd expect, these latest Windows 10 flagships are closey tied to all the typical Microsoft properties: the Microsoft Windows Store, OneDrive, Cortana, Microsoft Office Mobile, Outlook. Universal Windows 10 apps run across phones and the entire Windows ecosystem.
+
+Via an accessory known as the Microsoft Display Dock—which one Microsoft employee told me will cost $99—you can connect your Windows phone to a big screen monitor and smoothly run Windows 10 off the phone on that larger display, a feature called Windows 10 Continuum. The new phones have powerful processors.
+
+Ed Baig takes a first look at Microsoft’s new Surface Pro 4, announced at their product event in New York City
+
+The cameras here (with 20-megapixel rear sensors and an advanced flash system) look promising and fast charging, through a USB-C connector. Meantime, the Windows Hello feature lets you unlock the phones just by staring into the screen. That's pretty cool.
+
+Alas, for now only AT&T says it will carry the 950 model (and not the 950 XL) in the U.S. Without full carrier support, I don't give Windows Phones much more than a puncher's chance.
+
+Email: ebaig@usatoday.com; Follow USA TODAY tech columnist @edbaig on Twitter
+
+Read or Share this story: http://usat.ly/1LgoqxF

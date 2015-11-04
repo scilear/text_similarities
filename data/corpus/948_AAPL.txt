@@ -1,0 +1,23 @@
+Updates for Apple: New iPhones, iPad Pro, and watchOS 2
+
+(Continued from Prior Part)
+
+The watchOS 2
+
+In the earlier parts of this series, we learned about updates for Apple’s (AAPL) products spanning iPhones and iPads. Now we’ll look at the new updated operating system of Apple Watch, which is a relatively new growth segment of the company.
+
+According to Apple, “watchOS 2 makes apps faster and more fluid by running natively on Apple Watch, and introduces new watch faces, the ability for third-party apps to display information on the watch face as complications, and an innovative way to see future events, past headlines and more with Time Travel.”
+
+Anticipated growth in watchOS versus the market
+
+According to an IDC (International Data Corporation) report, Apple’s watchOS is expected to dominate shipments in the Smart Wristwear OS (operating system) category.
+
+According to the report, shipments of watchOS are expected to be 13.9 million, representing 58.3% of the market share during 2015. In this category, Google’s (GOOGL) (GOOG) Android or Android Wear will be the second-largest. That will be followed by Pebble OS, RTOS or Real Time Operating System, and Tizen during 2015.
+
+The report expects robust average annual growth rate of 37.5% in shipments of Smart Wristwear OS during the 2015–2019 period and average annual growth in watchOS of 30.6%.
+
+You can take a diversified exposure to Apple by investing in the Technology Select Sector SPDR ETF (XLK). XLK held ~16.6% in the company on August 31, 2015.
+
+Alternatively, you can take a more diversified exposure to Apple by investing in the SPDR Dow Jones Industrial Average ETF (DIA). DIA held ~4.6% in the company at the end of August.
+
+Browse this series on Market Realist:

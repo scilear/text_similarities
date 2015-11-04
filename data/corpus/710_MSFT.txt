@@ -1,0 +1,37 @@
+While Microsoft (NASDAQ:MSFT) says it's not an exclusive relationship, the new flagship Windows 10 phone, the Lumia 950, will launch only with AT&T (NYSE:T).
+
+It's a peculiar deal where the phone's maker has said it's open to working with other wireless providers, but T-Mobile (NYSE:TMUS) CEO John Legere took to social media to say that's simply not true. Microsoft's statements on this have been hard to follow and make it sound like AT&T is, at least for the launch, an exclusive partner:
+
+"We're refocusing our channel strategy, narrowing it in the short-term and planning for broader operator availability long-term", a Microsoft spokesperson told VentureBeat. "While there was interest across the board from U.S. operators, currently we've made the decision to have AT&T carry the Lumia 950, and then sell both the Lumia 950 and Lumia 950 XL unlocked through our own channel in Microsoft stores. In Europe, Deutsche Telekom will carry the Lumia 950 and Lumia 950 XL, and we'll have more to share about other carriers shortly."
+
+CNET reported a similar sentiment from the manufacturer that sounded pretty absolute that AT&T was, and would remain, its only partner.
+
+"It's the best distribution for this family of devices," said Tuula Rytila, corporate vice president of marketing for phones and new devices, in an interview with the news site.
+
+T-Mobile's Legere takes issue with this strategy and the notion that his company was offered the phone.
+
+What is Legere saying?
+
+The CEO, whose company does not currently carry any phones using the Windows OS, said that Microsoft did not offer his company the phone. He was emphatic about this in a Twitter post:
+
+To be clear: We did not turn down the new Windows devices. MSFT gave to AT&T. If @microsoft wakes up, we'll talk about @TMobile carrying — John Legere (@JohnLegere) October 8, 2015
+
+Legere also made it clear in a response to another user on the social media service that he did not want an exclusive on the phone, nor did he think that type of deal was good for consumers or the phone's manufacturer.
+
+@Jessquire09 i don't want exclusive rights to anything.., nor do customers Just dinosaur carriers and OEMs who didn't learn from #firephone — John Legere (@JohnLegere) October 8, 2015
+
+The T-Mobile boss seems willing to support the new Lumia release, but he clearly doesn't want to play second fiddle to AT&T. It's impossible to know if Microsoft gave other carriers a fair shot at carrying the 950 and the 950 XL, but he has a reputation for being a straight shooter who tends to make things like this public to shame other companies into doing the right thing for consumers (and more specifically, for T-Mobile).
+
+A recipe for failure
+
+Though the iPhone was originally an AT&T exclusive, that distribution model has fallen out of favor in recent years, mostly because it hasn't worked. The Fire phone was an AT&T exclusive that failed horrifically, as was the short-lived Facebook Phone. It's hard to see why things would be any different this time.
+
+Microsoft will be selling an unlocked version through its own stores that will work on T-Mobile, but there are a number of reasons consumers are likely to reject buying a phone that way. First, the company doesn't yet offer financing, so users would be forced to shell out $549 for the base 950 and $649 for the XL version.
+
+In addition, T-Mobile customers using the company's Jump! On Demand service, which lets users trade in their phone without penalty up to three times a year, wouldn't have access to the Lumia models. That's a major strategic mistake for Microsoft, because those customers could be lured in with the idea that if they didn't like the new offering, they could simply switch to something else without any excess fees.
+
+Microsoft needs T-Mobile
+
+Even though T-Mobile is only the third-ranking U.S. wireless carrier, its customers might be the ones most likely to be willing to experiment with an unfamiliar phone operating system. The 950 and 950 XL are fairly impressive devices, but that won't matter at all if Microsoft can't get people to try them.
+
+Being exclusive with AT&T limits the potential audience, and that's a mistake when the number of people willing to give the new phones a try is already very small. Microsoft simply needs every customer it can get, and Legere, if he gets behind the phone, might be its best chance to win market share for Windows 10 phones.

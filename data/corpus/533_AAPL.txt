@@ -1,0 +1,15 @@
+This post has been updated.
+
+Apple’s iOS 9 update, which launched yesterday (Sept. 16), allows users to block ads, trackers, and other content in its mobile Safari web browser for the first time. An initial crop of ad-blocking apps is already proving to be popular.
+
+Ad blockers are currently the no. 1, 3, 6, and 12 best-selling paid apps in the US iPhone app store. The top app, Peace, was purchased 12,000 times yesterday for $2.99, according to Marco Arment, its developer. Arment notes that it wasn’t even available until about 7pm Eastern time last night, so that sales figure only represents a portion of the day. (Arment, previously the co-founder of Tumblr, is well-known in the tech community for creating Instapaper—an early web and mobile app that cleaned up and saved web articles for easy reading, including stripping out most ads.)
+
+No one knows how popular ad blocking will eventually be on mobile devices. Long possible on the desktop web, blocking ads is still a relatively niche activity in the US, but more popular in some European countries, according to a recent Wall Street Journal article (paywall).
+
+But it’s certainly something to watch. Mobile is projected to represent a larger portion of ad spending, from just over 10% in the US last year to almost 30% by 2019, according to eMarketer. If users block a substantial portion of ads, that could easily affect many publishing businesses. (One fear is that small publishers, which lack the resources to invent new ad technology or sell other products, could be hit hardest.)
+
+However, it’s easy to see why these tools could become popular. Bad ads are more noticeable and obnoxious on mobile, where bandwidth is already constrained, screens are small, and users often pay for internet access on a metered basis. An inexpensive, one-time ad-blocker purchase that increases privacy, makes the web faster, and prevents wasting money on bandwidth to load bloated ads sounds like an attractive proposition, whether it’s ethical or not.
+
+Update (Sept. 18): Arment has removed Peace from the app store after less than two days, saying it “just doesn’t feel good.”
+
+Read this next: The five biggest changes coming to your iPhone in Apple’s iOS 9 update

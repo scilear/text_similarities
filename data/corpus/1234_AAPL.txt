@@ -1,0 +1,29 @@
+After decades of general stasis, the global auto industry finally appears poised to undergo at least one major paradigm shift in the coming decade, thanks in no small part to the looming competitive threats of tech-oriented entrants like Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL), Apple (NASDAQ:AAPL), and Tesla.
+
+And even though potentially game-changing products like Apple's Project Titan and Alphabet's autonomous autos remain years away from the rubber actually meeting the road (pun intended), investors and the media are slowly gaining a clearer sense of each company's individual strategies. Although Apple's and Alphabet's attempts to rock the automotive industry's proverbial boat differ in some regards, we recently learned these twin efforts likely share one key characteristic their respective investors will love: outsourcing fabrication.
+
+Alphabet is breaking ground in smart cars
+
+The company now called Alphabet, which most people are probably still calling Google, recently held a preview of its self-driving cars for select members of the media, and the insights gleaned provide a number of important data points for its investors. Interestingly, the company included its internally developed smart-car prototypes as part of the media day, versus the souped-up Lexuses it previously used to test its autonomous driving technology. Although Alphabet's cars remain prototypes, the company appears intent on including what it believes to be several marked improvements to traditional car designs.
+
+More than a year ago, the company was showing off how it had revamped the materials and structure of the front of its prototypes, favoring a compressible foam front bumper and a large, highly flexible windshield. It claims this new design will better protect people in the event of an accident, while also better shielding other "road users" like pedestrians and bicyclists. Self-driving car director Chris Urmson has also indicated that the company plans to limit its cars' speeds to only 25 mph to create an additional layer of safety for those inside and outside the vehicle.
+
+Considering Alphabet's clear ambition to overhaul the entire automobile experience, it should come as no surprise that the company again broke with convention in creating its cars' interiors. In fact, those expecting little about the in-car experience to change might not recognize Alphabet's self-driving cars for proper automobiles.
+
+The company gutted the inside, removing the steering column, accelerator, gas pedal, and rear and side mirrors -- just to name a few of the major changes. This lack of in-car clutter and driving responsibility opens the door for drivers and passengers alike to engage in far more worthwhile activities like browsing the Internet using Google's Chrome browser, or checking their Gmail accounts, or watching videos on YouTube. Alphabet isn't doing this for free, after all.
+
+In terms of safety in the absence of a trained driver, Urmson indicated that the company designed back-up engine and braking systems into its cars. So if something goes awry without passengers being able to take control, the cars themselves will be able to continue driving as if nothing happened.
+
+Overall, it's a compelling vision, although one that remains years away from actually operating on the road. However, of equal importance to the features in its prototypes, Alphabet also shared a key piece of information about its business model that closely mirrors Apple's approach to car making with Apple's Project Titan.
+
+Manufacturing higher margins
+
+According to recent reporting from Re/Code, Alphabet has confirmed that it doesn't plan to produce its autonomous driving cars on its own. This parallels Apple's all-but-assured strategy, similar to its product lineup, of outsourcing its devices fabrication in order to maintain its margin profile. I've used this chart in past articles on the topic because the automobile business is a notoriously low-margin space for even the largest companies.
+
+Company Name LTM Net Income Margin Daimler AG 5.7% Volkswagen AG 5.2% Peugeot S.A. (0%) Fiat Chrysler Automobiles N.V. 0.9% Renault 5.8% SAIC Motor Corporation Limited 4.5% Nissan Motor Co. 4.2% General Motors Company 3.6% Honda Motor Co. 3.9% Bayerische Motoren Werke Aktiengesellschaft (DB:BMW) 6.7% Average 4.1%
+
+For context, Apple and Google generated 21.5% and 21%, respectively, in net income margins last quarter. While moving into the automotive market offers a truly massive revenue opportunity for the likes of Apple and Alphabet, it benefits their shareholders far less if that fresh revenue meaningfully deteriorates either company's profit margins.
+
+As more focus has shifted to understanding and analyzing Apple's Project Titan, some of the sharpest minds in the business have argued that Apple could, and likely will, be able to create a more profitable automotive business model in very much the same way it has done in its consumer electronics business. Apple designs and procures the supply-chain materials used in producing its iDevices, but outsources the low-margin assembly portion of the business to a number of third-party fabrication partners like Foxconn, or Samsung and Taiwan Semiconductor for its A-series chips. The auto industry doesn't have any large-scale assembly companies in the same vein as the above names, but Apple and Alphabet have ample capital on their balance sheets to finance new plants if they can find a partner with the requisite technical knowledge.
+
+The key implication in all this is that Apple and Alphabet both appear to be working to break with auto industry conventions in order to capture a greater share of the profits and value from their respective automotive projects. While both companies' projects remain years in the making, Alphabet's acknowledgement that, like Apple, it does not plan to make its own cars, should be music to its shareholders' ears.

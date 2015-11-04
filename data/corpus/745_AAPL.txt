@@ -1,0 +1,17 @@
+Apple iPhones (Photo: Apple)
+
+Media companies got a bit of peace — when the developer of a popular iPhone ad-blocker app announced it was pulling the controversial piece of software.
+
+Marco Arment, a programmer who made the Peace ad-blocking app for iPhones, announced Friday on this blog that he has pulled the app, which has caused a firestorm in media circles. The decision was confirmed on his Twitter feed.
+
+In just two days, the Peace ad-blocking app quickly rose to being the No. 1 paid app on the Apple App Store. It allows users to read online content — but strip out the ads. This app and others like it take advantage of Apple's new iPhone operating system, which gives developers the ability to make apps that remove ads displayed in the browser.
+
+The technology has terrified media companies, as it not only strips away the ability to monetize content online but takes away the ability to track user patterns, data used to attempt to try to make money from generating online content. "Achieving this much success with Peace just doesn't feel good, which I didn't anticipate, but probably should have. Ad blockers come with an important asterisk: While they do benefit a ton of people in major ways, they also hurt some, including many who don't deserve the hit," the developer wrote on his blog.
+
+Shares of media companies were down on the day, as part of the market sell-off. News Corp closed down 2.4% to $12.83, Time Warner closed down 0.9% to $69.94 and Yahoo closed down 0.6% to $30.74.
+
+Investors might not be at peace since Peace was just one of the ad blockers enabled by the new iPhone operating system. Ad-blocking technology isn't dead just because Peace is pulled. The Peace developer himself names several other ad-blocking apps that are still available for the iPhone and desktop.
+
+If you bought Peace, the developer is providing guidance on how to get your money back. "Even though I’m 'winning,' I’ve enjoyed none of it. That’s why I’m withdrawing from the market," the developer wrote on his blog.
+
+Read or Share this story: http://usat.ly/1F6P8bq

@@ -1,0 +1,87 @@
+In 2012, when Microsoft first introduced the Surface Pro — a tablet that was also a laptop — it became an industry punch line.
+
+“You can merge a toaster and a refrigerator, but that’s probably not going to be pleasing to anyone," quipped Apple CEO Tim Cook.
+
+Nobody's laughing now. And Microsoft is looking more and more like a trendsetter.
+
+Three years after Cook's jab, the Surface Pro 3 is selling strong — strong enough that Microsoft is expected to launch a much-anticipated Surface Pro 4 at a special event on Tuesday.
+
+In the meantime, Apple and Google have started to pay attention. This past September saw both companies introduce tablet-laptop hybrids: the Apple iPad Pro and the Google Pixel C.
+
+"Apple just admitted Microsoft is right," read a headline here on Business Insider. Another one described the Pixel C as a "Surface killer."
+
+It's pretty simple. Google and Apple are not copying Microsoft. It's simply that this combination tablet-laptop thing is just the very first version of what these tech titans want the world to look like.
+
+The smartphone reset everything in computing
+
+The PC market is still shrinking like crazy. Analyst firm IDC expects PC sales to end up down 8.7% this year. The only silver lining for the PC industry is that there might be a little bump in 2017, when a lot of businesses are expected to buy new computers alongside Microsoft Windows 10.
+
+At the same time, the smartphone market is only growing. Apple has its ridiculously profitable iPhone, while Google Android is now the most popular operating system in the world — one of every five people on the planet has an Android phone.
+
+Meanwhile, two-in-ones like the Microsoft Surface and the Windows-powered clones it's inspired are still a teeny-tiny part of the overall market — but they're bucking the overall trend by growing even as more traditional computers shrink.
+
+It's no surprise. People like their smartphones and tablets. It's only natural that they want to get more stuff done with them.
+
+The problem is that the world of software is in a strange, in-between state.
+
+People increasingly expect all their apps, in their work and personal lives, to behave a certain way. They have to be easy to install, automatically update, keep track of their personal data and files between devices, be personalized to the user, and, perhaps most of all, work well on a touch screen — without requiring a mouse or pointer or keyboard. (Put a tablet in front of a 9-year-old, if you want to see what I mean.)
+
+This is how apps on smartphones work. Therefore, this is how most people expect all applications on all computing platforms to work, today, right now.
+
+At the same time, though, not every app is there.
+
+People haven't figured out the best way to make productivity happen on a touch screen. For every college student who manages to file a term paper on Google Docs from their phone or iPad, there are thousands more who are still doing it the old-fashioned way with a keyboard and pointer or mouse — and probably Microsoft Office. Charts, graphics, tiny little spreadsheet cells, and lots of other things are still too hard to control via touch.
+
+The problem is worse in a workplace setting, where users are locked into using certain software for certain things.
+
+Why Microsoft got there first
+
+Back in 2012, the iPad was the product that defined the tablet market, and Android tablets were coming up fast. But Microsoft had zero presence in tablets, and was struggling in smartphones.
+
+So it had nothing to protect — and every reason to try something new.
+
+That's why Microsoft was the first company to push this hybrid model.
+
+The Surface Pro was partly a tablet, because people demand touchscreens. But it had an optional-but-not-really $129 keyboard, because people need keyboards. And a full, backward compatible version of Windows, because, for better or for worse, enterprises run on Microsoft Office and any number of other Windows apps.
+
+(Microsoft also has a slightly different device, just called the Surface — no "Pro" — which looked basically the same but did not run old-fashioned Windows apps. It flopped, causing Microsoft to take a nearly $1 billion write-down, and Microsoft changed directions — the latest version, the Surface 3, runs Windows 10.)
+
+Even the stylus is a crucial part here. It combines the responsiveness of using a finger with the preciseness of a mouse. As we expect to do more complicated, more intricate things with our tablets, the stylus is having its long-overdue moment in the sun.
+
+The app question
+
+Windows is the Surface Pro's strength.
+
+But if Apple and Google have their way, it'll end up being its weakness.
+
+Microsoft has struggled to get its Windows Store off the ground. Because Microsoft currently holds a meager 3% stake in the smartphone market, the crucial developers it needs to build the software that would set the platform apart have taken their talents to Apple and Google's more lucrative app stores. And all the legacy Windows apps that the Surface runs so well aren't really meant for touch screens — and would run just as well on any other kind of Windows PC.
+
+The Windows Store was supposed to be the place where you can get apps that work in exactly the same way on a tablet as on a desktop. Those apps were supposed to bridge the gap between old-school Windows computing and the new, instantly installing, always-on "apps" that people got used to on smartphones and iPads and Android tablets.
+
+But as much as Microsoft is tripping over itself to make sure that its Office suite is fully updated for a modern era, not many others are following suit.
+
+Meanwhile, Apple has the full attention of app developers, and it knows it.
+
+Right now, the iPad can't offer the whole range of work-ready apps and tools that Windows can. But it has a key edge going forward: There are plenty of developers with iPad apps, and Apple can try to coerce them into building for the iPad Pro.
+
+The new iOS 9 already lays out the red carpet for developers here: By supporting split-view windows, it makes using the iPad Pro a little bit more like using a traditional desktop operating systems.
+
+Even Microsoft itself is developing Office apps that are designed to take full advantage of the iPad Pro. It's a great reflection on Microsoft's commitment to making Office-powered productivity the center of the company, but it also gives one less reason for anyone to buy a Surface over an iPad Pro.
+
+Google is much slower on the uptake here: The Pixel C is more like a science project than a serious contender, and has neither a stylus nor a multiwindow view. It's just a pretty Android tablet with a weird-shaped keyboard.
+
+But the market forces are the same: Google can use the existing Android ecosystem to push forward the notion of tablet-based productivity. In that light, it's not much of a surprise that Google opted to use Android instead of the Chrome OS for its new laptop-thing.
+
+Plus, Google has what Apple doesn't — a suite of work products called Google for Work (formerly Google Apps, Drive, and other separate products) that can compete with Microsoft Office.
+
+Eating their lunch
+
+In the short term, Apple and Google have their work cut out for them.
+
+Where Apple and Android are going to have to convince developers and customers alike that their tablets can be a serious productivity platform, the Surface line has the advantage of Windows' 30-year history and Microsoft's reputation in the workplace.
+
+But Apple and Google are simply attracting more developers, faster. Eventually they'll catch up.
+
+The world is changing, and so is the way we use our computers. Apple, Microsoft, and Google are just trying to stay ahead of the curve.
+
+NOW WATCH: This is Microsoft's ambitious plan to own virtual reality

@@ -1,0 +1,59 @@
+It didn’t add up.
+
+The Volkswagens were spewing harmful exhaust when testers drove them on the road. In the lab, they were fine.
+
+Discrepancies in the European tests on the diesel models of the VW Passat, the VW Jetta and the BMW X5 last year gave Peter Mock an idea.
+
+Mock, European managing director of a little-known clean-air group, suggested replicating the tests in the U.S. The U.S. has higher emissions standards than the rest of the world and a history of enforcing them, so Mock and his American counterpart, John German, were sure the U.S. versions of the vehicles would pass the emissions tests, German said. That way, they reasoned, they could show Europeans it was possible for diesel cars to run clean.
+
+John German and Peter Mock Source: ICCT via Bloomberg
+
+“We had no cause for suspicion,” German, U.S. co-lead of the International Council on Clean Transportation, said in an interview. “We thought the vehicles would be clean.”
+
+So began a series of events that resulted in Volkswagen AG admitting that it built “defeat device” software into a half-million of its diesel cars from 2009 to 2015 that automatically cheated on U.S. air-pollution tests. The world’s second-biggest carmaker now faces billions in fines, possible jail time for its executives and the undoing of its U.S. expansion plans.
+
+“I personally am deeply sorry that we have broken the trust of our customers and the public,” Volkswagen Chief Executive Officer Martin Winterkorn said in a statement on Sunday. “We will do everything necessary in order to reverse the damage this has caused.”
+
+Gaming Emissions
+
+The Wolfsburg, Germany-based company said it is cooperating with regulatory investigations and ordered its own external probe.
+
+German and his group were actually trying to prove exactly what Volkswagen has been claiming for years: that diesel is clean. They asked West Virginia University for help. The school’s Center for Alternative Fuels, Engines and Emissions had the right equipment -- a portable emission measurement system to stick in the car trunk, attached to a probe to shove up the exhaust pipe. German’s group, funded mostly by foundations, didn’t.
+
+Testers drove the monitor-equipped diesels from San Diego to Seattle because if Volkswagen had gamed the emission test, they couldn’t be sure how, German said. In another cheating case years ago, he said, long-haul trucks were equipped with devices that allowed the engines to gradually discharge more and more harmful nitrogen oxides the longer the vehicle cruised at the same speed. The more emissions, generally speaking, the greater the engine power. The 1,300-mile trip under varying conditions would expose any such scheme in the VWs, German said.
+
+Meanwhile, the California Air Resources Board tested the vehicles in their laboratories and they passed.
+
+Open Road
+
+Then German received the results of the real-world tests.
+
+“We were astounded when we saw the numbers,” he said.
+
+On the open road, the Jetta exceeded the U.S. nitrogen oxide emissions standard by 15 to 35 times. The Passat was 5 to 20 times the standard.
+
+“It was shocking,” German said.
+
+The BMW X5 passed the road test.
+
+The California watchdog and the U.S. Environment Protection Agency opened an investigation into Volkswagen in May 2014, according to letters published Friday. Talks between the parties went on for several months, with VW trying to replicate the West Virginia University results. The company said it had identified the reasons for the higher emissions and proposed a fix. That resulted in a recall of nearly 500,000 U.S. vehicles in December to implement a software patch.
+
+The California agency continued to test VW cars after the recall began. It was concerned that real-world road tests couldn’t confirm that the software patch was working. Sure enough, nitrogen oxide emissions were still in violation of California and U.S. laws. The agency shared those findings with Volkswagen and the EPA on July 8.
+
+Certify Sales
+
+At the same time, regulators were considering whether to certify VW’s 2016 models for sale -- a routine process for most automakers. Regulators said they wouldn’t approve the cars unless the company resolved the questions about real-world tailpipe pollution. VW engineers continued to suggest technical reasons for the test results. None of the explanations satisfied regulators, who indicated the models wouldn’t be certified.
+
+“Only then did VW admit it had designed and installed a defeat device in these vehicles in the form of a sophisticated software algorithm that detected when a vehicle was undergoing emissions testing,” the EPA said in its letter to VW Friday.
+
+The VW investigation covers seven years’ production of diesel cars, including the VW Jetta, Golf, Beetle and Passat and the Audi A3.
+
+China, Europe Questions
+
+“We have no idea if this is also going on in China and Europe but we definitely think the question should be asked, especially since the agencies in those places don’t have the expertise and the legal authority that they have here in the U.S.,” German said.
+
+Volkswagen has struggled to gain a foothold in the U.S., the world’s second-biggest car market, with a strategy built in part on touting the efficiency of fun-to-drive “clean diesel.” Now those vehicles have been shown to be anything but.
+
+Diesel versions of the Beetle, Golf, Jetta and Passat comprise more than a quarter of the brand’s sales in the U.S. and are a vital part of the company’s strategy for meeting tougher U.S. fuel-economy standards going into effect in coming years. More than other carmakers, VW has chosen to focus on diesel technology instead of electrics or hybrids.
+
+Volkswagen is debuting a refresh of its Passat sedan Monday night in Brooklyn, New York. Herbert Diess, VW’s brand chief, Michael Horn, who runs the brand in the U.S., and musician Lenny Kravitz are scheduled to attend.

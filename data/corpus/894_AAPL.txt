@@ -1,0 +1,55 @@
+On Wednesday night, Satya Nadella used an iPhone on stage to demonstrate all the new apps Microsoft is creating under his leadership.
+
+He was giving a keynote speech at Dreamforce, the massive customer conference conference put on by Salesforce, a company Microsoft used to consider a bitter rival, but now considers a close partner.
+
+As he broke out the iPhone for the demonstration, he joked, "This isn't my phone."
+
+(He would also later use a Windows phone in his presentation that he was happy to claim as his own.)
+
+Still, he was proud of the iPhone, jokingly dubbing it the "iPhone Pro" because it was loaded with Microsoft apps.
+
+Of course, that was also a joke referencing Apple's new iPad Pro that many argue copies both the functionality of Microsoft's PC/tablet hybrid, Surface Pro, and its name.
+
+Nadella's iPhone looked like this:
+
+Every one of these is a Microsoft application. You probably recognize most of these apps, like Skype, Word, PowerPoint Excel. Some might be less familiar.
+
+For instance ...
+
+Sway is Microsoft's version of Prezi, for building online presentations.
+
+PowerBI lets you ask questions about your company, and it will dig through your documents and other sources to find answers.
+
+Sunrise is the calendar app that Microsoft bought in February.
+
+Delve is a new app for Office 365/Outlook users that helps you find the files and messages you need to see.
+
+Office 365 Video lets you find your corporate videos stored on your corporate network.
+
+Microsoft Work Folders is an app that lets you sync work files across Windows and iOS devices.
+
+Office Lens makes pictures of whiteboards and docs readable and saves them to OneNote.
+
+Dynamix AX is Microsoft's business financial apps, known in the industry as "enterprise resource planning." (Not to be confused with the main Microsoft Dynamics product for sales people, the one that competes with Salesforce.)
+
+Authenticator generates security codes you can use to help keep your Microsoft account secure.
+
+Comp Portal is short for Intunes Company Portal, which gives employees access to an enterprise app store if the company offers one through Microsoft.
+
+"Managed ..." is short for Microsoft Intune Managed Browser, a corporate web browser that can be configured by your IT department for security.
+
+RMS Sharing allows you to add security to individual files and share them safely with others.
+
+MyApps is a password manager of sorts, that works with your company's, if your company is using a Microsoft cloud service to handle employee passwords.
+
+"Microsoft ..." is Microsoft Health, Microsft's alternative to iPhone Health, where you can store data from your fitness and medical devices and apps.
+
+Groove is Microsoft's new music app, which streams music and stores your songs in Microsoft's cloud.
+
+Snap Attack is a word game.
+
+Smartglass turns your iPhone into a second screen for your Xbox.
+
+Microsoft has a bunch more apps in Apple's App store as well.
+
+NOW WATCH: More trouble for Subway's Jared Fogle...

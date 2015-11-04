@@ -1,0 +1,25 @@
+By Joseph Ax
+
+(Reuters) - A Russian national was sentenced on Tuesday to 4-1/2 years in U.S. prison for using sophisticated malware known as "Citadel" to steal banking information from thousands of computers, authorities said.
+
+Dimitry Belorossov, 22, of St. Petersburg, had pleaded guilty in July 2014 to one count of conspiring to commit computer fraud for his role in a $500 million global cyber crime scheme that infected more than 11 million computers worldwide.
+
+U.S. District Judge Thomas Thrash in Atlanta imposed the sentence, which also requires Belorossov to pay more than $320,000 in restitution.
+
+Belorossov's lawyer, Arkady Bukh, said his client was only a teenager at the time of his crime but had taken responsibility‎ for his actions by pleading guilty.
+
+Belorossov could be released in a little more than a year after getting credit for the time he has already spent in custody, Bukh said in an email.
+
+"It was a long battle," Bukh added.
+
+Citadel, which first appeared in 2011, was designed to capture banking and credit card information from computers and had the ability to block antivirus software.
+
+Criminals installed the malware through malicious attachments contained in spam emails and other means. Belorossov, who used the online alias "Rainerfox," downloaded one version of Citadel in 2012 and eventually gained access to more than 7,000 computer systems, U.S. authorities said.
+
+Microsoft Corp (MSFT.O) and the Federal Bureau of Investigation, working with authorities in dozens of countries, launched an assault in 2013 on the malicious computer networks that were used by the Citadel gang. The company said the attack had freed as many as five million personal computers from the malware.
+
+The global crime ring was believed to have stolen more than $500 million from dozens of financial institutions, including American Express Co (AXP.N), Bank of America Corp (BAC.N), Citigroup Inc (C.N), Credit Suisse AG (MLPN.P), PayPal Holdings Inc (PYPL.O), HSBC Holdings PLC (HSBA.L), JPMorgan Chase & Co (JPM.N), Royal Bank of Canada (RY.TO) and Wells Fargo & Co (WFC.N), Microsoft said in 2013.
+
+Belorossov was extradited from Spain in 2014.
+
+(Editing by Richard Chang)

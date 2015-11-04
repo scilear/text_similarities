@@ -1,0 +1,41 @@
+By Troy Wolverton / October 9, 2015 at 10:52 AM
+
+By this time next year, you’ll be able to use Apple Pay — and presumably other mobile payment systems — in a lot more places.
+
+Restaurant chains Starbucks, KFC and Chili’s are all planning on allowing customers to pay for their orders with Apple Pay over the next year, Bloomberg reported Friday.
+
+Starbucks will start rolling out the payment service to a select number of stores by the end of the year and plans to make it available in 7,500 of its company-owned stores next year. KFC and Chili’s, meanwhile, plan to start accepting mobile payments next spring.
+
+Apple Pay and other similar services like Google’s Android Pay allow users to make card-based payments by tapping their phones on a payment terminal. Payment information is transferred from the phone to the payment terminal through a so-called near-field communications antenna. Such payment services are more secure than traditional card-based transactions, because they don’t transfer users’ actual account numbers, instead transmitting one-time use codes.
+
+The iPhone maker debuted Apple Pay last year with its iPhone 6 and 6s devices. Google launched its rival service last month. Retailers that can accept Apple Pay can also accept Android Pay.
+
+Despite widespread publicity about the services and their security benefits, mobile payments have been slow to take off. Only phones designed in the last few years have the NFC antennas needed to make mobile payments. More critically, only about one in 10 retailers are set up to accept them. As a result, only around 1 percent of all U.S. retail transactions were made using Apple Pay since it launched, according to a recent report.
+
+But that situation is likely to change soon. Thanks to a recent change in liability rules that favor new payment technologies, many retailers are in the process of replacing their payment terminals with ones that can accept mobile payments. And a growing number of phones have been sold that can make such payments.
+
+File photo: Eddy Cue, Apple Senior Vice President of Internet Software and Services, demonstrates Apple Pay mobile payment system at a Whole Foods store in Cupertino, California (AP Photo/Eric Risberg, File).
+
+Share this: Email
+
+Twitter
+
+Facebook
+
+LinkedIn
+
+Reddit
+
+Google
+
+More
+
+Pinterest
+
+Tumblr
+
+
+
+
+
+Tags: android pay, Apple, Apple Pay, chip cards, Google, mobile payments, nfc

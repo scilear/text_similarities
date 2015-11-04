@@ -1,0 +1,25 @@
+A Structural Analysis of PKW and VLUE: Two Smart Beta Funds, Two Approaches to Investing
+
+(Continued from Prior Part)
+
+Different approach
+
+The PowerShares BuyBack Achievers Portfolio (PKW), a smart beta fund, invests 90% of its assets in the components of the NASDAQ US BuyBack Achiever Index. The index is made up of buyback achievers who have issued share buybacks in the trailing 12 months, and who have been successful in buying back more than 5% of its total outstanding shares.
+
+PKW’s primary objective is to beat the market by achieving extra returns from a company’s earnings per share when there is a net reduction in the total outstanding shares in a company.
+
+PKW and SPY in a downward trend
+
+The above graph compares PKW’s performance with the S&P 500 (SPY) for the current year. Apparently, PKW fared better during rising markets in 1Q15 and 2Q15. In the later period, after leading an initial downfall, PKW performed well again, catching up with market performance. Hence, the fund’s “buyback achiever” strategy proved smart, capturing the upside potential of the market while reducing the downside risk, which is the primary aim of a smart beta fund.
+
+PKW’s performance
+
+PKW top holdings include The Home Depot (HD), Apple (AAPL), Express Scripts Holding Company (ESRX), Time Warner (TWX), and General Dynamics Corporation (GD). Its top ten holdings make up about 35.41% of the total portfolio.
+
+PKW currently manages net assets of $2.41 billion. The fund was launched on December 20, 2006. Since its inception, the fund has given a total return of 9.89% to its investors.
+
+Read the next part of this series for a detailed holdings performance breakdown of PKW.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

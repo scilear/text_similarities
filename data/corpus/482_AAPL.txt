@@ -1,0 +1,23 @@
+When Apple (NASDAQ:AAPL) revealed the new Apple TV earlier this month, streaming-media enthusiasts weren't the only ones rejoicing. The day after Apple's announcement, the folks at graphics-chip specialist NVIDIA Corporation (NASDAQ:NVDA) penned an interesting blog post titled "Welcome to the Game, Apple TV."
+
+With the help of a slick new trackpad-enabled remote, App Store integration, and upgraded internal hardware, Apple placed a surprising amount of emphasis not just on Apple TV as a streaming media device, but also on its promise as a viable gaming platform -- an area NVIDIA obviously holds near and dear.
+
+But make no mistake: Unlike the typical inclusion of NVIDIA's graphics chips in high-end Macbooks, NVIDIA's logo is nowhere to be found inside the new Apple TV. Rather, Apple TV leaves the heavy lifting to one of its own powerful dual core 64-bit A8 processors. In fact, Apple TV arguably represents the most worthy competitor yet to NVIDIA's SHIELD Android TV box, which is driven by one of NVIDIA's powerful new quad core Tegra X1 superchips.
+
+Sweet affirmation
+
+But given the absence of its processors inside Apple TV, why is NVIDIA happy about Apple's entrance into its niche? According to NVIDIA's blog post:
+
+There's no dearth of inexpensive streaming options out there. But what if, like us, you not only prefer high-end solutions, but you also recognize the ever-changing nature of technology and want to future-proof your set-top box setup? Until now, NVIDIA SHIELD was the only game in town. Yesterday however, Apple embraced what we've been saying all along: People want more than the run-of-the-mill options that are currently on the market.
+
+More than anything, then, NVIDIA views Apple TV's upgrades as a massive vote of confidence in its long-held vision for consumers to adopt more versatile set-top platforms for streaming media and gaming.
+
+At the same time, NVIDIA recognizes users who are "deeply invested" in Apple's ecosystem might be tempted to buy Apple TV over NVIDIA SHIELD. But it's also worth noting while SHIELD is an Android-centric platform, it supports streaming from iOS devices as well. In addition, SHIELD isn't constrained to "just" mobile-centric app store gaming titles; it also includes keyboard and mouse support, comes with a console-style controller, and -- through NVIDIA's proprietary GameStream technology -- supports hundreds of AAA PC and console-grade games like Metal Gear Solid, Grand Theft Auto V, and Mad Max.
+
+To be fair, while Apple TV may not include a true gaming controller, its new trackpad remote is included standard even with the entry level $149 version. By contrast, SHIELD's remote is billed as an optional $49 accessory, which seems a likely byproduct of NVIDIA's appeal to hard core gamers. But both remotes are otherwise comparable, as they each communicate with their parent consoles with Bluetooth (so don't need to have line of sight), and utilize powerful voice search through Apple's Siri and Google's standard "OK Google" functionality, respectively.
+
+The end game
+
+But whether SHIELD ultimately triumphs in terms of market share might prove irrelevant when Apple TV launches next month. Apple is arguably unrivaled given its powerful brand and tens of millions of loyal iOS ecosystem users, so I won't be the least bit surprised if Apple TV quickly leapfrogs ahead of SHIELD despite its obvious merits.
+
+More important for NVIDIA at this point, however, is the mere fact that Cupertino has recognized the future of TV is exactly what NVIDIA has argued for years. As consumers grow to accept this vision and transition to higher-end streaming platforms over, NVIDIA should benefit regardless of whether it leads the way in the process.

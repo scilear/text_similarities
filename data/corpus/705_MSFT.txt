@@ -1,0 +1,25 @@
+Microsoft (NASDAQ:MSFT) long ago realized where its smartphone strengths lie, and it's decidedly not in developed markets. This isn't an entirely bad thing, as emerging markets are expected to drive growth in the broader smartphone market in the years to come, according to Gartner.
+
+And as Microsoft continues its transition to a "Windows-as-a-Service" revenue model, it just needs to get its platform into as many hands as possible. Earlier this year, Microsoft launched the Lumia 430, the lowest-cost Windows Phone to date, which very clearly targets emerging markets. Tellingly, India was one of the first countries to receive the approximately $80 device.
+
+Alphabet (NASDAQ:GOOG)(NASDAQ:GOOGL) launched its Android One initiative last year, which also specifically targets emerging markets with low price points. But Microsoft has an ace up its sleeve, and it's called Windows 10 Continuum.
+
+Continuum's potential: mobile-plus
+
+In emerging markets, a smartphone is oftentimes a user's only computing device due to a small discretionary budget. Given a choice between an affordable mobile device that can access the Internet compared to a more expensive tablet or PC, there is no choice.
+
+But with devices that support Continuum (more on this later), a user can plug a Windows 10 Mobile phone into a desktop setup with a keyboard, mouse, and monitor, and effectively dock their phones to create a desktop-esque experience. That's potentially a very powerful value proposition: a true all-in-one mobile device.
+
+In an interview with The Verge after the recent hardware event, CEO Satya Nadella made this point very clear:
+
+Think about in emerging markets, where I grew up. This is the phone I would want. If this is the only computing device, to your point, that in many countries where it's a mobile-only country they talk about? But I don't want to be just mobile-only. I want to be mobile-plus. And this is a mobile-plus device, it will really help us expand even what is considered today to be mobile.
+
+The new Lumia 950 and 950XL are Microsoft's new flagship devices and both support Continuum.
+
+Continuum's limitations: hardware requirements and price
+
+As flagship devices, the Lumia 950 and 950XL aren't exactly affordable to emerging market consumers. The Lumia 950 costs $550. Microsoft also announced Display Dock, a small hub of connectors that will facilitate Continuum, which costs $99. That could very well be more than the cost of the Lumia itself that an emerging market customer buys.
+
+Continuum also relies on new hardware that isn't currently found in Lumias. Specifically, a Qualcomm Snapdragon 808 or 810 processor is necessary to drive multiple displays, so Continuum won't work on existing Windows Phones, even if those phones are eligible to upgrade to Windows 10. You'll need to upgrade your phone.
+
+For now, Continuum may not be able to realize its full potential in penetrating emerging markets, due to these considerations. But that shouldn't discount its long-term potential, as Microsoft will work hard to bring Continuum to lower-cost devices over time.

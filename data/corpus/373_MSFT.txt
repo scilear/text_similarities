@@ -1,0 +1,47 @@
+It's not a big surprise given recent leaks, but Microsoft officials are confirming that the Office 2016 for Windows rollout will begin on September 22.
+
+September 22 is the date when the next version of Office for Windows desktops will be generally available. Office 365 Personal and Home users will be able to start manually installing Office 2016 apps for Windows on September 22 from Office.com. Microsoft will begin pushing out the new Office 2016 apps via automatic updates in October 2015. Those with volume-licensing contracts will be able to download Office 2016 starting October 1 from the Volume Licensing Center.
+
+Office 2016 for Windows desktops is the full-featured set of Office apps and the successor to Office 2013. Microsoft released an IT/pro preview of Office 2016 for Windows in March and a public preview in May 2015. The new Office suite runs on Windows 7, 8 and 10 PCs, laptops and tablets.
+
+As part of the rollout, Microsoft is making some changes to the Office update model.
+
+Those with Office 365 ProPlus subscriptions will be able to continue getting monthly feature and security updates. Taking a page from the Windows 10 playbook, Microsoft is calling this monthly updated release the "Current Branch." The next Current Branch release will be September 22 and will include all the new Office 2016 app updates, according to a September 10 blog post explaining Microsoft's rollout plans.
+
+There also will be a new Office 365 Pro Plus Current Branch for Business updating option. This is for business customers and IT pros who may prefer to wait a few months before rolling out new versions or updates to Office for testing purposes.
+
+Similar to Microsoft's new Current Branch for Business updating path for Windows, the Office Current Branch for Business will provide users with "three cumulative feature updates per year," plus monthly security updates, officials said. That means the next Current Branch for Business build of Office 2016 -- which will include the same feature set as the September 22 release, plus four additional months of security updates -- will be out in February 2016, according to today's blog post.
+
+There are relatively few new features in Office 2016 for Windows. Data loss prevention comes to the Office apps with this release. There also are additional document coauthoring capabilities, new "Tell Me" navigation support, integration with Power BI, and more lockdown/rights management capabilities in the new version of Office for Windows.
+
+Microsoft made the Mac version of Office 2016 available to Office 365 subscribers in July. Later this month, Microsoft plans to offer Office 2016 for Mac available to those who prefer to buy a single copy outright.
+
+Update: A few more reader questions and answers about Office 2016 for Windows' coming rollout (delivered via a Microsoft spokesperson):
+
+Q: WillOffice 365 Business Premium -- and not just Office 365 users with ProPlus -- automatically get these updates and be serviced via branches?
+
+A: Yes, Business customers will also receive the 2016 apps and will default to the Current Branch. Business Premium customers can choose to move to the Current Branch for Business if they choose to at any time, once available.
+
+Q: Is there going to be an equivalent toWindows 10's Long Term Servicing branch for O365 users who don't ever want to see new features between Office releases?
+
+A: We recommend using the Office 2016 Volume Licensing (MSI) version for customers who want to have Office installed on specialty systems that do not require feature update but can continue to get security update and bug fixes.
+
+Q: If you are an O365 Pro Plus subscriber right now, are you already getting three buckets of updates to the Office apps annually?
+
+A: Current Office 365 ProPlus customers are on the Current Branch today. We will, however, move all ProPlus customers to the thrice-yearly update schedule by moving them to the Current Branch for Business. Customers can choose to remain on the current branch. All updates are delivered via the Office CDN or deployed via the organization's administrator (not Windows Update).
+
+Q: If you are on Current Branch Office 365, are the thrice-yearly updates forced/mandatory -- the way Current Branch updates are on Windows 10?
+
+A: Current Branch can contain feature, security and non-security fixes on a monthly basis. Customers have a choice to stay on a build as long as they choose to but we recommend they update to the latest version in order to take advantage of any new feature and security fixes.
+
+Q: Can those running Office 2016 for Windows preview upgrade directly to RTM version?
+
+A: It depends on how a customer has accessed the Office 2016 Preview.
+
+Commercial Office 365 customers who have accessed the Office 2016 Preview through the First Release program will continue to get the latest updates across their Office 365 workloads, including Office client. If they would like to revert to the production release of Office 2016 when it becomes available, they can uninstall the Office 2016 Preview from programs and features and download the production version of Office 2016 from their My Software page.
+
+Office 2016 Preview for IT Pros and Developers will continue to get the latest updates across their Office 365 workloads, including Office client. If they would like to revert to the production release of Office 2016 when it becomes available, they can uninstall the Office 2016 Preview from programs and features and download the production version of Office 2016 from their My Software page.
+
+Office 365 Consumer Subscribers: If a customer joined the Office 2016 Preview through their Office 365 My Accounts page, they can simply uninstall the Office 2016 Preview from Windows Programs and Features and install the production release of Office 2016 from their My Accounts page. Office 2016 Preview (no Office 365 subscription):
+
+The Office 2016 Preview will expire at Fall 2015 and will enter a reduced functionality mode. Customers will have the option to convert to a paid Office 365 subscription or they may choose uninstall the Office 2016 Preview from Windows and re-install any licensed version of Office that they have.

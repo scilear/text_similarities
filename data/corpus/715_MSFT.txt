@@ -1,0 +1,57 @@
+©Josh Edelson/AFP/Getty Images
+
+Towards the end of August, Wileyfox, a UK start-up, unleashed two respectable but unexceptional handsets into the low-budget end of the market. Despite broadly good reviews, I suspect Wileyfox will fail to get any meaningful market share and eventually fold. Let’s face it, if Microsoft can’t build market share for Windows Phone, a tiny start-up with just two handsets is probably staring into the abyss.
+
+However, what’s interesting about Wileyfox, apart from the sheer brass neck of launching into a crowded market, is its choice of operating system.
+
+Both Wileyfox devices run Cyanogen, which is derived from a variant of Android, Google’s open source mobile OS. Wileyfox is betting that this will attract people who like the flexibility of Android but who dislike how deeply integrated Google’s data-collecting, ad-serving services are into its version of Android.
+
+Cyanogen looks and behaves in much the same way as Android on devices running the Google-led OS version, but with one key difference: the user has much more control over what’s installed, how the interface looks and the permissions that apps are given.
+
+The key selling point for Cyanogen is that it is Android without Google — the bundled browser uses Microsoft’s Bing as its search provider and Google’s services, such as email, search, cloud and documents, are not enabled by default, although they are available if you want to use them.
+
+It’s a good attempt to break away from the confines of the big providers’ walled gardens. At first glance, walled gardens are no bad thing. Apple users enjoy the way all their bits of kit work seamlessly together, for example. But once inside an ecosystem, it is easier to stay there, even if the devices available no longer suit your needs. Apple’s strategy to keep you in its embrace is hardware: only Apple devices run Apple software (with the exception of iTunes) and while you can integrate Apple kit with a Windows environment, it’s a tiresome bodge that doesn’t work well.
+
+©Hugh Threlfall
+
+Google also aims to provide a seamless experience, with its cloud-based services including email, calendars and shared documents working well together. Those are of course baked into, and arguably best implemented, in its version of Android on its Nexus smartphones, tablets and digital media players, but any manufacturer can put Android on its devices.
+
+I think most of us make our peace with an ecosystem as consumers or as business users, accepting compromises such as allowing Google access to your activities so that it can serve you “relevant” advertisements in return for its free email and document services, or deciding that the seamless compatibility between Apple devices makes their premium price worthwhile.
+
+However, the moment you want to make choices, those walled gardens can become a prison.
+
+Earlier this year, I started looking at ways to get content from a wider range of providers on to my television. I rejected the Apple TV right away as it only plays nicely with other Apple kit: my kit at home is mostly Windows, plus a handful of Android devices. I liked the look of the Fire TV Stick, Amazon’s streaming media player, but that was no good because there is no way to access the Google Play store. The Nexus Player, Google’s digital media console, does not have Amazon’s film and TV streaming service Prime Video, or, strangely, the BBC iPlayer. And nor do any of those devices have a browser — you have to use the approved apps, so you can’t, for example, get around the lack of an iPlayer app by going to the website.
+
+Most of us accept as a compromise Google’s access to our activities for its free email services
+
+I eventually ended up putting a compact PC under the TV because it freed me from the annoyance of being limited only to the apps and services the platform owners allowed in to their walled gardens.
+
+This decision was driven by the fact that the Windows platform sidesteps licensing issues such as Amazon not being able to offer Fire Stick users access to Google Play or iTunes: if a content provider I want to use has a website, then it’s available on Windows.
+
+What’s important here is that as a consumer, I don’t actually care how the underlying technology and commercial deals work. I simply want a good, comprehensive experience and this is where technology providers could serve users better. A good example of this is using a mobile phone for payments. Apple Pay and Android Pay, Google’s mobile payments offering, are both available in the US and Apple Pay arrived in the UK in July. As Google and Apple dominate the mobile space, this means that most people in key markets will be able to make small touch-and-go payments with their phones, as well as manage payments with other businesses via apps. For nerds, the way the two giants have implemented that technology is interesting. But consumers do not care: they just want it to work.
+
+As a consumer, I do not care how the technology works. I simply want a good comprehensive experience
+
+Microsoft has been taking the “make it work regardless of the platform” approach since Satya Nadella took over as chief executive in 2014. This strategy had a seminal moment at Apple’s iPad Pro launch in September, when the assembled faithful gasped to see Kirk Koenigsbauer, a Microsoft executive, come on stage to demonstrate the version of Office created for Apple’s latest device.
+
+Office is available for pretty much every platform, which means users can choose the hardware that works best for them, whether it’s an iPad Pro, an Android phone or a MacBook. Is that the right strategy for every tech provider? Clearly not: Apple is not going to license its operating systems to other manufacturers any time soon. But for users it is nice to have a choice.
+
+Short cuts: apps to smooth your progress
+
+Dreamify
+
+iOS, Android, free, http://dreamify.io
+
+Running your pictures through Google’s Deep Dream algorithm via the Dreamscope website produces some gloriously trippy, surreal images. There are a number of mobile apps that do the same thing; Dreamify is just one. And it is disappointing. You have to sign in; its authentication process is flaky and the interface is confusing. On Android, you have to watch adverts to gain credits that allow you to process images. However, if you can put up with all that on the app, it does create wonderful images. I will never look at my cat in the same away again.
+
+Alexi Books
+
+iPhone, free, www.alexibooks.com
+
+This is a lovely idea: well-known authors offer shortlists of books they recommend; you can follow them and build a list of your favourites. However, it is still in beta, so it’s actually rather sparse. There is a small handful of authors including Sebastian Faulks and Sarah Hall, but their book choices only have the official blurb rather than writers’ personal comment. There is no link (yet) to a store to buy the recommended books, nor any way to add your own comments or create your own collection to share. Worth keeping an eye on, but it needs work.
+
+Journeys & Notes
+
+Android, free, www.journeysandnotes.com
+
+An oddly whimsical app from the Microsoft Garage project lab. The aim is to make even the most mundane of trips social. Create your journey, whether on the bus to work or on a global rail trip, tell the app what your mode of transport is and then add your thoughts about it, for example on the view from the train window or a handy tip. It looks lovely, but it is sorely lacking in users and you cannot see notes on any journeys until you have created a trip yourself, so it is not much use for planning. Another irritation is that you cannot interact with other users. A sweet idea, but it is a let-down.

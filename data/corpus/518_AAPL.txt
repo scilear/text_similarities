@@ -1,0 +1,23 @@
+Apple (NASDAQ:AAPL) has always been a company with a unique ability to shape the future, something the media and investing communities devote tremendous amounts of effort to understanding and analyzing.
+
+However, with Apple's famous penchant for secrecy, it's difficult to gain a concrete understanding of exactly what lies behind the product development curtain in Cupertino. Thankfully, clues certainly exist for those who know how to parse them, and a recent and little-discussed move by Apple helps give credence to one of the company's more intriguing and important potential future growth drivers. Let's take a look.
+
+Apple buys MapSense
+
+Earlier this month, Apple stealthily acquired digital mapping start-up MapSense, according to a number of sources. In discussing the move, Apple resorted to its usual sparse boilerplate, saying only that "Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans."
+
+For those unfamiliar, MapSense was founded in 2013 by a former engineer at the privately held unicorn startup, Palantir Technologies. The company has created a number of powerful mapping visualization tools that let users build and analyze location data. Apple reportedly paid somewhere in the ballpark of $25 to $30 million for the twelve-person outfit. The company recently won some attention when it opened its platform to third-party developers, which apparently generated meaningful interest from a number of large Fortune 500 companies.
+
+Despite this impressive rapid success, though, it's more likely Apple will close the platform to new customers, as Apple tends to acquire smaller companies with the explicit intention of incorporating their technologies into its own devices and services. And even if the net result is a slight improvement to Apple's mapping product, it's also important to note that this move reflects an important subplot within what could arguably be Apple's most important known growth initiative at the moment.
+
+Maps: The backbone to Apple's Project Titan
+
+Apple acquiring MapSense might not seem like a significant storyline, but it's only its most recent small-scale mapping purchase in the past several years. Among them, Apple purchased HopStop (still one my most-used apps to date) in 2013 and Coherent Technologies this spring. Keeping mapping's critical place in Apple's near-term and long-term business strategy in mind, its recent purchases make ample sense for a whole host of reasons.
+
+In the short-term, Apple's emphasis on maps strengthens its iOS ecosystem against the competing Google Android mobile operating system. Until the introduction of Apple Maps with iOS 6 in 2012, Apple licensed data and mapping technology from Google for the iPhone and iPad. This lack of internally developed mapping capabilities served as a key weak point for Apple's famously closed ecosystem. Developing its own internal capabilities, although rocky at times, Apple has helped reduce its reliance on Google, removing a potential point of leverage from arguably its most important rival.
+
+However, mapping's true value within Apple's ecosystem becomes especially apparent upon considering its critical place within the company's longer-term product roadmap.
+
+Although the Apple Watch and Apple's still-forming smart home initiatives both offer ample financial reward, Apple's Project Titan automobile efforts offer a truly massive financial opportunity. Recent coverage from The Wall Street Journal claims Apple has accelerated the timetable to launch its new automotive product to 2019. Self-driving technology that will lean heavily on Apple's budding mapping prowess is unlikely to be ready in time for the first generation the company produces. However, WSJ reporting does convey that creating an autonomous vehicle is still within Apple multi-generational product roadmap. Opinions within the automotive community vary as to whether self-driving cars will in fact require advanced maps like those being developed by Apple and Google, or whether sensors surrounding a car will prove adequate in preventing accidents.
+
+No doubt the matter will fall to government regulation. Should governments rule in favor of cars with mapping, owning an advanced mapping technology will prove a huge tactical advantage for the likes of Apple. Especially for companies with more cash than they know how to spend, this seems like a productive use that helps address business needs near and far.

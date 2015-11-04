@@ -1,0 +1,29 @@
+Microsoft (NASDAQ:MSFT) recently sent out invitations to a special hardware event in New York on Oct. 6. The company said the event will focus on first-party Windows 10 devices, but it hasn't mentioned any specific ones by name. However, many investors have speculated that Microsoft will probably unveil a new Surface, Windows Phones, and a wearable device. Let's discuss the three main questions I think Microsoft will need to answer during the show.
+
+Will the Surface Pro 4 crush the iPad Pro?
+
+It has been 15 months since Microsoft launched the Surface Pro 3. That's nearly double the eight-month gap between the second and third versions of the 2-in-1 device.
+
+Rumors suggest that Microsoft had been waiting for Intel to launch its new Skylake CPUs, which should power the Surface Pro 4. Microsoft could also add a dedicated GPU for better 3D graphics, bigger SSDs, and LTE support -- all of which could make it a more compelling choice for enterprise customers than the iPad Pro. Reports indicate that the Surface Pro 4 could offer storage capacities between 64GB and 500GB, which easily top the iPad Pro at 32GB to 128GB.
+
+As I mentioned in a previous article, the iPad Pro could have a tough time competing against the Surface Pro because of its higher price tag and weak support for legacy software and data. If Microsoft directly compares the Surface Pro 4 to the iPad Pro during its presentation, the latter could lose its luster among enterprise customers.
+
+Will we finally see Continuum for Windows 10 Mobile?
+
+Microsoft previously stated that the new Continuum feature will allow Windows 10 Mobile phones to "scale up" to a desktop mode once they're plugged into a larger display. The idea of having Windows smartphones become all-in-one devices was intriguing, since it could attack iOS and Android in mobile enterprise by blurring the lines between phones and PCs. But investors who have been waiting to hear more about Continuum on phones have been disappointed so far. During its keynote presentation at IFA 2015 in Berlin, Microsoft only demonstrated Continuum in tablet mode.
+
+Microsoft is expected to unveil three new Windows Phones next month. The Lumia 550 should be a low-end replacement for the Lumia 640, while the 5.2-inch Lumia 950 and the 5.7-inch Lumia 950 XL will be new flagship devices. The two flagship devices are expected to have 20-megapixel cameras, 3GB of RAM, 32GB of internal storage, and USB-C ports. Microsoft will probably reveal Windows 10 Mobile running on all three devices, but I hope we finally see a proper demo of these devices transforming into full Windows PCs via Continuum.
+
+What is Microsoft's wearables strategy?
+
+Microsoft's fitness tracker and smartwatch, Band, has been overshadowed by the Apple (NASDAQ:AAPL) Watch and other wearable devices. However, the Band gained some attention for being compatible with iOS, Android, and Windows Phone devices. The device sends fitness data to its companion app, Microsoft Health, and features Cortana integration for Windows Phone users.
+
+Microsoft hasn't revealed any sales figures for the device yet, but it didn't even rank among IDC's top five wearable makers in the world during the second quarter. This ranking indicates that Microsoft could be quickly losing the wearables market to iOS and Android, just as it did with smartphones and tablets.
+
+Microsoft is expected to unveil a new Band at its event alongside the Surface and Windows Phones. I am looking for Microsoft to outline its wearables strategy more clearly, since Microsoft Health has one big advantage over HealthKit on iOS and Fit on Android -- it's compatible with all three major mobile operating systems. The personal data gathered from Band and Microsoft Health can also enhance key Windows 10 features such as Cortana.
+
+The key takeaways
+
+Under CEO Satya Nadella, Microsoft has arguably become a more innovative company than Apple. Earlier this year, Engadget's Aaron Souppouris praised Microsoft's "crazy exciting" moves in holographic computing while pondering when Apple became "the boring one."
+
+Apple's lackluster launch of the iPad Pro and iPhone 6s definitely didn't answer that question, which gives Microsoft a rare chance to one-up Apple with new Windows 10 hardware. But for that to happen, Microsoft must clearly outline its plans for the Surface Pro 4, Continuum, and wearable devices.

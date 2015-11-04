@@ -1,0 +1,23 @@
+A federal court of appeals issued a ruling Thursday that gives Apple a leg up against Samsung in the companies' long-running smartphone legal competition.
+
+The court ruled in a 2-1 decision that District Judge Lucy H. Koh should have granted Apple an injunction banning Samsung from developing or selling any software using three of Apple's patented features.
+
+Those features are slide-to-unlock, which takes users to their home screen with a simple gesture; the recognition of phone numbers so users can tap a number and be brought to the dialer or address book; and spelling recommendations.
+
+Apple previously won a $119 million verdict for Samsung's infringement of the same patents.
+
+But Koh denied Apple's request for an injunction that would've banned Samsung from selling products that used the infringing patents. She found that Apple hadn't shown that it would've suffered "irreparable harm" without the injunction.
+
+The appeals court rejected Koh's decision, however, finding Apple had satisfied the legal requirements to establish "irreparable harm." Moreover, the appeals court found that an injunction wouldn't hurt Samsung, since it could remove the infringing technology without recalling its products.
+
+"This is not a case where the public would be deprived of Samsung’s products," Judge Kimberly Moore wrote for the US Court of Appeals for the Federal Circuit. "Apple does not seek to enjoin the sale of lifesaving drugs, but to prevent Samsung from profiting from the unauthorized use of infringing features in its cellphones and tablets."
+
+Though software patents have come under criticism in the past for stifling innovation, the ruling noted that to "develop the iPhone, Apple invested billions of dollars over several years — investment that came with significant risk. Indeed, Apple executives referred to the iPhone as a 'you bet your company' product because of the uncertainty associated with launching an untested product line in a new market."
+
+The court went on to say that the patents granted to Apple protected the inventions that were developed in the course of the massive investment.
+
+The decision to enjoin Samsung will now be reconsidered in a federal district court in San Jose, Reuters reports.
+
+Thursday's ruling is only the latest in a long battle — in and out of the court system — between the two tech giants that started in 2011.
+
+NOW WATCH: The biggest mistake Apple made with the new iPhone

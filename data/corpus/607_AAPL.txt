@@ -1,0 +1,21 @@
+NEW YORK (TheStreet) -- Google (GOOGL - Get Report) (GOOG - Get Report) and Samsung (SSNLF) this week made interesting announcements related to mobile payments, but these initiatives still face some important hurdles.
+
+Google and Samsung's payment systems are designed to compete with Apple's (AAPL - Get Report) Apple Pay and are part of a larger trend of mobile payments technology. But mass adoption of such payment methods is still at the mercy of big banks and merchants, and this could prove to be the biggest limiting factor as Google, Samsung and Apple fight for market dominance. Other factors include consumer concerns about security and some technological challenges.
+
+In addition to announcing its newest smartphones Tuesday -- the Nexus 6P and Nexus 5X -- Google unveiled a new Android operating system called Marshmallow and said it includes a more streamlined app version of Google Wallet called Android Pay.
+
+Also this week, Samsung launched Samsung Pay in the U.S., and some of the initial reviews are positive, noting that this system works at retailers where Apple Pay and Android Pay don't.
+
+Must Read: Want a Diesel, but Not a VW? Here Are 9 Fuel-Efficient Diesels Not Named Volkswagen
+
+That's because Samsung Pay uses magnetic secure transmission in addition to near-field communications systems to execute digital payments. The former technology interacts with traditional credit card readers, enabling Samsung Pay to be used at any existing store system. By contrast, Apple Pay and Android Pay require businesses to install new registers that work with NFC systems, an obvious factor hindering the growth of their current offerings.
+
+Meanwhile, consumer concerns about security are also slowing down user adoption of these systems. The Federal Reserve reports that almost 60% of people still do not use mobile payments systems because they fear a security breach. The technology, however, is actually more secure than swiping your credit card. This is because of the use of digital tokenization, which substitutes unique numbers in place of sensitive ones such as your credit card number, during transactions.
+
+As stated before, however, the largest factor hindering growth likely is large financial institutions.
+
+In many cases, banks and credit card companies are still determining who can adopt these new payment platforms. Samsung has already partnered with a selection of banks for Samsung Pay. They include JPMorgan Chase (JPM - Get Report) , U.S. Bancorp (USB) and Bank of America (BAC) . It has also partnered with credit card networks MasterCard (MA) Visa (V) , Discover Financial Services (DFS) and American Express (AXP) But Samsung is still waiting on a deal with Verizon Communications (VZ) . For Android Pay, only 13 banks currently support the system, even though Google promises more banks are moving to adopt its technology.
+
+Initiatives in payments from technology companies such as Apple and Google are forcing banks to try to come up with their own competing solutions, and the large institutions may in the end still wind up in control.
+
+"Disruptive new technologies in payments, along with lending, crowdfunding and wealth management are forcing every major bank to rethink their tech strategies," said Ryan Feit, CEO and Co-founder of SeedInvest. "As a result, banks are wisely beginning to launch their own incubators and funds in order to ensure they have an early pulse on emerging financial technologies."

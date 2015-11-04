@@ -1,0 +1,33 @@
+Dell Inc. and the private-equity guys who helped take it private two years ago are looking to buy all or part of EMC. This brings back memories -- memories of when Dell and EMC were among the Four Horsemen.
+
+Dell was often mentioned in the late 1990s as one of the "Four Horsemen of Tech," along with Cisco, Intel and Microsoft. Then, in October 2000, Spencer Ante warned in BusinessWeek against being "too tied to the PC-centric past," and pronounced that the business world would henceforth be ruled by the "Four Horsemen of the New Economy":
+
+More than any other collection of companies, Oracle, Sun Microsystems, EMC and Cisco Systems represent the building blocks of Net business. Chances are, every company moving online will buy a piece of hardware or software from one of these four giants. Cisco makes the routers that do the heavy lifting -- shuttling a corporation's data to and from the Net. Sun sells the Web servers that produce millions of Web pages. EMC is the storage king that holds the sea of ones and zeroes that make up digital information. And Oracle makes the database and e-commerce software that enables companies to digitize catalogs, process transactions, and move businesses online.
+
+Both groups of horsemen had certainly had great runs up to then, even with the sharp downturn of 2000. Here's the stock market performance of the first gang from early 1990 to the end of 2000:
+
+And here's the second group:
+
+The totally ridiculous performance of Dell and Cisco in the first group and EMC and Cisco in the second makes it hard to see how the others did, but they did really well too. The worst performer of the lot was Intel, and it was still up 2,338 percent during that stretch, to 410 percent for the Standard & Poor's 500 Index. I picked the starting month of February 1990 because that's when Cisco, the youngest of the seven companies, went public. The oldest was of course Intel, which was founded in 1968 and went public in 1971.
+
+You probably already know that things didn't go so well after that. Here's the first group:
+
+The Dell line stops because it went private in 2013. In the second chart, Sun disappears after it is acquired by Oracle in 2010:
+
+Only Microsoft beat the S&P 500 in both periods, and only Microsoft, Intel and Oracle have eked out positive returns for shareholders since the end of 2000. But the interesting thing is that, with the exception of Sun, all these companies have continued to generate huge profits -- bigger profits than they were earning in the late 1990s and early 2000s. Here's the long-run profit story for Dell and EMC:
+
+The problem for both Dell and EMC is that those profits haven't been growing much in recent years. They were once companies in which investors saw limitless potential. Now they're mature, and kind of boring, which makes them targets for mergers and leveraged buyouts.
+
+This is the way of the business world, and there's really nothing surprising or disappointing about it. What's surprising is when a company breaks out of the growth-to-maturity cycle and finds a new burst of growth in a new era. In tech, IBM has done this repeatedly. Intel, Microsoft and Oracle appear to have joined this group as well.
+
+So what about the current Four Horsemen (or "gang of four") of the Internet -- Amazon, Apple, Facebook and Google? Apple predates all the companies above except Intel and Microsoft, so it has already demonstrated a lot of staying power. But one has to think one or more of that group will be merger bait a decade from now. That's just how things work.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Justin Fox at justinfox@bloomberg.net
+
+To contact the editor responsible for this story:
+
+James Greiff at jgreiff@bloomberg.net

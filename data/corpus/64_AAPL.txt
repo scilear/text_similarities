@@ -1,0 +1,31 @@
+By Andrew Chung
+
+(Reuters) - A U.S. jury on Friday ordered Apple Inc (AAPL.O) to pay the University of Wisconsin-Madison's patent licensing arm more than $234 million in damages for incorporating its microchip technology into some of the company's iPhones and iPads without permission.
+
+The amount was less than the $400 million the Wisconsin Alumni Research Foundation (WARF) was claiming in damages after the jury on Tuesday said Apple (AAPL.O) infringed its patent for improving the performance of computer processors.
+
+Apple said it would appeal the verdict, but declined to comment further.
+
+WARF praised the verdict and said it was important to protect the university's inventions from unauthorized use. "This decision is great news," said WARF Managing Director Carl Gulbrandsen in a statement.
+
+Jurors deliberated for about 3-1/2 hours before returning the verdict in the closely watched case in federal court in Madison, Wisconsin. It was the second phase of a trial that began on Oct. 5.
+
+The jury was considering whether Apple's A7, A8 and A8X processors, found in the iPhone 5s, 6 and 6 Plus, as well as several versions of the iPad, violated the patent.
+
+WARF sued Apple in January 2014 alleging infringement of its 1998 patent on a "predictor circuit," developed by computer science professor Gurindar Sohi and three of his students.
+
+Much of the dispute over damages had to do with whether a certain portion of Apple's chips that were placed in devices sold abroad, rather than in the United States, also violated the WARF patent. The jurors found that they did.
+
+Apple had sought to greatly limit its liability, arguing before jurors that WARF deserved less than even the $110 million the foundation settled with Intel Corp (INTC.O) after suing that company in 2008 over the same patent.
+
+Apple had argued that WARF's patent entitled it to as little as 7 cents per device sold, a far cry from the $2.74 that WARF was claiming.
+
+WARF uses some of the income it generates to support research at the school, doling out more than $58 million in grants last year, according to its website.
+
+On Thursday, U.S. District Judge William Conley, who is presiding over the case, ruled that Apple had not willfully infringed WARF's patent, eliminating a chance to triple the damages in the case.
+
+Last month, WARF launched a second lawsuit against Apple, targeting the company's newest chips and devices, the iPhone 6S and 6S Plus, and iPad Pro.
+
+The case is Wisconsin Alumni Research Foundation v. Apple Inc, U.S. District Court for the Western District of Wisconsin, No. 14-cv-62.
+
+(Reporting by Andrew Chung; Editing by Alexia Garamfalvi and Tom Brown)

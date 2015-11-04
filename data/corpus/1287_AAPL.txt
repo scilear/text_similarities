@@ -1,0 +1,33 @@
+The personal-computer industry is continuing a stark decline, according to two reports released Thursday, with one exception: Apple Inc.
+
+International Data Corp. and Gartner tracked declines in PC shipments of 10.8% and 7.7% year-over-year in the third quarter, the analysis firms said in separate announcements Thursday afternoon. The drop in shipments occurred despite the launch of a new Microsoft Corp. MSFT, +1.76% operating system, Windows 10, which IDC said “had a minimal impact on shipments in the quarter.”
+
+A manufacturer that does not use Windows seemed to perform better than others, however. Apple AAPL, +1.53% PC shipments increased 1.5% from the same quarter a year ago, Gartner reported, from 5.52 million to 5.6 million. With others declining, that pushed Apple’s PC market share from 6.9% last year to 7.6%.
+
+IDC said Apple shipments declined 3.4% year-over-year, from 5.51 million to 5.32 million, though that decline was still a better performance than the top two global manufacturers, Lenovo (down 4.9%) and Hewlett-Packard Inc. HPQ, +1.91% (down 5.5%). IDC and Gartner track PC shipments differently, thanks to varying treatment of devices like Chromebooks and tablet-PC hybrids.
+
+Gartner
+
+Gartner analyst Mikako Kitagawa credited Apple’s performance in China and with back-to-school shoppers in the United States, saying, “We think that Apple gained quite a bit of market share in China.”
+
+“The company has heavily invested in China in recent years, and 20 stores have been opened in just the last few years,” Kitagawa said in an email exchange. “We have seen Mac’s strong growth in China, and (the third quarter) would not be an exception.”
+
+Apple’s performance in the United States was especially strong. Gartner said Apple’s U.S. shipments increased 7.3% to 2.5 million, while IDC tracked a 1.6% improvement to 2.37 million.
+
+“Apple continued to outperform other vendors, moving to No. 3 in the United States and boosting share globally as well as domestically,” IDC noted.
+
+Apple derives the majority of its revenues from its iPhone smartphone, but sales of the company’s line of Mac desktop and laptop computers have been growing while sales of the iPad tablet have declined. In the nine-month period ending June 27, Apple reported Mac sales of $18.6 billion, up 7% from the same period in 2013-2014; meanwhile, iPad revenue declined 24% in the same time frame.
+
+IDC
+
+Lenovo, H-P and Dell were all ahead of Apple in number of global shipments in the third quarter, both firms reported. While shipments for all three were mostly reported as declines — the only exception was Gartner reporting a 0.5% increase for Dell — those companies performed far better than smaller Windows-based manufacturers. Acer declined 19% in Gartner’s tabulations and 25.9% in IDC’s, and other manufacturers below Apple on the charts experienced double-digit-percentage declines as well.
+
+While the PC industry as a whole has suffered, both tracking firms see optimism on the horizon.
+
+“The PC market continues to contract as expected, but we remain optimistic about future shipments,” IDC’s Jay Chou said Thursday. “While PC shipments will be hampered in the short run by the availability of a free upgrade to Windows 10, the improved PC experience across user segments should drive longer-term demand for new PC hardware that is expected to help stabilize the market in 2016 and beyond.”
+
+Gartner predicted a bounce-back even earlier than next year.
+
+“Soft recovery is expected to start in (the fourth quarter), as Windows 10 product refreshes start to appear,” Kitagawa said in Thursday’s announcement. Kitagawa also noted that Gartner still sees annual PC shipments declining 7.2% this year, no change from previous statements.
+
+More from MarketWatch

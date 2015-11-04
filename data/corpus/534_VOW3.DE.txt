@@ -1,0 +1,69 @@
+A top Volkswagen executive on Thursday blamed a handful of rogue software engineers for the company's emissions-test cheating scandal and told outraged lawmakers that it would take years to fix most of the nearly half million vehicles affected in the U.S.
+
+"This was a couple of software engineers who put this in for whatever reason," Michael Horn, VW's U.S. chief executive, told a House subcommittee hearing. "To my understanding, this was not a corporate decision. This was something individuals did."
+
+Horn, chief executive of Volkswagen Group of America, revealed that three VW employees had been suspended in connection with software that detects and fools emissions testing equipment in the company's diesel vehicles. The automaker said that the so-called defeat device is loaded onto as many as 11 million vehicles worldwide.
+
+Horn's testimony before the House Energy and Commerce Committee's oversight and investigations panel coincided with a raid Thursday by German investigators at Volkswagen's Wolfsburg headquarters.
+
+The exact number of engineers the company blames remained unclear. Horn said both "couple" and three, then said under questioning that he did not yet know the exact number. Regardless, the claim that such a small number of people could have pulled off such a massive fraud brought immediate skepticism from lawmakers and industry experts.
+
+VW America CEO testifies at House hearing on emissions scandal Chip Somodevilla / Getty Images “This was a couple of software engineers who put this in for whatever reason,” Michael Horn, VW’s U.S. chief executive, testified at a House subcommittee hearing on VW's emissions cheating scandal. “This was a couple of software engineers who put this in for whatever reason,” Michael Horn, VW’s U.S. chief executive, testified at a House subcommittee hearing on VW's emissions cheating scandal. (Chip Somodevilla / Getty Images)
+
+"I cannot accept VW's portrayal of this as something by a couple of rogue software engineers," said Rep. Chris Collins (R-N.Y.). "Suspending three folks — it goes way, way higher than that."
+
+Auto industry veterans agreed.
+
+"There are not rogue engineers who unilaterally decide to initiate the greatest vehicle emission fraud in history. They don't act unilaterally," said Joan Claybrook, former administrator of the National Highway Traffic Safety Administration. "They have teams that put these vehicles together. They have a review process for the design, testing and development of the vehicles."
+
+James Womack, an expert on the international auto industry, also expressed doubts.
+
+"It might not be reviewed and discussed leaving an email or voicemail trail," Womack said, "but it sure does cause you to scratch your head that we have this software that just happens to be in 11 million cars and no one in the whole company noticed it."
+
+It's unlikely that VW's senior management directed a team of software engineers to devise the cheating software, said Logan Robinson, former general counsel at auto parts supplier Delphi Corp. and a former senior attorney at Chrysler.
+
+What's more likely is that a group of engineers developed "a novel solution" and "floated it upstairs," he said.
+
+He doubts a handful of engineers "could do this under the radar … [and] have it last for years," and that there would be no knowledge of management running VW's regulatory and business wings.
+
+"These engineers would have passed it on up, looking for praise and affirmation of their German engineering skills," Robinson said.
+
+Horn apologized for the scandal and directed responsibility to Germany, saying that he learned of the emissions-rigging software only a couple of days before the company conceded its existence to regulators on Sept. 3.
+
+"I think it's dead wrong if you put corporate profits before people," Horn said.
+
+VW's board of directors has hired U.S. law firm Jones Day to conduct an investigation.
+
+The software detected when the vehicles were undergoing pollution tests and adjusted their engines to stay within U.S. limits for nitrogen oxide emissions. But when the cars were on the road, the cars spewed up to 40 times the legal amount of nitrogen oxide, regulators said.
+
+VW admitted to the cheating last month after being confronted by federal and California regulators. The company's chief executive, Martin Winterkorn, resigned a few days later in the wake of the scandal, and the company has already set aside more than $7 billion to pay fines, fix the cars and deal with hundreds of consumer lawsuits. It faces as much as $18 billion in U.S. Clean Air Act fines.
+
+Horn was the first top executive to face public questioning on the controversy. Several subcommittee members reminisced about the VW cars they had owned and expressed anger about the company's acknowledged cheating.
+
+"I'm your Volkswagen driver whose always trusted your company, and I'm very disappointed," said Rep. Morgan Griffith (R-Va.), who owns a 2012 VW Passat diesel car, among those with the illegal software code.
+
+Horn said he was optimistic that the company could fix all the vehicles so they would pass emissions test without losing performance.
+
+But more than 400,000 older vehicles could require the complicated installation of additional emissions equipment, Horn said. Diesel experts were skeptical that such fixes were practical.
+
+"The vehicles were not designed to incorporate all that stuff," said Allen Schaeffer, executive director of the Diesel Technology Forum.
+
+The expense could turn out to be more than the value of the car, he said.
+
+Horn said fixes would not start until at least next year, and it would take multiple years to make the retrofits. The problem affects models of varying year ranges between 2009 and 2015 with 2-liter diesel engines.
+
+Pressed by Jan Schakowsky (D-Ill.) Horn said Volkswagen would consider buying back the cars. Kelley Blue Book estimates the price tag for such a program would reach $7.3 billion for just the vehicles sold in the U.S.
+
+Horn also said the automaker was looking at giving owners rebates to cover the diminished value of their vehicles. Kelley Blue Book estimates that prices for used VW diesels have fallen about 13% since the scandal broke.
+
+A top Environmental Protection Agency official told the committee that the agency is investigating the emissions scandal along with the Justice Department and still doesn't know exactly how the software trick worked.
+
+"We still have many questions for Volkswagen to answer," said Christopher Grundler, director of the agency's Office of Transportation and Air Quality.
+
+But he said officials "don't need to unpack 10 million lines of code" to stop the so-called defeat devices and are focused on getting VW to fix the vehicles.
+
+The EPA wants VW to propose multiple options for fixing the problem to determine which ones work better for consumers, Grundler said. The California Air Resources Board also will have to approve any solution VW proposes.
+
+jim.puzzanghera@latimes.com
+
+jerry.hirsch@latimes.com

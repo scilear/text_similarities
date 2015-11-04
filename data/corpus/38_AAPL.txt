@@ -1,0 +1,71 @@
+This article, How to fix five known issues affecting OS X El Capitan, originally appeared on TechRepublic.com.
+
+View photo .
+
+Image: Jesus Vigo
+
+On September 30th, Apple made its latest version of OS X--El Capitan--available for download from the Mac App Store. In the week that it's been available, the adoption rate numbers have yet to come out, but the overall consensus is that this latest OS is more stable and refined than the previous OS X Yosemite was at its release.
+
+OS X 10.11 is less about whiz-bang new features and more of a maintenance release. Apple chose to fill in the gaps, so to speak, and make the necessary modifications to make this release rock-solid, resolving many of the known issues that affected some Yosemite users, such as Wi-Fi and Bluetooth.
+
+However, there are still a few issues that have come up in El Capitan. While they're not as glaring, per se, they can still be quite annoying! So, let's take a look at some known issues and how to resolve them.
+
+1. Upgrade installation error messages
+
+Symptoms: After downloading the OS X El Capitan Installer from the Mac App Store and executing to launch it, the install encounters an error and prevents it from proceeding with the installation.
+
+Causes: System files or processes currently in use by the OS are the likely culprits. Also, check the vendor's website for applications installed and verify they are 10.11 compliant. Some apps have yet to make the upgrade to supporting 10.11 and may be affected by new technologies in El Capitan, such as System Integrity Protection (SIP).
+
+Solution: A simple reboot (or shutdown) may be required when it comes to hanging system files or processes. The action will clear out any task requiring the use of those files/services. Another possibility is to power down and then power up holding the [Shift] key. This will enable Safe Mode, which loads the OS without extensions. If the upgrade proceeds, then an unsupported app is probably the cause.
+
+2. Spotlight performance trouble
+
+Symptoms: Spotlight has gained even deeper integration with OS X and web services, which helps make searches that are nimble and informative--until their not. Spotlight is supposed to report back information from dozens of sources, but when it doesn't or it's limited in scope, that's a problem.
+
+Causes: Spotlight maintains an index (database) of information that it catalogs. If the index becomes corrupt (possible, but not uncommon) or if the system is still indexing due to the upgrade (most common), then Spotlight will appear to be slow to respond.
+
+Solution: The first thing to check is what exactly Spotlight is set to index by going to the Search Results tab under System Preferences | Spotlight. Only checked boxes are used by Spotlight--all others are ignored.
+
+Once the settings have been verified, check to ensure Spotlight isn't currently indexing by clicking on the Spotlight magnifying glass in the menu bar. During this time, it's best to let the computer complete the task.
+
+If the issue still persists, the database may be corrupt and require a reindexing. To perform this, launch Terminal and enter the following commands, one at a time:
+
+mdutil -Ea
+
+mdutil -ai off
+
+mdutil -ai on
+
+The first command will effectively delete the current index, while the second the third commands turn off Spotlight and turn the service back on again. Immediately after the third command is executed, Spotlight will create a new database and begin indexing it. Please remember this process takes time (as in hours) to complete and that it's best to not interrupt it until it's done.
+
+3. Microsoft Office 2016 for Mac crashes repeatedly
+
+Symptoms: When opening Word, PowerPoint, Excel, or Outlook 2016, the app crashes and/or the system freezes.
+
+Causes: According to Microsoft, there's a bug (or series of bugs) preventing Office 2016 from launching on Apple computers running El Capitan. Regardless of whether the computer was upgraded or clean installed, the results are the same for Office 2016 users and some Outlook 2011 for Mac users.
+
+Solution: As of this writing, Microsoft has issued a statement regarding the issues experienced by users of Office 2016 for Mac. It's currently working on a solution to fix these problems.
+
+Office 2011 for Mac seems to be working well, apart from Outlook 2011, so that may be a possibility for users who are able to downgrade. Additionally, users may be able to continue working temporarily by using Google Apps or Apache Open Office, as both are free and OS X-compliant.
+
+4. "Application" is not working properly
+
+Symptoms: "Application X" was working perfectly prior to the upgrade. Post-upgrade, it does not function properly or even load at all.
+
+Causes: The causes for a particular application not loading or working correctly are nearly limitless and beyond the scope of this article. However, some of the more prevalent reasons for application failure in this case would be system file handling trouble, application compatibility, and/or OS limitation/feature changes.
+
+Solution: The best way to go about resolving an issue with a specific application not working in El Capitan is to first visit the vendor's website to verify compatibility. Many vendors have taken the time between beta and public releases to test and properly vet their apps for compatability with the latest version of OS X. Updating applications to their latest versions will typically resolve any outstanding trouble.
+
+5. Setup user account login prompt
+
+Symptoms: After the final reboot of the upgrade process, the user is brought to the logon screen with an account listed as "Setup user" and prompted for a password to authenticate. Regardless of the password entered, the password box shakes "no," and the user is not able to login.
+
+Causes: This is a mysterious occurrence that has been happening very infrequently. While no clear explanation exists as to why it affects so few or the seemingly random nature of the occurrence, it does appear to be some sort of configuration pass that does not fully complete.
+
+Solution: Reboot your Mac or, better yet, shut it down. Power on your Mac and, after going through the boot process (progress bar), it should load the login with your correct user account listed.
+
+This is not an exhaustive list of the issues affecting Apple OS X El Capitan, but it is a good collection of the more well known issues and their respective fixes.
+
+Thankfully, little has been reported regarding system-level issues affecting the usability of the latest OS. Much of it stems from incompatibility issues between outdated apps and the way in which OS X 10.11 handles systems calls and functions. However, if you're finding an excessive number of issues plaguing your El Capitan upgrade, it may be a good idea to backup your data and perform a clean install of El Capitan from scratch. This would definitely maximize your chances at achieving a stable environment by starting with a good, clean foundation for your apps.
+
+Also see

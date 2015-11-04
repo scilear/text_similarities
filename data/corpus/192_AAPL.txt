@@ -1,0 +1,85 @@
+In a case brought by two music publishers against Cox Enterprises Inc.’s Cox Communications unit, two digital-rights groups are seeking permission to file a friend-of-the-court brief arguing that a request to disconnect alleged infringers from the Internet is “wrong and detrimental to public interest.”
+
+(To be sent this column daily, click SALT IPREPORT).
+
+The arguments are being made in the 2014 case brought by BMG Rights Management (US) LLC and Round Hill Music LP, which sued Internet service provider Cox for refusing their demands to disconnect repeat infringers.
+
+The brief, filed by San Francisco’s Electronic Frontier Foundation and Public Knowledge of Washington, says “millions of Americans” depend on Internet access to perform their jobs, communicate with loved ones, educate themselves and participate in government and society.
+
+The two public-interest groups said disconnection from the Internet is such a severe punishment that it should “only be meted out in the most necessary and tightly proven of circumstances.” Access is “nearly essential” nowadays, they said in their brief.
+
+They claim that the infringement notices Santa Monica, California’s Rightscorp Inc. is sending to Cox on the music companies’ behalf don’t meet the “high burden that should be required” to deem a person a “repeat infringer.”
+
+An Internet Protocol address isn’t sufficient to identify an infringer or the actual user of the connection, they argued. Declaring a subscriber a repeat infringer “would chill the important and common practice of Internet connection sharing,” they said.
+
+The case is BMG Rights Management LLC v. Cox Enterprises Inc., 1:14-cv-01611, U.S. District Court, Eastern District of Virginia (Alexandria).
+
+Piracy Rates Fall in Australia, and Streaming Services Get Some Credit
+
+Streaming services such as the one offered by Netflix Inc. have contributed to a decline in piracy rates in Australia, the IP Awareness foundation said in a statement.
+
+The foundation, a coalition of content owners in Australia, commissioned a study of piracy rates in the country. It reported a 25 percent decline in the number of Australians 18 to 64 who acknowledged illegal downloading compared with previous years.
+
+Streaming services are now being used by 32 percent of Internet users, up from 26 percent in 2014, according to the study. The foundation said its research indicated that 33 percent of those surveyed who said they are pirating less frequently said having legal alternatives to get content is the main reason they have changed their habits.
+
+The study did indicate that 40 percent of so-called persistent pirates say they are downloading without authorization more frequently than before.
+
+Those who acknowledged illegal downloading were far more likely to be aware of new copyright legislation passed in June, the foundation said.
+
+For more copyright news, click here.
+
+Patents
+
+University of Wisconsin Seeks $400 Million From Apple in Microprocessor Patent Dispute
+
+The licensing arm of the University of Wisconsin at Madison is seeking $400 million from Apple Inc. for infringing the school’s patent on microprocessor technology.
+
+The Wisconsin Alumni Research Foundation is owed that much, its lawyer told a Madison jury after it found Apple had infringed the patent, according to a trial transcript. Apple’s lawyers argued the amount should be a fraction of the $110 million Intel Corp. paid in 2009 to settle an earlier dispute over the same patent.
+
+Patent 5,781,752, issued in 1998, relates to the design of a processor chip to improve performance. The Wisconsin foundation said Apple was using the invention in its A7 processors for the iPhone 5s and iPad. A separate suit was filed in September claiming newer models of the iPhone also use the invention.
+
+The federal jury found Oct. 13 that Apple had infringed and rejected claims that the patent was invalid. The case is now in the second phase, to determine how much Apple should pay. Closing arguments are expected to be heard Friday.
+
+The foundation argues that it’s entitled to about $2.74 for each device, which it said is based on the contribution to the value of Apple’s integrated circuits. Apple put the figure closer to the 7 cents a unit Intel paid.
+
+The Intel settlement was based on 1.5 billion processors sold, while Apple has sold 150 million, Apple’s lawyer, William Lee of Wilmer Cutler Pickering Hale & Dorr LLP, told the jury. The partial transcript doesn’t include the exact amount Apple contends is fair.
+
+Apple asked the U.S. Patent and Trademark Office to review the patent. The agency in April denied that request, saying the Cupertino, California-based company hadn’t shown it was likely to win the challenge.
+
+The case is Wisconsin Alumni Research Foundation v. Apple Inc., 3:14-cv-00062, U.S. District Court, Western District of Wisconsin (Madison).
+
+For more patent news, click here.
+
+Trademarks
+
+LG Electronics ‘GPAY’ Application in U.S. Point to Mobile Payment System
+
+LG Electronics Inc., the South Korean maker of home appliances, televisions, smartphones and tablets, filed an application with the U.S. Patent and Trademark Office to register a term that appears to be related to some sort of mobile payment system.
+
+The Seoul-based company said in its application that the term “GPAY” would be used with smartphones, other portable communication apparatuses and a class of wearable electronic devices including wristwatches, necklaces, rings and earrings.
+
+While LG’s application never uses language specifically related to financial transactions, the company did say these devices would be able to transmit, receive and store data and messages, which could include payment information.
+
+The devices to be covered by this mark would could also monitor a wearer’s physiological activity and biological data.
+
+Planet Biometrics reported Wednesday that LG had filed a similar trademark application in South Korea and that a company official said Oct. 1 that LG was planning to provide payment services.
+
+The company introduced a wearable device Oct. 1 with its own built-in cellular capacity, so it would not have to be tethered to a smartphone.
+
+For more trademark news, click here.
+
+Trade Secrets/Industrial Espionage
+
+Fortinet’s Claims Against Sophos Can Go Forward, Federal Court Rules
+
+A federal court in San Francisco refused to dismiss trade-secret allegations Fortinet Inc. brought against Sophos Inc.
+
+The companies both provide network security. Sunnyvale, California-based Fortinet sued in December 2013, alleging that Sophos infringed three patents and misappropriated trade secrets.
+
+In his ruling Oct. 14, U.S. District Judge Edward S. Chen said there was enough substance to the allegations for the case against Burlington, Massachusetts-based Sophos to go ahead. He said an expert retained by Fortinet provided enough information “that a reasonable jury could find in Fortinet’s favor.”
+
+He rejected arguments by two former Fortinet employees now working for Sophos that trade-secret allegations against them as individuals should be dismissed.
+
+The judge did throw out some damages claims against Sophos with respect to two of the disputed patents.
+
+The case is Fortinet Inc. v. Sophos Inc, 3:13-cv-05831, U.S. District Court, Northern District of California (San Francisco).

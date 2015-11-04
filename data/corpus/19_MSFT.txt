@@ -1,0 +1,19 @@
+Microsoft employs almost twice as many data scientists as Facebook, according to a new report from analytics startup RJMetrics.
+
+"Data scientist" is the tech industry term for a mathematician who does the crazy-complicated math it takes to crunch the massive amounts of information we create online every single day — and turn it into a report that a company can actually do something with.
+
+Per the report, Microsoft employs 272 of these data scientists, with Facebook a distant second at 132. IBM squeaks in at third with 98.
+
+Apple is in eighth place with 56, in case you were wondering.
+
+RJMetrics scoured LinkedIn to get this data. That research also found that the number of people describing themselves as "data scientists" has doubled in the last four years.
+
+For a lot of tech companies, having a data scientist is a major competitive advantage: Literally everything users do online creates data that Microsoft or Facebook can use to better tailor their services — and make a lot more money.
+
+For example, Facebook relies on its data teams to contribute to its News Feed algorithms, figuring out what users want and don't want to see. Meanwhile, Microsoft's data scientists contribute to the math that makes sure that products like its Cortana digital personal assistant gets smarter over time.
+
+But actually dealing with that data requires a specific skill set of both advanced math and computer science that's in-demand and often hard to find. Most data scientists have graduate degrees or PhDs, the report found. Plus, since the field of data science is still relatively new, it requires a lot of self-taught learning.
+
+As the demand for web services accelerates, Microsoft and Facebook both appear to be on hiring sprees, the report finds. So if you want a job at one of those companies, maybe start considering an education in higher mathematics.
+
+NOW WATCH: This Drone Goes Inside A Hurricane To Gather Data That Could Save Your Life
