@@ -1,0 +1,17 @@
+Apple is staffing up to push its payments system in China, a market that’s increasingly crucial for generating the growth that investors have come to demand from the world’s largest company.
+
+Apple launched its mobile-payment system, Apple Pay, in its home market of the US last year. Adoption hasn’t exactly been widespread there yet, but the company is looking to bring the service to more mature markets for contactless payments, like the UK, where it launched in July. And now, the company appears to be readying a move into China.
+
+The Wall Street Journal recently reported that Apple created a new subsidiary in the Shanghai free-trade zone, called “Apple Technology Service (Shanghai) Ltd.” With $13 million in capital, its goal is to bring Apple Pay to China, according to filings obtained by the Journal.
+
+The leadership there is taking shape. Quartz has learned that Kelly Sang, an ex-Alibaba general manager who joined Apple in 2012, was promoted to director of Apple Pay in China earlier this year. Liang Gong, a former country manager for Visa China, joined Apple in July. Apple is also looking to add staff on the operations side to work across various teams and focus on customer experience, among other tasks, according to deleted job postings viewed by Quartz.
+
+While it’s difficult to say where Sang and Gong fall within the chain of command at Apple or the China division, they are seasoned veterans of the mobile payment and e-commerce industries. At Alibaba, Sang was tasked with developing its brand in the US. Gong led a Visa team in China that focused on emerging payment technology like near-field communications, which powers Apple Pay. In the US, Apple has poached executives from companies including PayPal-subsidiary Braintree, American Express, Capital One, and Discover for its payment efforts.
+
+Apple’s interest in bringing Apple Pay to China underscores the country’s growing importance to the technology giant. Sales of iPhones grew 87% year over year in China, and sales in the Greater China region accounted for more than 25% of Apple’s revenue last quarter. Adding Apple Pay to iPhones in China will make them more useful, and keep Chinese consumers hooked into Apple’s ecosystem.
+
+“It’s an obvious market for Apple Pay—China’s probably second largest market for iPhones at this point and becoming incredibly important,” said Jan Dawson, chief analyst at Jackdaw Research.
+
+Apple Pay could find it easier to gain traction in China than in the US. Chinese consumers use mobile payments more frequently then their US counterparts. And compared to the US, there are many more terminals that can accept Apple Pay in China.
+
+Beyond staffing, any Apple Pay expansion into China will require deals with China UnionPay, the country’s biggest network and issuer. UnionPay also owns all the NFC terminals in China.

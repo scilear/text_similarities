@@ -1,0 +1,27 @@
+New Insider Windows Mobile build released
+
+A new Windows 10 Mobile build was released to those in the fast ring of the Insider program. MIcrosoft didn't include a changelog but it's labeled as a configuration update so those in the Fast Ring should apply it.
+
+Source: ZDNet
+
+Office apps updated for Windows 10 Mobile
+
+All of the major Microsoft Office apps have been updated for Windows Mobile. These appear to be maintenance updates with no detailed information provided by the company.
+
+Source: Winbuzzer
+
+Outlook Groups released
+
+The Outlook Groups app has been released for Windows Mobile. The app from Microsoft allows interaction with work groups including messaging and scheduling, all in one place. Groups can collaborate with Office documents and OneNote notes.
+
+Outlook Groups is also available on Android and iOS.
+
+Source: NewsEden
+
+Dual boot Elephone Vowney coming
+
+Elephone has a new flagship phone due for release that can boot either Android or Windows 10 Mobile. The Elephone Vowney will go for $299 with an Intel processor to support the dual boot scenario.
+
+The new phone has a 20MP camera, 3GB of RAM, and 64GB of storage. It should be available early October.
+
+Source: TechmoDay

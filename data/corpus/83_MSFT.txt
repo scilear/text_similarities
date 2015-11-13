@@ -1,0 +1,27 @@
+Google Inc. and Microsoft Corp. have agreed to end their long-running patent feud over smartphones and video game systems, dropping about 20 lawsuits in the U.S. and Germany.
+
+The two companies, which didn’t disclose financial terms, have been litigating over technology innovations for five years. Google’s former Motorola Mobility unit had been demanding royalties on the Xbox video-gaming system, and Microsoft had sought to block Motorola mobile phones from using certain features.
+
+The companies pledged in a statement to work together in other ways related to intellectual property, including development of a royalty-free, video-compression technology to speed downloads, in an initiative that also involves Amazon.com Inc. and Netflix Inc. They will also lobby for specific rules on a unified patent system throughout Europe.
+
+“Google and Microsoft have agreed to collaborate on certain patent matters and anticipate working together in other areas in the future to benefit our customers,” the technology giants said in a joint statement.
+
+The agreement marks a new amity between Microsoft and one of its top erstwhile enemies, and reflects a different tone set by Chief Executive Officer Satya Nadella. On Aug. 10, when Sundar Pichai was named CEO of Google, Nadella tweeted congratulations to him, calling the promotion “well deserved.”
+
+"This opens up the door for partnerships between Google and Microsoft, as Nadella is changing the image of the company into a lover and not a hater of other technology stalwarts,” said Daniel Ives, an analyst at FBR Capital Markets.
+
+Android Suit
+
+The companies have been at odds since Microsoft claimed in 2010 that Google’s Android operating system for mobile devices had incorporated its technology without paying royalties. Among the lawsuits Redmond, Washington-based Microsoft filed that year was one against Motorola Inc., then a standalone company. It was a case that Google later inherited as part of its purchase of Motorola Mobility.
+
+Microsoft claimed that Motorola was demanding the equivalent of $4 billion a year in royalties on the Xbox and accused it of backing away from pledges to fairly license patents on fundamental technologies. An appeals court in July upheld a finding that Motorola breached that agreement.
+
+The case against Motorola involved in part the use of a popular feature called ActiveSync that lets users coordinate the calendars on their phones and desktop computers. Microsoft obtained an order blocking the feature on Motorola phones imported into the U.S. though it later said that U.S. customs officials never enforced it.
+
+The agreement to be allies when it comes to patents only goes so far. Google, based in Mountain View, California, is pushing new products to compete with Microsoft, including a tablet computer designed for business customers to compete with Microsoft’s SurfacePro. Microsoft’s Bing search engine still strives to get a bigger market share from Google, the world’s largest Internet search service.
+
+When it comes to patent policy, the companies agree they want to make it harder for patent-licensing firms that don’t make products and are derided as “trolls.” The European Union is setting up an EU-wide patent court and the two companies are lobbying to ensure those types of lawsuits don’t become as prevalent in Europe as they are in the U.S.
+
+After accelerating the pace of patent suits in the second half of last decade, Microsoft has now settled many of the cases. The waning of tech mega-patent suits is a positive for the industry, said Sameet Sinha, an analyst at B. Riley & Co.
+
+"These lawsuits set a very bad precedent," Sinha said. "It is getting better right now."

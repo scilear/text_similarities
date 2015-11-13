@@ -1,0 +1,33 @@
+The consolidation trend buzzing around the semiconductor industry is expected to continue into 2016, with SanDisk and Maxim Integrated Products the latest companies rumored to be on the sales block.
+
+Speculation about the pair of takeover candidates surfaced just this week, after a record pace of consolidation this year.
+
+In the first half of 2015, chip M&A action reached a $72.6 billion combined value — an all-time high and nearly six times the annual average the previous five years, according IC Insights.
+
+Micron and Western Digital have reportedly been targeting the Milpitas, Calif.-based SanDisk for acquisition. AP View Enlarged Image
+
+Chipmakers are scrambling to remain profitable as organic growth slows amid a limp global economy, MKM Partners analyst Ian Ing told IBD.
+
+"It's hard to latch onto secular growth," he said. "Even smartphones and the Internet of Things markets are slowing. The industry is maturing."
+
+M&A buzz accelerated this week with reports that SanDisk (NASDAQ:SNDK) might be acquired by Micron (NASDAQ:MU) or Western Digital (NASDAQ:WDC), and that Analog Devices (NASDAQ:ADI) might be courting Maxim (NASDAQ:MXIM).
+
+Also, Fairchild Semiconductor (NASDAQ:FCS) soared 16% Wednesday and another 3.1% Thursday on rumors it could be acquired.
+
+They'd join a long list of deals.
+
+In June, Intel (NASDAQ:INTC) agreed to buy Altera (NASDAQ:ALTR) for $16.7 billion.
+
+In May, Apple (NASDAQ:AAPL) iPhone chip supplier Avago Technologies (NASDAQ:AVGO) announced an agreement to acquire Broadcom (NASDAQ:BRCM) for $37 billion — then the biggest merger of pure-tech companies. This week's $67 billion merger agreement announced by Dell and EMC (NYSE:EMC) is now No. 1.
+
+This year, China's Tsinghua Group reportedly was interested in buying Micron for $23 billion as China tries to become less dependent on chip imports. Tsinghua recently invested $3.8 billion in Western Digital.
+
+In the 1980s and 1990s, only "IBM (NYSE:IBM) and Motorola (NYSE:MSI) were highly integrated," Ing said. "Fast-forward to today, and there are really only 20 customers that matter (for chipmakers), so it makes sense to vertically integrate and scale."
+
+Rather than a fractured and specialized industry, chipmakers will join forces to better appeal to heavyweight chip users such as Apple, Samsung Electronics (), Hewlett-Packard (NYSE:HP) and Cisco Systems (NASDAQ:CSCO), he says.
+
+Fabless firms, which don't do their own chip manufacturing, are most susceptible to M&A activity, he said.
+
+"The fabless model is broken because specialization is down in software now vs. hardware," he said. "It makes sense to in-source your manufacturing."
+
+Skyworks Solutions' (NASDAQ:SWKS) $2 billion acquisition of PMC-Sierra (NASDAQ:PMCS), announced this month, makes sense, Ing says. Skyworks sells chips to Apple for use in its iPhones, while PMC reaps revenue from Cisco, HP and Dell on the equipment side.

@@ -1,0 +1,21 @@
+It's the annual iPhone launch weekend, which promises to be a busy one for Apple (NASDAQ:AAPL). That also means it'll be a busy weekend for iPhone suppliers, which have been providing crucial ingredients for Apple in recent months as the production ramp prepared for this weekend. Last year's iPhone launch weekend set a fresh record of 10 million units, and Apple said last week that preorder activity was "on pace" to beat that record.
+
+As usual, the careful technicians over at iFixit have already secured a model and proceeded to rip it to pieces. What did they find inside?
+
+Previews first
+
+The new taptic engine takes up some space below the battery, which meant Apple had to shift some things around to make space for the new part. There were significant changes to the display assembly in order to facilitate 3D Touch. The iPhone 6s display assembly is a notable 15 grams heavier than the iPhone 6, which more than accounts for the overall increase in total weight. The iPhone 6s is 14 grams heavier than the iPhone 6.
+
+Battery capacity is modestly lower this year, decreasing from 1810 mAh to 1715 mAh. Fortunately, there is no change in Apple's listed battery life specs, perhaps because the company was able to generate some power savings in a few areas (such as by integrating the M9 motion co-processor).
+
+Apple is boosting the iPhone's RAM from 1 GB to 2 GB, which should improve overall performance and significantly strengthen the device's multitasking capabilities.
+
+And now our feature presentation
+
+Investors likely care most about which suppliers won or lost share on the iPhone's logic board. This is where fortunes are made and lost. Here are three of the more crucial ones.
+
+Last year, the iPhone 6 moved from one accelerometer to two accelerometers. There was a low-cost, low-energy one used for basic functions like screen rotation and a more powerful one with greater sensitivity for more demanding applications like games. Much like last year, InvenSense (NYSE:INVN) is supplying the high-end solution with its integrated 6-axis gyroscope and accelerometer combo. Borsch kept the low-end accelerometer slot. It's a small consolation after InvenSense failed to win the Apple Watch like many investors had expected it to.
+
+NXP Semiconductor (NASDAQ:NXPI) seems to have lost the motion co-processor spot, as expected. Prior-generation M-chips were rebranded versions of NXP ARM Cortex-M3 microcontrollers, but this year Apple has integrated the M9 directly into the A9. All is not lost, though, as it's also no surprise that NXP retained the NFC controller win with a newer version. iFixit also found an NXP display integrated circuit inside. You win some, you lose some.
+
+Longtime cellular modem supplier Qualcomm (NASDAQ:QCOM) is still enjoying this slot, along with a handful of other less meaningful wins. The iPhone 6s includes a newer version of the LTE modem found in the iPhone 6. Take that, Chipzilla. Modems aren't the type of component that Apple would dual-source, either, since they're too vital and Qualcomm's modems are the best in breed.

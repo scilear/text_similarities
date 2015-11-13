@@ -1,0 +1,23 @@
+NEW YORK (TheStreet) -- Poland's Alior Bank announced that it has selected an IBM MobileFirst for iOS app to help its customers and employees interact with each other, thereby making banking more personal. The partnership makes Alior the first bank in Poland to take advantage of the relationship between IBM (IBM - Get Report) and Apple (AAPL - Get Report) .
+
+As part of the deal, Alior Bank, which has been named Best European Retail Bank 2015 by Retail Banker International, will use iPads in conjunction with the app to provide its employees with more secure access to customer data. As a result, they'll arguably be able to better personalize recommendations on products.
+
+"Thanks to the unprecedented collaboration between Apple and IBM, we are unlocking new value for our private banking customers by providing them a unique digital banking experience that will foster lasting relationships, and offerings tailored to their individual preferences and financial goals," Andrzej Rosaniec, director of private banking at Alior Bank, said in a statement.
+
+
+
+The app in use, IBM MobileFirst for iOS Trusted Advice app, will allow financial advisors to access portfolios straight from their iPads and give them analytics tools with which to best make recommendations.
+
+"Apple and IBM are transforming how work gets done across industries including in banking and financial services," said Maciej Jakubowski, associate partner, IBM. "In working with clients like Alior Bank, we see the transformative power of equipping professionals with the full expertise of their company to better serve customers."
+
+Must Read: Apple Is Making a Huge Bet That iPad Pro Will Reignite Sales
+
+The deal is a result of Apple's increased willingness to expand its presence and partnerships in the enterprise.
+
+In August 2014, Apple and IBM first announced the collaboration to team up to help grow iPad and iPhone sales in the enterprise, as well as develop apps specifically for the enterprise. In all, there are more than 100 apps being developed for the enterprise, with potentially more on the way.
+
+In addition to the IBM partnership, Apple teamed up with Cisco (CSCO - Get Report) earlier this year for a similar venture.
+
+The company recently introduced a larger iPad, the iPad Pro, geared towards the enterprise, in an effort to help boost iPad sales.
+
+Sales of the iPad, first introduced in March 2010 by then-CEO Steve Jobs, have struggled over the past several quarters, as consumers increasingly turn towards larger smartphones to do many of the same tasks done on tablets. In Apple's most recent quarter, it sold just 10.9 million iPads, down from 12.6 million in the previous quarter and 13.3 million in the year-ago quarter.

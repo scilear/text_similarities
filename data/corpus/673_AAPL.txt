@@ -1,0 +1,31 @@
+ENLARGE Photo: GEORGE DOWNS/THE WALL STREET JOURNAL
+
+Advertising technology stocks are continuing to get pummeled, not least because of the recent increase in popularity of ad-blocking software, programs which prevent code from known advertising companies loading into Web pages.
+
+Paris-based Criteo, CRTO -0.07 % which specializes in serving targeted ads to consumers across different devices, has been as hard hit as anyone. Its shares have fallen by around a third since July, wiping $1.25 billion from its market value.
+
+But Criteo’s chief operating officer, Erich Eichman, says even though ad blockers are bigger now than ever before, Criteo has “yet to see an impact on its (operating) numbers.”
+
+ENLARGE Criteo’s chief operating officer, Erich Eichman Photo: Criteo
+
+For many Web users, online ads can be annoying, distracting, and can also bite into their mobile data packages. Ad-blocking on mobile devices could become a major threat to ad-supported online publishers and the advertising firms that serve them if it continues to gain traction.
+
+But Mr. Eichman said he found it hard to imagine that consumers would ultimately be willing to give up the current well-established, implicit contract of getting free content in exchange for seeing advertising.
+
+“Even if an ad blocking free rider effect is present today, it is hard to see how it could grow to be significantly bigger without publishers and consumers reacting against it to preserve access to free content,” he said.
+
+Mr. Eichman says Criteo’s stock decline coincides with more and more news about ad blocking, fueled in part by Apple’s decision to let users install apps that prevent ads from appearing in its Safari mobile browser.
+
+Apple isn’t powering ad-blocking itself, but instead is allowing outside software developers to tap into its browser to do so. Putting such ad blockers within reach of hundreds of millions of iPhone and iPad users threaten to disrupt the $70 billion mobile-marketing business.
+
+In a note on Friday, analysts at Jefferies said mobile usage would increasingly be done in apps, and that apps would become more content-focused, as developers push for less intrusive advertising.
+
+“We believe that ad blockers will stimulate a healthy dialog between consumers and ad publishers,” Jefferies said.
+
+The analysts added that the enabling of ad blockers for Apple’s iOS 9 mobile software will not meaningfully impact Criteo, mostly because Criteo doesn’t serve annoying ads, opting rather to focus on ad inventory that is relevant and acceptable to the consumer.
+
+Jefferies’ estimates on the adoption of ad-blocking technology on mobile devices range from 6% -- roughly the same penetration rate as PC ad-blocking – to 16%, in-line with ad-blocking penetration rates for certain products like Firefox.
+
+Criteo’s Mr. Eichman said advertisers and publishers were beginning to fight back against ad blockers, with efforts ranging from blocking ad-blockers to improving the ad experience. “We are also seeing quite a bit of activity from early stage companies that are finding solutions to this problem,” he said.
+
+Write to Amir Mizroch at amir.mizroch@wsj.com

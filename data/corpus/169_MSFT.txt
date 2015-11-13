@@ -1,0 +1,27 @@
+Some analysts are suddenly bearish on the prospects for OpenStack — an open-source cloud computing software platform — and trouble for OpenStack could be good news for traditional IT vendors as well as Amazon Web Services.
+
+Supporters of OpenStack, which helps corporate IT departments connect private data centers to public clouds, had aimed to make OpenStack the de facto software that runs the non-Amazon cloud.
+
+In public clouds, computing resources are shared via the Internet. Amazon.com's (NASDAQ:AMZN) AWS is by far the biggest provider of infrastructure-as-a-service (IaaS) cloud services. And Amazon's IaaS uses its own software, not OpenStack.
+
+There also could be upside in the slower-than-expected uptake of OpenStack by corporate IT departments for vendors such as IBM (NYSE:IBM), Hewlett-Packard (NYSE:HPQ), Microsoft (NASDAQ:MSFT) and VMware (NYSE:VMW), says James Kisner, an analyst at Jefferies, in a research report.
+
+"Overall, we think OpenStack has some momentum and significant mind share among enterprises, but it still requires a substantial amount of expertise and spend by companies to implement and maintain," Kisner wrote. "In the near term, we believe that most companies will find that the difficulty of acquiring and paying the personnel required to manage OpenStack will outweigh the savings and flexibility provided by the platform and stymie broad adoption.
+
+"We also have to acknowledge that OpenStack may never mature to the point of becoming attractive for broad enterprise adoption. In some ways, this is arguably positive for IT infrastructure vendors, as OpenStack is ultimately a deflationary (in pricing) technology."
+
+Rackspace Hosting (NYSE:RAX) and government space agency NASA co-developed OpenStack in 2010, aiming to make the software a cloud computing standard. Rackspace's main business has been hosting websites. Rackspace stepped up investments in OpenStack in 2012 and 2013, but its revenue growth slowed as companies lingered in testing OpenStack's capabilities.
+
+Rackspace Broadens Efforts
+
+Rackspace now supports multiple cloud platforms and has become less dependent on OpenStack. Rackspace now also aims to provide technical support for other cloud platforms, including Microsoft and AWS. Rackspace and AWS are set to announce a partnership next week, the Wall Street Journal reported Wednesday. Rackspace has a similar partnership with Microsoft's Azure cloud business.
+
+Other OpenStack backers include Red Hat (NYSE:RHT), Intel (NASDAQ:INTC), Cisco Systems (NASDAQ:CSCO) and Dell.
+
+Jonathan Schildkraut, analyst at Evercore ISI, says that it's questionable how Rackspace will fare without OpenStack.
+
+"We believe an increasing number of companies seeking support are heading to AWS — given the platform's broad feature set, (its) rapid development of new functionality and the establishment of a cottage industry of support providers," he said in a research report. "We now believe that the market size for OpenStack-based managed cloud will likely be smaller than anticipated and pale in comparison to that market for support on other cloud platforms.
+
+"We agree with Rackspace's decision to pursue the support market for AWS and other cloud platforms. That being said, we believe this market is already highly competitive and RAX will need to build momentum in the business."
+
+Rackspace stock was down a fraction in morning trading in the stock market today, while Amazon stock was up 2.5%.

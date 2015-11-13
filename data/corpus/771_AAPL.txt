@@ -1,0 +1,43 @@
+Google plans to make tapping into news on mobile devices faster, keeping eyeballs on stories and people visiting websites.
+
+The internet search colossus says slow downloads to smartphones or tablets are costing news outlets readers and advertising dollars.
+
+Online ad revenue from internet users is at the heart of Google's money-making machine, and mobile lifestyles have come with a love of apps that sidestep using the World Wide Web.
+
+Getting news on the go using walled options such as Apple News or Facebook Instant Articles takes Google out of the equation in regard to advertising.
+
+Google's freshly-unveiled Accelerated Mobile Pages (AMP) initiative is designed to "dramatically improve" how mobile pages are displayed.
+
+"Smartphones and tablets have revolutionised the way we access information, and today people consume a tremendous amount of news on their phones," said David Besbris, Google's vice president of engineering for search.
+
+"Publishers around the world use the mobile web to reach these readers, but the experience can often leave a lot to be desired. Every time a webpage takes too long to load, they lose a reader."
+
+AMP is designed to let stories load in instants instead of seconds, and to display ads in ways that don't impede the process.
+
+AMP technology is free and open-source, meaning any website publisher can use it and tinker with the software.
+
+Google says it is already working with technology firms such as Twitter, Pinterest, WordPress.com, and LinkedIn, along with 30 publishers including Les Echos, BBC, the Financial Times, and the Wall Street Journal.
+
+Mario Calabresi, editor-in-chief of La Stampa, said that the Italian daily was participating in the project in the belief that "today legacy media need to take their journalism beyond their website, to go where the users are".
+
+AMP is also being integrated into Google News.
+
+During a presentation made over bagels at a New York breakfast spot, Google News chief Richard Gingras assured AFP that content from partners in the project would not get an advantage in search results because of business relationships.
+
+AMP technical information was released online at GitHub.
+
+"We love the web but it's not fully satisfying... pages load slowly, sometimes erratically," Gingras said of the motivation behind the initiative.
+
+US tech giants are turning to the news in their competition for mobile users, developing new, faster ways to deliver content, but the benefits for struggling media outlets remain unclear.
+
+Mobile "drives so much traffic" because many people start their day reading news on a phone or tablet, said Cindy Krum, chief executive at MobileMoxie, a mobile marketing consultancy.
+
+Several new apps hope to capitalise on that by attracting news readers and the advertising dollars they bring.
+
+Apple News, an app included in Apple's updated iOS 9 mobile operating system, launched in September, delivers content from more than 50 media partners, including the New York Times, Vanity Fair and Vogue.
+
+Facebook launched its "Instant Articles" earlier this year in partnership with a number of media organisations to provide access to the news 10 times more quickly, through its social media infrastructure, than most news websites.
+
+The rapid development of the news products demonstrates how mobile has become the new battleground for tech companies seeking to keep users within their ecosystems, where they can reach them with more products, services and advertising.
+
+But it remains unclear whether these new apps will help news organisations find a lasting economic model to survive the digital age.

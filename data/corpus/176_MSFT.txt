@@ -1,0 +1,29 @@
+Look for more blockbuster, large-cap tech M&As, says Goldman Sachs, which says IBM has the biggest war chest and Salesforce.com (NYSE:CRM) is the biggest difference maker among potential targets.
+
+Goldman analyst Heather Bellini says cash-rich Microsoft, Oracle (NYSE:ORCL), IBM (NYSE:IBM) and SAP (NYSE:SAP) will continue making acquisitions targeting cloud-based software-as-a-service, security, Big Data and business intelligence.
+
+"We think IBM could support an acquisition of system/application software assets up to $38 billion, given its focus on growth in analytics, cloud and SaaS," wrote Bellini.
+
+She expects Oracle, SAP and Microsoft (NASDAQ:MSFT) to "consolidate the software industry."
+
+"As large-cap technology vendors try to reposition themselves for next-gen trends away from their legacy positioning, we believe there is a strong likelihood that M&A dollar volume in the industry will increase materially vs. the average deal size of $3 billion we have seen over the past three years, as last-generation technology behemoths look to acquire strategic, and as such more expensive, assets," wrote Bellini.
+
+Speculation that Salesforce.com could be acquired by Microsoft, Oracle or another big company arose earlier this year, but that talk has died down.
+
+The biggest SaaS vendors include Salesforce.com, Workday (NYSE:WDAY) and ServiceNow (NYSE:NOW).
+
+Large business analytics software makers include Splunk (NASDAQ:SPLK) and Tableau Software (NYSE:DATA).
+
+Security software makers with the highest IBD Composite Ratings include Palo Alto Networks (NYSE:PANW), CyberArk Software (NASDAQ:CYBR) and Fortinet (NASDAQ:FTNT).
+
+Positioning For SaaS
+
+"While M&A could be a way for those large-cap vendors that are not as well positioned for the ongoing SaaS paradigm shift to try to improve their competitiveness and bolster their positions to improve their chances of becoming category leaders, most SaaS firms (Cornerstone on Demand (NASDAQ:CSOD) are too small to have a significant impact on top-line performance in the near term," Bellini wrote. "On the other hand, there are a few SaaS assets that are already large enough to have a significant impact on legacy technology heavyweights' top lines, such as Salesforce.com."
+
+The Goldman Sachs analyst notes that over the past decade, Oracle and SAP have spent the most on acquisitions.
+
+"Large-cap technology companies like Oracle, IBM, SAP and Microsoft are more interested in adding cloud-based or emerging technology assets to their portfolios," she added. "Most assets out there are unable to move the needle for these players.
+
+"We believe that the days of strategic buyers making legacy acquisitions to drive earnings accretion will remain at a tepid pace, as the incumbents do not want to be seen as stockpiling more old technology assets. As such, we are likely to see a continuation of a recent trend toward financial buyers increasing their focus on the industry as a whole."
+
+Follow Reinhardt Krause on Twitter @IBD_RKrause.

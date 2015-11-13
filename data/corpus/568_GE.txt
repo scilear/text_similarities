@@ -1,0 +1,37 @@
+"Last one out, turn out the lights." Will there be any lights left to turn out?
+
+A little over a year ago, General Electric (NYSE:GE) announced plans to sell its marquee "appliances" division, one of the first steps in a multiyear, multibillion-dollar effort to restructure the company with a focus on heavy industry.
+
+In due course, a buyer was found, with Sweden's Electrolux stepping up to pay $3.3 billion for the unit. One question remained about the transaction, though: If GE was getting out of the appliances division, did this include all appliances? In particular, what did the Electrolux sale portend for the future of GE's once-ballyhooed investments in the field of light-emitting diode (LED) technology, which formed part of the division that GE has, until now, referred to as GE "Appliances & Lighting"?
+
+Now we know.
+
+GE's Current idea is electric
+
+According to data from S&P Capital IQ, GE's appliances and lighting businesses combined to produce just over $8.4 billion in sales last year -- about 8% of the company's non-GE Capital revenue stream. GE's own most recent 10-K filing with the SEC notes that these revenues basically broke down 70%/30% between appliances and lighting, with the latter business worth about $2.5 billion in annual sales.
+
+Yesterday, GE reported Q3 earnings that showed that the Appliances & Lighting division that it's trying to break up and sell (the majority) off was in fact GE's fastest revenue grower for both the quarter and the year to date, its fastest profits grower for the quarter, and the second-fastest profits grower year to date. This news followed, the company laying out earlier in the week a road map for the future of its lighting business -- or at least the LED products therein -- and for its related business ventures in the fields of solar power, energy storage, and electric vehicles as well. GE calls the new strategy "Current," the new "first-of-its-kind energy company" that GE is setting up to put all of its various alternative energy technologies under one comprehensive roof.
+
+Utilizing GE's "Predix" platform to collate information and suggest improvements in how customers manage energy flows, Current will offer customers a "holistic energy-as-a-service" product. This might include "sensor-enabled hardware, software, fulfillment, product management and financing solutions" in addition to solar power equipment, storage batteries, and LED lighting. The aim will be to tailor a suite of products and services to individual customers, then tweak this portfolio to increase energy efficiency.
+
+GE Lighting CEO Maryrose Sylvester has been tapped to run the new venture, which, in contrast to the old appliances division (which was largely consumer-facing), will focus on "custom outcomes for our Commercial & Industrial customers, municipalities and utility partners." In current industry parlance, this means GE is designing Current to operate as a "B2B" business.
+
+Customers line up
+
+While that might seem like a strategy calculated to constrain GE's target market, customers are already lining up to buy from Current. In its press release last week, GE named companies including Walgreens (NASDAQ:WBA), Simon Property Group, Hilton Worldwide, JPMorgan Chase, Hospital Corporation of America, and Intel (NASDAQ:INTC) as inaugural customers of Current products, all hoping to rack up savings of "10-20% on energy costs."
+
+Some of these companies seem like logical customers for GE's lighting products. For example, in its press release, GE noted how Walgreens has been a buyer of its lighting products "for more than 25 years." More recently, Walgreens began installing GE's "environmentally sustainable LED lighting products" in "some of" its stores. Current will work to expand that relationship.
+
+At the same time, Intel, for example, may be more interested in tweaking energy usage in its chip factories, and perhaps in gaining insights into how to make its products more energy efficient, as well. Both of these are big concerns for Intel, which, in its latest 10-K filing with the SEC, mentioned "energy costs," "energy efficiency," and "energy-efficient" products no fewer than 25 separate times.
+
+What it all means for GE
+
+Altogether, GE sees enough interest for its alt-energy products and services to kick-start Current at a level of $1 billion in annual revenues -- ramping up rapidly to $5 billion by 2020. What's interesting about that number (aside from the breakneck growth pace GE is predicting) is that it's 60% less revenue than GE's lighting division currently makes in a year, which seems a bit strange.
+
+After all, if GE is merging "Lighting" into solar into storage into cars -- and adding Predix besides -- shouldn't that result in a larger business than just "Lighting" alone?
+
+The answer to this riddle, contained in a one-line aside in a Reuters report on the Current announcement, goes like this: After stripping out Appliances and selling it to Electrolux, GE won't actually merge all of the remaining "GE Lighting" division into Current. Rather, LEDs sold to industrial and commercial customers will go to Current to join the other businesses coalescing there. The remainder of GE Lighting -- something smaller than $2.5 billion in annual revenues -- will remain a stand-alone business serving consumer buyers of LED bulbs.
+
+At least for now. Even as fast as it's growing, $2.5 billion in sales means that GE Lighting will be GE's smallest division by a factor of two. I'd say the chances are good that GE's restructuring won't end with this month's Current news. In fact, once industrial and commercial LEDs have been stripped out, GE Lighting could be the next GE division to go on the auction block.
+
+Stay tuned.

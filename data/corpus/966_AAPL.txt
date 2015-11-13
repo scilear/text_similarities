@@ -1,0 +1,57 @@
+Putting together a portfolio is like picking a team. Find the best players. Put them in at the right time. Play to win, and you just might win the game.
+
+
+
+But a portfolio isn’t a zero sum game. We can both field the same team by buying the same stocks. It can even happen in the institutional world. If managers were fielding the same teams in the market, then it begs the question: what value do they add? And in some cases, who are they following?
+
+
+
+What is Hedge Fund Overlap
+
+We looked at hedge fund managers within the Symmetric universe and compared them with one another according to the uniqueness of their top ten positions. We started with which managers own what and asked which high-conviction positions they share. The image below illustrates the network of hedge fund ownership. Each edge represents a connection between managers defined by at least one shared top ten position.
+
+
+
+
+
+
+
+The network of hedge fund overlap is evident but sprawling. To provide more clarity, we raise the bar and define each edge as at least two shared high-conviction positions. It’s at this point that the connections begin to become more clear. As an example, you can see Coatue’s node has been circled in red. It sits in the thick of the network, towards the core.
+
+
+
+
+
+
+
+While the network of hedge fund overlap was looking interesting, we weren’t prepared for what came next. We raised the bar further and increased the number of shared high-conviction positions that define an edge to four. When each edge is defined by at least four shared high-conviction positions, the network simplifies dramatically. Indeed, there’s really only one name that matters: Coatue Management.
+
+
+
+
+
+
+
+Coatue Management at the Center
+
+Coatue sits at the center of a cluster that includes five hedge fund managers. Coatue shares at least four high-conviction positions with five different hedge fund managers. These managers that include, Lone Pine Capital Management, Tekne Capital Management, Contour Asset Management, Andor Capital Management, and Whale Rock Capital Management. The table below lists the overlapping positions by manager and age, according to years. A zero indicates that the position was new as of the latest filing (August, 2015).
+
+
+
+
+
+
+
+Coatue’s top ten positions are the most overlapped positions in the hedge fund universe. Nine out of Coatue’s ten top-ten positions overlap with at least one other manager. Those managers who overlap with Coatue tend to lag Coatue’s entry into the position. In two-thirds of the cases, Coatue entered the position at the same time or before other managers.
+
+
+
+When Coatue makes a high-conviction bet, it would seem that others follow. It’s hard to say for certain, but Coatue does have the StockAlpha performance that would suggest that is the case.
+
+
+
+
+
+
+
+Overlapping positions – Nine out of Coatue’s Top Ten Positions Overlap with at least one other Manager: Facebook, Inc (FB); JD.com, Inc (JD); Apple, Inc (AAPL); Microsoft Corporation (MSFT); Charter Communications, Inc (CHTR); Equinix, Inc (EQIX); Entertainment Arts, Inc (EA); Amazon.com Inc (AMZN).

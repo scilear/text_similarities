@@ -1,0 +1,33 @@
+For the longest time, Microsoft's (NASDAQ:MSFT) hardware strategy consisted of little more than making keyboards and mice. But once Apple's(NASDAQ:AAPL) widespread success demonstrated the viability of an integrated model, while Alphabet's (NASDAQ:GOOG)(NASDAQ:GOOGL) Google continued to undermine the whole notion of selling software by giving it away for free, something had to be done.
+
+At Microsoft's hardware event earlier this week, investors arguably witnessed some of the greatest innovations to come out of the software giant in years. Even beyond the success of Surface and Surface Pro, Microsoft has shown that it can't be ignored and it utterly refutes the idea that it is becoming irrelevant. Microsoft has taken careful notes in recent years, and its latest batch of products are a testament to the lessons it has learned.
+
+More than ever before, Microsoft is now a product company
+
+Without a doubt, products were the focus of this week's event. For a company that has long relied on third-party hardware vendors to brings its software products to life, that's a symbolic development that can't be understated. I mean, Microsoft just introduced its first ever laptop 40 years after Bill Gates founded the company. That has to mean something. Beyond any reasonable doubt, Microsoft's hardware strategy is expanding to unprecedented levels for the company.
+
+Like Google, Microsoft creates the operating system platform and it needs third-party manufacturers to distribute that software. And making first-party devices conceptually creates tensions with these hardware companies. Like Apple, Microsoft wants control. This isn't total control, but at minimum a control over the end user's experience, which is why Microsoft has long limited the extent to which hardware vendors can modify Windows. In a way, Microsoft now wants the best of both worlds. Can the Redmond giant have its cake and eat it too?
+
+The best of Google
+
+Years ago, Google implemented its Nexus program as a way to provide examples to the world of an unadulterated Android experience. Google taps a wide variety of third-party OEMs to manufacture its co-branded Nexus devices, and Google collaborates with these companies throughout the design and development process.
+
+This was all necessary because Android's open-source philosophy allowed OEMs to essentially have their way with the platform, and the subsequent modifications and full-on forks were inevitable and diluted the user experience. Nexus devices have never been market leaders, nor were they meant to be. These same expectations should be applied to Microsoft's ever-expanding Surface family. Surface devices, including the new Surface Pro 4 and Surface Book, are impressive and innovative technological feats, but they are unlikely to be market leaders.
+
+The best of Apple
+
+You can also tell that Microsoft is now putting a lot of focus and effort into design, which has long been one of Apple's core principles. In Cupertino, designers have more sway than engineers.
+
+For instance, consider the odd hinge on the Surface Book. At first glance, it looks a little peculiar for a laptop hinge, but Wired describes the amount of thought that went into the Surface Book's hinge design. Surface creative director Ralf Groene tells how the hinge solves some key design challenges with the device, such as weight considerations when creating a laptop/tablet hybrid. This is function over form.
+
+Microsoft's manufacturing model is also more akin to Apple's, where it designs the devices and merely has contract manufacturers assemble them, as opposed to Google's approach of collaborating more on design. Surface devices are Microsoft products through and through, with no co-branding necessary.
+
+And starting at $1,500, Surface Book is square in Apple's turf in terms of PC pricing. Also shocking is that there were no leaks to warn of the Surface Book's impending launch.
+
+The best of Microsoft
+
+Ultimately, the real question will be whether or not this is worth it. Setting an example for the OEM world as well as consumers is one thing, as is making innovative first-party devices to showcase software platforms, but Microsoft's bread and butter has always been enterprise software. Computing, gaming, and phone hardware generated $17.7 billion in revenue last fiscal year, or about 19% of total sales.
+
+That's nothing to sneeze at, but remember that a good chunk of that is Microsoft's successful Xbox business and that the phone business has been an unmitigated disaster. It's also possible that Surface's benefits will be somewhat intangible in the years to come. Microsoft may very well motivate third-party OEMs to create better devices by setting an example and applying some gentle competitive pressure. Those results wouldn't show up in Surface results, but they would manifest in Windows sales.
+
+Symbolically, Microsoft is making a stand. In no uncertain terms, Microsoft is very much a hardware company now. The company is proving its relevance in a new-found way, a way that investors haven't seen in quite some time.

@@ -1,0 +1,39 @@
+At its fall product launch event, Apple (NASDAQ:AAPL) announced its hotly anticipated iPad Pro tablet. One of the key features of this device was the company's new A9X chip.
+
+This chip, according to Apple, offers a substantial performance uplift from the A8X chip found inside of the iPad Air 2. Indeed, Apple claims that the A9X delivers up to 1.8 times the CPU performance and twice the graphics performance of the already best-in-class A8X processor.
+
+What I found interesting, though, is that Apple chose not to launch an iPad Air 3 with the A9X chip, instead letting the A8X-powered iPad Air 2 hold the top spot in its 9.7-inch lineup.
+
+I'd like to offer a potential explanation for why Apple chose to go this route. In my mind, it comes down to one key factor: cost.
+
+The A9X is probably huge
+
+Last year's A8X, manufactured in TSMC's 20-nanometer process technology, measured in at a whopping 128 square millimeters. This is a rather large die and, as far as mobile applications processors go, is likely pretty expensive to build.
+
+The A9X is likely built on a foundry 14/16-nanometer process. Although these processes are expected to bring significant performance improvements over foundry 20-nanometer technologies, the gains in transistor density are expected to be fairly minimal.
+
+It seems reasonable to believe that in order to achieve the kind of performance that Apple is claiming with the A9X vis-à-vis the A8X, a significant increase in transistor count was required. This transistor count increase is likely greater than the density improvements that Apple will see from migrating to 14/16-nanometer manufacturing technology, implying that the A9X will have a larger die than the A8X.
+
+I believe that the combination of a larger die size and a newer, likely more expensive chip manufacturing process, leads to an A9X that is more expensive to build than the A8X is.
+
+There's more to cost than die cost
+
+In addition to the A9X likely having a higher manufacturing cost than the A8X, I believe that the platform bill of materials required to support the A9X will be costlier than what the A8X requires.
+
+To illustrate, Apple claims that the A9X supports twice the memory bandwidth that the A8X does. I don't think Apple has achieved this by widening the memory bus in going from the A8X to the A9X, but I do think Apple has migrated to newer and costlier LPDDR4 memory in order to get the kind of memory bandwidth that it is promising here.
+
+The iPad Air 2, on the other hand, uses slower-but-cheaper LPDDR3 memory.
+
+The iPad Pro's pricing supports a richer bill of materials
+
+The iPad Pro starts at $799 for the base 32-gigabyte Wi-Fi only model, with the 128 model priced at $949. The most expensive Wi-Fi-only iPad Air model, on the other hand, goes for $699.
+
+In a nutshell, Apple can afford a higher bill of materials cost on its iPad Pro tablets than it can with the iPad Air, assuming that the company is targeting similar gross profit margin percentage profiles for both devices.
+
+It seems as though the iPad mini and Air will use vanilla "A" chips going forward
+
+During the iPad Pro launch event, Apple's Phil Schiller indicated that the A9X was designed for the iPad Pro. If, going forward, Apple plans to target its Ax chips at larger, more expensive iPad Pro-class devices, then I would expect that both the iPad mini and iPad Air lines will use the "vanilla" A-series processors used in the company's iPhones.
+
+The downside to such a strategy is that the iPad mini/iPad Air products won't offer much, if any, of a performance advantage over the company's iPhones (although it's worth keeping in mind that Apple's iPhone chips are really fast).
+
+The upside, though, is that Apple gains the freedom to pack in exactly the kinds of performance and features into its Ax chips to optimize the user experience on iPad Pro without needing to make the compromises necessary to support smaller, thinner devices.

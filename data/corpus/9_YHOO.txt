@@ -1,0 +1,117 @@
+In a week of big announcements from technology stalwarts, Google GOOGL, Amazon AMZN, Western Digital WDC made history while Twitter TWTR continued its uphill battle.
+
+Google Unveils Nexus 5X, Chromecast, More
+
+Just days before its reincarnation as Alphabet, Google hosted its usual event to upgrade its line of Nexus phones, showcase an all-new Android tablet and display a set of chromecast sticks for audio and video streaming. Google’s flagship devices constitute a fraction of Android device sales, but they do showcase the best of Google in terms of hardware and software and point to the possibilities for its hardware partners. And unlike the Android devices from partners, older Nexus devices are almost immediately upgraded to the new version of Android (in this case, Marshmallow).
+
+The two new phones are 5X and 6P from LG and Huawei, respectively. The 5X has a 5.2 inch screen (compared to the 5.7-inch 6P) with a slightly lower-power Qualcomm processor, less storage and a slightly lower resolution front-facing camera. They are otherwise same and come with a fingerprint sensor at the back, which gets better at recognizing your fingerprints with repeated usage. They also come with Project Fi compatibility.
+
+The unlocked phones are much cheaper than iPhones. Google is also offering a $50 credit to the Google Play app store and a free three-month trial subscription to Google Play Music along with the phones. Android Pay and Google Now On Tap have finally made it to the market.
+
+The Pixel C Android tablet made by Google itself looks enterprise-focused, complete with a detachable, optional keyboard that compares with Apple’s iPad Pro and Microsoft’s Surface, though of course it’s cheaper.
+
+The set of Chromecasts in red yellow and black are shaped different to help you plug into a TVs and supports Netflix, Google Play Movies, HBO Now, Hulu, Pandora, etc with Sling TV and Spotify expected to join soon. And (as expected) Google has an audio version that can be directly plugged into speakers for audio streaming. Prices remain low at just $35.
+
+Amazon Bans Apple & Google Streaming Devices
+
+The ecosystem wars are heating up and Amazon is the latest contributor. In explaining the obvious intention of favoring its own devices and streaming services, Amazon said that Apple and Google devices didn’t offer a good experience of Prime Instant Video and this could be confusing for its Prime customers (currently a fifth of its total customers). Roku, XBox, PlayStation remain on the store, since they display Prime Video well.
+
+Amazon has been working hard to get more users to sign up for Prime, so they can stick with it for non-retail activities such as streaming as well. Its stack of Emmys and Universal license have helped build Prime Video’s image. So Amazon figures it’s the right time to make the break, particularly since this is the all-important holiday quarter and historically, a good time to further grow its Prime user base.
+
+Despite Amazon’s market position and customer reach, this is very unlikely to attract anti-trust investigation, since there are other ways Apple and Google can sell their devices. While it will likely cost Google more than Apple, which has its own stores, there definitely are other outlets, such as Google’s own online store and Best Buy, which would welcome the hot-selling items.
+
+China Looking To Own U.S. Companies
+
+Chinese technology company Unisplendour has agreed to pay $3.8 billion for a 15% stake in HDD maker Western Digital and the right to appoint one member to its board (as long as the stake doesn’t fall below 10%). Voting rights will be limited and lock-in period is five years though an undisclosed number of shares will be transferable each year. The deal is subject to regulatory approval.
+
+Unisplendour is a subsidiary of Tsinghua Holdings, which is itself controlled by a group of Tsinghua University faculty. Tsinghua Holdings has strong government connections and has been very acquisitive in the recent past as it attempts to gain access to important technology. Earlier this year, it acquired networking technology through a 51% stake in HP’s H3C Technologies through a subsidiary company Tsinghua Unigroup. It also made a bid for memory chipmaker Micron.
+
+For Western Digital, it is a way to tap the growth potential in China that could offset the PC market pressures back home. It could also give it a leg up into the cloud storage segment in China and maybe convince the Ministry of Commerce not to force it to run HGST separately. Besides, the cash infusion will improve its balance sheet and help it invest in growth.
+
+Twitter Continues to Play Catch-Up
+
+It turns out that the short messages (tweets) that revolutionized the way people share news aren’t such a great way to attract and retain users. The constant comparisons with Facebook, which operates a hugely different platform, don’t help Twitter either. So the company has decided that the person running the show must be someone who understands Twitter in spirit as it transitions into something that can also generate profits. So who could be better than co-founder Jack Dorsey, despite the fact that he remains Square CEO for now?
+
+In recent months, with Dorsey as Interim CEO, Twitter has announced several important product changes and partnerships. Some of the more significant products/enhancements would be Lighting (a system of collecting tweets related to any event and making it available to logged in and other users) and an extension of the 140-character limit that many complain about. But the latter is still a bit of a mystery, because some have surmised that the limit is not really being extended but a new product like Facebook Instant Articles is being introduced.
+
+This wouldn’t come as a surprise because just last week, Twitter did follow Facebook in launching a Buy Now button that operates in the same way as its Facebook cousin, in collaboration with companies like Demandware, Bigcommerce and Shopify.
+
+Company Last Week Last 6 Months AAPL -3.77% -11.92% FB -0.75% +12.89% YHOO +5.41% -30.44% GOOGL +2.62% +21.37% MSFT +3.71% +13.09% INTC +5.90% -0.97% CSCO -1.10% -5.12%
+
+Other stories you might have missed -
+
+Corporate
+
+Apple Expanding Campus, Board: Apple AAPL has agreed to lease 777K sq feet of office space for up to 4K employees in Sunnyvale just a stone’s throw away from its Cupertino headquarters. And media reports suggest that it is on the lookout for more space in the vicinity. It has also filled a board vacancy with ex-Boeing CFO and temporary CEO James Bell in a move that brings minority representation to the board.
+
+Apple Pay Moves Forward In China: The payments entity that Apple set up recently is now getting some influential people on board. Media reports suggest that Kelly Sang, the Alibaba general manager that joined Apple in 2012 and Liang Gong, the country manager for Visa China that joined Apple this July will be working to further Apple’s payments business in China. With considerable experience in the Chinese market for mobile payments and ecommerce, they are likely to jumpstart Apple’s business in the region.
+
+Facebook Outages
+
+Yahoo To Proceed With Alibaba Spinoff: In a regulatory filing last week, Yahoo YHOO has said that it intends to go ahead with the Alibaba spinoff even without an IRS ruling about its being tax-free. Yahoo was denied a private-letter ruling, but it was determined later on that any IRS decision would not be applied retrospectively and so wouldn’t affect Yahoo. In its filing, the company said that it was awaiting a legal opinion on whether the deal could be considered tax-free or not.
+
+Microsoft Reporting Could Get More Opaque: Microsoft MSFT has announced that it will be reshuffling its reporting structure to align results with management focus areas: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. But what this basically means is that we won’t be able to track Office 365 transitions (subscriber numbers will be presented), or commercial and consumer contributions to Office.
+
+Office is being lumped with Dynamics CRM. Similarly, Intelligent Cloud, including the public, private and hybrid cloud offerings will include services. All of the rest of the business has been lumped together, including Windows licensing fees and Windows-based devices including Xbox and Bing (ostensibly because it’s now integrated into Windows).
+
+As if reporting software and hardware in the same segment doesn’t make it hard enough to track margins, management decided they won’t provide gross margin numbers at all in the future. All segments will be reported instead on an operating basis. Well, good luck to those of us who will be trying to figure out how it did in the quarter come Oct 22.
+
+HP Retiring $8.8 Billion in Debt: Hewlett-Packard Company HPQ will be splitting into Hewlett Packard Enterprise Company (HPE) and HP Inc (HP) later this year. To transfer current obligations, HPE priced $14.6 billion of bonds last week with HPQ as guarantor. The funds will be used to retire HPQ debt in two cash tenders totaling $8.8 billion and take care of other obligations. HP, which is the personal computing business, won’t have to deal with the debt and will therefore be better positioned to withstand the PC market pressures.
+
+Google, Microsoft Have India Plans: Both tech giants have increased their focus on India as the country is set to go digital over the next few years. Media reports said last week that Google had committed to providing free Wi-fi to 500 rail stations within the next year. While the initial launch will be free, it will eventually roll into a paid format later on. Not to be outdone, Microsoft committed to connecting 500K Indian villages. The company is also setting up three new data centers in a bid to outdo Aamzon’s AWS, which is also set to launch an IT hub in India next year.
+
+Alibaba Invests in India’s Paytm: Following Alibaba’s investment in Paytm owner One 97 Communications last week, Alibaba Group and its subsidiary Ant Financial have a 20% stake each. This is significant because Paytm is India’s largest online payments portal (more than 100 million wallet users with more than 75 million transactions each month according to Tech Crunch) with limited expertise in ecommerce.
+
+So the businesses are complimentary and can help Alibaba establish itself in India’s large and growing online commerce segment. Alibaba has huge plans for international expansion as Jack Ma announced on a recent visit to the U.S. and it has been looking toward India for some time to tap the opportunity it represents (invested $500 million in leading Indian ecommerce site Snapdeal last month).
+
+Legal/Regulatory
+
+HP-Autonomy Trouble Continues: This long-drawn-out battle between HP and the former management of Autonomy, a British software company it acquired for $10 billion saw a new development last week. Mike Lynch is now blaming HP for defamation and is suing HP for $160 million. The background: HP had to write down around $5 billion of the value it paid for Autonomy after it found accounting irregularities in the form of overstatement of gross margin and incorrect revenue classification in collusion with some customers. HP says this made it appear that Autonomy was a thriving software business when in fact it was reselling Dell computers.
+
+HP sued Lynch and Hussain (another key Autonomy official) for $5.1 billion and that case is still pending. Lynch has pointed to documents showing that HP management at the time knew of the practices and said that mismanagement of Autonomy and not any fraudulent representation by its management had hurt HP.
+
+Microsoft, Google Call Truce: Microsoft and Google have decided to settle 20 pending lawsuits between them for patent infringements related to Android phones and the Xbox game console. The new collaborative approach was evident from their recent decision to team up, along with Amazon and Netflix to develop royalty-free video compression technology to speed up downloads.
+
+Now they will also lobby together when the EU sets up its unified patent system. So while they will compete for all they’re worth in setting up proprietary platforms (devices, search, etc), they will take a collaborative approach when it’s to their customers’ advantage. At least that’s the sense you get since they’re not elaborating further at this point.
+
+Google Under FTC Scrutiny Over Android: Fairsearch.org, which includes Google rivals Microsoft and Oracle, says that Google’s practice of preferring its own services over rivals’ on Android devices is anti-competitive, making it very difficult for alternative services to compete with Google apps and flourish on Android. App developers are also concerned about getting a pre-installed status on Android devices. Google remains focused on customer experience and its head of Android has said earlier that basic services like email and maps when pre-installed and working harmoniously were a positive for customers. In any case, the FTC has reportedly agreed to look into the matter upon the Fairsearch complaint, but hasn’t reached out to Google yet.
+
+New Technology/Products
+
+Yahoo, Google at Advertising Week: Both Yahoo and Google had announcements at Advertising Week in New York. Yahoo announced updates to its Brightroll and Gemini platforms. Brightroll now unifies all its programmatic technology for video, display and native advertising and connects with Yahoo data on its billion customers with the Brightroll Exchange connecting ad buyers and sellers. The new custom feature in its Gemini platform now enables better targeting across devices because advertisers’ data on customers can now be matched with Yahoo’s.
+
+Google had two exciting announcements in the form of Customer Match and Similar Audiences. Its Customer Match is similar to Facebook’s Custom Audiences (if advertisers share customer email accounts with Google, the search giant will push ads to those accounts when they use any of its services such as YouTube, Gmail or anything connected through the Google Distribution Network).
+
+Similar Audiences indicates that advertisers can also target Google users similar to those already on advertiser records. These two features have attracted advertisers to Facebook. Google possibly offers a bonus because it can target users when they intend to buy.
+
+Microsoft’s Azure Data Lake: This is Microsoft’s new storage system that can store huge volumes of raw unstructured data. Given its HDFS compatibility, the data can be accessed, processed and analyzed with various big data tools into valuable information for enterprises. Microsoft also announced a cloud-based, scalable analytics tool with a new query language called u-SQL for specialized operations.
+
+Google’s Nest Store Update: Google-owned Nest has a unique system called Weave that allows all Nest products to communicate with each other so they can operate seamlessly. Nest has now announced that Weave is entering the public domain, meaning that it will be the connective tissue binding all “Works With Nest” products so other manufacturers can also become part of the system. Initial partners in this effort include General Electric and Proctor & Gamble. This may look like a connected home system right now, but it could very well extend to other aspects of IoT as well considering the fact that people are increasingly using connected devices these days.
+
+Amazon Flex: Amazon is welcoming drivers to deliver packages for $18-25 an hour as it scrambles to keep up with the strong growth in Prime and prepares for the pressures of the holiday season. Drivers have to be at least 21 years old and pass through a background check to qualify. While the current scheme is only meant for people with cars, it may, at a later date, be extended to those looking to deliver by bike or on foot.
+
+M&A and Collaborations
+
+Google Buys Jibe: Google bought cloud-supported rich communications service (RCS) provider Jibe mobile for an undisclosed amount. Jibe offers technology for carriers to quickly launch and scale messaging services including text voice and video chat as well as multimedia file sharing including high-resolution photo sharing on mobile devices. It’s not clear yet whether Google will use the technology for peer-to-peer messaging in a challenge to services like WhatsApp or whether it will elevate it to Skype status with Android for Work integration. Whatever it decides to do, Google does have a huge gap in communications services and its previous attempts to go social have not gone down well with users.
+
+Fossil-Intel Pair Up for Wearable Devices: Fossil has said that there will be three Fossil Q products this holiday season; the first is a simple bracelet, the second a screen-less traditional watch and the third an Android Wear watch. They can all connect to a smartphone and run both iOS and Android, track movement, manage notifications and more. Fossil reportedly has brand awareness and a solid distribution channel that can help sales.
+
+Microsoft-ASUS Expand Agreement: Microsoft’s relationship with ASUS continues to improve with the two agreeing to a broad cross-licensing arrangement that will see (among other things) Microsoft Office productivity services pre-installed on ASUS-made Android devices. Not much else was evident from the press release.
+
+Some Numbers
+
+Apple Announces Device Sales Numbers: Apple says it sold more than 13 million iPhone 6s and iPhone 6S Plus in the three days since its launch. The phones will ship to 40 additional countries from Oct 9 and 130 additional countries by year end. Note that this time the company is selling what is effectively a subscription to use the phone rather than the phone itself, so the dollar value will be lower.
+
+Some Android Stats: CEO Sundar Pichai has announced that there are now 14 billion active Android users compared to a billion iOS devices sold since 2007 and Microsoft’s billion device target by 2018. But it’s important to note that Apple has an estimated 350-400 million users on its latest version (iOS 9), while Google has an estimated 300 million on Lollipop. Apple’s app store sales are also reportedly 70% higher than Google’s Play Store.
+
+Micron Reports
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report >>
+
+Information Technology
+
+Technology & Electronics
+
+Google
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report

@@ -1,0 +1,25 @@
+As it's ascended to claim the title of world's largest publicly traded company, the question of what Apple's next great growth driver will be has been a constant refrain from investors, myself occasionally included, depending on Apple's valuation.
+
+In the near-term, the again-historic strength of Apple's opening weekend iPhone 6s sales suggest the massive scale of its iPhone business should prove robust enough to help drive Apple stock higher in the quarters to come. Looking to the longer term, emerging new products, most notably the automotive Project Titan, also promise meaningful new revenue opportunities to bolster Apple's multiyear growth outlook.
+
+And in more closely considering Apple's Project Titan over the past several weeks, an interesting parallel emerges that strengthens the case for an entirely new class of products largely overlooked by the media today.
+
+Reading between the lines: CarPlay signaled Project Titan
+
+Although Project Titan remains years away from ever reaching market, Apple actually broadcast its forthcoming product for some time had the media and analyst communities only read the tea leaves slightly more astutely.
+
+The key here is Apple's in-car software package CarPlay, which the Mac maker introduced at its 2013 WWDC. Since the time of its debut, CarPlay has been an interesting, if not small scale, portion of Apple's overall software ecosystem, merely extending the functionality of the iPhone into the automobile. However thinking bigger picture regarding its connected car OS, CarPlay also could be more critically interpreted as a harbinger of Project Titan had people simply considered the in-car OS as it relates to Apple's long-standing product philosophy.
+
+Said another way, Apple has always used a closed hardware and software ecosystem to drive its business model since Steve Jobs and Steve Wozniak created the very first Apple I in 1976. Apple's Lisa computer introduced the first widely available graphical user interface, although it only gained mass popularity with the launch of the Mac. More recently, the iPhone and iPad leveraged the introduction of the app ecosystem to great effect. The only potential example of Apple deviating from this closed-loop strategy was Apple's decision to make iTunes available for Microsoft's Windows.
+
+Even then, Windows-based iTunes only worked with the iPod, a decision that owed more to the then-ubiquity of Windows than a shift in Apple's product philosophy. The point I'm trying to make is that Apple has a demonstrated preference for a closed-loop hardware and software ecosystem, making it a virtual given that the Mac maker holds greater ambitions for its HomeKit software than perhaps many realize.
+
+HomeKit and Apple's closed loop
+
+Right now, Apple's sole in-home product is its Apple's TV digital media player, which also shows signs of Apple jockeying to eventually move into the connected home space in a more meaningful way. But what form could Apple's smart home hardware take?
+
+At an eminently more likely level, HomeKit will allow Apple to create its own devices for specific product categories, like Nest's smart thermostat or Sense advanced sleep monitor. With the huge number of potential products companies like Apple can infuse with software, this smart home strategy alone likely carries an attractive financial opportunity for Apple. However, and this line of speculation gets admittedly a little far-flung, what if Apple has more in mind than just creating an attractively designed smart blender?
+
+Especially in light of what Project Titan says about the scale of Apple's ambitions, could Apple be so bold as to attempt to revolutionize a more all-encompassing aspect of the way we live – the home itself? I know, it feels far-fetched just writing this. Trust me, I'm far from arguing Apple will definitively follow this course of action. However, in Project Titan, Apple is signaling a continued interest in tackling products where it feels it can make its quintessential "dent in the universe." Additionally, Project Titan also demonstrates that Apple's management understands that continuing to grow Apple's financials will require taking on increasingly massive market opportunities.
+
+If you'd asked me, or most investors I suspect, if Apple would produce its own branded automobile at any point before Project Titan became credibly public, I would have dismissed the claim outright. So while I certainly remain dubious as to whether Apple's connected home ambitions reach the grandiose heights mentioned above, it's a virtual lock that Apple eyes some kind of more meaningful financial opportunity with HomeKit in the years to come.

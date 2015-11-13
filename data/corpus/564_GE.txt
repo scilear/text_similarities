@@ -1,0 +1,43 @@
+General Electric Company (NYSE:GE) is the largest industrials company in the U.S., and with the sector being highly cyclical, looking at the company's order book will reveal much about the economy as a whole. That said, each company has its own specific end markets, and General Electric is no different, so let's take a detailed look at what the company's order trends are saying about the economy and the investment themes that might be at work going forward.
+
+General Electric's orders
+
+With many of the bellwethers in the industrial sector significantly underperforming the S&P 500 this year, investors would be forgiven for thinking that the economy is about to roll over -- the idea being that the market is good at pricing in future weakness in the sector. However, a look at overall order trends at General Electric doesn't reveal any significant weakness.
+
+The company sells a lot of high-ticket heavy machinery, so its order growth tends to be quite lumpy from quarter to quarter. When you look at order growth on a quarterly basis, the picture is somewhat confusing. Incidentally, equipment orders are arguably a better leading indicator because they tend to lead into service orders.
+
+Data source: General Electric company presentations. All numbers are in billions of U.S. dollars.
+
+However, a look at year-over-year growth in the four-quarter average -- a way to smooth out the lumpiness of orders -- reveals that order growth remains in place. Indeed, on this basis, order growth has been above 5% in the past eight quarters.
+
+Data source: General Electric company presentations. Figures represent year-over-year growth in four-quarter average orders.
+
+So if General Electric's order growth is on track, then why has the industrial sector underperformed the broader market?
+
+Well-positioned special situations
+
+Essentially, General Electric has outperformed the industrial sector in terms of operations and stock price performance for three reasons.
+
+First, there are three new technologies the company is in the process of buildings orders for. Second, the stock outperformance is partly due to the successful ongoing development of plans to refocus the company on its industrial roots.
+
+The third reason requires a deeper explanation. Simply put, the company has relatively favorable end markets -- at least within the industrial sector. It's one thing to focus on headline orders (as in the preceding charts), but a clearer picture emerges by looking at segmental performance.
+
+General Electric's four big segments are Power & Water, Aviation, Healthcare, and Oil and Gas. Healthcare has been relatively flat in the past year or so, while it's no secret that Oil and Gas orders (largely for services equipment) have fallen notably in line with the fall in energy prices.
+
+Data source: General Electric company presentations.
+
+This is somewhat disappointing, as CEO Jeffrey Immelt has been buying oil and gas services companies. In a sense, Immelt's move is symptomatic of the kind of investment that occurs when an industry sector becomes more important -- in this case because of previous long-term upward moves in oil prices. It's great when energy prices keep rising, but not so good when they fall and the company is overly exposed.
+
+However, oil and gas still represents a relatively small part of overall sales, and as I've argued previously, General Electric is a company that has businesses that could feasibly benefit from lower oil prices in the long term. For example, Boeing's CEO Jim McNerney has said: "[H]istorically, airplane orders are highly correlated to airline profitability. And lower oil prices have not fundamentally changed our customers' view on fleet planning or their commitment to existing delivery schedules."
+
+Ultimately, if lower oil prices lead to greater airline profitability and increased orders, then General Electric's aircraft engine orders are likely to continue to grow strongly.
+
+Data source: General Electric company presentations.
+
+Similarly, its industrial gas turbine orders (and services) could receive a boost from low gas prices, spurring increased usage of gas-powered turbines and the replacement of coal- and oil-powered plants. Here, General Electric looks like it's starting to grow orders again.
+
+Data source: General Electric company presentations.
+
+The takeaway
+
+All told, the trends in the order book demonstrate the uneven nature of the global economy. Lower oil and gas prices have obviously hit the earnings potential of industrials companies with heavy exposure to energy, but other industries could benefit from the decline in prices.

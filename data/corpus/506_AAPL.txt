@@ -1,0 +1,33 @@
+Although the global smartphone and tablet markets continue to expand, sprawling technology giants such as Apple (NASDAQ:AAPL) and Google (NASDAQ:GOOG) (NASDAQ:GOOGL) are slowly positioning themselves to capitalize on the rise of several potentially massive and still-emerging technology trends.
+
+Here, wearables and connected cars receive ample attention. However, in recent weeks, a number of storylines have focused on the smart home as perhaps the next big thing in tech. Case in point: South Korean tech giant Samsung (NASDAQOTH:SSNLF) recently unveiled the latest iteration of its smart-home device strategy. And while Samsung's latest hardware appears promising, how should investors be thinking about its odds of success in this market against the likes of Apple and Google?
+
+Samsung launches SmartThings
+
+At the IFA tradeshow in Berlin earlier this month, Samsung unveiled the next edition of its budding suite of smart-home products, vaguely named SmartThings. The new category includes connected devices such as electrical sockets, lighting sensors, lock controls, alarm clocks, and more with a central connector, or "hub," that enables these disparate devices to communicate with one another.
+
+The products seem largely in line with some of the early hardware and software systems that other large technology companies such as Apple and Google have unveiled. However, two things become clear with Samsung's SmartThings strategy. First, the company appears to be taking a scattershot approach, making a variety of Samsung-branded smart-home accessories to meet many of the possibilities that embedding sensors deeper into our homes creates. This approach makes sense on Samsung's part, and I believe it positions the company to succeed in this new market, perhaps more than most realize.
+
+Second, Samsung appears determined to also own the software side of the smart-home experience, perhaps a lesson from its current struggles with Android handset commoditization that's hampering its smartphone unit.
+
+A market made for Samsung?
+
+Speculating about likely winners and losers in this still-evolving market has its limitations. Any number of moves from incumbents to start-ups will shift the balance of power in the smart-home space. However, it's still worth discussing why Samsung appears particularly well suited to succeed here.
+
+Although hardware tends to trend toward commoditization (Apple is a noteworthy example), dominant software-leaning companies such as Microsoft and Google create powerful platforms for developers, which in the past has given them outsized staying power. Will that hold true in the smart home? It's hard to say.
+
+In the years ahead, the software operating systems that power the smart home will need to serve at least three core functions:
+
+1. Enabling communication across devices and systems.
+
+2. Providing a unified location (probably a smartphone app) for users to control and coordinate their various "smart" things.
+
+3. Most importantly from a winners/losers perspective, serving as a platform for future software development.
+
+With the number of companies angling to produce different types of sensor-embedded hardware, points 1 and 2 seem more like prerequisites and not determinants of the companies that will dominate this market. Why would any user invest in a smart-home system that doesn't interact well with other brands of devices? Smart-home operating systems will need to cater to as broad an audience of devices as possible. This, then, implies that major smart-home operating systems will have to be open to the reality that many disparate pieces of hardware will need to coexist within a smart-home OS. So rather than simply extending Apple's and Google's mobile dominance into the home, it appears Samsung stands a chance of creating its own software ecosystem, rather than becoming a fancy transmission device for Google's software, as it does in mobile. That alone is reason to be optimistic about Samsung's place in this emerging growth market.
+
+Beyond simply software, though, companies that manufacture numerous kinds of hardware and appliances, such as Samsung or General Electric, enjoy ample opportunity to infuse current device categories with sensors and chips. More importantly, in terms of fueling growth, they can create entirely new types of "smart" devices.
+
+According to Business Insider estimates, connected-home device shipments will grow from about 400 million units sold this year to over 1.8 billion in 2019. Even if that number proves optimistic, it still shows that the connected home opens the door to all kinds of possible hardware innovation. Samsung is a safe bet to sell all manner of hardware into what should become our increasingly connected homes. But if it can also create its own software ecosystem to support that hardware, it will have achieved a tremendous victory for its long-term strategic position in this market.
+
+So while much of this storyline remains years away, it deserves noting that Samsung could enjoy a more attractive opportunity in the smart home than many realize today.

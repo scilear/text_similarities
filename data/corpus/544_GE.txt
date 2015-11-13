@@ -1,0 +1,49 @@
+Arcam AB Chief Executive Officer Magnus Rene says the Swedish maker of 3-D printers may soon have trouble keeping up with orders as airplane and engine makers start using the technology to make parts.
+
+With General Electric Co., Pratt & Whitney Holdings LLC and Rolls Royce Holdings Plc as customers, Arcam is preparing for growth unforeseen when the Molndal, Sweden-based company was focused on the three-dimensional printing of medical implants like knee joints.
+
+“Two or three years ago, the question was whether the aerospace industry would start producing in this way,” Rene said in a telephone interview. “Now it’s just a question of when.”
+
+As the industry now races to use 3-D printing in order to make aircraft components lighter, GE Aviation has said it expects to print more than 100,000 parts for its jet engines by 2020. The U.S. engine maker will use Arcam machines for production of light-weight turbine blades by 2018 at the very latest, Rene said.
+
+Arcam shares rose as much as 4 percent and were trading 2.5 percent higher at 167 kronor at 10:13 a.m. local time in Stockholm.
+
+Global Market
+
+
+
+
+
+The global market for 3-D printing, also known as additive manufacturing, grew to more than $4.1 billion in 2014 from $3 billion in 2013, according to a report from consultant Wohlers Associates. Less than half of the market is for commercial production of parts, with most printers still being used to make prototypes.
+
+A shift is now on to move to live production, according to Olaf Diegel, a professor of product development at the Lund University in Sweden and a consultant with Wohlers.
+
+GE’s publicly-stated intentions have made other companies in the aerospace industry step up their own efforts. “They are leading the way,” Diegel said in an interview. “That’s pushing the rest of the industry.”
+
+“We are aggressively exploring opportunities for using additive manufacturing to produce several different jet engine components when the technology provides a clear benefit,” Greg Morris, head of additive manufacturing at GE Aviation, said by e-mail. The company is carrying out engine trials of various components including blades and vanes made using the technology, he said.
+
+Some of GE’s competitors have decided to start production using Arcam machines, according to Rene, who declined to name them.
+
+3-D printers build an object by thinly layering materials such as plastic powder, metal or liquid resin, following instructions from a computer-drawn blueprint. Arcam’s two-decade-old system uses an electron beam to melt metal powder into firm objects. The Swedish company says the method offers a faster manufacturing process than competing laser-based technologies, which are better suited for certain complex, smaller parts.
+
+German Competition
+
+
+
+
+
+“There are some things lasers do well, some things we do well and some things that can be done with either technology,” Rene said.
+
+Within the implant and aircraft parts markets, Arcam competes with the trio of German laser-based printing machine makers EOS GmbH, Concept Laser GMBH and SLM Solutions GmbH. According to the CEO, aerospace offers far bigger growth potential than the market for 3D-printed orthopedic implants, which Arcam currently dominates.
+
+“The aerospace industry is some 50 to 100 times larger than the implants industry,” Rene said. “Many components are unlikely to be made in 3D printers because they’re too large, but it’s still at least 10 times the size.”
+
+The biggest challenge is to convince manufacturers that it’s worth switching to additive manufacturing despite higher costs for materials, Diegel said. Metal powders for 3-D printing, like those made by Arcam’s AP&C subsidiary in Canada or by Sweden’s Hoganas, are still “10 to 100 times more expensive” than materials for conventional manufacturing. Nevertheless, he said, the shift is gaining momentum.
+
+“We’re at that tipping point now,” Diegel said. “Within the next five years, we’ll see it blast off like crazy and be adopted not just in aeronautics but in other industries as well.”
+
+Arcam delivered about 50 3-D printing systems in the past year, and though the company has doubled production capacity at its plant in Molndal, Rene expects periods when demand for its machines will outstrip manufacturing capacity.
+
+“In terms of floor space, we could probably make about 150 systems per year in Sweden,” Rene said. “That would require more assemblers, electricians and service engineers. We’re building that capacity.”
+
+For more, read this QuickTake: 3-D Printing

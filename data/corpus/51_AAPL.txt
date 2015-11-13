@@ -1,0 +1,19 @@
+Apple's most recent iPhone update comes with a new feature called Wi-Fi Assist, which automatically switches your iPhone's internet connection over to cellular data rather than Wi-Fi if the current Wi-Fi network you're using is too sluggish.
+
+It's a handy feature that's meant to cut down on buffering times when using apps and browsing the web.
+
+Last month, however, Quartz noted that this could lead to a hike in your monthly phone bill since Wi-Fi Assist is automatically turned on in iOS 9. This could make it more difficult to stay conscious of how much data you're using on a daily basis.
+
+Apple recently published a new support page about Wi-Fi Assist that offers more details about how the feature works and why it likely won't impact your phone bill very much.
+
+"For most users, this should only be a small percentage higher than previous usage," Apple writes on its page.
+
+Wi-Fi Assist, for instance, doesn't work with third-party apps that stream video or music or contain downloadable attachments, Apple says. This means the feature won't kick your phone over to cellular service for tasks that are particularly data intensive, such as streaming songs or Netflix or downloading big attachments from email apps.
+
+The feature only activates when you're actually using apps — not if you're downloading content (such as an app, a music album, etc.) in the background. It also doesn't switch to cellular if you're roaming.
+
+That being said, a few users have noticed a big jump in the amount of data they use month to month since iOS 9 launched, as Quartz noted. One user said he used 7GB of data compared to the 1-2GB he typically uses each month.
+
+To turn off this feature on your iPhone, navigate to Settings > Cellular and scroll all the way down to Wi-Fi Assist.
+
+NOW WATCH: The Samsung Galaxy S6 destroys the iPhone 6s in a few major ways

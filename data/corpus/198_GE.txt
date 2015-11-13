@@ -1,0 +1,17 @@
+NEW YORK (TheStreet) -- General Electric (GE - Get Report) shares appear poised to break out of the narrow range they plied from mid-April to mid-August, technical analysis suggests.
+
+Some traders may think that you can't predict when stocks will break out from consolidations because there is no dynamic trend that they can reverse. As the GE chart below reveals, however, there are are few indicators that can forecast breakouts.
+
+The long consolidation began mid-April and lasted until mid-August. During most of this period, the daily trading range was about half a point, making it very difficult to spot any type of breakout signal.
+
+Must Read: 4 Short-Sell Opportunities to Watch
+
+Beginning in late July, the first signal appeared, predicting a downward breakout. This was what is known as a Bollinger squeeze, a narrowing range within the Bollinger bands. This lasted through the first three weeks of August, then GE's price broke through support on a downward trend with runaway gaps. It culminated with the Aug. 24 decline, but on that day, in contrast to the very large lower shadow, the stock price moved up. And the following day, price was once again operating within the area between the lower and middle bands.
+
+A second Bollinger squeeze formed between Sept. 14 and Sept. 18. However, instead of forming in the lower section of the bands, this one formed between the middle and upper bands. Does this look like a bullish forecast?
+
+By itself, the Bollinger squeeze is not reliable enough. It needs strong confirmation. But this was provided by the trend in the moving average convergence divergence. During the long period of consolidation, the two MACD averages were above the signal line until July 1. Both averages then moved beneath the signal line and remained there until Sept. 18. On that day, the 12-day average reached the signal line, and both averages had been trending higher since the beginning of September.
+
+If the MACD lines both move above the signal line, it is a bullish confirmation of the latest Bollinger squeeze, and would be a forecast of price moving into higher territory. This could mean a bullish trend or just a return to the consolidation between $26 per share and $27 per share.
+
+If the MACD averages do move above the signal line, however, it would be a prudent time to make a modest options swing trade, using by buying call options or selling put options. The long call is pure speculation, since time works against the long side. Selling the put, however, brings money to you instead of requiring you to spend money buying an option. And the market risk profile of the uncovered put is identical to that of the covered call. Given the historical low volatility and consolidation trend for GE, the short put looks like a good strategy, assuming MACD confirms the Bollinger squeeze.

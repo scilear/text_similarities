@@ -1,0 +1,37 @@
+There's been news circulating in the last year about an impending Xiaomi laptop that is a dead ringer for the MacBook Air. Blog site Tech in Asia, for instance, debunked rumours of this last year when they began circulating.
+
+And yet, here is a story a few weeks ago in Bloomberg and validated by techtimes, introducing the same speculation -- that all signs point to Xiaomi coming out with its own laptop next year.
+
+This time around, trusted sources have apparently revealed that Xiaomi has been holding chats with Samsung Electronics to provide it memory chips for a Linux-based laptop, priced around $470, to be introduced in early 2016. Xiaomi may even source displays from the Korean major.
+
+It is hard to imagine that anyone in their right mind would want to enter the PC business today but leave it to Xiaomi, enfant terrible of the phone industry, to try and change that.
+
+If you were to have told anyone 15 years ago that PCs are a dying breed of machines they would have laughed at you. Today, PC shipments globally have witnessed their sharpest decline in nearly two years, plummeting 11.8 percent, year on year, according to research outfit IDC, to 66.1 million shipments during the second quarter of this year. Blame for the steep drop has been accorded to users hoping to avail of Windows 10 discounts this fall, but it's anybody's guess as to whether this new Microsoft operating system will revive PC sales. Ben Evans, Andressen Horowitz
+
+In fact, consumers have been ditching PCs since 2012 when shipments as a whole dropped 2.6 percent, according to Gartner, and then by 11.1 percent in 2013 and by 0.8 percent in 2014. IDC doesn't expect this trend of negative growth to continue in the following years: 8.7 percent in 2015, 1.1 percent in 2016, and maybe a mild recovery in 2017. As far as the consumer space is concerned, the company sees no hope of a reversal of fortunes through 2019.
+
+It is in these perilous waters that Xiaomi has decided to swim and its crosshairs are firmly centered on, not PC makers of the has-been Windows OS world like HP or Lenovo, but their eminently successful bête noir, Apple. This is pretty much how Xiaomi began its career as its wildly popular, Apple-imitating smartphones in China have propelled it -- in a remarkably short span of five years -- to become the biggest phone maker in the country, ahead of Huawei, Lenovo and Apple -- although the competition is neck-and-neck and rankings see-saw from quarter to quarter. It has also been largely responsible for obliterating giant Samsung's market share from 19 percent to 8 percent.
+
+In the computer arena, the reasons to once again chase and imitate Apple are obvious. No PC maker experienced year-on-year growth as of the second quarter this year ending in June, with the exception of Apple which grew an impressive 16.1 percent by selling 5.14 million computers, making it the fourth largest computer maker in the world. Remember when the Mac was considered a niche product not worth talking about when looking at PC sales?
+
+Still, why go after PCs? As Venture Capitalist Ben Evans has shown, there are 4 billion people buying phones every two years versus 1.6 billion people buying PCs every five years. "PCs aren't going away any time soon, any more than faxes or mainframes did, but they are the past, not the future," he said.
+
+PC sales hover around 300 million units a year, smartphone sales are now close to 2 billion a year, and there are 5 billion adults on Earth. Countries like India with a population of 1.3 billion are only at 30 percent smartphone penetration. Now, which device would you want to sell? Even tablet sales have started to slip, their lifecycles having started to mirror that of PCs as Phablets have begun to rule the universe.
+
+Another reason to avoid making PCs is what website ExtremeTech calls "good enough" computing. Initially, a single core in computers gave way to multi cores and enhanced performance, but while phones continue to upgrade, PC improvement has "run its course", with Intel holding core counts steady for the past six years. The average laptop on the shelves of stores has an average selling price somewhere between $400 and $500, and these don't sport screen resolutions or HDD RPMs that are dramatically different from your machine at home, according to ExtremeTech. Solid state drives on these are seldom seen in this category.
+
+And as far as enterprise sales are concerned (which is a reliable font of PC sales), Apple and IBM are spending a lot of time and money on ensuring that the organisation of today replaces the PC with iOS via the iPad and iPhone.
+
+These all look like compelling reasons to stay away from making a machine that has been thoroughly commoditised. Yet, things aren't so rosy on the smartphone front either, especially so in China where Xiaomi is a leader. Chinese phone sales -- which comprise 30 percent of the global pie -- fell by 4 percent for the first time, indicating that the country has reached saturation. In fact, globally, smartphone sales recorded the slowest year-over-year growth rate of 13.5 percent since 2013, according to Gartner.
+
+This means that Xiaomi needs to spread its bets and be present in every category that it thinks it can win in. After all, its fitness tracker, the Mi band, has managed to flog a million units in just a year and become the world's second largest seller of wearables behind Fitbit, which has been at it since 2009.
+
+Xiaomi churned $12 billion in revenue last year by selling routers, smart TVs, headphones and random accessories in addition to its mobile phones. But it is in phones that Xiaomi has wowed the world; making mid-level, stylish smartphones with premium components at eye-poppingly cheap prices that are easily far better value propositions than their higher-end brethren. And it has been able to do so with a noticeable absence of glitzy advertising campaigns fronted by global celebrities. Instead, its largely website-driven sales helps it to manage inventory and keep working capital down.
+
+If Xiaomi can replicate the success that Apple has enjoyed in PCs, as well as the world of phones, the company could complete the universe of devices that Xiaomi needs to establish a presence in, so it can pursue a carefully honed strategy for its future.
+
+And what is that strategy? One that Vice President Hugo Barra articulated a little less than a year ago during a phone launch in India: "We are not looking to make profits out of selling our phones. Our phones are just the starting point. We will make our money in the long run from an ecosystem around our devices. Like Amazon who built Kindle, Fire Phone, and invested in technology to boost its core ecommerce. Similarly, our phones are just a means to an end, and not the end," Barra explained to Tech in Asia.
+
+Amazon's Fire Phone isn't the best benchmark to use -- but to be fair to Barra, he said this before the Fire phone turned out to be an abysmal failure.
+
+If his plan does work, however, and Xiaomi's PCs experience the same dazzling success that its phones and fitness bands have achieved in such a short period of time, this Chinese company will cause a further upheaval in the PC market, which brands like Toshiba, HP and Dell may find hard to challenge, or even survive.

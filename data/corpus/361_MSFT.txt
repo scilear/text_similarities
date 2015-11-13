@@ -1,0 +1,21 @@
+Microsoft has signed a security agreement with NATO that allows the organisation to vet Microsoft products' source code for backdoors.
+
+The deal extends Microsoft's 12-year cybersecurity partnership with the NATO Communications Information (NCI) Agency and marks the Redmond company's latest Government Security Program (GSP) agreement.
+
+Microsoft struck a similar agreement with the EU in June and opened its second European Transparency Centre in Brussels to offer governments a secure location to review its source code.
+
+According to Microsoft, the agreement means the NCI agency will gain access to technical information and documentation about Microsoft products and services, as well as threat intelligence and product vulnerability information.
+
+Microsoft launched GSP in 2003, and the program has since evolved into a set of resources for government officials offerings controlled access to source code, access to its Transparency Centers, and vulnerability and threat intelligence from the company.
+
+Products available for vetting include multiple editions of Windows and Windows Server, Office, Lync, SharePoint 2010, and Windows Embedded.
+
+With NATO onboard, Microsoft now has 44 different agencies from 26 governments across the world participating in the program.
+
+Microsoft also says that the GSP will help participants plan for Windows 10 deployments and the migration of services to the cloud.
+
+The new cybersecurity agreement was announced at NATO's annual cyber conference, where NATO says it made progress in the NATO-Industry Cyber Partnership, an initiative launched in 2014 to engage industry partners and academia with NATO's 28 allies. The partnership's aim is to boost defences against cyberattacks that may affect physical infrastructure.
+
+"We see this signing as another step forward in the NATO-Industry Cyber Partnership, building a stronger cyber defence network today with Microsoft, but also with other industry partners across the world," said ambassador Sorin Ducaru, assistant secretary general of NATO's emerging security challenges division.
+
+Read more

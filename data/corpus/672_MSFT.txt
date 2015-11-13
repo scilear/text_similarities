@@ -1,0 +1,37 @@
+LONDON--(BUSINESSWIRE)--
+
+Workshare, Microsoft Gold partner, today announced that its market-leading document comparison, protection and file sharing capabilities are available across the Microsoft cloud. This allows legal professionals to speed up the document production process, and share documents more securely using Microsoft Azure and Office 365.
+
+Workshare is an integration partner working to extend the capabilities of Microsoft’s Matter Center for Office 365. The Workshare Compare tool will support faster document editing, revision and comparison for matters within Matter Center. By integrating comparison and metadata removal capabilities into Matter Center, Workshare ensures that lawyers can share their documents securely across devices, and get to the final version faster. Because Matter Center is built on an enterprise-grade cloud platform, these productivity gains can be realized while also reducing risk and cost.
+
+By helping clients migrate their key workflows to Microsoft Office 365, Workshare continues to support the goal of extending its productivity enhancing capabilities across devices and platforms. With this in mind, Workshare also now supports Microsoft Surface devices running Windows 10, so lawyers can compare documents and accept relevant changes using Workshare Professional on their Surface device.
+
+“Workshare's deep presence in the legal industry fits well with Microsoft's goal of helping people to achieve more,” said Nishan DeSilva, senior director, Technology Solutions and Evangelism, Legal and Corporate Affairs, Microsoft. “This latest announcement marks the first step in helping the legal industry to migrate core applications over to Office 365 and Azure."
+
+“With more firms increasingly focused on fee-earner productivity, enabling law firms to operate as efficiently as possible is of prime importance to us” commented Anthony Foy, CEO at Workshare. “With this in mind, our latest releases reaffirms our 16-year commitment to supporting the legal industry and Microsoft users.”
+
+-ENDS-
+
+Resources
+
+Learn more about Workshare and why it is the only cloud-enabled application designed for the enterprise by visiting http://www.workshare.com/
+
+Connect with Workshare on its blog, and on Twitter, LinkedIn and Facebook
+
+Tags
+
+Workshare, Microsoft, enterprise collaboration, secure collaboration, compliance, file sharing, enterprise, IT, security, Office 365, Microsoft Azure
+
+ABOUT WORKSHARE
+
+Workshare is a leading provider of secure enterprise file sharing and collaboration applications. Workshare allows individuals to easily create, share, and manage high-value content anywhere, on any device. Workshare enhances the efficiency of the collaborative process by enabling content owners to accurately track and compare changes from contributors simultaneously. Workshare also reduces the commercial risk posed by inadvertently sharing confidential or sensitive documents. More than 2 million professionals in 70 countries use Workshare’s award-winning desktop, mobile, tablet, and online applications. For more information visit http://www.workshare.com or follow Workshare @ https://www.twitter.com/workshare.
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20150902005910/en/
+
+Workshare
+
+Georgina Heaume
+
+T: +44 (0) 207 539 1331
+
+E: georgina.heaume@workshare.com

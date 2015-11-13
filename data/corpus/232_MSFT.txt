@@ -1,0 +1,15 @@
+NEW YORK (TheStreet) -- Shares of NVIDIA (NVDA - Get Report) were gaining 2.7% to $24.36, hitting a 52-week high of $24.58, on Wednesday after the announcement that Microsoft (MSFT) will offer NVIDIA GPU-enabled applications and accelerated computing graphics to Azure customers.
+
+Microsoft will deploy the newest version of NVIDIA GRID in its new N-Series virtual machine offering to provide NVIDIA GRID 2.0 virtualization graphics to enterprise customers.
+
+The offering will be the first time businesses will be able to use NVIDIA Quadro-grade graphics through the cloud. Azure will also give businesses access to the NVIDIA Tesla K80 GPU accelerators, which offer "supercomputing-class performance" for demanding data center and high performance computing applications.
+
+"Our vision is to deliver accelerated graphics and high performance computing to any connected device, regardless of location," NVIDIA Co-founder and CEO Jen-Hsun Huang said in a statement. "We are excited to collaborate with Microsoft Azure to give engineers, designers, content creators, researchers and other professionals the ability to visualize complex, data-intensive designs accurately from anywhere."
+
+About 10.3 million shares of NVIDIA were traded by 2:57 p.m. Wednesday, above the company's average trading volume of about 8.3 million shares a day.
+
+TheStreet Ratings team rates NVIDIA CORP as a Buy with a ratings score of B. TheStreet Ratings Team has this to say about their recommendation:
+
+We rate NVIDIA CORP (NVDA) a BUY. This is driven by some important positives, which we believe should have a greater impact than any weaknesses, and should give investors a better performance opportunity than most stocks we cover. The company's strengths can be seen in multiple areas, such as its revenue growth, largely solid financial position with reasonable debt levels by most measures, good cash flow from operations, solid stock price performance and expanding profit margins. We feel its strengths outweigh the fact that the company has had sub par growth in net income.
+
+Highlights from the analysis by TheStreet Ratings Team goes as follows:

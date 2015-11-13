@@ -1,0 +1,39 @@
+Back in 2012, Microsoft (NASDAQ:MSFT) launched the Surface RT and the Surface Pro. The Surface RT did not run full Windows; instead it was a variant of Windows that was not compatible with Intel (NASDAQ:INTC) processors and thus not compatible with the vast Windows software library.
+
+This device, and its direct successor, the Surface 2, did poorly in the marketplace. The Surface 3, which launched earlier this year, now uses an Intel Atom processor.
+
+The Surface Pro, on the other hand, featured an Ultrabook-oriented Ivy Bridge chip from Intel. Although this meant that the device offered a reasonably good amount of performance, a common criticism was that battery life was relatively poor.
+
+Thanks to new, more efficient, Haswell processors (i.e., fourth-generation Core) from Intel, the Surface Pro 2 delivered solid improvements in performance and battery life over the original Surface Pro. The Surface Pro 3 used the same Haswell processors found in the Surface Pro 2, so battery life and performance didn't really improve.
+
+With the Surface Pro 4 line of devices, Microsoft is delivering a full two-generation jump in processors in going from Haswell to Intel's new Skylake processors. Although this in itself isn't a big deal (all PC vendors will be moving to Skylake soon enough), the particular processors that Microsoft is using in the Surface Pro 4, in my view, say quite a lot about Intel and Microsoft's relationship.
+
+The Surface Pro 4 represents the first sighting of Skylake with Iris graphics
+
+According to Microsoft, the Surface Pro 4 can be configured with one of the following three processors:
+
+Core m3
+
+Core i5 with Intel HD graphics 520
+
+Core i7 with Intel Iris graphics
+
+The Core m3 and Core i5 with HD graphics 520 aren't unexpected; Microsoft has traditionally used low-power Intel processors with two CPU cores and GT2 graphics in its Surface Pro line of tablets. The surprise here is that Microsoft offers the option to use a Core i7 processor with Iris graphics.
+
+Traditionally, it has been Apple (NASDAQ:AAPL) that would be the first to adopt the latest low-power Core i-series processors in its MacBook Air systems. At least, this was the case with the Haswell and the Broadwell generations of chips from Intel.
+
+In this case, Microsoft seems to be the very first system vendor out of the gate with systems utilizing Intel's very highest end mobile silicon, actually beating Apple to the punch.
+
+What does this say about the relationship between Intel and Microsoft?
+
+The fact that Microsoft seems to be the first PC vendor to launch systems using Intel's Iris seems to be a pretty clear sign that the relationship between Intel and Microsoft has strengthened significantly since 2012.
+
+By working together to define what experiences they want to bring to the PC platform, both Intel and Microsoft can benefit. Microsoft and Intel can work together to define what user experiences they would like to bring to next generation PCs and Intel can design its chip platforms in order to make sure that those experiences are delivered to customers in the best, most power-efficient way.
+
+What does this mean for the Intel and Apple relationship?
+
+Although it would seem that Microsoft is getting "first dibs" on Intel's newest low-power silicon at Apple's expense, I don't view it this way.
+
+Note that only the very highest end Surface Pro 4 tablet will use an Intel Core i7 with Iris graphics; the remaining models will use either Core i5 chips or Core m3 chips with much less powerful graphics. This means that only a fraction of the chips that Intel will sell to Microsoft for the Surface Pro 4 will be the higher-end, harder-to-build Core i7 chips with Iris graphics.
+
+In contrast, the MacBook Air line of systems is relatively high volume, meaning it will have to wait until Intel can supply these chips in very high volumes at an attractive cost structure.

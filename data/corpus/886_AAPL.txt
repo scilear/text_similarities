@@ -1,0 +1,17 @@
+Reviewers have said the new iPhone 6S is a noticeable improvement over the iPhone 6 in terms of overall speed and performance.
+
+However, it looks like the new iPhone is also more powerful than Apple's recently unveiled 12-inch MacBook, at least according to one test.
+
+Daring Fireball's John Gruber compared test results from the iPhone 6S and new MacBook to find that the results from Apple's latest iPhone were actually higher in some cases.
+
+Both devices were tested using GeekBench — a tool that measures the general performance of computers and mobile devices.
+
+On the single core test from GeekBench, the iPhone 6S scored a 2,500, which is higher than the scores of both the 1.1GHz MacBook (2,295 score) and 1.2GHz MacBook (2,420 score).
+
+GeekBench tests gadgets in three separate categories and combines them to provide a general performance score. These categories are designed to test how the device performs overall, how well it can run video games, apps for content creation, and general high-performance computing applications. It also tests the memory bandwidth of a computer, which impacts software that works with large amounts of data.
+
+"The new iPhone 6S beats the new MacBook in single-core performance on GeekBench, and is within spitting distance in multi-core," Gruber wrote. "I can't wait to see the scores for the iPad Pro later this year."
+
+A core is the basic computational unit in a processor, as Stack Overflow, a question-and-answer site for programmers, explains. The more cores a processor has, the more tasks it's capable of handling at once. A tool such as GeekBench's single-core test is useful when trying to figure out how powerful the individual parts (cores) of a processor actually are.
+
+NOW WATCH: Animated map reveals the 550,000 miles of cable hidden under the ocean that power the internet

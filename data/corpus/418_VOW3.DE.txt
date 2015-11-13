@@ -1,0 +1,55 @@
+Reverberations from the Volkswagen (NASDAQOTH:VLKAY) emissions cheating scandal that came to public light Sept. 25 continue in the financial, regulatory, and political arenas around the world. Since the "Dieselgate" story broke, shares of the world's largest automaker have plummeted about 29% through Friday.
+
+The deliberate, widespread, and long-term violation of the United States' and other regions' environmental regulations is obviously terrible news for the German auto giant. However, it could turn out to be great news for electric vehicle makers such as Tesla Motors (NASDAQ:TSLA), as this event has the potential to be a watershed moment for the "Electric Vehicle Movement."
+
+Before we turn our attention to why VW's pain could be the EV Movement's gain, here are the scandal's highlights:
+
+Volkswagen emissions cheating scandal highlights:
+
+On Sept. 25, the U.S. Environmental Protection Agency alleged that Volkswagen installed software in some car models so they'd run cleaner during emissions testing than they do on the road.
+
+These "defeat devices" result in "cars that meet emissions standards in the laboratory or testing station, but during normal operation, emit nitrogen oxides, or NOx, at up to 40 times the standard," according to the EPA.
+
+482,000 autos sold in the U.S. are affected. These vehicles are the 2009-15 VW Jetta, Beetle, Golf, Passat, and Audi A3 equipped with 2.0 liter TDI 4-cylinder engines, marketed as "TDI Clean Diesel" engines.
+
+The EPA ordered VW to fix the affected models and halt sales of new models.
+
+On Tuesday, the scandal became international in scope when VW admitted that 11 million autos worldwide are affected.
+
+On Wednesday, CEO Martin Winterkorn announced his resignation.
+
+On Friday, VW named the head of its Porsche unit, Matthias Mueller, as new CEO.
+
+Fines in the U.S. alone could reach $18 billion.
+
+The U.S. Justice Department opened a criminal probe.
+
+Regulatory agencies around the globe are launching investigations.
+
+Class action lawsuits are rolling in.
+
+VW announced plans to take a charge of 6.5 billion euro ($7.3 billion) against earnings in the third quarter to cover the costs associated with this issue. It said the amount of the charge "may be subject to re-evaluation."
+
+Why would Volkswagen stoop so low?
+
+We don't yet know the scope of the involvement in this scheme, but you have to wonder how those involved could be so... stupid, among other things.
+
+Unless they were inhaling those noxious NOx emissions while carrying out their plot, here's the most obvious answer: They felt under enormous pressure to produce diesel vehicles that would meet increasingly tougher environmental and fuel efficiency standards (such as the corporate average fuel efficiency, or CAFE, standard in the U.S.) without sacrificing driving performance. This while appealing to customers and allowing VW to make a certain profit margin. My guess is that they found that this could not be done, at least for some vehicles and in some markets.
+
+Audi's diesel offerings provide support for this premise. In addition to the TDI Audi A3, considered Audi's "entry level" premium vehicle, Audi also produces other models – the A6, A7, Q5, Q7, and A8L – that are available with TDI clean diesel engines. These models, however, aren't affected. That's likely because their higher sticker prices allow for the inclusion of more expensive emissions technology. Upping the cost just a little of the emissions tech installed in more mass-market vehicles would cut into profit margins, which are already much slimmer than those for premium vehicles.
+
+Additionally, there's another possibility: That equipping all of its mass-market diesel vehicles with its "AdBlue" emissions systems -- which involves a tank of a urea-based solution -- would be viewed unfavorably by consumers in some markets. These systems involve additional minor preventive maintenance, as tanks must be periodically topped off.
+
+Other possibilities come to mind, too. Regardless, it seems extremely probable that cheating of this magnitude wouldn't be committed if the diesel mass-market vehicles involved could have been produced to meet emissions standards without sacrificing target fuel efficiency, performance, other customer-appeal factors, and/or VW's desired profit margin.
+
+VW's emissions scandal a watershed moment for electric vehicles?
+
+So, it seems safe to say that Volkswagen will likely have to rethink its U.S. strategy, which has emphasized "clean diesel" over hybrids or EVs to meet this country's tightening corporate average fuel efficiency, or CAFE, standards. Diesel cars accounted for less than 4% of the number of new vehicles sold in the U.S. last year, however, their sales growth has accelerated in the last couple years. Further, diesel cars account for nearly one quarter of VW's sales in the U.S., so they've been critical to VW's performance in the U.S.
+
+VW might have to rethink its European strategy, as well -- at least eventually. Europe's emissions standards are becoming increasingly more stringent, and recently there's been much public outcry about the smog being caused by autos. Diesel cars are extremely popular in Europe, accounting for anywhere from more than 40% to nearly 50% of new car sales, depending upon the source. This chart shows how critical diesel auto sales are to the financial health of VW and other European automakers that dominate the European market:
+
+In light of this scandal, it's seems close to a sure thing that Volkswagen will begin emphasizing EVs, rather than diesels, to meet U.S. CAFE standards. Additionally, it seems likely that momentum away from diesels and toward EVs might start to occur in the European market, though likely slowly.
+
+EVs have garnered a lot of momentum in recent years, thanks largely to Nissan, with its more affordable Leaf, and Tesla. Tesla's introduction of the Model S proved that one doesn't have to sacrifice style or high performance when buying an EV. Perhaps most importantly, though, Tesla's super-fast Superchargers have significantly cut down on charging time, which was largely seen as the major hurdle holding EVs back from greater adoption. The momentum behind EVs should further accelerate when Tesla introduces the more affordable Model 3, which CEO Elon Musk recently tweeted will start at $35,000 with production beginning in 2017.
+
+The VW emissions scandal could join the above-noted events as one of the milestones in the "EV Movement." Certainly, diesel's pain could be EV-makers' gains. That's especially true of Tesla, which has three ways in which it can profit from greater worldwide EV sales: sales of its Model S and Model X (and eventually Model 3) vehicles, sales of batteries produced at the Gigafactory to other EV makers, and charging a fee for other automakers' EVs to use its Superchargers.

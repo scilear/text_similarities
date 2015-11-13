@@ -1,0 +1,19 @@
+For the longest time, Amazon.com (NASDAQ:AMZN) kept quiet about its booming cloud business. That all changed in January of this year when the company said it would finally begin reporting AWS financial results as its own segment, and investors cheered the e-commerce giant's move toward greater transparency. Now that Amazon has let the cloud cat out of the bag, it's happy to start bragging about how big AWS has become.
+
+The strong get stronger
+
+Amazon is hosting its annual re:Invent conference this week, and shared some impressive metrics to kick off the event. The AWS business is now at a $7.3 billion annual run rate and posted 81% revenue growth last quarter. Now, those tidbits aren't exactly new data points, since Amazon's most recent 10-Q already told investors that AWS generated $1.8 billion in revenue last quarter (and all you have to do to get the annual run rate is multiply it by 4).
+
+But at the same time, the company has indirectly shared some more information. So far, Amazon has shared AWS results for the past two quarters, alongside the year-over-year comparisons. This is all investors had.
+
+Using the chart above that Amazon displayed during the keynote, you can back into quarterly figures for the missing pieces.
+
+Amazon also said it now has over 1 million active customers, and Elastic Cloud Compute, Simple Storage Service, and database services are all soaring. Even as Microsoft's (NASDAQ:MSFT) Azure and Alphabet's (NASDAQ:GOOG)(NASDAQ:GOOGL) Google Compute are growing nicely, Amazon continues to outpace them and maintain its lead. And we're not talking about just revenue or cloud capacity; we're also referring to Amazon's vision and ability to execute.
+
+Gartner has named AWS the leader using its Magic Quadrant framework for the fifth consecutive year in a row. In fact, only Amazon and Microsoft are considered strong contenders in terms of ability to execute, as Google doesn't tend to focus as much attention on Google Compute compared to its rivals. In the first quarter, AWS was still larger than its four biggest competitors combined, according to Synergy Research Group.
+
+AWS is Amazon's most profitable business, by far
+
+Amazon's cloud infrastructure business is also significantly more profitable than the company's core e-commerce business, which is infamously unprofitable since Amazon continues to reinvest heavily. Even with the ongoing pricing war for commoditized services, Amazon is enjoying healthy operating margins thanks to the higher-value services that it sells. AWS posted $391 million in operating income last quarter for a 21% operating margin. This profitability has fluctuated quite a bit, anywhere from 8% to 23%, but remember that we only have four quarters' worth of data, which is a small sample size.
+
+Consider the fact that Amazon's core domestic e-commerce business generated $703 million in operating income last quarter, or about a 5% operating margin, while international e-commerce operates in the red. Put another way, AWS comprised just 8% of revenue but 36% of overall operating income last quarter. On top of that, AWS has launched a whole slew of new features and tools during the conference. AWS' lead isn't going anywhere anytime soon.

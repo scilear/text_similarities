@@ -1,0 +1,31 @@
+By Andrew Chung
+
+NEW YORK (Reuters) - A U.S. appeals court on Thursday said Apple (AAPL.O) should have been awarded an injunction barring Samsung from selling products that infringe its patents, handing Apple another victory in its ongoing smartphone fight with its biggest rival.
+
+The U.S. Court of Appeals for the Federal Circuit in Washington, D.C. said the lower court abused its discretion when it denied Apple Inc an injunction after a jury ordered Samsung Electronics Co Ltd to pay $120 million in May, 2014 for infringing three of Apple's patents.
+
+The case involved Apple patents covering the iPhone's slide-to-unlock, autocorrect and data detection features.
+
+The 2-1 appeals court ruling said that Apple's proposed injunction is narrow because it does not want to ban Samsung's devices from the marketplace, and that Samsung can remove the patented features without recalling its products.
+
+"Apple does not seek to enjoin the sale of lifesaving drugs, but to prevent Samsung from profiting from the unauthorized use of infringing features in its cellphones and tablets," the court said.
+
+The case was sent back to a federal district court in San Jose, California, to reconsider the injunction.
+
+After the jury verdict last year, U.S. District Judge Lucy Koh in August, 2014 refused Apple's request for a permanent injunction to stop Samsung from selling the infringing features on its smartphones.
+
+In a statement, Samsung sought to reassure its customers that all of its flagship smartphones will remain available for sale and customer service support.
+
+Calling Apple's injunction request "unfounded," a spokeswoman said Samsung will ask the full slate of Federal Circuit judges to review Thursday's decision.
+
+Apple reiterated its previous comments about the case, saying "Samsung willfully stole our ideas and copied our products."
+
+In a separate, blockbuster case, the Federal Circuit in May stripped about $382 million from a $930 million judgment against Samsung stemming from a 2012 verdict for infringing Apple's patents and copying the look of the iPhone. Both companies are now sparring in Koh's court over a final damages figure in that case.
+
+The impact of Thursday's decision on Samsung could be limited because the company has been bracing for a possible injunction, said Michael Risch, a professor of law at Villanova University School of Law. Samsung has probably designed around the features or abandoned them already, he said.
+
+In the Apple-Samsung patent wars, "Apple has won every round," he said. "But the reality is it hasn't actually slowed Samsung down."
+
+The case is Apple Inc v. Samsung Electronics Co Ltd, in the U.S. Court of Appeals for the Federal Circuit, No. 14-1802.
+
+(Reporting by Andrew Chung; Editing by Alexia Garamfalvi and Alan Crosby)

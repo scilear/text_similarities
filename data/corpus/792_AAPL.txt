@@ -1,0 +1,21 @@
+Amazon plans to stop selling Apple and Google video-streaming devices on its site, Bloomberg reports.
+
+Amazon sent an email to its marketplace sellers declaring that on October 29, it will stop allowing new listings for Apple or Google video-streaming products, like Chromecast or the new Apple TV, because they don't work well with Amazon's own video-streaming service, Prime Video.
+
+It will also take down old listings.
+
+The move ratchets up the growing competition between Amazon, Google, and Apple.
+
+Other popular video-streaming hardware that does "interact well" with Prime Video, like Roku and the Playstation, will still be sold on Amazon.
+
+"Over the last three years, Prime Video has become an important part of Prime," Amazon said in the email, according to Bloomberg. "It’s important that the streaming media players we sell interact well with Prime Video in order to avoid customer confusion."
+
+Google's Chromecast streaming stick could actually support the Amazon Prime Video app, because Google makes its software-development kit (SDK) openly available to all developers. Apple makes a beta version of its new tvOS SDK available.
+
+In an email to Business Insider, an Amazon spokesperson added: "Roku, XBOX, PlayStation and Fire TV are excellent choices."
+
+In the last few years, Amazon has made a huge investment in TV streaming, including releasing original shows and signing exclusive licensing agreements with networks like CBS.
+
+By overtly removing the listings of two of its top TV-streaming-hardware competitors, Amazon highlights its own recently revamped devices — the $99 Fire TV and the $30 Fire Stick.
+
+NOW WATCH: The insanely successful and unorthodox life of Google founder Sergey Brin

@@ -1,0 +1,31 @@
+On Sept. 30, analyst Timothy Arcuri with Cowen and Company put out a note (via Barron's) suggesting that Intel (NASDAQ:INTC) might have an opportunity to win Apple's (NASDAQ:AAPL) A10 chip manufacturing business.
+
+The A9, which made its debut with the iPhone 6s and 6s Plus, is dual sourced from both Samsung (NASDAQOTH:SSNLF) and Taiwan Semiconductor (NYSE:TSM) on their respective 14-nanometer and 16-nanometer processes.
+
+Arcuri argues that because 10-nanometer technology from the foundries won't be available in time for a 2016 ramp of the A10, Apple could choose to build the A10 on Intel's 14-nanometer process which he argues offers performance and area scaling benefits relative to the current foundry 14/16-nanometer processes.
+
+However, I think that Arcuri is incorrect about the A10. Furthermore, I believe that Intel has effectively no chance of winning Apple's A-chip business at least over the next several manufacturing technology generations. Here's why.
+
+A10 is already decided, and it's not Intel Inside; Intel 10nm too late for A11
+
+Although Arcuri's speculation with respect to Apple's potential plans for the A10 seem sensible, it was recently reported in the Commercial Times that TSMC has won the entirety of the Apple A10 orders -- something that I believe to be accurate.
+
+With Intel 14-nanometer essentially out of the Apple A-chip equation, the next process that Intel could conceivably be able to win Apple business at is the 10-nanometer node. However, there is plenty of reason to be skeptical that this is possible.
+
+Keep in mind that with each generation, Intel rolls out two "flavors" of its manufacturing processes; one tuned for high-performance CPUs and one with the required features and transistor options suitable for system-on-chip designs. The high performance CPU process flavor is usually first with the system-on-chip process available some number of quarters later -- though to Intel's credit, at the 14-nanometer generation this gap was just two quarters.
+
+Intel has said that it plans its first internal 10-nanometer products to arrive in the marketplace during the second half of 2017. I would be absolutely floored if Intel were able to successfully ramp a high-volume system-on-a-chip for what is one of the industry's most demanding fabless chipmakers at the same time that it's trying to deliver its first 10-nanometer PC products.
+
+TSMC and Samsung, on the other hand, have both signaled that they will go into high volume production at the 10-nanometer node by the end of 2016, which should give either of them enough time to ramp up production for Apple.
+
+What about the 2018 iPhone?
+
+For the 2018 iPhone, a similar argument for Intel's 10-nanometer that Arcuri made for Apple potentially using Intel 14-nanometer could be made. Based on public statements about transistor area scaling in going from 14/16-nanometer to 10-nanometer, it looks like Intel will have a significant transistor density advantage over what TSMC brings at 10.
+
+However, TSMC has publicly said that it plans to commence "risk production" of its 7-nanometer technology in early 2017. This technology, according to TSMC's Jack Sun (via EETimes), should deliver "either 10%-15% higher speeds or 25%-30% lower power than the 10-nanometer node" and 40%-45% less area (i.e., a scaling factor of between 0.55 and 0.6).
+
+This node, if TSMC delivers, should be able to close the gap that will probably exist between Intel's and TSMC's respective 10-nanometer nodes.
+
+If TSMC can get 7-nanometer into high volume manufacturing by the first quarter of 2018, a year after "risk production" is slated to begin, then I suspect that this will be more attractive to Apple than Intel's 10-nanometer technology for the iPhone that launches in the fall of 2018.
+
+As an Intel stockholder, I'm not counting on seeing the company win the manufacturing contract to build Apple's A-series processors for the foreseeable future.

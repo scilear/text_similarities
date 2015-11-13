@@ -1,0 +1,55 @@
+The Android brand is smeared with the grime of fragmentation and security issues for good reason; both have been long-standing problems with the platform.
+
+A potential solution would be Google taking a stronger hold of the Android updating process, but given the events of last week, such a move could land Google in more hot water than it already finds itself in.
+
+According to Bloomberg, US antitrust regulator, the Federal Trade Commission, is looking to open an investigation into whether Google blocked rivals' access to Android.
+
+At the heart of the issue is what has been coined "home-screen advantage", the contract clauses that allow Google to force handset makers to bundle its entire app, search, and service offering if they want to offer a Google-blessed and labelled Android experience.
+
+As a mostly open source offering, it does seem strange that Android could be the target for an antitrust investigation -- with the mantra that if a competitor feels aggrieved by Google's actions, then they can, and should, fork the code and build their own offering, holding some weight.
+
+But that is not enough for the unnamed competitors that have been reportedly meeting with the FTC -- they want to be able to replace Google apps while taking advantage of Google's hard work, maintenance, and infrastructure.
+
+The issue at hand does not seem to be the ability to preload alternative apps on a system and leave the Google apps in the equivalent of a dark corner on the device -- Samsung did just this for many years on TouchWiz when there were duplicate apps for functionality including maps, email, and contacts. Instead, the thrust seems to be that users or handset makers should be able to turf out a Google app and replace it for one of their choice.
+
+This is actually a laudable goal, but one that is quite unrealistic in a world of battling tech giants.
+
+For instance, take the argument that handset makers should be able to replace Google Maps with Bing Maps or Here Maps.
+
+Knowing a user's location is playing a bigger part in computing each day, and it would be a good idea if users could choose where their location data was stored, and which corporation might have access to it, if they chose to enable it at all.
+
+However, to enable a drop-in non-Google replacement for Android's Location Services, Google would need to create a standard interface for such services, and more than likely reveal a couple of patented techniques for how the service works in the process.
+
+In the real world, this is simply something that Google would not be prepared to do. Whether it be maps, contacts, or Google Now integration, standardising features would hobble its unilateral ability to make swift changes in each successive Android version, and increase complexity and therefore potential security holes in an operating system that does not need any more security problems. Google also needs to be able to protect its Android branding to allow anyone to make changes to the system, and still using the Android name would not be helpful to Google, or consumers -- such an arrangement is used for Mozilla Firefox.
+
+Even if Microsoft were able to replace Android Location Services with a Bing version, what would Google have to gain from such an arrangement? When an Android update made its way to a handset, for instance, and the new OS version changed its APIs to such an extent that Bing Maps failed because Microsoft had yet to issue a compatible version, where would the blame fall?
+
+A learned user is likely to realise that Microsoft was falling behind, but the lay-user is more than likely to believe that the new Android version killed the maps on their device. Similarly, if malware found its way onto a device through one of these replaced services, Android is more likely to be blamed than the offending piece of code.
+
+There are very good reasons why Google offers its app and service suite holus-bolus; some are based on security and Android's design, while others are based on monetisation, and the need to drive data and revenue to Google's offers.
+
+As Google gives Android away to handset makers, it needs to find another method to make money from Android, and pushing its bundled apps is the price of using the official Google Android build. In fact, thanks to patent licensing, Microsoft makes billions more from Android, at least initially, on each Android installation.
+
+Coming up with a replacement to Google's bundle is far from impossible: Amazon has done it with its Fire line, CyanogenMod has done it, and even Nokia made an Android-based OS that replaced Google with Microsoft in every part of the system.
+
+Were the FTC to require Google to decouple its bundle from Android, it's hard to see it looking much different to what is currently offered by the Android Open Source Project.
+
+But taking the open source version of Android and putting one's own services on top of it seems to be too hard or require too much of a commitment for some.
+
+The irony of a potential future decision requiring Google to take a step back from Android is that it is not what the ecosystem needs.
+
+For a long time Android has needed to speed up its updating process. With carriers and handset makers dragging their heals, it seems the only way to increase updating cadence is for Google to strong-arm the Android ecosystem into lifting its game.
+
+One of the ways to force updates onto devices that are lagging is for Google to use its Play Services infrastructure, the very same bundled infrastructure that the FTC has problems with. If Google is unable to guarantee that particular apps and services are not present on an Android device, then it hinders its ability to respond quickly to security issues in the lower parts of the operating system.
+
+Of the competing mainstream mobile platforms -- Android, iOS, and Windows Phone -- it is Android, the most open and successful one, that suffers from its unique fragmentation and the related security issue of millions and millions of unpatched handsets and tablets remaining vulnerable years after Google has released a fix.
+
+A little of the control that Apple and Microsoft are able to exercise of their mobile platforms would help Google push through some of the problems with its current arrangement. This would actually help the experience for consumers rather than hinder it, and would be a good use of Google's "monopoly" power, if such a thing even exists.
+
+There are plenty of alternative operating systems available, and plenty of different flavours of Android to use if the official builds are not up to scratch, but none have made anywhere near the impact of the official Android -- customers clearly want and enjoy being hooked into Google's ecosystem.
+
+Theoretically, it would be great if we were able to tailor Android to use different services from different vendors, but the realpolitik says that such a dream is illusive.
+
+ZDNet's Monday Morning Opener is our opening salvo for the week in tech. As a global site, this editorial publishes on Monday at 8am AEST in Sydney, Australia, which is 6pm Eastern Time on Sunday in the US. It is written by a member of ZDNet's global editorial board, which is comprised of our lead editors across Asia, Australia, Europe, and the US.
+
+Previously on the Monday Morning Opener:

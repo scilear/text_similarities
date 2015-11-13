@@ -1,0 +1,27 @@
+Another year, another iPhone controversy that Apple (NASDAQ:AAPL) inevitably faces. In 2014, it was Bendgate, where the iPhone might bend if you tried really hard. In 2013, security research firms were able to crack the new Touch ID fingerprint sensor. In 2012, it was the disastrous launch of Apple Maps as the standard mapping service for the iPhone. Perhaps the most prominent controversy was 2010's Antennagate, which was related to how the iPhone 4's antenna was designed. The list goes on.
+
+This year, the latest debate is over Apple's dual sourcing of its A9 processor. One is decidedly better than the other.
+
+When two is not better than one
+
+Starting last year after much speculation, Apple finally tapped Taiwan Semiconductor (NYSE:TSM) to pitch in with manufacturing the A8 chip. Longtime frenemy Samsung was still in the mix, supplying an estimated 40% of the processors for the iPhone 6 and 6 Plus.
+
+Shortly after the iPhone 6s and 6s Plus launched, the subsequent teardowns showed that Apple was continuing to dual source the A9 from Samsung and Taiwan Semiconductor. Initially, the expectation was that Samsung would produce the A9 while Taiwan Semiconductor would make the A9X for the forthcoming iPad Pro, but it turns out that the two vendors are sharing the A9 win within iPhones.
+
+Samsung and Taiwan Semiconductor use different but similar manufacturing processes and technologies, and some recent benchmarking tests show that Taiwan Semiconductor variants of the A9 are more power efficient -- leading to great battery life. Considering the importance of battery life to mobile devices, this is potentially an important distinction, and users have no way of knowing which chipmaker supplied the A9 in their unit before purchasing.
+
+As if Apple needed any more reasons to continue shifting its foundry orders elsewhere when possible. It'll be interesting to see who Apple taps for the next A10 and A10X.
+
+Some benchmark tests showed a difference in battery life of upwards of two hours. At the same time, benchmarks put the processor under heavy load to test peak performance, and don't really represent real world usage. Not by a long shot.
+
+The iPhone maker's response
+
+Apple responded to Bendgate by inviting the media into its testing facilities and noting that less than 10 customers had complained about the issue. With "Chipgate," Apple has released an official statement to various media outlets like TechCrunch:
+
+With the Apple-designed A9 chip in your iPhone 6s or iPhone 6s Plus, you are getting the most advanced smartphone chip in the world. Every chip we ship meets Apple's highest standards for providing incredible performance and deliver great battery life, regardless of iPhone 6s capacity, color, or model. Certain manufactured lab tests which run the processors with a continuous heavy workload until the battery depletes are not representative of real-world usage, since they spend an unrealistic amount of time at the highest CPU performance state. It's a misleading way to measure real-world battery life. Our testing and customer data show the actual battery life of the iPhone 6s and iPhone 6s Plus, even taking into account variable component differences, vary within just 2-3% of each other.
+
+According to Apple, the variance in real world usage is a much more reasonable 2% to 3%, which is to say that the average consumer is unlikely to be able to discern any difference. The relevance of which chip a user has will depend on their usage to an extent. Power users that frequently utilize processor-intensive applications like video rendering or 3D games might care a little bit more, but your grandmother taking selfies couldn't care less.
+
+Apple has put a lot of effort growing iOS as a gaming platform, often showcasing 3D games and its Metal technology. This is probably the most common real-world implication of the different power efficiency profiles, since I doubt most professional video editors are using their iPhones to render video, even though they technically can.
+
+In time, this will all blow over since its impact on the average user are negligible. Just like every other year.

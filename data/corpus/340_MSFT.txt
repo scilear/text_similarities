@@ -1,0 +1,17 @@
+With just over two weeks before the release of The Martian, Bing has partnered with 20th Century Fox to promote the upcoming film via Bing Maps.
+
+Based on the novel by Andy Weir, The Martian is an epic space travel adventure that tells the story of astronaut Mark Watney’s journey back to earth as the only surviving member of a NASA crew sent to Mars.
+
+Using the Bing Maps API, Microsoft has created a map of Mars that follows the movie’s protagonist, Mark Watney, as he travels across the planet and includes Bing search results to provide deeper insight into the film’s story line.
+
+The Bing team is making it easy for people to get deeper into The Martian story with a special map experience, providing helpful search results with information on Mars and space travel — topics that are of increasing interest, yet remain alien, to most of us. We’ve also created related lesson plans for students, found at Bing in the Classroom. Bing Search Blog
+
+As users track The Martian experience with Bing, they will have access to text, image and video “transmission” messages, along with information about the planet and space travel. According to the announcement, at least one new transmission message will be posted every day between now and the film’s release date.
+
+In addition to its Maps experience, Bing search results for The Martian include the movie’s official trailer and information about the cast, along with film reviews and ticket details.
+
+Also, Bing in the Classroom has added lesson plans focused on science, engineering and space exploration to coincide with film promotions.
+
+About The Author Amy Gesenhues Amy Gesenhues is Third Door Media's General Assignment Reporter, covering the latest news and updates for Search Engine Land and Marketing Land. From 2009 to 2012, she was an award-winning syndicated columnist for a number of daily newspapers from New York to Texas. With more than ten years of marketing management experience, she has contributed to a variety of traditional and online publications, including Amy Gesenhues is Third Door Media's General Assignment Reporter, covering the latest news and updates for Search Engine Land and Marketing Land. From 2009 to 2012, she was an award-winning syndicated columnist for a number of daily newspapers from New York to Texas. With more than ten years of marketing management experience, she has contributed to a variety of traditional and online publications, including MarketingProfs.com SoftwareCEO.com , and Sales and Marketing Management Magazine. Read more of Amy's articles.
+
+(Some images used under license from Shutterstock.com.)

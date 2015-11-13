@@ -1,0 +1,21 @@
+The Surface 3 is a fantastic piece of hardware that is a joy to use. Whether using it as a tablet or a laptop with the Type Cover, operation is fluid and intuitive -- until Windows 10 steps in and ruins the user experience.
+
+I was initially so happy with the Surface 3 running Windows 10 that I set my Apple products and Chromebook aside and went full time with Microsoft. The first few weeks I was impressed with how well both the hardware and software worked together. For the first time in years using Windows was sheer delight on the great hardware.
+
+Then everything changed for no apparent reason. The Surface 3 began regularly having trouble waking up. It would sit staring blankly at me until I did the hold the power button down routine. Even when it resumed properly the Mail app or Edge browser would be hung up so completely they couldn't be killed with the close box.
+
+Leaving the Edge browser with multiple tabs open when closing the Surface 3 became risky. Every day or two I would open the Surface to find at least one of the tabs locked up so badly I'd have to close the app, if it would close at all. Sometimes I'd have to reboot the system to recover. Other times it would take over a minute to close the app with no indication what was happening before the browser would go away.
+
+This didn't happen every time but most days at least once. I never knew, when I took the Surface 3 out of the bag to quickly get to work, if that would even be possible.
+
+This started happening several weeks ago and has gotten progressively worse over time. I don't know if one of the mystery cumulative updates pushed out by Microsoft is behind it, and frankly I don't care. This Windows 10 instability, like that experienced by my colleague Mary Jo Foley, is frustrating to say the least. The one thing I demand from the systems I use daily is to work as expected. Foley was willing to spend hours rebuilding her laptop but I'm not.
+
+This situation is what drove me away from Windows years ago. I got tired of things happening that shouldn't, and then spending hours figuring out what was behind the issues, or rebuilding the OS if I couldn't. I have no desire to research what may be behind it. And if I hear the term Knowledge Base my eyes will glaze over. The fact is the Surface 3 with Windows 10 worked flawlessly for weeks and then it didn't. I'm past the point of tinkering with my systems, I just want them to work.
+
+In years past, when I talked to others about Windows instability, I would hear that it wasn't Microsoft's fault. There are the hardware vendors, system software, and hardware drivers to blame and this was no doubt part of the problem.
+
+That doesn't apply to my situation with the Surface 3. It's Microsoft's hardware, Microsoft's OS, and Microsoft's responsibility to get the drivers right. On top of that, all of the apps causing my frustration are Microsoft's own. Plus, if the problems arose due to a bad update, that's firmly in Microsoft's lap too.
+
+The fact that my system is all Microsoft makes me think that the company cannot fix Windows, and that makes me both sad and angry.
+
+I'm so so frustrated that I've set aside the Surface 3 for a few days and have gone back to using other systems each day to get my work done, without issue. I'm writing this on an Apple product but I like the Surface 3 hardware so much I miss it.

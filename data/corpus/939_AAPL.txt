@@ -1,0 +1,55 @@
+Under Armour (UA) still a distant second to Nike in sportswear revenue, but the Baltimore-based challenger is looking to unseat the champion through an off-court battleground: by becoming the Facebook of fitness.
+
+"We all know that Facebook (FB) equals social, biggest on the planet. That LinkedIn (LNKD) equals business. We will be the destination for health and fitness," said Under Armour (UA) CEO Kevin Plank at the company's recent investor day. "We will connect the dots. We will connect the sensors all into one place. That is our vision.
+
+Plank's strategy hinges on the belief that every product "eventually is going to have a chip in it." And he's backing that up with manpower: the company's digital team is expected to exceed 500 people in 2016, up from 60 in 2013.
+
+His dream — embodied in an initiative called "Connected Fitness" — started to take shape this year with the acquisitions of MyFitnessPal and Endomondo. The moves beefed up Under Armour's existing app suite, which included MapMyFitness (a 2013 buy) and UA Record, and expanded its reach to tens of millions more fitness enthusiasts.
+
+Lessons From Amazon
+
+With its apps, the company wants to know everything about its users — "what you put in your body, how well you slept, how far you ran, how far you usually run" — to make recommendations and sell more products.
+
+The approach borrows from leaders in the tech space. Under Armour said that Amazon (AMZN) attributes 40% of its revenue to recommendations the e-commerce giant makes to its customers based on their search histories and previous purchases.
+
+Whether the app-derived data lead to more sales and the dethroning of Nike (NKE) remains to be seen, but Under Armour already has the lead in one regard. Its four apps boast a total user base of 150 million, of which 60 million are active users, said Plank.
+
+Nike, on the other hand, has mostly kept mum on its digital initiatives.
+
+The company said in August of last year that there were more than 30 million members of Nike+ — what it calls its suite of digital products and services — but most analysts can only guess at the current number.
+
+Macquarie analyst Laurent Vasilescu told IBD that he "would not be surprised" if that total figure had grown to 40 million to 50 million by now, a projection that is, at best, still 10 million shy of Under Armour's current active user base.
+
+Nike would only confirm the most recently disclosed figure.
+
+Under Armour's toned-up app portfolio also appears to be more highly regarded than Nike's digital properties.
+
+Nike Apps Lapped
+
+Calorie Counter by MyFitnessPal, and MapMyFitness' MapMyRun, MapMyWalk, and MapMyRide apps all scored high marks on a late 2014 report on health and fitness apps from app quality company Applause. Nike+ FuelBand hit the bottom of the list, with the company's most popular workout-tracking app, Nike+ Running, not far from last place.
+
+With Fitbit (FIT), Jawbone and the Apple (AAPL) Watch dominating the wearable conversation, the Air Jordan maker has receded from the hardware space as well, notably laying off much of its FuelBand team last year, according to CNET.
+
+In March, Nike announced a partnership with wearable maker Garmin (GRMN), perhaps signaling a permanent shift away from hardware development. (Under Armour's own hardware foray has been delayed, with HTC reportedly pushing back the release of its co-developed fitness tracker, the HTC Grip.)Does this mean Nike is giving up on the digital workout arena? Hardly.
+
+"I don't think they've quit the game," Morningstar analyst Paul Swinand told IBD. "I don't think they've punted either but I think they're running a conservative play.
+
+What Nike likely doesn't want, he said, is to be a major player in the software business.
+
+"In software, things are very volatile," said Swinand, adding that it's hard to tell when "one's going to be the next Facebook and one's going to be the next MySpace. (Under Armour has) the right strategy, but making these purchases is very risky.
+
+It's also uncertain whether all of the data Under Armour wants to collect is even necessary to boosting its sales past Nike's.
+
+"I'm not sure that you need 200 million runs to better understand a runner," said Vasilescu. "Nike's been in the running business for over 40 years. They have their own data.
+
+For now, Under Armour's returns on digital are still in the embryonic stages. While connected fitness is generating excitement, it is also generating a modest operating loss of $16.1 million on $13.6 million of revenue, wrote Swinand in a note on July 24.
+
+Moreover, BB&T analyst Corinna Freedman said the industry is still "a ways off" from Under Armour's vision of chip-laden products, given the "prohibitive" sizes of current sensor technology.
+
+For all of Under Armour's swagger, being louder doesn't translate into being better, especially since Nike has a powerful partner in its corner: Apple.
+
+Apple CEO Tim Cook sits on Nike's board, an element that is "so significant," said Macquarie's Vasilescu, who expects to hear more about the ongoing partnership between Apple and Nike+ at Nike's upcoming investor day on Oct. 14.
+
+As of February, Nike's Fuel app allowed for integration with Apple's HealthKit platform, essentially turning the iPhone and its sensors into a fitness tracker unto itself.
+
+"I think (Nike's) strategy is 'Let's make sure we're not trying to compete at something we're not experts at,' which is smart," said Morningstar's Swinand. "Even with the might of Nike, they don't want to compete with Apple."

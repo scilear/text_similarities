@@ -1,0 +1,17 @@
+*Disclaimer : This is as of previous day’s close
+
+ETF’s with exposure to Microsoft Corp.
+
+Here are 5 ETF’s with the largest exposure to MSFT-US. Comparing the performance and risk of Microsoft Corp. with the ETF’s that have exposure to it gives us some ETF choices that could give us similar returns with lower volatility.
+
+Ticker Fund Name MSFT-US Exposure (%) 1 Year Price Performance (%) 1 Year Volatility (%) Net Expense Ratio (%) Number of Holdings IYW-US iShares US Technology ETF 10.58 0.27 18.32 0.45 148 XLK-US Technology Select Sector SPDR Fund 8.84 1.14 17.23 0.16 76 IGM-US iShares North American Tech ETF 8.59 4.26 17.43 0.48 276 IGV-US iShares North American Tech-Software ETF 8.53 12.93 18.14 0.48 63 TDIV-US First Trust NASDAQ Technology Dividend Index Fund 8.26 -10.58 16.79 0.5 100 MSFT-US Microsoft Corp. 100 -0.42 2.24 0 1
+
+Use our ETF screener to find ETF’s that hold MSFT-US along with other stocks
+
+ETF’s with exposure to stocks in the same focus area as Microsoft Corp..
+
+Here are 5 ETF’s with the largest exposure to stocks in the same focus area and region as MSFT-US. These ETF’s may not have the highest percentage of Microsoft Corp., but offer a broader sector/region exposure further minimizing single stock risk. Comparing the performance and risk of Microsoft Corp. with the ETF’s that have exposure to it gives us some ETF choices that could give us similar returns with lower volatility.
+
+Ticker Fund Name MSFT-US Exposure (%) Sector Exposure (%) 1 Year Price Performance (%) 1 Year Volatility (%) Net Expense Ratio (%) Number of Holdings IYW-US iShares US Technology ETF 10.58 69.09 0.27 18.32 0.45 148 XLK-US Technology Select Sector SPDR Fund 8.84 56.99 1.14 17.23 0.16 76 FTEC-US Fidelity MSCI Information Technology Index ETF 8.17 56.2 2.76 17.53 0.12 398 VGT-US Vanguard Information Technology ETF 8.23 55.55 1.95 17.38 0.12 383 IGV-US iShares North American Tech-Software ETF 8.53 53.22 12.93 18.14 0.48 63 MSFT-US Microsoft Corp. 100 100 -0.42 2.24 0 1
+
+Use our natural language search to find ETF’s in any focus area

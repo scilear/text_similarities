@@ -1,0 +1,29 @@
+For quite a while, it had been rumored that Apple (NASDAQ:AAPL) would build the A9 processor that powers both the iPhone 6s and the iPhone 6s at both TSMC (NYSE:TSM) as well as Samsung (NASDAQOTH:SSNLF). Shortly after the launch of both devices, it was confirmed that Apple was indeed dual-sourcing the A9.
+
+One variant of the A9 is manufactured in TSMC's 16-nanometer FinFET Plus manufacturing process while the other is built in a Samsung 14-nanometer process (a reliable source tells me that Samsung is likely using its more advanced 14-nanometer LPP process, rather than its lower-performing LPE process, here).
+
+Although Samsung got a lot of positive press for going into production on its 14-nanometer process before TSMC did on its roughly equivalent 16-nanometer process, I believe that Apple would have been better served relying on TSMC exclusively for the A9. Here's why.
+
+Samsung's process is denser, but apparently less efficient and lower-yielding
+
+One of the key marketing points for Samsung's 14-nanometer process was that it was a little bit denser than TSMC's 16-nanometer process. Indeed, a common proxy for the density of a logic process is the product of the gate pitch and the minimum metal pitch.
+
+Both the Samsung and the TSMC processes feature minimum metal pitches of 64nm, but Samsung's gate pitches are a little tighter at 78 nanometers versus 90 nanometers in the TSMC process. Unsurprisingly, the TSMC-built A9 chip is slightly larger than the Samsung-built A9 chip.
+
+However, although the Samsung process is denser, the TSMC process is superior in the ways that count: electrical performance and yields.
+
+You may have seen the reports that phones with TSMC-built A9 chips are delivering materially better battery life than the Samsung-built A9 chips. This, I believe, is due to the fact that the TSMC 16nm FinFET Plus process features better electrical characteristics than the Samsung 14-nanometer process.
+
+What is more interesting, though, is that, according to a source that I believe to be reliable, TSMC's A9 yields are much greater than Samsung's A9 yields. In fact, that same source informed me that TSMC's A9 yields are twice those of Samsung's, which would suggest that it is more cost effective for Apple to build A9 chips at TSMC than at Samsung.
+
+It's no surprise that Apple is going all TSMC with the A10
+
+A report recently surfaced claiming that TSMC has won the entirety of Apple's next-generation A10 applications processor business. According to my source, this report is accurate.
+
+Quite frankly, given that the TSMC 16-nanometer FinFET Plus process appears to be delivering better power consumption and yields, this is not at all surprising.
+
+Remember that with the A10, Apple will not be able to move to a new generation of manufacturing technology; the foundries will not be ready to mass produce chips on next-generation 10-nanometer processes until late 2016/early 2017.
+
+This means that Apple will have to wring out performance improvements by making architectural improvements and enhancements in the A10 design. By using the more efficient process (which I believe to be TSMC 16-nanometer FinFET Plus), Apple should have more headroom to squeeze out every last ounce of performance than it would if it had to handicap the design so that it would fit in the desired power envelope on an inferior process.
+
+TSMC executives have publicly stated that the company expects to have dominant 14/16-nanometer market-share in 2016 onwards. Given that TSMC's 16-nanometer FinFET Plus technology appears to be quite competitive, it's not hard to see why.

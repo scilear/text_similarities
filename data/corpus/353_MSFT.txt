@@ -1,0 +1,15 @@
+Microsoft is partnering with Internet search and services giant Baidu in China to grow Windows 10's availability in that country.
+
+Under terms of the partnership announced on September 23, Microsoft and Baidu will deliver "a custom experience" for Baidu customers in China who want to upgrade to Windows 10, which will include local browsing and search experiences, according to a Microsoft blog post.
+
+For Chinese customers, Baidu.com will become the default home page and search engine on Microsoft's Windows 10 Edge browser. Additionally, a Baidu "Windows 10 Express" app will make it easier and safer for users to get and install Windows 10. people to get/install Windows 10. And Baidu will deliver Universal Windows Applications for Search, Video, Cloud and Maps for Windows 10, according to Microsoft's post.
+
+So what does this mean for Bing -- and Microsoft's Bing-powered Cortana personal digital assistant that's baked into Windows 10?
+
+The official statement: "We remain deeply committed to delivering Bing around the world and we're also committed to offering locally relevant experiences - like Baidu in China - to provide great Windows 10 experiences," in the words of Windows and Devices Group Corporate Vice President Yusuf Mehdi, author of today's blog post.
+
+In short, in spite of today's agreement, it still will be Bing, not Baidu, that will power Windows 10 search and Cortana in China.
+
+Microsoft officials said there are already more than 10 million devices running Windows 10 in China.
+
+Earlier this week, Microsoft, Baidu, Google and Qualcomm invested a total of $110 million in Cloud Flare, a content delivery network service vendor that is focused on helping to thwart cyberattacks.

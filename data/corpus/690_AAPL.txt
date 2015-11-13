@@ -1,0 +1,73 @@
+Google's new Android 6.0 Marshmallow takes some of the best of its archrival iOS, while Apple's latest takes the best of Android. WSJ's Joanna Stern attempts to broker peace between the two sides. Photo/video: Drew Evans/The Wall Street Journal.
+
+Paying with a tap of a finger? Android took it from iOS. An energy-saver mode to squeeze out extra battery life? iOS nabbed it from Android. Personal assistants who answer questions and suggest information? Let’s call it an even trade.
+
+Apple’s iOS and Google’s Android have been battling for mobile supremacy for years, but at this point, good luck telling the cutthroat enemies apart. This week’s release of Google’s latest version of Android 6.0—nicknamed “Marshmallow”—is even more proof of that.
+
+ENLARGE Apple’s iOS 9, left, and Google Android 6.0 ‘Marshmallow’ are more similar than different. Photo: Drew Evans/The Wall Street Journal
+
+Of course, Marshmallow is at the heart of the soon-to-be-released Nexus 5X and 6P, but I have been testing it as an upgrade to older Nexus 5 and 6 models for the past week. I found many of Android M’s best features and tweaks come from Apple’s iOS—or have counterparts in iOS 9. And here’s a shocker: The best stuff in Apple’s latest? That came from Android. When it comes to essential smartphone features, it simply doesn’t matter which platform you choose anymore.
+
+That doesn’t mean there aren’t reasons to opt for Android over iOS—or vice versa. Many prefer the simplicity, security and privacy of iOS, while others the customization and openness of Android. But the newest differentiators are the smart services that these mega-companies are weaving directly into their operating systems, giving you more powers not only over your phone, but your computer, your living room and even your car.
+
+Google Now On Tap
+
+Improvements to Siri and other predictive elements in iOS 9 mean you get what you need faster, but Google’s got Apple beat with its nuclear weapon, Google Now on Tap. It brings together so many of Google’s talents, including crowd-sourced intelligence, that it’s hard to imagine how Apple could match it.
+
+Google Now still lives just to the left of the home screen and feeds you a digest of information you are likely to be interested in—weather, directions to next destination, headlines, etc. (In iOS 9, Siri now does a similar thing in a similar spot.) But now, when looking at a Web page, email, text message or more, you can hold down the home button to get Marshmallow to suggest a logical next step.
+
+ENLARGE Hold down the home button and Google Now on Tap will suggest next steps based on what is on the screen. Photo: Drew Evans/The Wall Street Journal
+
+The service scans the on-screen text to suggest things you may want to do next. For instance, in an email or text message that contains a time or location, it will prompt you to create a calendar appointment. Someone suggest a restaurant? It will automatically bring up a shortcut to the website, menu and maps.
+
+I became addicted to those tricks and more. While reading an article about Hillary Clinton’s “Saturday Night Live” appearance, it suggested more information about Clinton, including shortcuts to her Twitter and Instagram accounts, and links to see more about her surprise cameo. On that same article, I also held down the microphone icon and asked, “How old is she now?” Knowing who “she” meant, Google quickly responded, “Hillary Clinton is 67.” Similar tricks work in third-party apps including Spotify, Twitter and Facebook.
+
+It’s contextual information at its best, though it could be put to more uses. I would love to be able to add reminders based on what is on the screen. Even the less talented Siri can do that. Google says it is working on it.
+
+Google Now on Tap in action. Drew Evans/The Wall Street Journal
+
+Google Now and Android’s new On Tap service are superior to what Apple has attempted in iOS 9. That’s not only because Google gleans a lot of its intelligence from the behavior of millions of search-engine users. As my colleague Geoffrey A. Fowler wrote, Apple’s priority on privacy limits its capabilities. Apple doesn’t gather much information about you; Google gathers loads, and knows you better for it.
+
+A Google spokeswoman said that the company doesn’t save the content on your screen, it’s just logged temporarily to execute the request. The final returned search results are saved, however, just as if you searched for them yourself.
+
+The best solution for iOS users can be using Google’s apps and services—Photos, Maps, Gmail, Google Search—on the iPhone. The problem is that all those apps work far better when integrated with the operating system. That’s the essence of the “trap” both Apple and Google have laid in their respective platforms.
+
+Predicting Your Next Apps
+
+The laundry list of similar features between Android 6 and iOS 9 really can be found in the small but extremely helpful tweaks.
+
+ENLARGE Both iOS 9 and Android 6.0 suggest the apps you may want to use next. Photo: Drew Evans/The Wall Street Journal
+
+Like Siri, Android now suggests apps you may want to use next at the top of the app tray. After a few days of observing me, it suggested Twitter, Instagram, Google Docs and Maps. That’s very accurate, but I’d like to see recommendations change throughout my day, as Siri’s iOS 9 suggestions do: Google Docs in the AM, Instagram in the PM. Google says the system should begin to do that after a little more time getting to know me. But whatever! You can finally search the app folder for your apps!
+
+You can now also specify what apps can access on your phone, instead of giving apps blanket permission to use all parts of the phone—microphone, camera, location, etc.
+
+The new Do Not Disturb mode lets you specify how long you want peace and quiet, so you won’t mistakenly leave it engaged (like I always do on iOS).
+
+And when you hold down text to copy or paste it, the menus appear inline near the cursor, rather than at the top of the screen.
+
+Improving the Core
+
+The rest of the updates in Android M, much like iOS 9, aim to polish the user experience and boost battery life.
+
+I didn’t get better—or worse—battery life from the Nexus 5 and 6 in my battery tests. That’s because my tests actively drain the battery by looping a series of websites with brightness at about 65%.
+
+ENLARGE
+
+The savings come when the phone is stationary and not being used, say while buried in a bag or resting on the table. The Doze feature puts apps to sleep after minutes of inactivity to prevent them from accessing the network. Impressively, the Nexus 6 I have been using only dropped 2% battery charge overnight when left unplugged.
+
+I wasn’t as impressed with performance in the new version. The final build I tested was a hair faster than Android 5.0 Lollipop in some of my app launching tests, but I still noticed some lag on both the Nexus 5 and 6, especially when it came to launching the camera.
+
+That brings me to the most disappointing thing about Android Marshmallow: I can’t tell you when, or even if, you’ll ever get it. (Technically, that’s the second most disappointing thing to me. In case you didn’t know, Google names its Android versions alphabetically after sweets—and I really wanted this to be called Android M&M.)
+
+If you have Google’s Nexus 5 or 6, you can just download Marshmallow. But you can’t go and upgrade your Samsung, Motorola, HTC or LG phone. You have to wait until both your phone’s maker and your wireless carrier give you the go-ahead. None of the major phone makers I asked was able to tell me specifically when its newest phones would receive the update, though late 2015 or early 2016 is most likely. All gave me vague answers such as “we won’t push the upgrades out until we know they’re ready.” (See Lifehacker’s handy upgrade guide to check if your phone is supported.)
+
+ENLARGE The biggest issue with Android 6.0? It’s hard to say when and if it will hit most Android phones. Photo: Drew Evans/The Wall Street Journal
+
+The inconsistency of updates is one of the biggest drawbacks of choosing Android. Another is security: Android is inherently more vulnerable than iOS. Fortunately, some Android phone makers have now vowed to release monthly security updates.
+
+Those are the two biggest drawbacks to choosing Android over iOS. (It’s not a coincidence that one of Apple’s main marketing points these days focuses on security and privacy.) As these two mature operating systems become indistinguishable feature-wise, you’re faced with choosing which increasingly powerful, all-encompassing ecosystem to live in—and trust with your data.
+
+It may seem like a big decision, but something tells me the service arms race is going to be a lot like the feature race. Google has the nose on Apple with Google Now on Tap until… Apple figures out a way to borrow it.
+
+Write to Joanna Stern at joanna.stern@wsj.com

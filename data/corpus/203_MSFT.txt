@@ -1,0 +1,33 @@
+Bill Gates is the richest person in the world today, but he isn't the richest person in American history. That honor goes to John D. Rockefeller, the late founder and largest shareholder of Standard Oil.
+
+Gates is worth $79.5 billion right now.
+
+Rockefeller was worth an estimated $253 billion (after adjusting for inflation) when he died in 1937.
+
+The distance between these figures seems insurmountable. It took Gates 59 years to get $79.5 billion. How much longer will it take him to gather $173 billion more?
+
+Actually, not as long as you might think.
+
+Let's assume that Gates lives until the age of 90 -- which seems reasonable given that his still-living father is 89. Because this gives Gates 31 years to turn $79.5 billion into $253 billion, it means that his money needs to earn at least 3.8% on a compound annual basis.
+
+For context, over the past 31 years, the S&P 500 increased at a compound annual rate of 8.3%. If Gates' wealth compounded at that rate over the next 31 years, he would be worth $936 billion.
+
+That figure is astounding, but not because of how big it is. It's astounding because of what it says about Gates' ownership interest in Microsoft (NASDAQ:MSFT).
+
+John D. Rockefeller made his fortune in energy, one of the fundamental predicates of economic growth. His company, Standard Oil, once controlled 90% of American refining capacity. When the Supreme Court declared it an illegal monopoly in 1911, it split Standard Oil into dozens of separate companies, the biggest of which are ExxonMobil, Chevron, and Amoco.
+
+These three companies alone have a combined market cap of roughly $500 billion, of which Rockefeller was once the biggest shareholder. On top of that, throughout his life, he invested vast sums in other industries, such as railroads, banking, and mining. Many of these investments would have increased many times over in value by the end of Rockefeller's life.
+
+Furthermore, Rockefeller lived during the Gilded Age. The age of the great American fortunes. The time between the Civil War and the early 1900s, when the United States went through its own industrial revolution, attracted tens of millions of immigrants, and expanded at a "breakneck pace."
+
+Here's how one of Cornelius Vanderbilt's descendants described the period in Fortune's Children: The Fall of the House of Vanderbilt:
+
+Imagine waking up one morning to learn you had won the lottery. You are informed that the jackpot is $10 billion. You, the sole winner, have become the richest person in the world! The lottery officials tell you that you will receive all of the prize money in one lump sum, tax free, that morning. As a condition of receiving the money, you must never give it away to charity. A close approximation of this unlikely event occurred an astonishing number of times during the Gilded Age, that heady time from the end of the Civil War to the turn of the century, the height of the Industrial Revolution in the United States, when great fortunes were made and spent overnight in a way that had never been see before and will probably never be seen again.
+
+Indeed, with the exception of John Jacob Astor, America's first millionaire who earned his fortune trading furs and owning New York real estate in the decades after the United States gained independence, four of the five richest Americans in history seeded or multiplied their fortunes during the Gilded Age.
+
+That more than a century has since passed without anyone amassing a rival fortune goes to show how unique this period was. Moreover, that a software developer seems best positioned to do so today, speaks volumes about both the profitability of Microsoft, the extraordinary demand for its products, and Gates' once substantial ownership interest in the company.
+
+While Rockefeller was the largest shareholder in Standard Oil, his original allotment of shares amounted to only 27% of the company. Meanwhile, even after selling off bits and pieces of his stake in Microsoft, Gates still held onto 45% of the company following its 1986 initial public offering.
+
+When you couple this with the rapid economic and population growth in the intervening century, it begins to make sense why Gates seems to have a shot at supplanting Rockefeller as the richest American in history.

@@ -1,0 +1,15 @@
+(Reuters) - Microsoft Corp (MSFT.O) said it was changing the way it reported financial results to reflect its emphasis on cloud and mobile businesses.
+
+Starting this quarter, the company will report revenue and operating income based on three businesses - Productivity and Business Processes, Intelligent Cloud and More Personal Computing.
+
+The Productivity and Business Processes will include Office and Office 365 as well as its Dynamics and Dynamics CRM (customer relationship management) online software.
+
+The Intelligent Cloud segment will include server products and services such as Windows Server and Azure.
+
+The More Personal Computing segment will include results from licensing of the Windows operating system, devices such as Surface and phones, Xbox gaming consoles, and search.
+
+The company previously reported under six segments, which were lumped together under two broad categories - Devices & Consumer and Commercial.
+
+Microsoft is scheduled to report first-quarter results on Oct. 22.
+
+(Reporting by Anya George Tharakan in Bengaluru; Editing by Don Sebastian)

@@ -1,0 +1,35 @@
+The Gigafactory Elon Musk's Tesla Motors (NASDAQ:TSLA) is building in the Nevada desert isn't intended to be entirely for the company's electric vehicle ambitions. About a third of the factory is expected to feed the company's energy storage products, known as the Powerwall and Powerpack.
+
+Energy storage is a high potential business that could make renewables a more valuable form of energy for utilities and consumers. But the business is also in its infancy, and it has more credible competitors than Musk has ever seen in electric vehicles.
+
+Home batteries don't have a revenue stream, yet
+
+When the Powerwall was introduced earlier this year, it was hailed as the silver bullet homeowners needed to cut the electric cord from the grid. Soon, reality set in, and people realized you would need at least 6 or 7 Powerwalls to cut out the utility, and at $3,500 apiece, plus installation and other costs, there was no way to justify such an expense.
+
+The bigger problem the Powerwall faces is that there's no way to make money off it today. In most of the country, homeowners with solar panels on their roofs are able to send any extra electricity they make back to the grid and only pay for their net usage. There's literally no financial reason to save electricity generated during the day and use it at night.
+
+That doesn't mean there won't be an economic case eventually, especially as utilities adjust their rate structures, but today, those structures aren't in place. And while utilities develop those rate structures, companies like Sunverge, Samsun SDI, and even Mercedes Benz are getting into the home energy storage game. There's a lot of competition in that market, and without a way to make money off home energy storage, I don't see how Tesla Motors will drive the kind of growth Musk sees in this space.
+
+Flow batteries are a big deal
+
+Residential energy storage is still a decade from being widespread, but there is a market for commercial or utility-scale energy storage. Commercial customers are charged demand charges based on their peak energy usage, even if it's only for an hour per month, and that demand charge can be half of their bill. Energy storage is currently being used to shave those peaks for commercial customers, leading to savings that can justify batteries.
+
+On the utility side, storage is being used for frequency regulation, and renewable energy plants will likely begin using it to send a steadier stream of electrons to the grid in the future, easing some of the intermittency challenges renewable energy faces inherently.
+
+Still, commercial and utility scale energy storage is also a business big companies have been eying for years, and lithium ion batteries may not be the best technology. New technologies like flow batteries may make more sense for these large customers.
+
+General Electric (NYSE:GE) is probably the biggest U.S. company investing in flow batteries, and has been doing so for years. GE essentially invented the electric grid as we know it, so it's not a company to be overlooked in energy storage, either.
+
+Sumitomo, the Japanese company, is estimated to be the largest flow battery manufacturer, and it's working with wind farms in Japan to smooth out the output from renewable energy. Another interesting move came recently when Vionx Energy said UTC, Starwood Energy Group, Siemens, 3M, Vantage Point Capital Partners, and Jabil were looking to use the company's flow batteries in one form or another. Siemens is particularly interesting in that group because it's a utility-scale powerhouse and will serve as the EPC partner for Vionx Energy's projects.
+
+Where lithium-ion batteries are good for energy storage of an hour or two, flow batteries are good for storage of 6-10 hours of energy. That makes them better candidates for commercial and utility-scale projects that have more ways to monetize energy storage than residential projects do.
+
+Then there's the hydrogen ecosystem that has slowly been developing, and if any technology will be able to store energy for days or months, it's hydrogen. Lithium-ion batteries won't even compete in that market.
+
+The greatest problem is that lithium ion batteries might not be the best energy storage medium for large renewable energy projects, and that may be where the biggest opportunity lies.
+
+Competition could be tough for Tesla Motors
+
+If a competing technology like flow batteries or hydrogen improve capabilities, efficiency, and cost quickly, they could upend Tesla Motors' hopes of entering the battery market in a big way. And these are big competitors with the expertise and capital to develop energy storage systems that would easily compete with Tesla Motors. With a third of the Gigafactory allocated to batteries, that could have a big impact on Tesla Motors' cost structure.
+
+Unlike in electric vehicles, Tesla isn't a mile ahead of competitors in energy storage, and if the industry doesn't break the right way, it may end up playing from behind before you know it. It may be harder for Tesla Motors and Elon Musk to succeed in energy storage than anyone realizes right now.

@@ -1,0 +1,21 @@
+(Reuters) - Microsoft Corp (MSFT.O) joined Amazon.com Inc (AMZN.O) and Intel Corp (INTC.O) in tweaking the way it reports results, a move that will help the software giant show off its growing cloud and mobile businesses.
+
+Since taking over as chief in early 2014, Satya Nadella has led Microsoft's efforts to focus on software and cloud services as demand for its Windows operating system slows.
+
+The company, which is in the process of restructuring its phone business and streamlining operations, has been pumping the resulting savings into its cloud business and Windows 10.
+
+"This reporting structure aligns the company's goals with the way they will report it to the Street," FBR & Co analyst Daniel Ives said. "The best change is the ability to track the Windows 10 transition and cloud adoption around Office 365 which are front and centre for investors."
+
+Microsoft said on Monday it will report revenue and operating income based on three businesses - Productivity and Business Processes, Intelligent Cloud, and More Personal Computing starting this quarter.
+
+It previously reported under six segments, which were lumped together under two broad categories - Devices & Consumer and Commercial.
+
+Microsoft will separately report consumer and commercial numbers for its Office business, a company executive said on a conference call on Tuesday. It doesn't expect to change the way it gives guidance.
+
+Amazon, a strong contender in the cloud computing market, broke out financial details of its surging Amazon Web Services business for the first time in April.
+
+Intel announced the new Client Computing Group earlier this year, which would cover chips for desktops, smartphones and other mobile devices. Last year the company said it would disclose numbers for its budding Internet of Things business, which deals with connecting devices to the Internet.
+
+Microsoft shares closed little changed at $43.44 on the Nasdaq on Tuesday. They have slipped 7 percent this year, compared with a 10 percent fall in the Dow Jones Industrial Average index (.DJI).
+
+(Reporting by Devika Krishna Kumar in Bengaluru; Editing by Sayantani Ghosh)

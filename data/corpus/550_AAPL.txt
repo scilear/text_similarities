@@ -1,0 +1,25 @@
+NEW YORK (TheStreet) -- By launching its new Nexus 5X and Nexus 6P phones, Google (GOOG - Get Report) (GOOGL - Get Report) is signaling that it won't stand idly by and let Apple's (AAPL - Get Report) iPhone 6s and iPhone 6s Plus dominate the end-of-the-year smartphone fray.
+
+But at the end of the day there's one question that stands out -- will it even matter?
+
+Already, many consumers have shown what they think of the new iPhones. On Monday, Applesaid it sold more than 13 million of the iPhone 6s and its larger-screen brother, the 6s Plus, the first weekend that the devices were available for sale.
+
+And Apple's certainly making a lot of money off its new iPhones. Research firm IHS did ateardown examination of the iPhone 6s Plus that estimated the cost of the phone's materials and manufacturing at $236 per phone. Apple charges $749 for the base model 6s Plus and $649 for the iPhone 6s.
+
+Must Read: Here's What It Looked Like Inside Tesla's Incredible Model X Event
+
+Yet with the Nexus 5X and 6P, Google's strategy of coming out with two new phone models at the same time, similar to that of Apple's, the company may be able to make some headway against the iPhone juggernaut. The new Google phones come with improved cameras, and the 6P and its 5.7-inch screen is actually a little smaller than then nearly 6-inch size of last year's Nexus 6, which many customers found to be too unwieldy to handle.
+
+Ken Dulaney, a mobile industry analyst with Gartner, said Google's newest smartphones present a definite alternative to the iPhone, and actually help the overall market, as well as Google itself.
+
+"Nexus has always given the market a direct-from-Google option, and this only keeps the market stronger," Dulaney said. "In essence they are making sure that all segments of the market are served by Android in one way or another."
+
+Then there's the matter of price.
+
+If Apple is staking its claim to the high-end of the smartphone market, even with monthly payment options to ease the pain of buying an iPhone, Google is saying it has you covered if you want a name product that costs a little less. The Nexus 5X starts at $379 for 16 gigabytes of storage, while the 6P and its 32GB of storage begin at $499.
+
+With regards to Android, Google's new phones run on the latest version of the Android operating system, called Marshmallow. Despite the iPhone's name and brand cachet, Android-based smartphones remain the top sellers worldwide, with almost 83% of the world's market share smartphone operating systems in the second quarter of the year, according to research firm IDC.
+
+Dulaney also said that Google is on the right track by building a capability called "containerization" directly into its mobile operating system. Containerization allows for easier separation of work and personal apps on a smartphone, and is seen as a way to cut on things such as the improper sharing of business documents and data. It's also something may add to the new Nexus phones' appeal with business customers.
+
+"They've [Google] built the concept of containerization to separate business from personal right into the OS, something that Apple has not yet done," Dulaney said.

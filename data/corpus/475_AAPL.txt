@@ -1,0 +1,23 @@
+When Apple (NASDAQ:AAPL) unveiled the newest iterations of its iPhone, the iPhone 6s and iPhone 6s Plus, most were pleasantly surprised by the off-year upgrade. Generally, the company does a hardware refresh, which Apple did with the new A9 chip and much-needed RAM upgrade, along with a user-interaction upgrade -- this year Apple added its 3D Touch feature.
+
+There were some disappointments with the official unveil, however, where many expected Apple to increase entry-level storage from 16GB to 32GB, Apple held firm at the 16GB model. Considering the iOS 8 upgrade required 4.5GB of open space to download, many users had to delete photos, songs, or apps to perform the upgrade. In the end, 16GB device owners using more than 11.5GB of storage didn't have enough space simply to download the then-newest version. As a result, Apple's upgrade adoption percentage slowed when compared with prior generations.
+
+The problem of storage is complicated by a second issue -- Apple's increasing use of non-removable default apps. However, it appears Apple is rethinking its relationship with storage and may reverse a long-standing policy of not allowing default apps to be removed.
+
+One man's app is another man's bloatware
+
+Although the situation isn't as bad as its Android counterparts, Apple is increasingly adding more default apps to versions of its iOS. Right now, there's a myriad of apps: Compass, Weather, Calculator, Tips, and Newsstand, among others, that take up valuable space on both the home screen and in the internal storage. Of course, many people use these apps and find them worthwhile, but the problem is Apple doesn't allow users to delete these apps if you're among those who don't use them.
+
+Perhaps the culmination of Apple's bloatware problem was its inclusion of an Apple Watch App on the iPhone iOS 8.2 release. For those without the supporting watch, this is nothing more than on-device marketing bloatware at the expense of storage space. To date, you still can't remove the Apple Watch App from the device.
+
+The inclusion of bloatware can hurt the user experience in two ways: First, the mere inclusion of unwanted apps -- especially ones you cannot remove -- degrades the experience. Second, for those with limited storage, they take up space that would otherwise be available for desired apps, photos, and videos.
+
+More recently, however, it seems Tim Cook has gotten the memo on this issue. In an interview with Buzzfeed, Cook addressed potentially allowing users to remove some default apps:
+
+There are some apps that are linked to something else on the iPhone. ... If they were to be removed, they might cause issues elsewhere on the phone. There are other apps that aren't like that. So over time, I think with the ones that aren't like that, we'll figure out a way.
+
+iOS 9 should be easier to update, but it'll probably take up more space
+
+However, for those wary of deleting new games, apps, or songs, simply to have enough space to download Apple's next-gen iOS 9, there's relief around the corner. Apple says it's going to allow you to update the operating system without first downloading and unpacking it first. Instead of having the aforementioned 4.5GB of available storage, that number drops to 1.3GB.
+
+And while the added size of the newest OS upgrade hasn't been disclosed, iOS 8 was roughly 750 MB (or eight Facebook apps) larger than the prior version. With the new added functionality, iOS 9 is bringing public transportation additions to Apple Maps, improved and expanded Siri functionality, and the introduction of the new Apple News app. So you can expect iOS 9 to take up more storage. It would be nice to dump a few default apps to save space.

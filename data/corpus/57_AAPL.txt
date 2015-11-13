@@ -1,0 +1,63 @@
+The broader market closed Thursday trading with notable gains. The Dow Jones Industrial Average gained 320.55 points (+1.87%) to end 17489.16. The S&P 500 was also notably strong Thursday, ending up 33.57 points (1.66%) to close 2052.51. The Nasdaq Composite followed closely, higher by 79.93 points (+1.65%) to 4920.05. The markets gapped higher on the session, never dipping into negative territory as blue chip names began reporting quarterly earnings. All three major US indices surged to highs in a session with slightly higher than average volume.
+
+The Technology space (XLK 42.64, +0.94 +2.25%) ended Thursday with gains of more than 2%. Quarterly results dictated trading today, as blue chip names like AT&T (T 33.96, +0.36 +1.07%), Alphabet (GOOG 651.79, +9.18 +1.43%) and Microsoft (MSFT 48.03, +0.83 +1.76%) sit on the docket for after the close tonight.
+
+In the Thursday session, Semiconductors (SOX 675.94, +22.70 +3.47%) continued strength from yesterday's session ahead of component Altera (ALTR 52.80, +0.28 +0.53%) and Maxim Integrated's (MXIM 39.12, -0.32 -0.81%) quarterly results.
+
+Also notably strong today were Software (IGV 102.08, +2.67 +2.69%) names as Citrix Systems (CTXS 80.58, +8.66 +12.04%) ,Proofpoint (PFPT 62.21, +6.80 +12.27%) and ServiceNow (NOW 77.95, +4.93 +6.75%) all reported quarterly results. All three names beat on the top and bottom lines, respectively, in regards to analyst expectations. The sector has been strong in the month of October, adding about 8% month-to-date.
+
+In the S&P 500 Information Technology (715.98, +16.52 +2.36%) sector, stocks like Texas Instruments (TXN 58.09, +6.19 +11.93%) and eBay (EBAY 27.58, +3.37 +13.92%) led the way higher following quarterly results. This quarter marked EBAY's first three month period following the Paypal (PYPL 34.79, +0.96 +2.84%) spin-off. Other names like GLW +5.33%, CTSH +5.33%, SWKS +5.18%, AVGO +4.02%, ACN +3.84%, TEL +3.63%, NVDA +3.61%, MCHP +3.60%, APH +3.27%, ORCL +3.19% were also strong on the session.
+
+Other notable news items among sector components:
+
+Seagate Tech (STX) announced Board approval for a 17% increase in targeted annual dividend. Result will have a $2.52 dividend, up from $2.16. The company also appointed David Morton Jr. as EVP and CFO effective immediately.
+
+(STX) announced Board approval for a 17% increase in targeted annual dividend. Result will have a $2.52 dividend, up from $2.16. The company also appointed David Morton Jr. as EVP and CFO effective immediately. Citrix Systems (CTXS) appointed Exec Chairman Robert Claderoni as Interim President and CEO effective immediately.
+
+(CTXS) appointed Exec Chairman Robert Claderoni as Interim President and CEO effective immediately. Visa (V 76.42, +0.97 +1.29%) increased quarterly dividend to $0.14 from $0.12 per share.
+
+(V 76.42, +0.97 +1.29%) increased quarterly dividend to $0.14 from $0.12 per share. Apple (AAPL 115.47, +1.71 +1.50%) announced two new programs aimed at reducing the carbon footprint of its manufacturing partners in China. The programs will avoid over 20 million metric tons of greenhouse gas pollution in the country between now and 2020, equivalent to taking nearly 4 million passenger vehicles off the road for one year.
+
+(AAPL 115.47, +1.71 +1.50%) announced two new programs aimed at reducing the carbon footprint of its manufacturing partners in China. The programs will avoid over 20 million metric tons of greenhouse gas pollution in the country between now and 2020, equivalent to taking nearly 4 million passenger vehicles off the road for one year. Fixnetix, a CSC (CSC 65.90, +1.06 +1.63%) company, announced the release of iX-eCute Zero Latency, a risk management and trading gateway supporting electronic trading for investment banks, prime brokers, hedge funds and proprietary trading firms.
+
+(CSC 65.90, +1.06 +1.63%) company, announced the release of iX-eCute Zero Latency, a risk management and trading gateway supporting electronic trading for investment banks, prime brokers, hedge funds and proprietary trading firms. IBM (IBM 144.09, +3.17 +2.25%), in collaboration with NVIDIA (NVDA 28.40, +0.99 +3.61%) and Mellanox (MLNX 45.84, +2.51 +5.79%), and the Science and Technology Facilities Council Hartree Centre announced plans for the UK's first POWER Acceleration and Design Center designed to help UK businesses exploit high performance computing on OpenPOWER systems for Modelling & Simulation and Big Data Analytics.
+
+Elsewhere in the technology space:
+
+Science Applications (SAIC 42.79, +1.17 +2.81%) was awarded NASA's Langley Information Technology Enhanced Services II contract valued at $200 million.
+
+(SAIC 42.79, +1.17 +2.81%) was awarded NASA's Langley Information Technology Enhanced Services II contract valued at $200 million. Benchmark Electronics (BHE 20.56, -1.90 -8.46%) acquired Secure Communications Systems, Inc. for about $230 million in cash. The company expects the deal to be immediately accretive to the company's margins and EPS.
+
+(BHE 20.56, -1.90 -8.46%) acquired Secure Communications Systems, Inc. for about $230 million in cash. The company expects the deal to be immediately accretive to the company's margins and EPS. Ruckus Wireless (RKUS 12.85, +0.35 +2.80%) acquired secure Wi-Fi onboarding software provider Cloudpath Networks. Financial terms of the deal were not disclosed.
+
+(RKUS 12.85, +0.35 +2.80%) acquired secure Wi-Fi onboarding software provider Cloudpath Networks. Financial terms of the deal were not disclosed. Cypress Semi (CY 9.76, +0.32 +3.39%) announced a new $450 million stock repurchase program.
+
+(CY 9.76, +0.32 +3.39%) announced a new $450 million stock repurchase program. NCI (NCIT 14.80, +1.25 +9.23%) was awarded a five-year cost-plus-fixed-fee contract valued at $211 million from the US Army.
+
+(NCIT 14.80, +1.25 +9.23%) was awarded a five-year cost-plus-fixed-fee contract valued at $211 million from the US Army. LG Display (LPL 9.66, -0.56 -5.48%) plans to acquire the OLED Light business of LG Chem for KRW 160 billion.
+
+(LPL 9.66, -0.56 -5.48%) plans to acquire the OLED Light business of LG Chem for KRW 160 billion. Unisys (UIS 14.45, +1.88 +14.96%) was awarded two contracts to provide services to the EU worth about $53 million.
+
+(UIS 14.45, +1.88 +14.96%) was awarded two contracts to provide services to the EU worth about $53 million. Electronics For Imaging (EFII 45.82, +0.77 +1.71%) reported a favorable outcome in its patent lawsuit with Componex.
+
+(EFII 45.82, +0.77 +1.71%) reported a favorable outcome in its patent lawsuit with Componex. IMS Health Holdings (IMS 29.75, -0.72 -2.36%) and Quintiles Transitional (Q 67.69, -1.10 -1.60%) announced a global strategic alliance.
+
+(IMS 29.75, -0.72 -2.36%) and (Q 67.69, -1.10 -1.60%) announced a global strategic alliance. DST Systems' (DST 118.83, +6.29 +5.59%) Argus Health Systems business announced a renewed relationship with Cigna (CI 129.49, -7.12 -5.21%) for the provision of pharmacy solutions services.
+
+In reaction to quarterly results:
+
+Texas Instruments (TXN) reported Q3 EPS and revenues which topped expectations; Q3 EPS was $0.76 on revenues which fell 2.1% year-over-year to $3.43 billion. The company also guided Q4 EPS better than expected at $0.64-0.74 and revenues in-line at $3.07-3.33 billion.
+
+(TXN) reported Q3 EPS and revenues which topped expectations; Q3 EPS was $0.76 on revenues which fell 2.1% year-over-year to $3.43 billion. The company also guided Q4 EPS better than expected at $0.64-0.74 and revenues in-line at $3.07-3.33 billion. eBay (EBAY) reported Q3 EPS which beat expectations at $0.43 on revenues which were in-line at $2.1 billion. The company also guided Q4 EPS and revenues in-line.
+
+(EBAY) reported Q3 EPS which beat expectations at $0.43 on revenues which were in-line at $2.1 billion. The company also guided Q4 EPS and revenues in-line. Rogers Comms (RCI 39.90, +2.11 +5.58%) reported Q3 EPS and revenues which beat expectations. The company saw Q3 EPS of CC$0.92 on revenues of CC$3.38 billion.
+
+(RCI 39.90, +2.11 +5.58%) reported Q3 EPS and revenues which beat expectations. The company saw Q3 EPS of CC$0.92 on revenues of CC$3.38 billion. Alliance Data (ADS 294.79, +18.56 +6.73%) reported Q3 EPS and revenues which were better than expected at $3.95 and $1.59 billion, respectively. The company also reaffirmed FY15 EPS and revenues guidance and guided FY16 EPS and revenues in-line with what was expected.
+
+(ADS 294.79, +18.56 +6.73%) reported Q3 EPS and revenues which were better than expected at $3.95 and $1.59 billion, respectively. The company also reaffirmed FY15 EPS and revenues guidance and guided FY16 EPS and revenues in-line with what was expected. CA Tech (CA) reported Q2 EPS and revenues which came in in-line with expectations. Q2 saw EPS of $0.56 on revenues of $1 billion.
+
+(CA) reported Q2 EPS and revenues which came in in-line with expectations. Q2 saw EPS of $0.56 on revenues of $1 billion. Unisys (UIS) reported Q3 EPS which beat expectations at $0.67 on revenues which missed expectations at $739.2 million.
+
+Analyst actions:
+
+TXN was upgraded to Buy from Mkt Perform at Charter Equity, OCLR was upgraded to Buy from Hold at Stifel, DTLK was upgraded to Buy from Hold at Craig Hallum; SNDK was downgraded at UBS, Argus, Morgan Stanley, and Piper Jaffray, KLAC was downgraded at Needham, UBS and Piper Jaffray, LPL was downgraded to Neutral from Outperform at Macquarie, VMW was downgraded to Perform from Outperform at Oppenheimer, EMC was downgraded to Hold from Buy at Stifel, SWI was downgraded to Hold from Buy at Needham, SANM was downgraded to Sell from Neutral at Goldman

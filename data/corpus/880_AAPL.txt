@@ -1,0 +1,47 @@
+View gallery .
+
+The iPhone 6s and 6s Plus arrived in stores today, and we have preliminary tests from the engineers in our labs. The first thing we looked at was the rear-facing camera, which has a 12-megapixel sensor, a jump from the 8-megapixel chip of the iPhone 6. That might sound like a big increase, but our testing found that the camera performed just slightly better than the old one. Video recording remained about the same. We also tried out the new Live Photo feature, and had mixed feelings.
+
+But the biggest change is the advent of the 3D Touch interface. In our opinion, it gives the new iPhones a significant edge over the older models, particularly for multitasking. In essence, this interface modification provides the phone with something akin to the right-click capabilities of a mouse. It lets you perform an impressive array of tasks with an app without having to open it.
+
+More Megapixels, Same Picture Quality
+
+To test the new phones, we captured still images and videos under indoor, low-light, and simulated outdoor conditions. In all those situations, the new iPhones produced slightly better still images than the old ones. The higher resolution helped the camera capture textures, patterns, and shadings in greater detail. However, dynamic range, noise in low light, and color accuracy were all virtually the same as in the older iPhone 6.
+
+In our initial testing, videos shot at 1080P at 30 frames per second (fps) and 60fps were virtually identical to those shot with the iPhone 6 camera, which is quite good as far as smartphones are concerned. The S-series models are the first iPhones that can shoot Ultra HD, or 4K, videos. We’ll be testing UHD video more thoroughly in the days ahead, but so far the video quality seems comparable to what we’ve seen from other smartphones.
+
+Live Photos are GIF-like, 3-second movie clips. Apple says that Live Photo, a mode that’s on by default, is a great way to “relive life’s moments.” But the Live Photos my colleagues and I took seemed a bit jerky, beginning and ending at moments that either made no sense or, more often, made the subject look awkward. Live Photos don't play automatically, you need to keep your finger pressed to the screen—covering part of the image.
+
+
+
+A Live Photo isn't actually one file. It’s a 12-megapixel .jpg still image sandwiched between two, 1.5-second .mov video clips. The camera is constantly buffering a few seconds of video; once you press the shutter it grabs a snippet of that video from before and after the still image. Live Photos can only be produced by these new iPhones, but they can be viewed on any mobile device running iOS 9, as well as Mac computers running OS X El Capitan, which is due for release soon. But you can play the video file of a Live Photo on any computer that supports the .mov format. And if you send a Live Photo to your friends’ Android phones? They’ll only see the 12-megapixel still.
+
+Apple has said that Live Photos files are about twice the size of still images. But in our testing, using a standard, static pattern, the file was about three times as large.
+
+
+
+View gallery .
+
+3D Touch: An Easier Way to Navigate
+
+We found the “Peek and Pop” aspect of 3D Touch worked quite well. Apple says it has designed the 3D Touch display to interpret many levels of finger pressure for performing varied app actions. While app developers might take advantage of such finessed functionality, right now Apple’s own apps only respond to only two levels of pressure: soft and firm.
+
+A soft press lets you preview emails and calendar appointments without opening them, as well as take actions such as reply, forward, flag, and mark as read. You can also delete emails or accept or decline calendar appointments.
+
+The feature also works with movies and music. For instance, soft press an artist's name in your iTunes music library, and you’ll see all of his or her songs in your collection. And if you have any Hollywood movies, a soft press will show you its plot summary.
+
+If you're already in an app, a firm press fully opens files or engages controls such as the play/pause buttons of the music or video player. If you're on the phone's desktop, a firm press reveals a "quick-action" menu.
+
+3D Touch also makes it much easier to edit text that you're typing. Firmly pressing on the space bar gives you fine control over the cursor. This is similar to the functionality found on many Samsung and LG smartphones.
+
+
+
+We’ll have more on the new iPhones as our tests continue.
+
+
+
+
+
+More from Consumer Reports:
+
+Consumer Reports has no relationship with any advertisers on this website. Copyright © 2006-2015 Consumers Union of U.S.

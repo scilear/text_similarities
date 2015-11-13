@@ -1,0 +1,19 @@
+The outlook for corporate spending on information technology in 2016 has improved, says a Morgan Stanley survey, with more money earmarked for cloud computing, security and software analytics.
+
+Among the companies getting a boost from IT spending trends will be Microsoft (NASDAQ:MSFT), Cisco Systems (NASDAQ:CSCO), Palo Alto Networks, Tableau Software (NYSE:DATA) and Splunk, says Morgan Stanley in a research report Thursday.
+
+Morgan Stanley says it surveyed 99 U.S. and 49 European chief information officers on their IT budgets and spending plans.
+
+"CIOs expect IT budgets to grow 4.7% in 2015, an improvement from 4.4% growth expectation reported in our June survey," said the report. "Initial expectations for 2016 point to 5.3% growth overall, an increase from the 4.7% growth expected in 2015.
+
+"Software-centric themes — cloud computing, security and business intelligence — were the top three CIO priorities.
+
+"CIO's named Microsoft as the No. 1 gainer of IT budget the next three years. Next-generation firewall, email security and intrusion prevention are some of the most frequent security categories in which CIOs expect to invest into 2016 — top security picks Palo Alto Networks (NYSE:PANW) and Splunk (NASDAQ:SPLK) play into several of these areas."
+
+Morgan Stanley says there's risk for IBM (NYSE:IBM) as more companies "migrate off" mainframe computers and switch to cloud computing. Hewlett-Packard (NYSE:HPQ) also could be negatively impacted by spending trends, says the investment bank.
+
+Follow Reinhardt Krause on Twitter@IBD_RKrause.
+
+RELATED:
+
+Microsoft, IBM May Make 'Move The Needle' Acquisitions.

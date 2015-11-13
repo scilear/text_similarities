@@ -1,0 +1,13 @@
+New Delhi, June 4 (IANS) Microsoft on Thursday said its customers will be able to participate in the private preview of Microsoft Azure from data centres in India in July.
+
+Microsoft's clients will now be able to run trials of their apps on Microsoft Azure from local infrastructure.
+
+It will offer enterprise-grade cloud services from local data centres to customers, and industries including government departments and banking and financial services.
+
+Microsoft will launch the commercial cloud services from local data centres by the end of this year, a statement released by the tech major said.
+
+Commenting on the announcement, Microsoft Cloud and Enterprise Group executive vice president Scott Guthrie said: "Building an intelligent cloud is a key Microsoft strategy for global markets, including India.
+
+"We deliver the most open, complete and secure enterprise-grade cloud services. Services from local data centres will open infinite computing capacity for Indian government departments, banks, telecom companies and enterprises or all sizes. This will help make 'Digital India' a reality," he said.
+
+According to Microsoft, its cloud services in India have grown over 100 percent in revenue in the past year, and it claimed that by offering locally hosted Microsoft Azure, Office 365 and CRM Online will further accelerate the company's revenue growth.

@@ -1,0 +1,39 @@
+Volkswagen (NASDAQOTH:VLKAY) on Tuesday announced an "action plan" to "refit" 11 million diesel-powered vehicles equipped with software that allows them to pass emissions tests while emitting illegal levels of pollutants during ordinary driving.
+
+Or rather, it announced that its plan is to come up with a plan.
+
+New VW CEO Matthias Mueller told managers at Volkswagen headquarters in Germany that a special project team, working through the weekend, created a "comprehensive action plan" to repair all of the vehicles containing the software, according to multiple reports. VW subsequently released a statement that essentially reiterated Mueller's comments. But neither gave specifics as to how VW actually plans to fix the cars.
+
+VW is under immense pressure from regulators around the world to take action as soon as possible. The German government has demanded that VW present a detailed plan to fix the vehicles by October 7.
+
+It's still not quite clear exactly what Volkswagen's plan is -- and it's definitely not clear how much it'll cost. But the outlines of what VW has in mind are starting to emerge.
+
+The plan starts with the obvious: A massive global recall. But what then?
+
+VW's plan is expected to involve a massive recall of all of the vehicles with the software. That recall will probably happen in stages around the world. The company has already begun setting up websites to keep owners of the affected vehicles informed. (The site for U.S. owners of affected Volkswagen-brand vehicles can be seen here.)
+
+Step one, VW said, will be to formally inform the owners of the affected vehicles that VW plans to fix them "in the near future." These vehicles include about 5 million VW-brand cars, 2.1 million at Audi, 1.2 million at VW's Skoda brand, about 700,000 at VW's Seat brand, and 1.8 million light commercial vehicles.
+
+The U.S. Environmental Protection Agency (EPA) has said that about 482,000 cars in the U.S. are affected, including several Volkswagen car models and diesel-powered Audi A3s.
+
+Owners of those vehicles will apparently hear from VW sometime in the next few days. But what we don't yet know is what VW will have to do to make the cars comply with emissions laws under all conditions.
+
+VW hasn't yet figured out some key actions in its "action plan"
+
+VW said that it's working on "technical solutions" that will make the affected cars comply with emissions laws. It said that it will present its solutions to regulators sometime in October.
+
+But it hasn't said exactly what the "solutions" will involve. That's probably because it hasn't settled on a technical solution yet.
+
+The big question is whether VW can fix the cars by making changes to software -- or if additional hardware will also be needed. It's an important question. The answer will tell us how long it's likely to take for VW to get the recalls underway -- and it'll also give us some insight into how much it will cost VW to fix the cars.
+
+A software update that fixed the problem could be distributed quickly, and at minimal cost. Updating the affected cars wouldn't require extended stays at service centers. That would all keep VW's costs down.
+
+But if hardware changes are required, that will be both expensive and time-consuming: Not only will VW have to pay for all of the new parts, it'll also have to wait for the parts to be made. Given the numbers required, it could take months, even a year or more, before all of the parts can be manufactured and delivered to service centers around the world. If the parts take a significant amount of time for mechanics to install, that will also drive up costs.
+
+Experts agree: VW needs to figure this out ASAP
+
+The upshot is that VW apparently doesn't yet know exactly how it's going to fix all of the cars, but it expects to have that figured out before long. It needs something very soon: VW is racing against a whole series of clocks. Bloomberg reported on Tuesday that prosecutors in Sweden and Spain are now weighing potential charges against VW, adding to a rapidly lengthening list of national governments considering action as they wait for VW's response.
+
+So far, only the EPA has filed charges -- and while they come with potentially enormous fines, they are civil ones under the Clean Air Act. No criminal charges have been filed against VW or its executives yet, at least as I write this on Tuesday afternoon.
+
+But if VW can't come up with a comprehensive, workable way to fix the cars soon, the consequences of its enormous error of judgment will only grow.

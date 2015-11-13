@@ -1,0 +1,13 @@
+Apple had its moment, then Amazon had one of its own. Now Google is set to debut a new slate of products at its own marquee event on Sept. 29. Among the rumored devices to be previewed are two new Nexus phones, a new version of the Android operating system, and an updated Chromecast with a new design and faster Wi-Fi capabilities.
+
+The most interesting device, though, is what’s believed to be called the Chromecast Audio (codenamed “Hendrix”). Plug the device into any speaker with a standard audio port, and you’ll be able to broadcast music over Wi-Fi to that speaker, the same way you can broadcast video to a TV using a regular Chromecast. It’ll also reportedly come with Spotify support.
+
+If you have a Bluetooth speaker, the Chromecast Audio probably doesn’t seem like a huge innovation, as the two essentially do the same thing. But, according to 9to5Google, the Chromecast Audio can broadcast “high quality” audio to multiple rooms in your home. Meaning, if you buy more than one device, you’ll be able to play the same audio on different speakers in different rooms simultaneously. Great for parties, or just for people who really like music.
+
+It’s not a novel creation, to be sure—9 to 5 Google also notes that the Motorola Stream can already do pretty much the same thing, and Sonos has built a business around multi-room home audio. But it’s further evidence that Google is interested in trying to win the battle for your living room.
+
+Apple TV—and to a lesser extent, Amazon Fire TV—may steal most headlines, but Chromecast outsold them both by a significant margin in 2014, according to Parks Associates. The $35 Chromecast dongle, of course, isn’t quite the same type of device as the Apple TV or the Fire TV, but they all share one crucial function: the ability to put your favorite streaming video apps on the best screen available (which is usually in your living room).
+
+Google is keenly aware of that fact, and as long as Chromecast sales are strong, the company is unlikely to expand the device’s range of abilities beyond being able to seamlessly transfer video to a better screen. (Google also has the Nexus player—a direct set-top box competitor to Apple TV and Fire TV—but that has yet to catch on with consumers. It has also tried various times to embed its software into TVs, and once created a short-lived music gadget called the Nexus Q.)
+
+The Chromecast Audio, thus, is the device’s biggest evolution since it first hit the market in 2013. Google is hoping that the 19% of US broadband households that own a Chromecast will now purchase a Chromecast Audio (or two or three).

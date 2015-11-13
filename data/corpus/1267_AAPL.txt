@@ -1,0 +1,21 @@
+Now that Apple (NASDAQ:AAPL) has launched the iPhone 6s and 6s Plus, the world has now had an opportunity to tear apart the devices to see what's inside. Ahead of the launch, there was plenty of speculation that chip giant Intel (NASDAQ:INTC) could have possibly won the modem slot away from Qualcomm (NASDAQ:QCOM), which would have been quite the coup considering Qualcomm's long-standing position as Apple's exclusive baseband modem supplier.
+
+The teardowns showed that Qualcomm indeed kept the spot. But even before the devices launched and could be torn down, our resident chip sleuth Ashraf Eassa already figured out that Intel had missed out on the 6s. Intel's XMM 7260 modem was always the most likely candidate, but that component doesn't support CDMA EV-DO, which is a network standard still heavily used in key markets like China. Since the latest iPhones listed specific support for CDMA, Intel was automatically out of the running.
+
+Intel will just have to try again next year. And try it will.
+
+There's always next year
+
+VentureBeat is now reporting that Intel has allocated approximately 1,000 engineers to work on the upcoming XMM 7360 LTE modem, specifically so that it can deliver what Apple is looking for. The XMM 7360 is expected to ship by the end of the year, and will start showing up in consumer devices in 2016.
+
+Rumors have persisted for years that Intel has also been trying to win Apple's foundry business to manufacture future A-chips. Without a doubt, Intel's fabrication processes are the most sophisticated in the world, but Chipzilla has only recently warmed to the idea of making chips for other companies in recent years. Even then, it's make it clear that it will be very selective about who it lets into its foundries.
+
+The best-case scenario for Intel is that it wins some of the iPhone modem business and some chip foundry business, which would truly be the best of both worlds for the company. There's even a possibility that Apple will soon (and finally) integrate cellular connectivity directly into A-chips with Intel's help.
+
+How this helps Apple
+
+Generally speaking, it's always nice to have multiple sources for components whenever possible, since that reduces concentration risk among suppliers. But to date, Qualcomm has been the only company that can deliver the caliber of modem that Apple demands, since Apple likes to simplify designs by only making a few different models.
+
+Apple tries hard to build as much network support into each iPhone model, which it then uses to market the iPhone as a world phone for travelers. In comparison, rivals like Samsung will often make upwards of a dozen different variants tailored to different geographical markets that support different carriers. This is also precisely why CDMA support is a requisite to even have a shot at winning the iPhone modem slot.
+
+Additionally, having multiple sources for components gives Apple additional negotiating leverage in terms of pricing, and we all know how Apple loves to use its weight to squeeze its suppliers. Qualcomm's chip business has already been seeing revenue and margins both trend lower, and Apple applying pricing pressure next year could hurt margins even more.

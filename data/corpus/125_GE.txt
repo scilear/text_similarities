@@ -1,0 +1,111 @@
+In 2013, after the “London Whale” trading disaster that cost J.P. Morgan Chase more than $6 billion, the bank halved Chief Executive James Dimon’s 2012 compensation, eliminating his cash bonus and saying he bore “ultimate responsibility” for the losses and the internal problems that led to them.
+
+The highly publicized losses might have been a perfect opportunity for the Securities and Exchange Commission to invoke rules, meant to discourage executives from manipulating financial results, that would require Dimon and then-CFO Douglas Braunstein to return the bonuses they were paid as the losses grew.
+
+But while JPM, +1.82% did cut their pay, the SEC never demanded that the company follow federal “clawback” regulations, which would have required it to determine the repayment amount using a precise calculation and then report details of that process to investors. Neither the company nor the SEC ever publicly explained why not.
+
+Getty James Dimon said the “London Whale” trades were “poorly reviewed, poorly executed and poorly monitored. I should have caught it…I didn’t.”.
+
+In fact, a new analysis finds, the enforcement of those rules—meant to reclaim compensation paid executives whose companies restated financial results as a result of misconduct—has been virtually nonexistent since they were adopted in 2002.
+
+Also read: New rules could let executives ask for extra bonuses
+
+New rules soon to be adopted by the SEC will expand the pool of executives to which the regulations apply, potentially exposing more to financial penalties. The business community has expressed disapproval of the new rules, which no longer require evidence of misconduct. But the sparse enforcement of the current rules, experts say, suggests that there is little cause for new concern—and, perhaps, even less than before.
+
+What’s more, some say, the lack of enforcement makes clawback rules practically useless in deterring the earnings manipulation they were meant to discourage—perhaps even creating an incentive for executives to fudge numbers to boost their compensation.
+
+The rules “are written with loopholes and discretion that render them almost meaningless, if desired,” said Divesh Sharma, an accounting professor at Kennesaw State University’s Coles College of Business. The SEC’s enforcement thus far, he said, “casts doubt on the effectiveness of compensation clawback policies.”
+
+More than 12,000 restatements reported since 2002
+
+The original rules were passed as part of the 2002 Sarbanes-Oxley Act. The new ones, proposed in July to comply with the 2010 Dodd-Frank Act, will likely be adopted this year. They require companies to “claw back” incentive compensation from current and former executives—not just the CEO and CFO—after any restatement where past financial results need revision or risk delisting.
+
+Supporters contend that the new rules will hold more executives responsible for serious accounting mistakes. But they are already unpopular with the business community and some members of the SEC, which passed the proposal by a 3-2 margin with the commission’s Republican members dissenting.
+
+Read: SEC’s clawback proposal leaves a big loophole
+
+“Subjecting a broad swath of executive officers to a no-fault recovery mandate creates the potential for substantial injustice,” said SEC Commissioner Daniel Gallagher, who voted against it, in July.
+
+Companies restate financial statements because executives, auditors and their lawyers decide it is necessary to correct errors. An analysis by research firm Audit Analytics shows that there have been more than 12,000 restatements since the Sarbanes-Oxley Act was passed in 2002.
+
+In approximately 4,600 of those cases, the companies said the errors were so serious that their previously reported financial statements could no longer be relied upon. Those companies then corrected the information, refiling those financial statements with the SEC. In cases where someone at the company committed misconduct that led to a restatement, the CEO and CFO were potentially eligible for clawbacks.
+
+It isn’t known how many of the 4,600 restatements were accompanied by misconduct, since that information is rarely made public unless the SEC makes such a claim in an enforcement order. But very few were accompanied by a company’s voluntary disclosure that it was either eligible to pursue a clawback or had recovered compensation from an executive.
+
+In 2014, for example, 69 companies disclosed errors that required prior financial statements to be restated, according to Audit Analytics. Only four of those made any mention of the restatement in SEC filings and only one actually “clawed back” compensation from the period that was restated.
+
+The SEC, meanwhile, has filed about 60 complaints asking for a clawback since 2002. Some of those cases are pending, but data compiled by MarketWatch shows that only 15 of those lawsuits have resulted in CEOs and CFOs paying back incentive compensation under the Sarbanes-Oxley law.
+
+Year Total restatements Cases where past financial statements were revised* Clawbacks under Sarbanes-Oxley rules** 2002 690 * 0 2003 809 * 0 2004 902 * 0 2005 1367 919 0 2006 1616 928 0 2007 1077 628 3 2008 857 425 2 2009 686 342 0 2010 738 331 2 2011 749 316 4 2012 764 254 1 2013 759 238 0 2014 785 185 1 2015 (Through 8/1/2015) 455 96 2
+
+Source: Audit Analytics and MarketWatch
+
+* The Sarbanes-Oxley requirement to inform investors of a restatement via an 8-K filing with the SEC took effect in August 2004.
+
+** Counts only cases where an executive paid back compensation under Sarbanes-Oxley rules.
+
+Some of the opportunities the government might have considered were high-profile cases involving financial restatements as a result of misconduct at well-known companies, including J.P. Morgan Chase, General Electric GE, +2.53% and Dell Computer.
+
+Getty Images The SEC fined General Electric $50 million for transactions that were intentionally designed to defraud investors and resulted in two restatements. CEO Jeff Immelt earned approximately $27 million in bonuses between 2001 and 2007, the periods that were restated, but none was clawed back.
+
+In those cases, and potentially many others, the companies didn't reclaim compensation under the clawback rules even after companies restated financial results. The SEC decided not to file an enforcement order to force them to do so.
+
+Negotiations between companies and the government are confidential, so the SEC’s reasoning for not forcing companies to follow the law is unknown. Through a spokeswoman, the SEC declined a request for comment on its record of enforcing of Sarbanes-Oxley clawback regulations and the specific cases discussed in this story. A J.P. Morgan Chase spokesman also declined to comment on whether the company had held discussions with the SEC about the clawback rules.
+
+Regulators have noted the SEC’s light enforcement of the clawback rules. Commissioner Luis Aguilar said in 2010 that the SEC was ignoring its congressional mandate and even encouraging executives to manipulate financial statements to boost their incentive compensation.
+
+“The SEC incentivized this to continue by choosing to not enforce this new law for almost five years after Sarbanes-Oxley was passed,” said Aguilar.
+
+Bloomberg Luis Aguilar in 2010.
+
+It wasn’t until 2009 that the SEC made clawbacks the sole focus of a case and the defendant— Maynard Jenkins, CEO of CSK Automotive—wasn't accused of any misconduct. Until then, the SEC had focused on cases involving stock option backdating, where misconduct by CEOs and CFOs, combined with restatements to account for the expense of illegally backdated option grants, offered an opportunity for a clawback claim.
+
+CSK, which overstated its income in 2002, 2003 and 2004 by amounts ranging from $11 to $34 million, had to prepare restatements for all three years. While Jenkins wasn't accused of fraud himself, the SEC said he should have repaid the bonus compensation and stock profits he received while the company was manipulating its results.
+
+Jenkins fought the claim. But in November 2011, he agreed to reimburse O’Reilly Automotive ORLY, +1.49% which acquired CSK in 2008, $2.8 million. Jenkins, now an operating executive at investment bank Morgan Joseph TriArtisan, declined to comment for this article, citing his agreement with the SEC.
+
+The Jenkins case, which gave the SEC a green light to pursue bonuses paid executives even when they weren’t responsible for the misconduct that led to the restatement, might have encouraged the government to step up its enforcement efforts. But since 2011, when the SEC settled the Jenkins case and three others resulting in clawbacks, there have been only three more successful recoveries.
+
+More potential clawback targets could mean stiffer resistance
+
+People with knowledge of SEC enforcement processes say the new Dodd-Frank rules may actually result in even fewer clawbacks than the old ones.
+
+Ironically, expanding the number of executives the rules cover could be a chief reason. While highly visible CEOs and CFOs might previously have been unlikely to resist the enforcement of rules meant to reclaim money earned under the auspices of fraudulent accounting, they say, the new rules—which have no requirement of misconduct—could lead executives with little connection to the financial reporting process to actively fight clawback claims after a restatement.
+
+The new rules also add a new enforcement layer between the company and the government. A company that doesn't seek clawbacks under its own policies could be delisted by its stock exchange—a stiff penalty, but also one experts say places a heavy burden on exchanges to monitor compliance with complex compensation policies and make rulings that could result in a financial loss to the company and the exchange.
+
+That’s a lot to ask exchanges, experts say, and so they may be more likely to accept company explanations based on the significant discretion the law gives boards to determine whether or not to pursue a clawback.
+
+Meanwhile, the number of clawback-eligible restatements is falling dramatically, according to Audit Analytics. Fewer are reported each year, and the proportion of those considered material enough to warrant a correction to previous financial statements is falling at an even more rapid pace.
+
+SEC Chief Accountant James Schnurr said at a recent conference that Sarbanes-Oxley regulations have reduced corporate fraud. And Bradley J. Bondi, a partner at Cahill, Gordon & Reindel in Washington, says potential clawbacks are not among the chief concerns for companies considering restatements.
+
+But academics and others who have studied these trends believe companies are increasingly just deciding not to consider a restatement material enough to warrant a revision of financial statements.
+
+“The population of eligible restatements continues to decline, perhaps because the decision of whether to make the kind of restatement that qualifies for a clawback is based on subjective criteria,” said Kevin Chen, accounting professor at Hong Kong University of Science and Technology.
+
+Several other factors that likely limited past enforcement are still in place, according to current and former SEC attorneys.
+
+• The Sarbanes-Oxley clawback-eligible compensation period is limited to payments received in the 12-month period following the public release of financial information that is restated. If payments were made outside that window, the rule didn’t apply. The new rule will expand that window to three years, but because incentive compensation is typically paid after it is earned, even a three-year limit may exclude some otherwise-eligible compensation.
+
+• Recoveries from Sarbanes-Oxley and Dodd-Frank clawbacks go back to the company. Some companies have told the SEC they don’t want the money back, discouraging enforcement efforts.
+
+• The government’s cost-benefit analysis about whether to pursue a case could limit enforcement efforts. If the amount a company would recover is seen as too small, or the case lacks what a former SEC attorney called a “fun factor”—in short, an opportunity for the government to make a strong statement—it might be shelved, or the government could apply other laws to obtain payback without using the Sarbanes-Oxley rules. (In the latter case, the money goes to the U.S. Treasury, not the company.)
+
+• Getting the money isn’t always simple. Deferred bonuses, which are payments earned for performance one year but paid out in a future year or at retirement, are relatively easy to reclaim. But money that isn’t spent on tangible items that can be seized—or is put in a trust, lost to bankruptcy, or given to an ex-spouse—may be more trouble to recover than it is worth, experts say.
+
+• Companies may increasingly decide to use more forms of compensation—such as increased salaries, or bonuses based on tenure rather than financial metrics—that aren't subject to clawback, making enforcement impossible.
+
+“The rules as proposed could prove to be very difficult to administer as a practical matter,” says Kevin LaCroix, an attorney and the author of The D&O Diary blog.
+
+A disputed outlook for enforcement of the new rules
+
+Some observers dispute the nation that the new rules will hamper enforcement—among them Aguilar, the former critic. In an email, he said he believes company directors “will take seriously their obligation to clawback erroneously paid compensation and prevent the improper enrichment of corporate executives at the expense of shareholders.”
+
+If company boards do that, Aguilar said, there is no need for the exchanges or the SEC to get involved.
+
+But David Smyth, a former assistant director in the SEC’s Enforcement Division who is now a partner at Brooks Pierce in Raleigh, N.C., says the ongoing conversation required to pursue clawbacks given the number of potentially eligible restatements creates a massive burden on companies, exchanges and the SEC that might make enforcement unwieldy.
+
+“Congress shifted a big implementation responsibility to the issuer and the penalty for non-compliance…is draconian,” Smyth said. “I have a hard time seeing the SEC threatening delisting to force absent-minded or even stubborn companies to claw back compensation.”
+
+More from MarketWatch

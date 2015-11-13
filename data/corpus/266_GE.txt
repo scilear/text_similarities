@@ -1,0 +1,17 @@
+*Disclaimer : This is as of previous day’s close
+
+ETF’s with exposure to General Electric Co.
+
+Here are 5 ETF’s with the largest exposure to GE-US. Comparing the performance and risk of General Electric Co. with the ETF’s that have exposure to it gives us some ETF choices that could give us similar returns with lower volatility.
+
+Ticker Fund Name GE-US Exposure (%) 1 Year Price Performance (%) 1 Year Volatility (%) Net Expense Ratio (%) Number of Holdings FIDU-US Fidelity MSCI Industrials Index ETF 11.3 -5.52 15.58 0.12 345 VIS-US Vanguard Industrials ETF 10.74 -4.47 15.66 0.12 349 XLI-US Industrial Select Sector SPDR Fund 10.02 -4.91 16.11 0.16 68 IYJ-US iShares U.S. Industrials ETF 9.93 -4.05 15.96 0.45 214 EXI-US iShares Global Industrials ETF 7.5 -7.24 14.9 0.48 209 GE-US General Electric Co. 100 -1.07 1.18 0 1
+
+Use our ETF screener to find ETF’s that hold GE-US along with other stocks
+
+ETF’s with exposure to stocks in the same focus area as General Electric Co..
+
+Here are 5 ETF’s with the largest exposure to stocks in the same focus area and region as GE-US. These ETF’s may not have the highest percentage of General Electric Co., but offer a broader sector/region exposure further minimizing single stock risk. Comparing the performance and risk of General Electric Co. with the ETF’s that have exposure to it gives us some ETF choices that could give us similar returns with lower volatility.
+
+Ticker Fund Name GE-US Exposure (%) Sector Exposure (%) 1 Year Price Performance (%) 1 Year Volatility (%) Net Expense Ratio (%) Number of Holdings SMH-US Market Vectors Semiconductor ETF 0 63.59 -3.18 22.47 0.35 26 SOXX-US iShares PHLX Semiconductor ETF 0 60.51 -5.31 23.63 0.47 31 KFYP-US KraneShares CSI New China ETF 0 51.6 -25.45 36.76 0.68 203 XLI-US Industrial Select Sector SPDR Fund 10.02 45.29 -4.91 16.11 0.16 68 PPA-US PowerShares Aerospace & Defense Portfolio 0 41.7 3.95 15.81 0.66 53 GE-US General Electric Co. 100 100 -1.07 1.18 0 1
+
+Use our natural language search to find ETF’s in any focus area

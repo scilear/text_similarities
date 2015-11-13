@@ -1,0 +1,35 @@
+View photo .
+
+Apple’s veneer of malware invulnerability has taken a hit with the discovery that hundreds of iOS apps have a serious security flaw. The apps were all coded in China by developers who unknowingly used compromised programming tools. The apps reportedly include WeChat, which has 600 million users worldwide; WinZip, a popular file-compression app; CamCard, a business card reader; and the official app for Ting wireless phone customers.
+
+Several sites have posted lists of affected apps—notably, Apple's site is not among them, although the company has been pulling affected apps down from the App Store. Consumers should update or uninstall the products.
+
+Here are answers to three big questions.
+
+1. What Does the Malware Do?
+
+The malware’s main purpose seems to be to steal passwords, according to the Palo Alto Networks, a security company that has outlined the issue in blog posts over the past several days. For instance, the affected apps can open up a fake dialog box that asks for log-in credentials, including iCloud passwords. This is about as good as a phishing scheme can be—the pop-up boxes emerge from inside the apps, and are indistinguishable from legitimate alerts. Additionally, the apps read and record anything on the user’s clipboard. Unfortunately, people often copy and paste passwords from apps such as 1Password. That data doesn’t stay on the clipboard long, but it can get snatched up when the malware is running.
+
+The data collected from the apps is sent out to servers run by the hackers. There haven’t yet been reports of consumers losing control of password-protected accounts. However, the story is just emerging. Over the weekend, 39 apps were known to have been affected. By Monday morning, the number reportedly had crossed into the hundreds, and it was still growing.
+
+2. How Did This Happen?
+
+Developers in China introduced the malware into their apps without knowing it.
+
+Apple iOS apps are built in a programming environment called Xcode, based on the Objective-C language. It’s free. However, if you’re in China, it apparently takes a long time to acquire the Xcode package from Apple’s servers—version 7.0 was a 3.59 GB download. To speed things along, Palo Alto reported, developers often grab the software from third-party sources. In this case, they downloaded a counterfeit Xcode package, which has been dubbed XcodeGhost by researchers at the Chinese tech giant Alibaba. The counterfeit files appeared on a number of Chinese sites about six months ago.
+
+The identity of the hackers isn’t yet known. And while there’s no evidence that XcodeGhost or similar software packages were posted on developer sites outside of China, that country is certainly not the only one with slow download speeds.
+
+
+
+3. Are Apple Products Safe?
+
+Sort of. Any system can be hacked, just as any door lock can be picked. Before now, only a handful of iOS apps among the more than 1.5 million in the App Store are known to have contained malware. However, as Apple products grow more ubiquitous, attacks on the company's mobile and desktop operating systems will inevitably expand.
+
+Last fall, a flaw in Apple’s iCloud password system allowed hackers to gain access to nude celebrity photos using brute force attacks. And last week, news broke about a vulnerability in Apple’s AirDrop, a feature that lets people send files directly from one Apple device to another. (A patch was released with iOS 9 last week.) What this all means is that Apple customers shouldn't assume that security threats affect only Android and Windows users. Malware is for everyone.
+
+
+
+More from Consumer Reports:
+
+Consumer Reports has no relationship with any advertisers on this website. Copyright © 2006-2015 Consumers Union of U.S.

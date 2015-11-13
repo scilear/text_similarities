@@ -1,0 +1,17 @@
+Apple just acquired VocalIQ — a startup based in the UK that makes artificial-intelligence software for processing natural language, the Financial Times reports.
+
+Little else is known about the deal, such as how much Apple paid for the company. Apple issued to the Financial Times the same comment it typically shares when it's acquired a company:
+
+"Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans."
+
+It sounds like VocalIQ's technology could greatly improve Siri.
+
+The company specializes in natural-language processing, which means its product makes it easier for computers to understand your speech the same way another human would. In other words, it could make for an even further improved Siri.
+
+But it's not just about recognizing speech. VocalIQ says its product can help applications learn more about you the more you use them. This, in turn, would make Siri smarter about the various apps and contacts she suggests to you.
+
+Here's what VocalIQ says on its website when describing its technology:
+
+Every time your application is used it gets a little bit smarter. Previous conversations are central to [its] learning process — allowing the system to better understand future requests and in turn, react more intelligently. As a developer, you have the ability to change your system’s interpretation or behavior directly in your app.
+
+NOW WATCH: Animated map reveals the 550,000 miles of cable hidden under the ocean that power the internet

@@ -1,0 +1,29 @@
+For millions, just having an iPhone qualifies as having a high-end camera. Don't believe me? Look at the data on Flickr:
+
+.
+
+Apple's (NASDAQ:AAPL) iPhone -- specifically, the iPhone 6 -- is by far the most popular device for sharing images to Flickr. Canon's point-and-shoot cameras rank third behind the various smartphone models offered by Samsung. To me, that signals a business opportunity for the Mac maker. Here's why.
+
+What smartphones offer that point-and-shoot cameras don't
+
+Convenience is what makes smartphones popular for taking and sharing photos. There's no card to swap out or unload when it's time to take a new round of photos. Instead, Apple allows anyone with an iPhone to back up and manage their entire library of photos in iCloud. Google has a similar system via Drive. There's also Dropbox, Box, OneDrive, and plenty more cloud services that make it easy to store photos online.
+
+Point-and-shoot cameras don't work this way, but they should. Think of how convenient it would be to instantly back up every shot for later review and editing.
+
+Some companies have tried addressing this market by creating lower-cost cameras that include onboard Wi-Fi. Yet those models lack the heft and features of a D-SLR [digital single-lens reflex] camera. Apple could fill the gap with a camera fit for the pro photographers who already buy Macs in droves and use professional editing software.
+
+Tapping into a titanic market
+
+Apple would have to get the product right to win customers, of course. Yet it's worth the attempt. According to TechNavio, photographers already capture some 400 billion images annually. Consequently, they expect the market for digital cameras to grow by 16.17% annually in the five years from 2013 to 2018.
+
+And that's before considering the potential shift created if Apple were to perfect Wi-Fi syncing of images taken with a meaty, professional-grade, branded D-SLR camera. I'd expect the market to accelerate at that point, thanks in no small part to competitors racing to create an alternative -- just as Samsung and others did after Apple released the first iPhone.
+
+A product built for Apple's future in the iCloud
+
+For its part, Apple has neither announced nor hinted at a new D-SLR camera in its labs. The closest thing I've seen is a patent that describes a potential competitor to GoPro's hands-free video cameras. Patently Apple has the details.
+
+So if there's no news of a D-SLR in development, why should anyone believe that point-and-shoot cameras represent a rich market opportunity for Apple? Why should investors pay attention? After all, wasn't it iCloud accounts that were compromised, leading to a series of embarrassing celebrity photo leaks? Yes, and yet we know Apple's investment in the infrastructure behind iCloud -- from servers and security to storage -- is big and growing bigger.
+
+According to a June report from Bloomberg, Apple is in the midst of building a high-speed network and upgrading its data centers to bring content closer to consumers, faster. Analysts expect the iEmpire's infrastructure spending to run into the billions. We don't know which products will benefit from this burgeoning infrastructure, but the plan clearly doesn't begin and end with Apple's current portfolio.
+
+Do you agree? Disagree? Tell me on Twitter or reach out on Google Plus. I may use your comment in a follow-up article.

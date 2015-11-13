@@ -1,0 +1,35 @@
+Hell must be getting chilly. Microsoft is no longer just supporting Linux as Hyper-V virtual machines (VM) and Azure clouds, the Redmond giant is producing its very own Linux "distribution" -- Azure Cloud Switch (ACS) .
+
+Notice the quotes around distribution. Microsoft has not created its own server or desktop distribution. Indeed, you can't buy, lease, or download ACS. This way Microsoft gets to offer Linux-based services while staying on the right side of Linux's GNU General Public License, version 2 (GPLv2) legal requirements.
+
+Linux's GPLv2 requires that the code be made freely available only if you're actually shipping your code to external users or customers. If all you're doing, as is the case with ACS, is enabling users to interact with the service over the Internet, you're in the clear.
+
+So, while Microsoft has created its own internal specialized Linux distribution, you're not going to be able to download it yourself. I rather suspect most of you don't need to download and compile your own Linux-based cross-platform operating system for running data-center network switches anyway.
+
+According to Microsoft Azure Networking principal architect Kamala Subramaniam, ACS -- once it's operational -- will "allow us to debug, fix, and test software bugs much faster. It also allows us the flexibility to scale down the software and develop features that are required for our data-center and our networking needs."
+
+Subramaniam continued: "ACS also allows us to share the same software stack across hardware from multiple switch vendors. This is done via the Switch Abstraction Interface (SAI) specification, the first open-standard C API for programming network switching ASICs, of {Facebook's] Open Compute Project (OCP)."
+
+She also described ACS as a "Lean Stick." By this. Subramaniam means ACS is designed to target Microsoft's specific data-center network needs rather than trying to be a universal network switch solution.
+
+Borrowing directly from the Linux design model, ACS also uses a "Modular Stack" instead of a more Windows-like monolithic image. The advantages to this approach, said Subramaniam, is to make "validation easier with less probability for hidden, high priority bugs and reduces new feature request time lag."
+
+Finally, in saying that ACS is taking the "approach of disaggregating the switch software from the switch hardware" and it "will continue to be a growing trend in the networking industry." Microsoft is clearly betting not just on Linux but software-defined networking (SDN) as well.
+
+ACS may be just a background data-center and cloud networking enabling technology instead of what most people think of as a "Linux distribution," but it still represents a radical change in Microsoft's approach to Linux.
+
+At the century's beginning, Steve Ballmer called Linux "a cancer." And for years afterwards Microsoft treated Linux as if it were a cancer. Microsoft sponsored SCO's copyright attack on Linux and claimed that Linux violated unnamed Microsoft patents.
+
+Special Feaure The Industry Cloud: Why It's Next Coud computing has engulfed lots of IT, but one of the untapped regions of the tech and business world is the industry cloud, focusing on vertical industries and more specialized applications. Read More
+
+Then, as Microsoft's old leadership started dropping out, Microsoft started working with Linux. In 2006, Microsoft and Novell partnered to enable SUSE Linux to run on Microsoft's Hyper-V virtual machines. At the time, this was largely seen as a cynical maneuver for Microsoft to pry Linux customers away. It became more. By 2011, Microsoft, in pursuit of getting Linux to work with Microsoft Hyper-V, became a top five Linux contributor.
+
+By 2014, with Ballmer out of the picture, Microsoft CEO Satya Nadella declared that Microsoft loved Linux. Why the change in heart? Because, except for the desktop, the enterprise has turned to Linux for mobile computing, servers, data-centers, and the cloud.
+
+Nadella, not wedded to the operating system and programming philosophies of the past, followed the money. And, the money in the 21st century of technology has moved to Linux and open-source software.
+
+Today, experts both inside and outside Microsoft, see Microsoft becoming an open-source company. True, ACS is no MS-Linux, but it is one more big step forward in Microsoft supporting Linux.
+
+Who knows, maybe by decade's end, we will see Microsoft Linux Server 2017.
+
+Related Stories:

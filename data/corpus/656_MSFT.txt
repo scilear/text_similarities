@@ -1,0 +1,27 @@
+Microsoft (NasdaqGS: MSFT - news) said Tuesday it bought an Israel-based cybersecurity startup specializing in defending programs and content in the cloud, as it expands offerings for the enterprise.
+
+Microsoft did not disclose how much it paid for Adallom, but the website TechCrunch put the purchase price at $250 million.
+
+The acquisition comes as Microsoft responds to the trend toward cloud-based computing, in which data or software is accessed remotely over the Internet.
+
+Microsoft built its revenue selling packaged programs such as its widely used Office software for business or home computers, but the tech giant is shifting to offering that software through cloud-based subscriptions.
+
+Adallom helps customers "protect critical assets across cloud applications," Microsoft vice president Takeshi Numoto said in a blog post announcing the acquisition.
+
+"With more frequent and advanced cybersecurity attacks continuing to make headlines, customer concerns around security remain top of mind. These concerns pose real challenges for IT (Other OTC: ITGL - news) , who are charged with protecting company data in this rapidly evolving mobile-first, cloud-first world."
+
+Adallom works with cloud-based applications such as Salesforce, Dropbox and Microsoft's own Office 365. The three-year-old startup's technology will be used in other Microsoft offerings as well, such as its Enterprise Mobility Suite and Advanced Threat Analytics.
+
+News (Other OTC: NWSAL - news) of the acquisition came the same day Microsoft announced it is expanding its partnership with Dell to widen the array of Windows 10-powered devices and services for businesses.
+
+A strong part of the push centered on Microsoft Surface Pro tablets and accessories, which Dell will start selling in Canada and the United States through an online shop at dell.com/work.
+
+More markets will be added early next year, according to the companies.
+
+"Our global enterprise customers have asked us to match the Surface Pro 3 and Windows 10 experience with enterprise-grade support and services -? and our partnerships like this one with Dell will do just that," Microsoft chief Satya Nadella said in a release.
+
+The Dell partnership kicked off a "Surface Enterprise Initiative," and Microsoft is out to build on the popularity of its business software to make Surface the preferred tablet for businesses.
+
+The move comes a day ahead of a media event by Apple (NasdaqGS: AAPL - news) , widely expected to unveil a new tablet aimed at businesses which could cut into the market for Surface.
+
+Microsoft said this month it will ramp up the business capabilities of its Windows 10 operating system, which was recently released as a free upgrade and powers some 75 million devices (Other OTC: UBGXF - news) .

@@ -1,0 +1,49 @@
+Tesla Motors (NASDAQ:TSLA) has been driving hard over the past few years toward revolutionizing the auto industry, but an announcement it made earlier in the year presented a new direction.
+
+Diversifying the uses for its battery technology, Tesla announced that it was entering the energy-storage market. As with its auto endeavors, Tesla faces strong -- some say overwhelming -- competition. Recently signing its third energy-storage deal of the year, General Electric (NYSE:GE) for example, is one company vying with Tesla for energy-storage market share.
+
+What's the deal?
+
+Inking its biggest battery deal to date, GE will provide a 30 MW storage system to Coachella Energy Storage Partners in California --the company's third deal in 2015. In and of itself, is this crushing to Tesla? No, not necessarily, but it does suggest that the company is building momentum.
+
+According to Jeff Wyatt, general manager of GE's solar and energy storage units: "GE is committed to the energy storage business. Our goal is to help our customers provide flexibility across the grid by combining our expertise in plant controls, power electronics, systems engineering, and fundamental battery knowledge."
+
+GE's three 2015 projects are all utility-scale -- just one of the markets GE is addressing. Featuring its new Durathon batteries, it also has solutions for independent power producers, facility managers, microgrid, and telecom customers. But, thankfully for Tesla, there's one market missing -- residential. Nonetheless, GE sees this as a lucrative market. According to Reuters, Wyatt said GE "wants to be a 'sizable' player in the market for systems that store energy to manage power volatility." GE expects the market to grow to $6 billion by 2020.
+
+
+
+At the moment, energy storage, found in GE's renewable-energy division, is far from a main driver of revenue. The power and water segment reported $6.8 billion in revenue for the second quarter. Renewable energy, a sub-segment of power and water, reported about $1.43 billion in revenue
+
+
+
+Home sweet home
+
+While GE was making headlines in April, signing deals in California and Canada, Tesla was making its own news, introducing its energy-storage solution. Re-characterizing itself, Tesla shrugged off the misnomer of just being an automotive company. Instead, Tesla Energy defines itself as "a suite of batteries for homes, businesses, and utilities fostering a clean energy ecosystem and helping wean the world off fossil fuels."
+
+
+
+Unlike GE, Tesla has high hopes for its residential energy-storage offering. Dubbed Powerwall, the storage solution provides residents with back-up power when needed, but it also offers financial benefits. Powerwall can charge during low-rate periods, when demand for electricity is low, and deliver the stored power during expensive rate periods, when demand is high.
+
+The company plans on beginning production of Tesla Energy products this quarter "with a plan to ramp up production in Q4." Things won't get really interesting for a few more months; battery module and pack production is expected to begin at the Gigafactory in Q1 2016.
+
+
+
+Expanding from just residential, Tesla is also addressing the commercial and utility-scale markets. For example, Amazon is piloting a project with Tesla's energy storage batteries. Located in northern California, the project, if it's successful, may foretell further adoption at Amazon's data centers -- a significant opportunity. According to Amazon, battery storage "complements our strategy to use renewable energy to power our global infrastructure." On the utility scale, Tesla is partnering with Southern California Edison on three demonstration projects. More importantly, on the utility-scale, Tesla is working with The AES Corporation to develop solar and energy storage solutions. Operating in 18 countries, AES serves over 10 million customers through eight utility companies. The company already has 86 MW of energy storage in operation, and it has projects in development to deliver another 260 MW of storage.
+
+
+
+Let's state the obvious
+
+It goes without saying that the most significant partner for Tesla as it develops its energy-storage business will be SolarCity (NASDAQ: SCTY). Currently, SolarCity offers its commercial customers energy storage through its DemandLogic service, and, for its microgrid customers, SolarCity offers energy storage through its GridLogic service
+
+.
+
+Expecting to begin the installation of residential systems this quarter, SolarCity intends to initially offer energy storage to new customers; existing customers will have the option of upgrading later this year. With a target of 1 million customers -- residential, commercial, and governmental -- by 2018, SolarCity alone represents tremendous potential. The company has two battery options -- 7 kWh and 10 kWh -- for residential customers. Costing installers $3000 for the smaller model and $3,500 for the larger, the price does not include inverter and installation. Speaking to foxnews.com, Jonathan Bass, SolarCity's vice president of communication, said that a customer can prepay $5,000 for a nine-year battery backup service agreement, or "a customer can purchase the same equipment and installation outright for $7,140." -- that's nothing to sneeze at, as the company reported $255 million in revenue for 2014.
+
+
+
+Tesla expects widespread delivery of its residential energy storage products later this year, so expect to see sales figures in the coming quarters.
+
+A Foolishly fond final thought
+
+GE's Coachella deal is significant, but it's nothing Tesla should fret about. With plenty of residential energy to be stored, Tesla's partnership with SolarCity is its most ample opportunity. Automotive sales will be Tesla's bread and butter for some time, but as the Gigafactory ramps up production and SolarCity is able to offer storage to more customers, Tesla may find battery sales to be a substantial revenue stream. Over time, commercial and utility-scale markets may grow siginifcantly, but for now, residential should be the main goal. .

@@ -1,0 +1,21 @@
+Why is Ad Blocking Making News?
+
+(Continued from Prior Part)
+
+Crystal ad blocker an instant hit
+
+As discussed in the previous part of this series, Apple (AAPL) launched the latest version of its mobile operating system, iOS 9, which allows users to download ad blocking software through its Safari mobile browser. The launch of the new technology has given birth to various ad blocking applications that enable users to block ads on Apple’s mobile devices.
+
+Crystal is one such application. Created by a UK-based software developer, this ad blocking app was an instant hit following its launch on September 16, 2015. According to an report from Apptopia, a mobile app market intelligence firm, Crystal was downloaded more than 100,000 times in the week following its launch and generated an estimated $750,000 for the creator. Apple got a cut of that, of course.
+
+New ad blockers emerge
+
+Besides Crystal, a series of new ad blockers have emerged following the launch of Apple’s new operating system. Some of these entrants include BlockBear, Blockr, Purify, and Peace.
+
+Purify is an iOS ad blocker. It’s been downloaded over 35,000 times and has generated revenue of over $150,000. Similarly, Peace reported 38,000 downloads in two days and generated over $110,000 in sales, according to an Apptopia report. The graph above shows downloads in the first week of availability of each new app according to Apptopia.
+
+Adblock Plus is a popular desktop ad blocking tool from German (EWG) start-up Eyeo. This company has been approached by various tech companies to allow their ads through Eyeo’s filter. Eyeo allows certain less disruptive ads, referred to as “Acceptable Ads,” pass through its filter, Some companies that have approached Eyeo are Google (GOOG), Amazon (AMZN) , Microsoft(MSFT), and Taboola.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

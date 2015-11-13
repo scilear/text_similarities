@@ -1,0 +1,17 @@
+Microsoft rolled out a new test version, Build 10536, of Windows 10 Mobile late in the day (East Coast time) on September 14.
+
+This is the first new Windows 10 Mobile test build from Microsoft since August 12, when Microsoft delivered test build 10512.
+
+Microsoft had hoped to push the new build to Windows Phone testers on the Fast Ring at the end of last week, but some glitches held up the rollout. Despite the decision to delay the new build, a couple of hundred Windows Insiders outside Microsoft still got the updated Windows 10 Mobile test build in advertently over the weekend.
+
+Today's Windows 10 Mobile build includes the re-addition of the Insider Hub; fixes to mobile hotspot functionality; fixes to two-factor authentication and quiet hours; and repairs to pinch and zoom in Maps, among other features. Testers with this build can use one-handed mode on all phones with 10536 by pressing and holding the Start button.
+
+Microsoft also has updated the Photos app for those on Build 10536. There's a new folder view to make it easier to see OneDrive and PC folders in the Photos app. On phones, users also can see folders on their SD cards. (The updated Photos app also will be coming to PCs "shortly," according to a blog post announcing today's new build.)
+
+Microsoft warned those updating from Build 10512 that they will need to update their devices twice. As usual, there is a list of known issues with the new build, including some things to watch for with notifications, camera and more.
+
+Testers running the new test builds on Lumia 1020 phones also may experience limitations because some of the features for that phone's camera will only work with the Lumia Camera App, which won't be available for download from the Store until later this Fall. (Those who don't want to wait need to return to Windows Phone 8.1 in the interim, officials said.)
+
+Microsoft is expected to start rolling out Windows 10 Mobile on new Windows Phones and to certain existing Windows Phones later this Fall.
+
+Update: A big word of caution to those running Windows Phones that are not already part of the list of those able to run Windows 10 Mobile builds. (So far, the supported list is a subset of Lumia phones only.) Microsoft inadvertently pushed the new 10536 build to some folks with nonsupported phones. Those who install this build are going to need to reflash their phones. Ugh.

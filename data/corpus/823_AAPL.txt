@@ -1,0 +1,15 @@
+(Adds details)
+
+Sept 16 (Reuters) - Apple Inc said it won't release watchOS 2, an updated operating system for the Apple Watch, on Wednesday as planned after it discovered a bug in development.
+
+A company spokeswoman said the bug was taking longer to fix than expected. "We will not release watchOS 2 today but will shortly," the spokeswoman said.
+
+The updated operating system is designed to help users customize their watch and allow apps to load faster. Apple said last week that watchOS 2 would be available on Sept. 16.
+
+Apple limited the availability of the Apple Watch earlier this year after a component supplied by a Chinese company was found to be defective, the Wall Street Journal reported in April.
+
+The company also had issues this year with a bug that could cause iPhones to crash when a message containing a specific string of text was received.
+
+Last year, a bug in Apple's HealthKit health and fitness application platform prevented its release along with the iOS 8 operating system for iPhones and iPads.
+
+(Reporting by Arathy S Nair in Bengaluru and Julia Love in San Francisco; Editing by Savio D'Souza and Ted Kerr)

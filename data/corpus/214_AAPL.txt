@@ -1,0 +1,19 @@
+BEIJING—Some of the most popular Chinese names in Apple Inc.’s App Store were found to be infected with malicious software in what is being described as a first-of-its-kind security breach, exposing a rare vulnerability in Apple’s mobile platform, according to multiple researchers.
+
+The applications were infected after software developers were lured into using an unauthorized and compromised version of Apple’s AAPL, +1.53% developer tool kit, according to researchers at Alibaba Mobile Security, a mobile antivirus division of Alibaba Group Holding Ltd BABA, +2.17% .
+
+The list of recently compromised iPhone and iPad apps includes Tencent Holdings Ltd.’s 0700, +1.85% popular mobile chat app WeChat, Uber-like car-hailing app Didi Kuaidi, and a Spotify-like music app from Internet portal NetEase Inc NTES, +1.48% .
+
+The attack affected more than three dozen apps, according to U.S.-based cybersecurity firm Palo Alto Networks Inc PANW, +3.96% .
+
+The infected apps can transmit information about a user’s device, prompt fake alerts that could be used to steal passwords to Apple’s iCloud service, and read and write information on the user’s clipboard, according to researchers.
+
+Apple's App Store Hacked in China (1:27) Some of the most popular Chinese apps in Apple’s App Store were found to be infected with malicious software in what is being described as a first-of-its-kind security breach. Here's how it happened. Photo: Associated Press
+
+Apple said in a late Sunday statement that it had taken steps to address the problem. “To protect our customers, we’ve removed the apps from the App Store that we know have been created with this counterfeit software and we are working with the developers to make sure they’re using the proper version of Xcode to rebuild their apps,” the statement said.
+
+In separate statements posted to social media over the weekend, Tencent, Didi Kuaidi Joint Co. and NetEase said their applications had been compromised but said no sensitive customer information had been lost.
+
+An extended version of this story can be found at WSJ.com
+
+More from MarketWatch

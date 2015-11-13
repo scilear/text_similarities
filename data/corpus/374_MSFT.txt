@@ -1,0 +1,31 @@
+Image: Jeremy Mashburn/Microsoft Microsoft researchers think they can answer the riddle to longer life batteries in laptops and tablets - by taking an approach that's being used to boost performance in the datacentre.
+
+Software-defined networking (SDN) has been a hot topic for the past few years for those keen on next-generation datacentre design. Cisco scrambled to figure out its story for the hardware-saving network virtualisation technology, while Google last year launched its own SDN, Andromeda, to optimise networking capabilities and performance on Google Cloud Compute.
+
+Must See Gallery Photos: Robots battle to tackle the aftermath of a nuclear meltdown Inspired by the 2011 Fukushima accident, the recent euRathlon outdoor robotics competition set out to test how well robots cope with realistic mock emergency-response situations. Read More
+
+Similar efforts have been made to abstract key functions from other hardware, such as storage and servers at the datacentre. However engineers at Microsoft Research think the general approach can also deliver a longer life battery in consumer devices. Their idea is not to build better batteries but to rethink how a computer is built so that batteries last longer without a charge.
+
+To do this, researchers are working on a "software-defined battery". In fact, the prototype devices involve multiple kinds of existing batteries that are optimised for certain tasks - say low-power jobs like processing a Word document versus high-demand tasks such as rendering a video. These batteries work in tandem with software to keep laptops and tablets charged longer.
+
+Device makers have eked out better battery performance largely through hardware modifications and improvements to lithium-ion batteries, though as Microsoft Research points out, these gains haven't kept pace with faster processors and richer screens and typically don't cater to different usage patterns.
+
+In Microsoft's vision for the software-defined battery (SDB), an operating system like Windows would orchestrate which task to allocate to the most appropriate battery.
+
+"Deciding how much power to draw from each battery, and how to charge each battery is non-trivial," Microsoft Researchers note in a paper to be presented at the ACM Symposium on Operating Systems Principles this week.
+
+The SDB software resides in the OS and implements a set of policies and APIs to optimise battery selection and usage.
+
+"The SDB software uses simple APIs to communicate with the SDB hardware. The algorithms implemented by this software use various metrics for increasing the single charge-discharge duration of the device, and the longevity of the batteries, and thereby decide the ratios in which to discharge each battery, and the ratios in which to charge them," the researchers write.
+
+Image: Microsoft Research
+
+It would also use machine-learning to make suggestions as to how to extend battery life based on a user's habits - for example, it would notice that a person plugs their tablet in at a certain time every day just before delivering a long PowerPoint presentation.
+
+Blending the smarter operating system and machine-learning, the computer could optimise how it charges to suit a user's habits and minimise the number of times a day the individual in question needs to plug it in.
+
+For example, it could figure out that during the day the computer is mostly used for email and Word documents, whereas at night it's used for browsing the web and watching videos.
+
+Microsoft Research's Bodhi Priyantha, Ranveer Chandra, and Anirudh Badam say the work is currently only an investigative project. However, they have built prototypes that they hope will one day translate into consumer products.
+
+Read more

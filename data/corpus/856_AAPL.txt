@@ -1,0 +1,33 @@
+With iOS 9, Apple's recent software update for iPhones and iPads, the company largely focused on improving its core apps — including Apple Maps.
+
+The new version of Apple Maps finally offers public-transit directions, which many rival navigation apps have included for years.
+
+The new public-transit directions in Apple Maps are accurate and handy. I've been using them to get around New York City for the past week, and I haven't been tempted to switch back to Google Maps once.
+
+It's worth noting, however, that public-transit directions for Apple Maps are only available in 11 cities around the world for now.
+
+Since Google Maps has been offering public-transit instructions for years, it's already available in hundred of cities around the globe.
+
+Still, if you do live in a city where Apple Maps public-transit directions are available, here are a few of the most useful features worth trying.
+
+Apple mixes turn-by-turn walking directions with public-transit routes
+
+When you reach the bus or train stop closest to your destination, sometimes it can be confusing to figure out exactly where you need to walk. This is easy enough to find using Google Maps, since you can simply look at the map to view your location and see which direction you're walking in.
+
+But Apple Maps makes this even easier by telling you exactly where you need to turn. Tapping the "Details" button next to your stop reveals a list of turn-by-turn walking directions to help you get to your destination faster.
+
+Notice how Google Maps only tells you how far you need to walk in its set of directions.
+
+Apple also tells you exactly where you should be exiting the train station
+
+In a city like New York, it can be difficult to decide which exit to take when you leave the train station. If you're exiting a big station such as Union Square, taking the wrong exit can put you all the way on the other side of the park, blocks away from where you need to be.
+
+But Apple Maps tells you which signs you should look for and where you should exit the subway. It maps out the subway station so that you can clearly see where all the exits are.
+
+Transit view in Apple Maps looks nicer
+
+Both Google Maps (right) and Apple Maps (left) come with a feature called Transit View, which shows you subway lines, bus stops, transit terminals, and other necessary bits of information depending on which city you're in.
+
+I personally prefer the Transit View in Apple Maps over the one in Google Maps. It's easier to see the name of the actual subway line, which could be useful for someone who's new to the city and can't recognize them all by color yet.
+
+NOW WATCH: This is what happens to your brain and body when you check your phone before bed

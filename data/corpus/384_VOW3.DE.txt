@@ -1,0 +1,31 @@
+What have US regulators accused Volkswagen of doing?
+
+The Environmental Protection Agency’s complaint says Volkswagen has admitted that some of its diesel-powered vehicles in the US feature a “defeat device”. Essentially the car detects when an emissions test is under way and changes the way it operates to improve its results.
+
+How does that work?
+
+The EPA has given few details — but it says the software senses whether a test is under way based on “various inputs”. These include the steering wheel’s position, the vehicle speed, duration of the engine’s operation and the air pressure.
+
+What does it do the rest of the time?
+
+According to the EPA, when the device senses a test is under way, it switches on a series of emissions controls. But under all other circumstances the controls are turned off.
+
+Why does that matter?
+
+The EPA says emissions of nitrogen dioxide and other harmful pollutants are 10 to 40 times permitted levels when the controls are turned off. Emission controls can affect a car’s performance and in past cases involving defeat devices, carmakers have used them to enhance vehicles’ fuel economy.
+
+So this has happened before?
+
+The EPA in 1998 fined various makers of diesel engines for including defeat devices in the software monitoring the emissions of heavy trucks. In those cases, emissions were found to be as much as three times permitted limits. Earlier in the 1990s, both Ford of the US and Japan’s Honda paid fines for installing software that caused their vehicles to emit more pollutants than they otherwise would have done. More recently, in 2014, two Korean carmakers — Hyundai and Kia — paid fines to the EPA for overstating their vehicles’ fuel economy.
+
+What can happen to VW because of this?
+
+The EPA has the power to fine a company up to $37,500 for a non-compliant vehicle. That figure has led to speculation that the company could be penalised up to $18bn for the 482,000 vehicles involved. However, in past EPA rulings, fines per vehicle tended to get smaller after the first 10, in a complex formula. While the fines and other costs are likely to be substantial, it is hard to predict exactly what they will be.
+
+VW emissions scandal is reality’s revenge Unless it finds a defence to the charge of deliberate deception its reputation will be badly damaged Read more
+
+Although diesel cars accounted for just 4 per cent of the US market sales last year, VW and Audi — its premium brand — sell far higher proportions of these vehicles in the US than most other manufacturers, branding them “Clean Diesel”.
+
+Is it only a US or VW problem?
+
+The German government has announced plans to examine whether emissions data have been manipulated, and both the EPA and California Air Resources Board — which was key to raising concerns about the issue — have now begun procuring other manufacturers’ vehicles to test for similar devices. The California body said on Friday it acted after “some testing outfits in Europe” conducted tests that got its attention.

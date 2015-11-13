@@ -1,0 +1,35 @@
+NEW YORK (AP) -- Technology giants — Apple, Facebook, Snapchat and now Google — want to take charge of how we get and see news on our phones.
+
+Google on Wednesday was the latest company to announce a news-focused tool that it says will speed up how fast stories load after a Google search. Reading news is increasingly something we do from a hand-held gadget. It's not widely available yet.
+
+Facebook in May started testing "Instant Articles," which load news stories faster from a handful of publishers, like the New York Times, BuzzFeed and the Washington Post, inside the social network's mobile app. Apple's News app came automatically built into the latest version of its mobile operating system and has stories from dozens of media brands. The Discover feature of disappearing-messages app Snapchat launched in January and currently has stories and video from 14 different media brands, including CNN, Mashable, BuzzFeed, People and Vice.
+
+WHY NOW?
+
+Phones and tablets are more and more important to publishers, but stories and video can take several seconds to load on the mobile web. Out of 51 top digital news outlets, which encompassed video-heavy sites like Vice, online arms of traditional newspapers and digital-only brands like Slate, only nine had a bigger audience on a computer than on a phone or tablet, according to the Pew Research Center. If stories or video take too long to load, users could be turned off.
+
+ARE THESE NEW APPS?
+
+Not quite. Facebook is speeding up how fast articles from participating publishers load when they're posted on the social network — you don't have to do anything new to see them. They say they're saving you at least several seconds, as the new articles should be visible immediately.
+
+Google's version speeds up stories you would click on after a Google search or links from Twitter, for example. The company is working with publishers on the back end, but consumers don't have to do anything differently than they do now.
+
+Apple did build an aggregator that tailors a stream of news stories for you. There are similar services that already exist, like Flipboard. But Apple made it easier on iPhone users — you don't need to download a separate app.
+
+Snapchat's popularity with young people came from its disappearing-messages function before it started Discover, which you swipe over to when you're already inside Snapchat.
+
+IS IT EASIER TO GET NEWS BECAUSE OF THIS?
+
+All of these services are combining content from different publishers. That's useful because it saves you from having to download individual apps from all the sources you like, or going to lots of different sites. They can help you discover new preferences. But they can also overwhelm you with content.
+
+The ad experience has been better with these tools and apps — I haven't seen pop-up ads or ads that block what I'm trying to read.
+
+In many cases, they can also help you navigate paywalls that some publishers put on their apps and sites after non-subscribers view a certain number of stories. The Washington Post is publishing its entire lineup of stories and posts to Facebook every day; on the site, you'd be limited to five stories before hitting a paywall. In Apple News, I saw a handful of Wall Street Journal stories offered free each day. It usually blocks stories after a short summary for those who don't subscribe. The New Yorker, which posts only a summary of some of its stories in Apple News with a link that takes me to a full version on its site, cut me off after several clicks.
+
+On Snapchat, stories change every 24 hours — they're gone if you miss them that day. Some are exclusive to the app.
+
+DRAWBACKS?
+
+I'm not getting breaking-news alerts from the technology companies, as I would with a news app. Some people don't like these notifications, however, and you can turn them off in publisher apps.
+
+And I can't get content if I don't have an Internet connection, unless I saved some previously in Apple News. Some publisher apps will update stories throughout the day and store them, so I can read them when I'm offline. Google says its new tools could let publishers create offline content.

@@ -1,0 +1,39 @@
+Over in Seeking Alpha, a contributor by the handle of "Alpha Max" argues that investors in PC processor giant Intel (NASDAQ:INTC) shouldn't worry if Apple (NASDAQ:AAPL) ultimately decides to kick Intel out of its Mac products and instead choose to use processors designed by the iDevice maker itself.
+
+Alpha Max argues that, in the (apparently inevitable) case in which Apple kicks Intel out of some of its Mac systems, Intel could still benefit by both winning the contracts to build Apple-designed chips and by sharing the modem spot with Qualcomm (NASDAQ:QCOM) in future iPhones.
+
+I respectfully disagree with the author; Intel needs to be "paranoid" here and defend this business aggressively. Here's why.
+
+How much revenue does Intel get from Apple, again?
+
+According to Intel's most recent form 10-K filing, Apple was not responsible for more than 10% of the company's revenue during 2014. Given that Intel brought in $55.87 billion in sales, this means that a good upper-bound for the company's revenue from Apple.
+
+To try to get a better handle on what kind of revenue Intel likely receives from sales to Apple, it's worth noting that Apple sold roughly 18.9 million Mac computers during its fiscal year 2014. If we assume that the average selling price of platforms into Apple's Macs is $150, then this would imply $2.835 billion in revenue.
+
+Apple tends to buy a fairly rich mix of processors, so I wouldn't be surprised if that average selling price were closer to $200. At any rate, I think it's fair to assume that Intel probably gets anywhere from around $3 billion to around $4 billion per year in revenue from Apple.
+
+Can foundry-plus-modem offset this?
+
+Intel's gross profit margin was 63% last quarter and the company expects that to be about 62% next quarter. I believe that it's pretty fair to assume that the gross profit margins on the chips that Intel sells to Apple are about in-line with the corporate average.
+
+Under that assumption, Intel realizes anywhere from $1.86 billion to $2.48 billion in gross profits from its current Apple business.
+
+The question, then, is whether it would be reasonable to expect that the combination of being a foundry to Apple and being a second source on the modem side of things to be enough to offset the loss of that business.
+
+I would argue that the answer is "no."
+
+According to an estimate from Credit Suisse's Kulbinder Garcha, Apple is on track to ship 234 million iPhones in calendar 2015 .
+
+If we assume that Intel could get $15 per A-series chip and $15 for the modem, and if we assume that it would win all of that business, then this could be a deal worth $7 billion in revenue. However, in such a case I would expect that the gross profit margins on such a deal would be more along the lines of 50% (especially given that the foundry and modem landscapes are quite competitive) rather than the 60%+ that Intel's PC platform sales bring in.
+
+The good news, then, is that such a deal could actually lead to slightly higher overall gross profits by anywhere from $500 million to $1.2 billion. The bad news is that the likelihood that Apple would use Intel to manufacture all of its A-series processors and buy all of its cellular modems from Intel is very, very low.
+
+If we tone down the assumptions a bit and assume a 50/50 split for both the A-series processors and the modem (which, once again, is quite aggressive given that Intel's current share of both businesses is 0%), then such a deal would still be a net negative for Intel as total gross profits from such a "trade" would seemingly come down.
+
+Intel needs to defend its Mac business
+
+At the end of the day, although Apple isn't a 10% customer of Intel's, the revenue that the chip giant sees from selling processors to Apple is likely quite material.
+
+I believe that as long as Intel can continue to deliver products that offer the kind of performance and power consumption that Apple is looking for, then it should continue to "own" this business for the foreseeable future.
+
+Fortunately, Intel's PC processor architectures are quite good and benefit from being manufactured on what I believe to be the world's best manufacturing technology; in other words, Intel is doing what it needs to keep its spot inside of future Apple Macs.

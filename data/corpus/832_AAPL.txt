@@ -1,0 +1,9 @@
+Apple's first major software update for the Apple Watch, called watchOS 2, has been delayed.
+
+The update was initially scheduled to launch alongside Apple's new iPhone and iPad software, iOS 9. But an Apple spokesperson said that a bug with the software's development has delayed its launch.
+
+"We have discovered a bug in development of watchOS 2 that is taking a bit longer to fix than we expected," an Apple spokesperson said to Business Insider. "We will not release watchOS 2 today but will shortly."
+
+The watchOS 2 update is a big deal for the Apple Watch — it's going to allow apps to run natively on the watch, which means apps will run more smoothly. It's also going to enable the watch to connect to Wi-Fi networks you've already used on your iPhone so that you can get more functionality out of the watch when it's not nearby.
+
+NOW WATCH: Stop making the biggest mistake when it comes to texting etiquette

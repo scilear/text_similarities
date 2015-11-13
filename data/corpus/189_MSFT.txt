@@ -1,0 +1,25 @@
+To say that Windows Phone has been a failure in the United States would be an understatement. Phones running the Microsoft(NASDAQ:MSFT) mobile OS accounted for just 2.9% of U.S. smartphones in July, according to comScore. The platform has done better overseas, with double-digit market shares in some European countries, but it has failed to gain any traction in its home market.
+
+There are two developments, however, that could change things dramatically. The first is the imminent release of Windows 10 Mobile, the successor to Windows Phone 8, which brings with it universal Windows apps. The second is the end of smartphone subsidies in the United States, which tended to hide the true cost of smartphones while pushing customers toward high-end devices.
+
+Here's why Windows Phones, particularly inexpensive ones, could make a comeback.
+
+Fixing the app problem
+
+One major problem that Windows Phone 8 has suffered is a lack of apps compared to both Android and iOS. Windows Phone has many of the major apps one would expect, but the platform has a dearth of minor apps that, while probably used infrequently, can still make or break the platform.
+
+One good example is banking. Out of the four largest banks in the U.S. by assets, only two of them have Windows Phone apps, while all of them support both Android and iOS. And if you bank at one of the thousands of other banks or credit unions in the United States, many of them local or regional, the likelihood of a Windows Phone app is slim to none.
+
+With Windows 10 Mobile, Microsoft is attempting to fix the app problem in a few different ways. First, Windows 10 supports universal apps, which means a developer can create an app that will run on all devices running Windows 10, from PCs to smartphones. While the user base of Windows Phone is too small to justify for many developers, the hundreds of millions of PCs that will soon be running Windows 10 makes developing for Windows a far more enticing prospect.
+
+In addition to universal apps, Microsoft is enabling developers to port their existing Android or iOS apps to Windows 10 with minimal changes through a set of software tools. Windows Bridge for iOS allows existing iOS apps to be imported into Visual Studio, where developers can extend their apps with Windows services and get them up and running on Windows 10 without having to make major changes. Windows Bridge for Android works in a similar way, and these tools attempt to remove as much friction as possible for iOS and Android developers.
+
+Cheap phones finally make sense
+
+Without app parity with Android and iOS, expensive, flagship Windows Phones are a tough sell. Inexpensive Windows Phones, however, have proven to be popular in areas where Windows Phone has meaningful share. It was reported earlier this year that about 60% of all Windows Phone devices worldwide are comprised of the Lumia 520, 530, 535, 620, 625, 630, and 635 -- all low-end devices. The Lumia 535, for example, retails for $149 unlocked in the United States.
+
+Budget smartphones like the Lumia 535 don't make sense when the majority of smartphone users in the U.S. buy phones under two-year contracts with subsidies. Under the subsidy system, a high-end phone that would normally retail for $650 could be had for $200, and a phone retailing for $450 would typically be free. There is no actual price difference for any phone priced at $450 or less under the subsidy system, making budget phones a nonsensical choice for consumers.
+
+Now that the major carriers have done away with subsidies, the full price of smartphones are now paid by consumers, either upfront or in installments. This means a $150 phone is genuinely less expensive than a $450 phone, and price-sensitive smartphone buyers now have a broad array of inexpensive options.
+
+This doesn't guarantee the success of Windows Phone, of course; inexpensive Android phones benefit in the same way. But a combination of an improving app situation and the end of subsidies gives Windows Phone a fighting chance in its home market.

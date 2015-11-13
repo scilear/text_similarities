@@ -1,0 +1,35 @@
+These days, plenty of tech companies are touting the growth potential of the virtual reality market. Facebook (NASDAQ:FB), Sony, and other companies plan to launch VR headsets next year. Google (NASDAQ:GOOG) (NASDAQ:GOOGL) and GoPro (NASDAQ:GPRO) recently teamed up to produce a VR filmmaking ecosystem.
+
+Tech M&A advisory firm Digi-Capital claims that the VR market could grow from practically nothing today to $30 billion by 2020, thanks to VR games, films, and niche enterprise uses. But before investors buy into the hype of VR becoming the "next big thing" in tech, they should understand several key things about this market.
+
+Three decades of being the "next big thing"
+
+The modern concept of VR started in the mid-1980s. Sega launched its first VR headset in 1991, and Computer Gaming World boldly proclaimed the following year that gamers would experience "affordable VR by 1994." All that sound and fury ultimately signified nothing, and poorly conceived VR devices like Nintendo's Virtual Boy flopped and killed off hopes for mainstream VR games.
+
+Many people argue that those devices arrived too early, before 3D technologies had become advanced enough to handle full VR environments. The current generation of VR, which has evolved in step with modern 3D graphics, started with Oculus VR's launch of the Kickstarter-funded Oculus Rift three years ago. Last year, Facebook acquired Oculus VR for $2 billion.
+
+Gaining mainstream appeal
+
+While VR technology has improved considerably, there are still doubts that VR devices will gain mainstream adoption. To address that problem, Google launched Cardboard, a cheap DIY kit for converting any smartphone into a cardboard VR headset last year. The surprising popularity of Cardboard, which has seen its main app downloaded up to 5 million times, convinced developers to create more VR apps for Google Play.
+
+Samsung (NASDAQOTH:SSNLF) also believes that using smartphones as the guts of VR headsets can boost mainstream adoption. That's why it launched the Gear VR, a device co-developed with Oculus that converts select Samsung phones into consumer-grade VR headsets.
+
+Meanwhile, Google and GoPro's Jump partnership lets users produce interactive YouTube videos that can be viewed in Cardboard or scrolled around within Chrome. Facebook recently announced a similar feature for its News Feed videos, which enables users to experience 360-degree videos by either moving their device or swiping through the scenes. Both initiatives could convince more creators to produce VR content. Facebook even established a VR filmmaking studio, Oculus Story Studio, which is producing VR films ahead of Oculus Rift's official launch.
+
+Looking beyond games and films
+
+Facebook CEO Mark Zuckerberg once said that his company would introduce the Oculus Rift as a gaming device first, then expand it to include other experiences like telehealth, remote teaching, or live events. This means that VR cameras could eventually stream another person's live view directly to another user, which could open up entirely new methods of digital communication.
+
+Earlier this year, Samsung demonstrated this concept with a prototype 360-degree camera that streamed a live birth to a father wearing a Gear VR headset 2,500 miles away.
+
+The VR and AR markets will converge
+
+Digi-Capital estimates that the AR market will grow to $120 billion by 2020, eclipsing the smaller VR market. The reason is simple -- AR apps that "augment" the real world have more practical applications than VR apps which fully obstruct a user's vision.
+
+However, it's likely that the lines between VR and AR will soon be blurred with devices like Microsoft's (NASDAQ:MSFT) HoloLens, which lets users manipulate virtual objects like Minecraft blocks on real surfaces. Therefore, it's likely that dual-use AR/VR headsets will emerge, while telepresence apps could eventually "project" a remote person or object directly into the user's living room.
+
+Potential challenges
+
+The potential applications of VR and AR apps are intriguing, but there are also plenty of hurdles ahead. Poorly made games and experiences could quickly turn off consumers. The wide-open spaces required for VR experiences might limit their appeal. The geek factor of the headsets, which contributed to the temporary demise of Google Glass, could further reduce their mainstream appeal.
+
+Despite those challenges, research firm Gartner projects that over 25 million VR headsets will be sold worldwide by 2018. That's a tiny niche market compared to the 1.2 billion smartphones shipped last year, but it would represent a level of adoption which VR devices have never achieved before. As mainstream acceptance grows, early movers in the market like Facebook, Google, GoPro, and Microsoft could be well-poised to profit.

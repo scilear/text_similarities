@@ -1,0 +1,51 @@
+A top iPhone ad-blocking application was pulled from the App Store on Friday by its creator, amid a surge in interest in new programs to thwart marketing messages.
+
+Programmer Marco Arment removed the Peace app after it spent more than a day as the most downloaded paid application at Apple's online shop.
+
+"Achieving this much success with Peace just doesn't feel good, which I didn't anticipate," Arment said in a post at Marco.org.
+
+"Ad blockers come with an important asterisk: while they do benefit a ton of people in major ways, they also hurt some, including many who don't deserve the hit."
+
+The $2.99 app jumped to the top of the charts after the Wednesday release of updated iOS 9 Apple mobile operating software that allows the use of programs blocking ads from popping up while visiting websites using Safari web browser.
+
+While blocking ads promised to make surfing the Internet from iPhones or iPads faster and rein in telecom data use, it also sabotages what has long been the main way websites make money while providing free content or services.
+
+"Of course, ads pay for properties on the Web," said independent analyst Rob Enderle of Enderle Group.
+
+"You are essentially fast-forwarding through the commercials the way people do with TV."
+
+- Sidestepping mobile ads -
+
+Skipping ads is not new, according to the analyst. Ad blockers have been options on desktop computers for some time, but the numbers of people who opt to turn them on have been low.
+
+Meanwhile, mobile lifestyles involving smartphones or tablets have increasingly centered on using apps that sidestep web browsers all together.
+
+Ad-blocking does not apply to apps, which are vetted by Apple before being allows in the App Store and which come with the ability of Apple to share in revenue generated.
+
+Advertisers could be even more drawn to Facebook, which has its own ad platform at the social network.
+
+The mainstay of Google revenue continues to be online ads, but a good portion of that involves search page marketing posts that are not affected by ad-blocking applications, according to analysts.
+
+"Doing anything like this that prevents Google from getting revenue is likely one of the unique pleasures for Apple," Enderle said.
+
+A study last month found that software that blocks online ads is expected to cost websites some $21.8 billion globally in 2015, and could rise further with the new iOS system, but some analysts questioned the methodology of the report.
+
+- Could be good -
+
+A shift to blocking ads could have a silver lining, according to Enderle.
+
+Publishers who have been forced to put their content online for free while search engines make money off ads could see the rebirth of subscription models through paid apps.
+
+"So, this could be a good thing," Enderle said.
+
+"It could also be that if you want to see content, you have to turn off the ad-blocker as part of the deal."
+
+Arment expressed concern that Peace treated all ads the same in an approach that was too heavy-handed in a world where such decisions are not black-and-white.
+
+"I still believe that ad blockers are necessary today, and I still think Ghostery is the best one, but I've learned over the last few crazy days that I don't feel good making one and being the arbiter of what's blocked," Arment said.
+
+"Ad-blocking is a kind of war -- a first-world, low-stakes, both-sides-are-fortunate-to-have-this-kind-of-problem war, but a war nonetheless, with damage hitting both sides."
+
+And, citing Chinese classical text Tao Te Ching, he said it should be avoided when possible and entered into solemnly when unavoidable.
+
+gc/rl

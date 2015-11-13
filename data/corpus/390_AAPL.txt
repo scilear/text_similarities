@@ -1,0 +1,19 @@
+The earnings season is an exciting time in the stock market, with speculations, forecasts, and expectations in constant flux, along with emotions and earnings announcements. But amid the buzz around earnings that companies are likely to report during earning season it's worth paying attention to the subtleties of the whisper number.
+
+Whisper numbers, in simplified form, refer to the unofficial or unpublished estimates about company earnings that circulate through the markets. Whisper numbers will often differ from earnings estimates and consensus estimates. What they really are is reflection of conventional wisdom on the part of investors and analysts.
+
+Whispers & Reactions
+
+In recent times, whisper numbers have become more accurate and more important. Here's a look at how well they predicted the share price of Apple, Inc. (NASDAQ: AAPL).
+
+Data collected by WhisperNumber and other aggregators shows that Apple successfully beat the whisper number in 47 out of 68 analyzed quarters, matched it in three, and missed it in 18. Thus, for the quarters in question, Apple had a 69% positive score, in terms of beating the whisper number. Data for Apple's earnings since 1998 also shows us that, when it comes to predicting actual earnings, whisper numbers have been more accurate than analyst estimates. (As a rule, analysts tend to underestimate earnings, while the whisper numbers reduce downward bias in analyst forecasts.)
+
+Now, let’s look at third quarter earnings reported by Apple on July 21, 2015. On that day, Apple reported earnings of $1.85 per share on revenue of $49.6 billion—beating the consensus earnings estimate of $1.85 per share on revenue of $49.3 billion. Surprisingly, Apple’s stock was down by 4.23% on the next trading day and has been trending downward since the earnings results. What accounts for the drop? It was the earnings whisper of $1.95 per share on revenue of $49.26 billion which was “missed” by the actual quarterly earnings. The expectations of the market participants were high as many believed that the whisper earnings would be met or surpassed, something which did not happen! Thus, even though Apple's quarterly earnings beat analyst estimates, the investors reacted negatively, with a sell-off as quarterly earnings fell short of the whisper number. These negative reactions usually last for a few trading sessions.
+
+Once conclusion that we may draw is that, while 'official' earnings estimates may be met or exceeded by a company’s reported earnings, stocks can still drop when actual earnings have failed to meet the whisper number.
+
+As a rule, analysts’ estimates are more mathematically-minded while whisper numbers are also governed by mood swings (based on news stories, rumors, corporate personalities, and other intuitive factors) on the part of investors. If whispers are more accurate than the consensus estimates, and a better proxy for earnings expectations, it may be because they are based on bigger, if less quantifiable, data sets. (Related reading, see: Whisper Numbers: Should You Listen?)
+
+The Bottom Line
+
+Every earnings season, we see consensus estimates about stock earnings, whisper numbers, and, finally, actual earnings reports. It's the the interplay between these numbers and investor reactions that decides the stock market's short-term movements. Whisper numbers may be mysterious—they may come from company insiders, stock price manipulators, perceptive investors, or some combination thereof—but, more and more, they're making themselves heard. No investors should rely on them blindly, but as an addendum to analyst estimates they're an invaluable resource for short-term investors, traders, and speculators.

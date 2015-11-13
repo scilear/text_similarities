@@ -1,0 +1,23 @@
+What happened: Shares of German luxury-car giant BMW Group (NASDAQOTH:BAMXF) rose 4.24% in trading in Frankfurt on Friday, after reports that the company had been ensnared in a diesel-car-testing scandal proved premature.
+
+That represented a big rebound from trading on Thursday, when BMW's shares closed down just more than 5%. But Friday's closing price of 78.89 euros is still down about 8% from a week ago.
+
+Why it's important: Investors began dumping BMW on Thursday after a report in the German media that exhaust from a diesel-powered BMW had greatly exceeded legal limits on pollutants in testing.
+
+That would normally be a minor affair. But investors in automakers are on edge right now.
+
+BMW rival Volkswagen Group (NASDAQOTH:VLKAY) has been embroiled in a massive scandal after it essentially admitted to allegations that it rigged millions of diesel-powered cars with software that was designed to cheat on emissions tests. When a car detected that a test was underway, the engine would make adjustments to clean the exhaust up -- but in normal driving, certain pollutants in the car's exhaust exceeded legal limits by as much as 40 times.
+
+The scandal has already cost VW's CEO his job, and billions in fines, and even criminal charges are likely. It's believed that VW resorted to the cheating software because its engineers couldn't figure out how to make the engines pass government emissions tests while still meeting their targets for performance and fuel economy.
+
+VW has for years marketed its "clean diesel" technology as a breakthrough. That breakthrough now appears to have been trickery -- and it calls into question the diesel technology from all automakers.
+
+The concern was that BMW might also have resorted to some sort of software trickery to pass emissions tests. But late on Thursday, BMW issued a statement that strenuously insisted that its diesel engines meet all legal and regulatory requirements, under any conditions. That statement, and additional reporting on the alleged test results, appears to have mollified investors -- somewhat.
+
+What happens next: Governments all over the world are gearing up to test the emissions of diesel-powered cars, and not just Volkswagens. That testing could be extended to gasoline-powered cars, as well.
+
+The problem that allowed VW to escape detection for years remains: Automakers are largely allowed to do this kind of testing on their own. They report results to the government agencies, which, in turn, do (at most) occasional spot checks after the fact.
+
+The auto industry has lobbied hard in the U.S., Europe, and elsewhere for these kinds of self-certification rules. But those arrangements may start to change in the wake of the VW mess. Already, regulators and lawmakers in the U.S. and Europe are talking about beefing up testing and enforcement around auto emissions. If they do, the question on all auto investors' minds will be: Who else will get exposed?
+
+That question is likely to keep investors wary, and make the prices of auto stocks volatile for a while.

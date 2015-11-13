@@ -1,0 +1,23 @@
+Why is Ad Blocking Making News?
+
+(Continued from Prior Part)
+
+As discussed in the previous part of this series, ad blocking can put a stop to such annoyances as auto-play videos, animated ads that start playing as soon as we load a webpage. These ads delay webpage loading, especially on mobile devices.
+
+Though ad blocking software could improve Internet users’ experience, it poses a big threat to the bread and butter of websites and publishers that rely heavily on advertising revenue. Some of these companies include The Washington Post (GHC), The New York Times (NYT), and Google (GOOG).
+
+In the last couple of years, website advertising has become quite aggressive. With the intent of targeting specific customers, site owners end up delivering irrelevant ads that occupy a lot of space.
+
+With the advent of ad blocking, some websites are taking measures to curb down on these annoyances so that users don’t resort to ad blockers. These websites are focusing on getting paid for delivering news and entertainment.
+
+As you can see in the graph above, and according to a report from PageFair, a company against ad blocking, it’s estimated that ad blocking tools will block around $22 billion ad revenue in 2015, and around $41 billion in 2016.
+
+Earlier, ad blockers were available only on desktop computers. However, Apple’s (AAPL) new mobile operating system, iOS 9, has the ability to block ads on Apple’s Safari browser.
+
+Currently, blocking tools can only block ads within the Safari browser, not Twitter, Facebook, or Apple’s own News app.
+
+Take on more diversified exposure to Apple by investing in the SPDR Dow Jones Industrial Average ETF (DIA). DIA held ~4.6% in the company at the end of August.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

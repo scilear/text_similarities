@@ -1,0 +1,33 @@
+By Joseph Ax
+
+NEW YORK (Reuters) - Microsoft Corp (MSFT.O) asked a federal appeals court on Wednesday to block the U.S. government from forcing the company to hand over a customer's emails stored on an Irish server, warning that the precedent would create a "global free-for-all" that eviscerates personal privacy.
+
+The case, the first in which a U.S. company has challenged a warrant seeking data held abroad, has captured the attention of the technology industry, privacy advocates and news organizations.
+
+The appeal is centered on a search warrant seeking the emails of an individual in Dublin, as part of a drug investigation. The person has not been identified.
+
+Joshua Rosenkranz, a lawyer for Microsoft, warned the 2nd U.S. Circuit Court of Appeals in New York that upholding the warrant would open the door to other countries using their law enforcement powers to seize the emails of Americans held in the United States.
+
+"We would go crazy if China did this to us," Rosenkranz said.
+
+But Justin Anderson, a lawyer for the government, said U.S. law enforcement can obtain electronic information held by American companies with a valid warrant, regardless of where the data happens to be stored.
+
+"It's not a question of ownership," he said, likening it to seizing account records from a bank. "It's about custody and control."
+
+Nearly 100 organizations and individuals filed briefs in support of Microsoft's position, including tech giants like Apple Inc (AAPL.O), Verizon Communications Inc (VZ.N) and Cisco Systems Inc (CSCO.O) and media companies like McClatchy Co (MNI.N) and Gannett Co Inc (GCI.N).
+
+The three-judge panel directed tough questions at both sides, giving little indication of how it will eventually rule.
+
+The statute at issue, the Stored Communications Act, was enacted in 1986, decades before providers like Microsoft began building servers abroad to improve speed.
+
+The question is whether the warrant is an "extraterritorial" application of the law, as Microsoft contends, or whether the fact that U.S.-based Microsoft employees can retrieve the data means the statute is being used only within the United States, as the government argues.
+
+"This was a pre-CompuServe, pre-AOL world" when the law was passed, Rosenkranz said, urging the court to leave it to Congress to close what he said was a gap in the law.
+
+Circuit Judge Gerald Lynch agreed that legislative action would be best but noted wryly that Congress does not always act quickly.
+
+"We'll all be holding our breath," he said with a smile.
+
+The case is In the Matter of a Warrant to Search a Certain E-mail Account Controlled and Maintained by Microsoft Corp, 2nd U.S. Circuit Court of Appeals, No. 14-2985.
+
+(Editing by Jonathan Oatis)

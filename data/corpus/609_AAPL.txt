@@ -1,0 +1,21 @@
+NEW YORK (TheStreet) -- Apple (AAPL - Get Report) iPhone 6s and iPhone 6s Plus went on sale Friday morning to millions of eager consumers around the world. But unlike the average user who is focused on the complete product, investors want to know what's inside the world's best-selling mobile device.
+
+Web site iFixit took a look inside the iPhone 6, and found the usual suspects: Qualcomm (QCOM - Get Report) , Broadcom (BRCM - Get Report) , Skyworks Solutions (SWKS - Get Report) , Avago (AVGO - Get Report) and a few others.
+
+Last year saw the introduction of Apple Pay, benefiting NXP Semiconductors (NXPI) , which makes Near Field Communications (NFC) chips. The Dutch-based semiconductor company also continues to have space inside Apple's latest phone with the NXP 66V10 NFC Controller reaplcing the 65V10 in the iPhone 6. Last year, the M8 motion co-processor was a separate chip (with iFixit believing it to be made by NXP,) but this year the M9 has been embedded along with the A9 chip made by Apple. NXP also has the NXP 1610A3, which iFixit believes is "an iteration of the 1610A1 found in the iPhone 5s and 5c."
+
+Must Read: Netflix’s Grand Ambition: Become Bigger Than Disney
+
+Research firm IHS Technology forecasts that Apple will sell 236 million iPhones in 2015, up 22% year-over-year, thanks in part to China. ""Sales of the iPhone 6S should do better than past iPhone initial sales because of wider country availability early, especially China," analyst Ian Fogg said in an e-mail.
+
+Qualcomm, which has had its share of troubles over the past twelve months, still has the modem inside the iPhone 6s (Qualcomm MDM9635M LTE Cat. 6 Modem), as well as the Qualcomm QFE1100 Envelope Tracking IC, Qualcomm PMD9635 Power Management IC and the Qualcomm WTR3925 Radio Frequency Transceiver.
+
+In addition, InvenSense (INVN) , whose chips help the iPhone flip and rotate the screen, flipping back and forth between portrait and landscape mode, is back with its InvenSense MP67B 6-axis Gyroscope and Accelerometer Combo.
+
+Avago continues to have space inside the iPhone 6s, with the Avago AFEM-8030 Power Amplifier Module. Qorvo (QRVO) , a combination of TriQuint and RF MicroDevices, has the TriQuint TQF6405 Power Amplifier Module and the RF Micro Devices RF5150 Antenna Switch chips.
+
+Apple continues to give space to Samsung (SSNLF) , which not only makes the Apple A9 chip, but Samsung provides the RAM inside the iPhone 6s, with its Samsung 2 GB LPDDR4 RAM.
+
+Skyworks is another beneficiary, having multiple power chips inside the new iPhones -- Skyworks SKY77812 Power Amplifier Module and Skyworks SKY77357 Power Amplifier Module. Cirrus Logic CRUS is the last chipmaker with multiple chips inside, including two audio chips, the Cirrus Logic 338S00105 Audio IC and the Cirrus Logic 338S1285 Audio IC.
+
+Other chip makers inside the iPhone 6s are Texas Instruments (TXN) , Bosch, Toshiba (which provides the Flash), Universal Scientific, Murata and Dialog.

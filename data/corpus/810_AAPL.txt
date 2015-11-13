@@ -1,0 +1,31 @@
+This article, Apple loosens App Store guidelines, allows task launching app into Notification Center, originally appeared on TechRepublic.com.
+
+View photo .
+
+When Apple added the Notification Center to iOS (the thing that shows you alerts and other useful things when you swipe down from the top of any screen) back in 2011, developer David Barnard had an idea for a new app.
+
+"It was as a hack to launch apps and actions from Notification Center," says Barnard, and he called it Launch Center. The idea was to include shortcuts to a bunch of tasks that could be easily accessed by swiping down and opening Notification Center.
+
+By using specially-crafted URLs, users could set up buttons to expedite tasks like calling someone, creating an email to a frequent contact, tweeting your last photo, or automating any of an endless number of tasks.
+
+Unfortunately, Apple didn't approve of the hack and refused to allow it on the App Store, saying it "included inappropriate use of Notification Center."
+
+Disheartened, Barnard almost decided to kill Launch Center. Luckily, he didn't, and it grew into the popular power user app Launch Center Pro.
+
+But that was four years ago, and Apple has had a change of heart. A new version of Launch Center Pro launches today, and it will finally be in the Notification Center.
+
+Launch Center Pro includes support for Dropbox, IFTTT, iBeacons, Geofencing, Giphy GIF search, barcode/QR code scanning, and some 100,000 apps and system actions.
+
+You can think of the app as an amped up version of 3D Touch, the newest power-user feature in iOS 9. Available only with the new iPhone 6s and 6s Plus, the feature detects how hard a user is pressing on the screen and provides new actions based on that.
+
+For example, a user can press on the Phone app and quickly call a favorite contact. Launch Center Pro is also designed to speed up repetitive tasks, and Barnard says he's already working on Quick Actions (what Apple calls the menu that pops up with a 3D Press) for his app.
+
+For power users, bringing Launch Center Pro into the Notification Center will be incredibly useful, and it's curious that Apple is approving the feature after all this time. Still, Barnard hopes to do more.
+
+"The current implementation isn't particularly elaborate," he says. "But now that Apple has approved it, we plan to start slowly pushing the boundaries."
+
+Launch Center Pro is available on the App Store for iPhone and iPad for $4.00 (USD).
+
+What are your thoughts about Launch Center Pro? Is there another app that you'd like to see approved for the Apple App Store? Share your thoughts in the discussion thread below.
+
+Also see

@@ -1,0 +1,59 @@
+By Paul Carsten
+
+BEIJING (Reuters) - China's "Great Firewall" may have been partly to blame for the first major attack on Apple Inc's (AAPL.O) App Store, but experts also point the finger at lax security procedures of some big-name Chinese tech firms and how Apple itself supports developers in its second biggest market.
+
+A malicious program, dubbed XcodeGhost, hit hundreds - possibly thousands - of Apple iOS apps, including products from some of China's most successful tech companies used by hundreds of millions of people.
+
+Palo Alto Networks, the U.S. internet security company that spotted the problem, says the attacker could send commands to infected devices that could be used to steal personal information and, in theory, conduct phishing attacks.
+
+The hackers targeted the App Store via a counterfeit version of Apple's Xcode "toolkit" - the software used to build apps to run on its iOS operating system - which Chinese developers used because they could download it faster.
+
+"I would use the phrase 'convergence of ignorance and complacency'," said Andy Tian, CEO of Asia Innovations, a Chinese app developer. "Ignorance on the side of Apple, complacency on the side of Chinese companies."
+
+The incident was a blow to the reputations of some of China's tech champions, in what some app makers saw as collateral damage from the tight controls Beijing places on the Internet within its borders, and weak infrastructure linking to the outside world, that make overseas downloads patchy and slow.
+
+Companies affected by the XcodeGhost attack included Tencent Holdings Ltd , one of the world's biggest internet firms, and Uber Technologies Inc's [UBER.UL] biggest challenger, Didi Kuaidi, which just completed a $3 billion private fundraising round.
+
+Tencent, whose WeChat messaging service is one of China's most popular apps, and Didi Kuaidi declined to comment, beyond saying that they had fixed the issue and users' data had not been compromised.
+
+NetEase Inc (NTES.O), whose music streaming app was also hit, issued a mea culpa on its official Weibo microblog, apologizing to users for negligence.
+
+"HUGE MISTAKE"
+
+The App Store had previously been almost entirely free of malware, and it is unclear how the altered code withstood Apple's famously tough app approval process, in which developers often wait a week for reviews of updates to their apps.
+
+"These reviews are legendary for how particular Apple is," said Robert Walker, founder of mobile dating app Cuddli who worked for Microsoft in China.
+
+"Supposedly, a security review is part of that. But they missed this repeatedly over dozens of different applications. A huge mistake on their part."
+
+An Apple spokeswoman did not respond to questions about the app approval process and why developers in China were using unofficial Xcode, but a senior executive said on Tuesday the company would make it easier for Chinese developers to download its tools.
+
+Marketing chief Phil Schiller told Chinese news site Sina.com it would offer domestic downloads within China of its developer software.
+
+Some Chinese firms had said they were pushed to download Apple's developer toolkit from unofficial sources in China because of the slow internet speeds when connecting to international services.
+
+The country's censorship architecture, dubbed the Great Firewall, does not block app developers from downloading the official version of Xcode, but the controls, along with low investment in infrastructure for international connections, make using services based outside China a painful process.
+
+The world's second-largest economy has average internet speeds more than three times slower than those in the United States, according to online content delivery firm Akamai's latest State of the Internet report.
+
+Slow internet connections, along with government censorship, have long been a top concern among foreign businesses in China.
+
+The issue has been exacerbated in recent months by crackdowns on tools used to circumvent the Great Firewall, such as Virtual Private Networks.
+
+LOCAL SUPPORT
+
+China is a huge market for Apple, which earned around $13 billion in Greater China in the last financial quarter and in January 2014 said Chinese developers had launched 130,000 apps for its mobile devices and personal computers.
+
+The size of that contribution to the tech giant's bottom line has fueled resentment among some of the Chinese firms who are making those apps, who complain of lack of support.
+
+If Apple had provided a local, quick source for the official Xcode software sooner it could have avoided the problem, said software developer Feng Dahui.
+
+"Apple doesn't care enough about Chinese developers, nor does it value Chinese users," said Feng.
+
+But regardless of the challenges facing them in China, many app developers and security experts said the tech firms themselves bear the most responsibility for the attack, which has affected mostly Chinese companies and users so far.
+
+Eswar Priyadarshan, CEO of Tasteful, which creates food and dietary apps, noted that he does not know any U.S. developers who use third-party Xcode.
+
+"It's like buying a Toyota and getting a third-party engine installed - it's going to break," he said.
+
+(Additional reporting by Beijing Newsroom, Julia Love in San Francisco and Jeremy Wagstaff in Singapore; Editing by Kazunori Takada and Alex Richardson)

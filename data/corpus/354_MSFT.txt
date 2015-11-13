@@ -1,0 +1,41 @@
+SAN FRANCISCO---Economies make progress through productivity, and contributing to that progress through digital technologies is at the top of the agenda for Satya Nadella's Microsoft.
+
+"Computing is going to be everywhere," said Nadella, hinting at an strategy focused on connected devices and the cloud. "The question is, 'Are your experiences going to move as you move around?'"
+
+As one of the top-billed speakers at Salesforce.com's annual Dreamforce expo this week, Wired Magazine's Jessi Hempel remarked during the fireside chat on Wednesday evening that an appearance by Microsoft's chief executive at its CRM competitor's conference could have been unthinkable a few years ago.
+
+Partnering with the likes of Salesforce or Workday, among others, is critical nowadays, Nadella replied.
+
+"Diversity is an existential need for Microsoft," Nadella asserted, pointing toward the company's extensive portfolio serving customers across "all different economic strata, gender and race" across 192 countries.
+
+Nadella outlined Microsoft's three primary, "interlocking" ambitions right now: the reinvention of productivity and business processes, building out the "intelligent cloud" by harnessing data assets, and making computing more personal and natural with Windows 10.
+
+"We're building our platform, Windows 10, to bring about this revolution of personal computing where it's about mobility of the experience -- not a single device -- and natural interactions," Nadella said. "It's not about the release of Windows for me. It's about a new generation for Windows."
+
+While onstage, Nadella demonstrated a number of apps and third-party integrations for mobile and desktop alike Microsoft has unveiled over the last several months, intending to illustrate how the Redmond, Wash.-headquartered corporation has reached out and innovated for business users.
+
+Salesforce and Microsoft, for example, have had a much closer relationship over the last year -- regardless of reports this spring about the Windows maker buying the CRM giant in a rumored multi-billion dollar deal.
+
+Earlier on Wednesday, the two tech titans announced some additions to their ongoing partnership forged in May 2014. At the time, Salesforce.com touted it would be building new CRM apps for Windows 8 and Windows Phone 8.1 while also integrating its CRM technology with Office and Office 365.
+
+This week sees the general release of the Salesforce App for Outlook -- compatible with Office 2013 and Office 365 -- and the Salesforce1 Mobile App for Office.
+
+"Ultimately, it's not about any tool, Microsoft Office 365, etc.," Nadella remarked. "It's about the way you work, the culture of your organization."
+
+When Hempel asked if these industry collaborations has put pressure on the Windows 10 release, Nadella replied it requires Microsoft to be "at its best for building platforms" in order to reach the vast majority of users.
+
+"If you look at our industry, how is our industry going to succeed? It's only going to succeed if we add value to our customers," Nadella opined. "Our customers are going to make choices that make the most sense for them, and they're not going to be the most homogenous choices."
+
+Nadella predicted the way we work will continue to change based on what he characterized as "data culture," influencing the "parlance" of how we communicate. He later argued "we need to put our smartest people on these leading indicator metrics that teach us what to build" so organizations can be more productive.
+
+"In a world of big data, recognizing small patterns becomes the most important thing for an organization and an individual," Nadella said. "In a sea of data, you have to see those small patterns to drive actions."
+
+The follow-up task, Nadella continued, is to infuse machine learning into everything a company builds.
+
+Being able to conflate data from third-party Software-as-a-Service (SaaS) applications and dashboards is important, Nadella acknowledged, describing the real "magic" for real-time business comes from understanding natural language questions and other smart tech functions.
+
+Nevertheless, Nadella admitted there are some devices we still don't fully understand or know what to do with yet, such as virtual or augmented reality.
+
+While excited for the future of Hololens, Microsoft's own AR prototype headset, Nadella opined how the enterprise use cases for everything from customer service to industrial design have yet to be hammered out. He reiterated a previously announced promise to release a developer kit by 2016.
+
+"I don't think of any one device as the be all, end all of computing," Nadella reflected, insisting the future of computing will be "centered on the human experience" across all devices.

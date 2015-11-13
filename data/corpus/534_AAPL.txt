@@ -1,0 +1,53 @@
+Ever since the release of iOS 9, I’ve been experimenting with a new kind of homescreen. Call it the unscreen.
+
+Not where the action is.
+
+The idea is that Apple’s operating system for iPhone and iPads has quietly moved beyond its original idea of mobile apps as a grid of boxes, each independent of the other. Now, the most useful iOS features and apps can be found much deeper within the phone.
+
+Notifications, widgets, and search are suddenly the best way to get around your iPhone. More activity seems to begin with a swipe instead of a tap: Actions are replacing what we used to call apps.
+
+It couldn’t happen at a better time. App development as we know it has stagnated, dominated by a few major companies. In the US, the top 10 mobile apps are owned by Facebook, Google, Facebook, Google, Google, Google, Pandora, Google, Facebook, and Apple.
+
+The battle for the homescreen is over.
+
+An evolution to the next era of mobile is still in progress. I wouldn’t yet suggest that everyone clear out their homescreens, but it’s a great way to get a sense of where the iPhone and mobile computing are headed. With iOS 9, it finally seems possible to realize some of the major trends identified last year, like “invisible apps” that recede into the operating system and notifications as a primary interface.
+
+If nothing else, it’s fair to say the part of iOS that most people consider its nucleus is quickly being pushed aside. So if no homescreen, then what? Well, these are the new homescreens:
+
+It’s a better way to use your phone, but email is still awful.
+
+From left to right, that’s what Apple calls Today, Notifications Center, and Spotlight Search / Siri Suggestions. Yeah, the names could use some work. So could the gestures that beckon them. These features are buried relative to the traditional homescreen, but so much more powerful. In most cases, they locate the essential utility of the apps that power them: your calendar distilled to its next appointment, the weather in terms of the potential for rain, checking-in as a single button.
+
+One new feature of iOS 9 is subtly revolutionary: notifications are now listed in chronological order, rather than grouped by app. (Yes, Android users are allowed to snicker here. In general, their mobile operating system has been ahead on this and other deconstructed-app trends.)
+
+The change has made Notifications Center the layer on top of all your messaging apps, from email to WhatsApp. No need to check them separately. You can scan through an aggregated list of notifications and take action with a swipe, using interactive notifications.
+
+With a swipe and a tap.
+
+Search, long a backwater of the iPhone, is also finally useful, whether you are tapping on your keyboard or asking Siri. Queries that might have previously sent you to Safari or Google are now often better started in the native iOS search bar, which will call up results from within your apps as well as the broader web.
+
+These interactions are more viable because switching into apps and between them now feels a lot faster than ever before. Deep links in Apple’s search results take you straight to the restaurant listing, recipe, or news story you want, rather than entering apps through the front door and hunting from there:
+
+Trending search query.
+
+Other features recently introduced to iOS allow apps to extend their functionality into other apps, like sending a link you find on Twitter directly to Slack without actually switching between them:
+
+Pester your coworkers more easily now.
+
+On the iPhone 6S and 6S Plus, pressing hard on an app icon may bring up shortcuts to major features, as well, further diminishing app front doors.
+
+It’s similar to what previously happened to large websites, which were dismantled into their atomic parts, webpages. Apps like Workflow are making it even more pronounced by collecting discrete actions performed by various apps and bundling them back up on the Today screen and other parts of the phone:
+
+An app of things other apps can do.
+
+Which is not to say that big, full-fledged apps are dead. But data show that people spend 80% of their time in three favored apps, so Apple’s new approach may be more than sufficient: pull down or swipe right on the homescreen, and the phone will suggest four apps it thinks you may be looking for. In my experience, forcing myself to use this feature in the absence of a homescreen, Apple generally gets it right. The suggestions are often predictable, but maybe so am I.
+
+All other apps fade into the background.
+
+Making the phone smarter, through its operating system and apps, is crucial to the success of features like search, suggestions, and notifications. That was driven home for me the other night when I arrived at a new restaurant and pulled out my phone to check in there on Swarm. The location-sharing service and its companion app, Foursquare, have been trying to get better at figuring out where you are and sending relevant notifications before you do a thing.
+
+Well, I think they have cracked it. When I pulled out my phone, a message from Swarm was already waiting for me.
+
+Good tacos there, by the way.
+
+Yes, I was indeed at Rosie’s. Would I like to check in? Of course. Swipe, tap, and I was done without even opening my phone, let alone an app.

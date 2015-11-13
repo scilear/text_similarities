@@ -1,0 +1,33 @@
+As usual, Apple’s “Special Event” offered as much show as substance.
+
+Yesterday, before as many as 7,000 people at the Bill Graham Civic Auditorium in San Francisco and untold numbers watching online, Tim Cook unloaded reams of hyperbole about some Apple technology that isn’t all that different from the Apple technology we already have. Other executives offered their own extravagant enthusiasms. Then One Republic played some songs.
+
+These events—Apple’s preferred way of unveiling new products, or newish products as the case may be—are not so much about shaping technology as they are about shaping public perception. And that’s why Microsoft’s appearance was so very meaningful.
+
+In today's world, if Microsoft wants to be on mobile devices, it must jockey for position on the iPhone—just like everyone else.
+
+At one point, Microsoftie Kirk Koenigsbauer appeared on stage to demonstrate Microsoft Office apps running on the Apple iPad Pro, a new tablet ostensibly aimed at business customers. Technically, the demo was short on new stuff. Office will run on the Pro’s 12.9-inch screen, just like it runs on the smaller screens of current iPads. And one day, it will make nice with the Pro’s new stylus, Apple Pencil. But in the perception game, this was a heavy moment. Microsoft sells its own tablet, the Surface Pro. And it spent years not running Office on Apple hardware. Nonetheless, there was Koenigsbauer, helping Cook put on a show for the technorati.
+
+For Microsoft, it was a moment of apotheosis. Since Satya Nadella took over as CEO last year, the company has pushed Office onto the iPhone as well as the iPad; open sourced its crown jewels of software development so people can build more Microsoft software that runs on Apple gear; and jettisoned its $7.6 billion effort to dominate the smartphone market with Nokia, a Finnish company famous for recent failure.
+
+Kissing Cook’s ring was the next logical step.
+
+The War Is Over
+
+If you hadn’t noticed before, the mobile wars are over. For a while there, Microsoft was confident its Windows operating system would capture a sizable portion of the market. But that’s not gonna happen. The company still sells phones and tablets, but relatively few consumers will ever buy them. Likewise, Facebook once flirted with its own phone and even released a strange piece of software that stood in for a smartphone operating system—kinda, sorta. But that’s all in the past, too. Perfectly enough, as Apple and Microsoft joined hands at the Bill Graham auditorium, Amazon announced it would stop selling its Fire Phone, a device that made Nokia’s failure look an awful lot like success.
+
+Today, Tim Cook rules all. But the future may be different.
+
+That didn’t drive the point home? There were other signs on display at the Bill Graham. Adobe, another old Apple rival, made an appearance as well. For years, Apple and Steve Jobs abused the poor company (over its buggy, power-hungry, security-challenged Flash software). But now, it too has fallen in line.
+
+The Next Platform
+
+In today’s world, if Microsofts wants to be on mobile devices, it must jockey for position on the iPhone—just like everyone else. The latest position they’ll all tussle over: “3D Touch.” Apple says that if you press really hard on its apps, other apps will pop up. So, naturally, everyone will want want to be one of those apps.
+
+Cozying up to Apple isn’t nearly as nice as running a market-dominating operating system. In their dreams, Microsoft and Facebook and Amazon would set their own rules for mobile devices, collect more of their own data, and bootstrap all sorts of their own services. But cozying up to Apple will have to do—not to mention, well, cozying up to Google and Android. They’re doing pretty well, too.
+
+But there’s a bigger hope for Microsoft and Facebook (though perhaps not Amazon). We mean, of course, the next battleground. No, not smartwatches. Apple is ahead here too. And besides, smartwatches aren’t as useful as Apple’s cheerleaders would lead you to believe. Yes, we mean augmented reality or virtual reality or whatever you want to call that weird moment when you strap on a headset and see stuff that isn’t really there.
+
+Microsoft is well down this road with HoloLens. Ditto Facebook, with Oculus Rift. Google and Apple? Google’s still at the Cardboard stage. And Apple, well, its virtual reality isn’t yet reality. Today, Tim Cook rules all. But the future may be different.
+
+Correction: This story has been updated to properly show that Nokia is a Finnish company.

@@ -1,0 +1,45 @@
+The death of cell phone contracts may be great for consumers tired of being locked into a two-year commitment, but it has dragged the automatic “free” upgrade down into hell with it. Which is a shame, because top-of-the-line phones are way, way more expensive than most people realize.
+
+Do you know the list price of the new iPhone 6s, which is available for pre-order now and officially goes on sale next Thursday? No, it’s not the $199 or $299 you paid when you signed up for your old phone. It’s $649, just for the cheapest 16GB model.
+
+If you chafe at the thought of being mugged every two years, which is probably the “new phone day” pace free upgrades have gotten you used to, here are a few things you can do to keep your old phone alive longer—and save you big money in the long run.
+
+1. Delete or reinstall apps that take up a ton of space
+
+First of all, if you don’t use an app, you might as well delete it from your phone—it’s not doing you any favors sitting on your home screen. As for the apps you do use, they’re probably holding plenty of unnecessary data. If you go into the usage tab in the general settings, you can see which apps use the most. Obviously photos, music, and podcasts will hold a ton, but more “consumable” apps like Facebook, Twitter, and Instagram probably do too. From time to time, your phone may automatically perform a “cleaning,” in which the app’s cache is cleared. You can also be proactive in clearing out unneeded data. Deleting and then reinstalling these apps will provide a clean slate and less-bloated phone—which helps eliminate the need for a new phone with more storage.
+
+2. Disable location services for apps that don’t need GPS
+
+While you could geotag your tweets, disabling the GPS access for most apps can help your phone’s battery life and speed. In your phone’s Location Services menu in the privacy settings, you can select which apps get to use GPS and how often. GPS is useful for maps, weather apps, and location-based apps like Yelp , but you probably don’t need Dropbox to know where you are.
+
+3. Reduce iOS animation features like Parallax and increase contrast
+
+The newest versions of iOS have some gimmicky features like Parallax, which makes the phone background shift as you move your phone. But these aesthetic-only features aren’t much of a benefit, and rendering animations tax an older phone. Turning them off frees up that little bit of processing power and prolongs battery life. Simply go to the accessibility panel in general settings and select “Reduce Motion.” In that same menu, there’s an “Increase Contrast” option that takes you to some options to further tinker with the graphics. Activating the “Reduce Transparency” might cancel out some of Apple’s careful design considerations, but it simplifies your phone’s iOS.
+
+4. Get a case
+
+If you’re one of those people who just needs to experience Jony Ive’s design handiwork free of contamination from third party cases, you’d better budget some extra money for screen repairs and all-new iPhones. It’s wiser to buy a case and use it. The Wirecutter gives Speck CandyShell cases a good review, and they’re available for all models. If you truly need to feel the power of modern electronics design, take off the case for a few minutes when you’re at your desk, put it back, and move on.
+
+5. Clean out your photos
+
+The downside of having a top-notch camera built in to your phone is that the high-quality images it captures fill up the hard drive quickly. Backing up your photos and videos often and deleting them from your phone is a must. Especially go after the videos, since they take up the most space.
+
+Read Next: These Are the Best Cellphone Plans of 2015
+
+6. Disable “Background App Refresh”
+
+If you frequently open a ton of apps and don’t close them again, they might still be working even if you’re not using them. While you could close them individually, it’s better to simply disable “Background App Refresh,” which you can find in general settings. This will make it so only the app you’re using can refresh its content. However, it can be helpful to have some apps working in the background, like Google Maps or Spotify—you don’t necessarily want your music or directions to pause while you switch to a different app. Disabling app refresh may not make a huge difference, but for an old phone, it’s worth a try.
+
+7. Clear old text messages
+
+While it’s not exactly an app you can delete and reinstall, you can clear your old texts, which may be taking up massive amounts of storage space on your phone. If you don’t want to handle this chore yourself, you can also set texts to be deleted after 30 days—which may be all the record keeping you want to have.
+
+8. Restore your phone
+
+If you’ve tried everything but your old phone just won’t get any faster, you should probably consider restoring it to factory settings, which should erase most of the damage you’ve done to it. This will completely clear and reset your iPhone’s hard drive and RAM, giving it a new lease on life. It won’t fix battery life, although you can replace the battery at an Apple store for $79.
+
+9. (Maybe) update to iOS 9
+
+Many users have reported that the new iOS 9, released September 16, is optimized for the older iPhones, and its 1.3GB size versus the massive 4.5GB iOS 8 certainly suggests that’s true. Besides freeing up more space, the new iOS additionally adds features like a low-power mode to keep an old device’s flagging battery from burning through its juice halfway through the day. In addition, the operating system has ad-blocking that could cut out the fat that’s clogging up browsing speed, plus app thinning to make sure duplicate apps are combined into one. Of course, there’s much uncertainty still with updating older devices, especially phones as old as the iPhone 4S, so if your phone is already working well, you might want to stick with what you’re running.
+
+Read Next: Cellphone Contracts Are Dead: 8 Things You Need to Know

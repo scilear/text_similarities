@@ -1,0 +1,45 @@
+In a post-Snowden world, there is deep concern in Europe about US technology companies and their relationship with the state
+
+If an American company stores data in a foreign country, do US laws apply to it? This, in a nutshell, is the question that is pitting the US government against Microsoft (NasdaqGS: MSFT - news) , Apple (NasdaqGS: AAPL - news) and a number of privacy advocates in a long-running and major legal dispute that had its latest episode last week.
+
+In 2013, the FBI was granted a warrant to demand emails from Microsoft related to an international drugs investigation. There is nothing unusual about that: Microsoft received 72,729 requests for data from governments around the world last year, around 3pc of which required warrants.
+
+What is different in this case is where the emails are stored. Since they relate to an online email account in Ireland (Other OTC: IRLD - news) , they are held on Microsoft’s servers there, which (the company claims) means a US judge cannot force Microsoft to hand them over.
+
+The company contested the warrant, and now the matter lies in a US appeals court (Microsoft has already lost appeals in two lower courts).
+
+Microsoft believes the US should have to go via Irish authorities to get hold of the data, since the company clearly does not have jurisdiction there. The government, meanwhile, says what matters is the nationality of the company, and given that Microsoft is American, it has to obey American rules and bring the data home.
+
+At the latest hearing on the matter last week, Microsoft argued that allowing US authorities to gain access to data stored abroad would set a very dangerous precedent.
+
+Sure, the US might like greater access to the foreign data stored by its companies, but it would definitely be less enthusiastic about a Chinese company being forced to hand over information, held in America about American customers, to Beijing.
+
+Joshua Rosenkranz, Microsoft’s lawyer, warned of a “global free-for-all” where “any country with the jurisdiction over a provider can reach into our country and plunder our email”.
+
+“We would go crazy if China did it to us,” he added.
+
+From a strictly legal standpoint, this argument may not hold too much weight. The judge’s job here should be to interpret legislation, rather than make a decision about what the international consequences of doing so might be. But naturally, Microsoft is playing a bigger game here.
+
+In a post-Snowden world, there is a deep concern in Europe and elsewhere about American technology companies and their relationships with the state.
+
+Google (Xetra: A0B7FY - news) , in particular, is under intense scrutiny from politicians in Brussels concerned about its dominance in several areas of the market.
+
+Silicon Valley has responded by attempting to show it is no pushover: the major internet companies now regularly publish detailed reports about how often they are asked for information by authorities in the US and other countries, and in particular how many they reject.
+
+Microsoft’s skirmish with the US government over the data in Ireland is part of the same public battle. The company has published several lengthy blog posts on the matter, going so far as to call the outcome of the case “fundamental to the future of global technology” and bigger than “a narrow legal question”.
+
+US tech companies are fighting for their sovereignty, something that is increasingly crucial to doing business outside America. That is where Apple (Swiss: AAPL.SW - news) comes in. It (Other OTC: ITGL - news) is among a number of technology groups, including Amazon, eBay and HP, along with several news organisations and privacy groups, to have filed “amicus briefs” backing Microsoft’s position.
+
+To listen to Microsoft and its allies’ statements on the case, one might think a victory for the US government forcing Microsoft to hand over the contested data would be a watershed moment that would give the country’s snoopers unfettered access to reams of private information.
+
+This is overstating its significance, however: banks, for example, routinely hand over private information to investigators about offshore financial activity, and a defeat for Microsoft would not stop authorities having to get permission from the appropriate courts to demand information from technology companies.
+
+Nonetheless, Microsoft is right to challenge demands for the information, and to do so in such a public way. The relevant laws in this matter America’s Electronic Communications Privacy Act were devised in the 1980s, well before the worldwide web emerged, and have not been updated for the 21st century.
+
+In a world where huge amounts of information can move between countries in milliseconds, this is unacceptable, a reality now starkly demonstrated by the Microsoft case.
+
+US officials have made some initial steps towards updating their laws, a result that Microsoft, Apple and others would clearly like to see, although, as is often the case, the intricacies of American politics have hampered significant progress.
+
+A better response would be an international approach on how, when and why governments can demand access to foreign data. This would put US tech companies in the same boat as their international counterparts, allow other countries into the conversation and lend legitimacy to American requests for information on criminals.
+
+In a world where data is international, this is the most reasonable response, and regardless of the outcome of the Microsoft case, should be pursued.

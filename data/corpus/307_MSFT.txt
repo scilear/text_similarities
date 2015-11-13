@@ -1,0 +1,31 @@
+It's fair to say that Microsoft's latest launch event was its most interesting for a long time. We finally learned that Hololens will be made available to developers early next year, clapped eyes on the first flagship Windows 10 phones, checked out the updated Microsoft Band and met the Surface Pro 4. Then the company surprised us all with the unveiling of its first laptop: the Surface Book. Microsoft is wasting no time in getting some of these to market, so you might be wondering how much each of them will cost. As always, we're more than happy to be your guide.
+
+Surface Pro 4
+
+By now, you should know what to expect from Microsoft's Surface Pro lineup. The Pro 4 is slightly thinner than its predecessor, but offers around 30 percent more power. With its 12.3-inch display, it comes in 0.3 inches bigger than the Surface Pro 3, but the footprint remains exactly the same size thanks to a smaller bezel.
+
+The new display uses Microsoft's PixelSense technology: a super-thin optical stack that hosts over 5 million pixels. It supports 1,024 levels of pressure with the new pen (which now has an eraser) that can attach to the side of the Surface magnetically. A sixth-generation Core Intel processor (up to a Core i7) powers the hybrid, paired with up to 16GB of RAM and 1TB of storage. Pre-orders are already open and you can see the pricing breakdown below.
+
+RAM Storage Price Intel Core m3 4GB 128GB £749 Intel Core i5 4GB 128GB £849 Intel Core i5 8GB 256GB £1,079 Intel Core i7 8GB 256GB £1,299 Intel Core i7 16GB 256GB £1,449 Intel Core i7 16GB 512GB £1,799
+
+Surface Book
+
+Undoubtedly the biggest surprise of the day was the Surface Book, Microsoft's first homegrown laptop. The company calls it a laptop at least, but being a Surface device, it's still possible to detach the touch- and stylus-friendly display from the keyboard to use as a tablet. The keyboard element isn't just a well-crafted peripheral, though, as buried within is the NVIDIA GeForce GPU and various other components that contribute to the Surface Book's total computing power. Microsoft wasn't shy about pitching the premium device as the "ultimate laptop," claiming several times it's twice as fast as Apple's MacBook Pro. That level of performance wrapped in a silver magnesium chassis doesn't come cheap, though, with the base model (128GB SSD/8GB RAM/Core i5/Intel HD graphics) going on sale for $1,499 when it launches in the US on October 26th. Pricing goes all the way up to $2,699 for a 512GB SSD, 16GB of RAM, a Core i7 chip and an NVIDIA GPU.
+
+Unfortunately, we have neither a UK release date nor any rough pricing for the Surface Book just yet. That said, using the prices of the Surface Pro 4 on both sides of the pond as a guide, we expect Microsoft's "ultimate laptop" will start at around £1,200 when it eventually comes to the UK.
+
+Lumia 950 and Lumia 950 XL
+
+With the Lumia 950 and Lumia 950 XL, Microsoft has finally launched high-end Windows phones worth taking a look at. The Lumia 950 features a 5.2-inch Quad HD AMOLED screen, Qualcomm's hexa-core 1.8GHz Snapdragon 808 processor, 3GB of RAM, a 20-megapixel camera with ZEISS optics (f/1.9 aperture lens and optical image stabilization), 32GB of storage, and it can be charged wirelessly or via its USB Type-C port.
+
+It should come as no surprise that the Lumia 950 XL is a tad bigger than its counterpart. The XL comes with a 5.7-inch Quad HD AMOLED display and features an octa-core 2GHz Snapdragon 810 chipset with 3GB of RAM. Other than that, it shares the same features as its smaller sibling. Another bonus is the fact both devices have microSD slots, include removable batteries, and come in black and white.
+
+32GB Release date Lumia 950 £500 November Lumia 950 XL £549 November
+
+Lumia 550
+
+Microsoft also added another handset to its mid-range Lumia portfolio: the Lumia 550. It comes with a 4.7-inch 1,280 x 720 display (315ppi), a quad-core Snapdragon 210 processor and 1GB of RAM. The handset also features Cat 4 LTE (up to 150Mbps), 8GB of internal storage (with microSD support) and a 2,100mAh battery. Microsoft says it will be its most affordable 4G phone, but it's not saying how much it'll cost in the UK. The $140 US price converts to around £91, so we expect you'll be expected to pay roughly £100 for the Lumia 550 when it launches in December.
+
+Microsoft Band 2
+
+While the original Band was useful, it certainly wasn't the best-looking wearable we've seen. Luckily, Microsoft appears to have taken feedback on board and has responded by launching the Band 2, a more comfortable, curved wearable with metal accents, extra sensors and new app functionality. The Band 2 is already up for pre-order for £200 ahead of its November 19th launch.

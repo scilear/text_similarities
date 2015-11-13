@@ -1,0 +1,25 @@
+Apple (NASDAQ:AAPL) won't report its Mac sales figures for the third quarter until the end of this month, but based on data from both IDC and Gartner, the numbers are likely to cause a bit of concern among Apple watchers.
+
+According to IDC, Apple's shipments fell by 3.4%, while Gartner reported growth of just 1.5%. Regardless of which estimate turns out to be more accurate, both point to the slowest Mac sales growth in two years.
+
+While it might be tempting to view this as a major problem for Apple, let's take a look at what Gartner and IDC had to say before jumping to any conclusions.
+
+What's slowing Mac shipments?
+
+First, the broader PC market, and not just Mac shipments, slowed in Q3. According to IDC, overall PC shipments declined by 10.8% worldwide. So if we're measuring Apple against the PC industry as a whole, the company isn't doing as bad as all of the other PC makers.
+
+One of the reasons for the large drop in shipments came from currency changes throughout the world, including a strengthening U.S. dollar. Here's what IDC said about economic changes in Europe and the Middle East: "Nevertheless, currency fluctuations together with an ongoing economic and political turmoil in parts of the region continued to inhibit demand and constrained shipments."
+
+Regarding Asia and the Pacific region, IDC said, "The market was softer compared to the previous year due to currency impact on the region and clearing of channel inventory as the main priority for many countries."
+
+That seems to match up with what Mikako Kitagawa said in the Gartner press release: "The global PC market has experienced price increases of around 10 percent throughout the year, due to the sharp appreciation of the U.S. dollar against local currencies. In the third quarter of 2015, this continued to be a major cause for weaker demand in those regions."
+
+And it's not just the PC industry that's feeling the effects of the rising dollar. If you took a look at all of the companies who've already reported their calendar Q3 results, you'd see that "strong dollar" was by far the biggest reason offered for slowing sales and shipments, according to financial research firm FactSet.
+
+It's not all bad news for Apple
+
+Even if a strong U.S. dollar cut into Apple's Mac sales (again, we won't know for certain until Apple reports its quarterly earnings at the end of October), there are a few reasons investors shouldn't be concerned.
+
+According to Gartner's personal technology survey, 50% of consumers said they intend to buy a PC in the next 12 months, compared to just 21% who say they plan to buy a tablet. That doesn't guarantee Apple any additional PC sales -- and it's clearly not great news for its iPads -- but it does mean users are considering an upgrade just as Apple has introduced some new hardware. Earlier this week, Apple debuted two new iMacs with upgraded internal specs and new 4K and 5K displays.
+
+The new Macs also are launching just as consumers are gearing up for the holiday season, which usually brings a spike to Apple's Mac sales. . So while Mac shipments likely slowed in Q3, new Macs, increasing PC demand over the coming year, and a historically strong Q4 should pull Apple out of its Mac slump very soon.

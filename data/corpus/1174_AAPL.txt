@@ -1,0 +1,47 @@
+There's a famous essay by economist Leonard Read called "I pencil".
+
+It (Other OTC: ITGL - news) describes the life story of a regular pencil, how it is the miraculous work of many hands, from the men who felled the cedar tree from which the wooden exterior was made, to the graphite and clay compound that makes up the lead, to the paint and labelling on the coating.
+
+Yes, it's just a common-or-garden pencil, but by the same token "not a single person on the face of this earth knows how to make [it]".
+
+The point is an important one about economics – even the simplest objects are the fruit of many different hands.
+
+They are the work of a whole variety of different craftspeople around the world. The story of globalisation is there in everyday objects: your pen, or your t-shirt, or your phone.
+
+And there are few better illustrations than the smartphones we carry around with us every day.
+
+Take the iPhone. Flip it over and you'll see on the back the words: "Designed by Apple (LSE: 0R2V.L - news) in California. Assembled in China".
+
+Many other smartphones simply say "Made (Paris: FR0010328302 - news) in China".
+
+But those descriptions underlie a far more complex birth. In fact, the vast majority of the components that go into an iPhone are made elsewhere.
+
+The memory chips and displays tend to come from Toshiba (Swiss: TOSH.SW - news) in Japan, the accelerometer from Bosch (BSE: BOSCHLTD.BO - news) in Germany, the motion co-processor from NXP in the Netherlands.
+
+The main processor is made in Korea by Samsung (one of Apple's chief rivals, as it happens), but is designed by Apple with some help from ARM, a British chip designer.
+
+That phone you're fiddling with is a triumph of globalisation – of countries and companies collaborating (even when they may ostensibly despise each other) to produce something amazing.
+
+Now (NYSE: DNOW - news) consider what this means for China, and for economics. Despite being "made in China", a hefty chunk of the iPhone's actual value is generated elsewhere, including the UK. In fact, only about 5-10% of the phone’s value is made in China.
+
+This raises a few interesting points.
+
+First (Other OTC: FSTC - news) , the trade figures published by the Office for National Statistics and other official statistics bodies assume that if a product is "made in China" then the full value of the export goes onto China's ledger on the international balance of payments.
+
+In other words, the official trade figures may overstate the severity of China's trade surplus and Britain's (and most other countries') massive trade deficits with China.
+
+Second, China is not really the world's manufacturer; it is probably better described as the world's assembly point.
+
+The components are shipped into massive factories such as Foxconn on the outskirts of Shenzhen in China's Pearl River Delta region. They get put into a metal phone case, into a box and emerge as a finished iPhone.
+
+Or at least, that has been the story until recently. China's leaders have realised that if the country is to become more developed it will need to develop its own technologies.
+
+The moment it becomes a mature economy might well coincide with the moment it is producing the phone's innards rather than just assembling them.
+
+Gradually, this is starting to happen. In 2000, Chinese companies accounted for about 2.5% of value created around the world. Today that figure is closer to 8%, not far off America's 10%.
+
+The proportion of Chinese goods simply assembled from foreign components has fallen from 56% of total trade a decade ago to 35% more recently.
+
+There are now many Chinese companies not just assembling but designing smartphones.
+
+Huawei, which sits on the other side of the highway from Foxconn in Shenzhen, is a prime example. It is responsible for making the latest phablet-size Nexus (Xetra: 522090 - news) phone for Google – a sign of quality approval if ever there was one.

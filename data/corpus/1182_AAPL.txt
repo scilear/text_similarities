@@ -1,0 +1,21 @@
+Apple is involved in a massive clean-up of its iOS App Store to remove malicious software which has infected numerous iPhone and iPad programmes, according to reports.
+
+The malware, dubbed XcodeGhost, was discovered by several cyber security companies which found it embedded in hundreds of legitimate apps, the Reuters news agency said.
+
+Cyber security firm Palo Alto Networks said the malware can prompt fake phishing dialogs to steal login details, open websites, and read and write data on your clipboard.
+
+The firm said the malware is "very harmful and dangerous".
+
+It is is the first sustained security breach of the App Store that Apple has acknowledged.
+
+Before this attack, just five malicious apps had ever been found in the store - which is tightly controlled and sees every app vetted by Apple employees .
+
+The hackers embedded the malicious code in the apps by convincing developers of legitimate software to use a tainted, counterfeit version of Apple's software for creating iOS and Mac apps, which is known as Xcode, Apple said.
+
+"We’ve removed the apps from the App Store that we know have been created with this counterfeit software," an Apple spokeswoman said in an email to Reuters.
+
+"We are working with the developers to make sure they’re using the proper version of Xcode to rebuild their apps."
+
+Most of the apps affected are aimed at the Chinese market, and the most prominent is WhatsApp competitor WeChat.
+
+One Chinese security firm says that as many as 350 apps may be affected.

@@ -1,0 +1,37 @@
+NEW YORK (TheStreet) -- Cities across the country should take a page out of the playbooks of Silicon Valley's biggest tech companies -- success stories like Apple (AAPL - Get Report) , Facebook (FB - Get Report) and Google (GOOGL - Get Report) , says IBM's (IBM - Get Report) chief data strategist, Steve Adler.
+
+
+
+"Cities are very hierarchical today," Adler said in an interview at New York's Techweek. "We want them to be flatter and more open and transparent. We want the conversation with government to be bi-directional, instead of them telling citizens through press conferences what they are doing."
+
+
+
+Adler says cities should be viewed as IT platforms for communication between government and citizens. He refers to this concept as "smart cities."
+
+
+
+"You can't be smart if you can't communicate effectively," he said. "As citizens, we're communicating every day through social media and a variety of virtual platforms that largely our city government is not participating in."
+
+
+
+A real world example of a city operating under this model centers around average citizens communicating with governments to fix various public issues.
+
+
+
+"Let's say you go to a playground and your child wants to play on the swing, but the chain is broken," he pondered. "Why can't you take a photograph [with your smartphone] and report that not just to the city, but to everyone to notify them that the swing is broken?"
+
+
+
+Citizens, he said, should be able to join forces with government to identify problems.
+
+
+
+"This kind of model would save cities billions of dollars, because cities have to spend human resources to go out and find these problems," he said. "There are only 300,000 people working for the City of New York, but there are 8.4 million people living in the city with skills, ideas and resources."
+
+
+
+In terms of putting such ideas into action, he said IBM is developing platforms in the cloud that will allow cities and citizens to communicate information.
+
+
+
+"We want to be more than an IT company that provides the platform," Adler added. 'We want to help cities understand the policy dimension and how to co-create in this new environment."

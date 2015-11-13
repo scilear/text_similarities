@@ -1,0 +1,29 @@
+The current hardware competition between Microsoft and Apple is a joy to watch. Both companies are mature, disciplined, and working with well established product lines. Microsoft in particular seems to be especially confident with its Surface line, which recovered quickly after a disastrous launch in 2012.
+
+The competition is especially sharp in the laptop category, where both companies are innovating impressively. Neither company is trying to clone or imitate the other. Instead, each is borrowing and refining features to keep up with a rapidly changing marketplace.
+
+In yesterday's intro, Microsoft explicitly compared its updated Surface Pro 4 and the new Surface Book (Microsoft's first attempt to build a laptop) to Apple's MacBook Air and MacBook Pro, respectively. That entire discussion focused on specs and performance, but downplayed direct price comparisons.
+
+I agree with Microsoft's decision to compare both products with Apple notebooks. The iPad Pro (which ships next month and isn't open for pre-orders) will cost from $799 to $1079 in the U.S., not counting the keyboard cover.
+
+So, this morning, I visited Microsoft's pre-order site for the just-released Surface models and then compared those prices with equivalent models from Apple. (All prices are from the U.S. stores. Prices for other markets may vary considerably.)
+
+It's clear that Microsoft is not aiming at price-conscious buyers here. Instead, like Apple, they are delivering devices aimed at professionals willing to pay a premium for hardware that is designed and built to be the best in its class.
+
+Here's a side-by-side look at prices for the Surface Pro 4 versus the 13-inch MacBook Air (Microsoft's onstage comparison) and Apple's new MacBook, both of which are designed for extreme mobility.
+
+Configuration Surface Pro 4 MacBook Air (13-in.) MacBook 128 GB / 4 GB 899 (m3) 999-1199 (i5) N/A 128 GB / 8 GB N/A 1099-1249 N/A 256 GB / 8 GB 1299 (i5) 1299-1449 (i5) 1299-1549 (m3) 256 GB / 16 GB / i5 1499 N/A N/A 512 GB / 8 GB / i7 N/A 1599-1749 N/A 512 GB / 16 GB / i7 2199 N/A N/A
+
+Those are competitive prices, with Microsoft coming in at the bottom range of Apple's equivalent prices.
+
+By contrast, the new Surface Book, with its sleek hinged design and high-performance graphics, attacks the high side of Apple's competing MacBook Pro range.
+
+Configuration Surface Book MacBook Pro (13-in.) 128 GB / 8 GB 1499 1299-1599 256 GB / 8 GB 1699-2099 1499-1799 256 GB / 16 GB N/A 1699-1999 512 GB / 8 GB N/A 1799-1999 512 GB / 16 GB / i7 2699 2199
+
+Strategically, that decision makes sense. Microsoft's goal is to convince creative professionals that the performance boost of the Surface Book makes it a better mobile computing device for people who literally can't afford to stare at the screen as a video file renders.
+
+As analysts have noted repeatedly in the past two years, the ultralight, high-performance category is the only part of the PC market that's growing. And high-ticket models like these are where all the profits are.
+
+Regardless of which platform you choose, there will be some difficult choices to make, with some combinations of storage and memory unavailable. (You want 512 GB of storage in a Surface Book? There's only one configuration available, for example, and the Intel m3 version of the Surface Pro 4 is available only with 4 GB of RAM. Meanwhile, on the Apple side, you can't get more than 8 GB of RAM in a 13-inch MacBook Air.)
+
+Until I have a chance to actually try the new Surface devices, I'll withhold judgment on whether these prices are worth it. Based on what I saw yesterday, I can't wait for those review units to arrive.

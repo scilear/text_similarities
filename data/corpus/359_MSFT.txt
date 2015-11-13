@@ -1,0 +1,33 @@
+In March of this year, Microsoft officials already had a fairly good idea as to what would be in the Fall 2015 wave for Dynamics CRM.
+
+On September 8, officials confirmed the feature set for the upcoming release, which will be christened officially Dynamics CRM 2016.
+
+Most, if not all, of the features Microsoft outlined in March are still slated to be part of the coming release, which will go to both on-premises and cloud Dynamics users.
+
+Starting August 6, Microsoft started taking sign ups for the CRM Fall 2015 preview programsfor its Dynamics CRM 2016 (codenamed "Ara"), Dynamics Marketing (codenamed "Capella"), and Social Engagement (codenamed "Corvus") products.The preview program for these Fall wave releases starts in September. The Fall Wave is on track to be delivered in the fourth calendar quarter of this year.
+
+On the updated list of new features coming to Dynamics CRM 2016and the rest of the Fall wave later this year:
+
+More new Cortana integrations (beyond what's there already in Dynamics CRM) with sales activities
+
+Tighter integration with the Cortana Analytics Suite
+
+More use of Azure Machine Learning for sentiment analysis in Microsoft Social Engagement
+
+Offline mobile capabilities
+
+Better mobile app management with Intune
+
+New Excel templates for automating many core tasks
+
+Next release of Microsoft's CRM app for Outlook that will allow users to track emails, add contacts and create records through the browser on PCs or Macs or mobile browser on a phone
+
+Integrated Delve functionality
+
+Ability to open Office apps within CRM or CRM mobile app Read this Keeping up with the Microsoft Dynamics CRM codenames Read More
+
+
+
+The company also plans to bring the field-service capabilities it acquired when it bought FieldOne this past July together with the knowledge management and self-service capabilities it has added to its CRM family via it 2014 Parature acquisition, official said.
+
+The Release Preview Guide for Dynamics CRM 2016 is available for download by all those interested.

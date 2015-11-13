@@ -1,0 +1,29 @@
+IBM said it is giving the Chinese government access to some software code, seeking to demonstrate the security of its products as the company tries to expand its business in the country.
+
+Beijing won’t receive client data or “back doors” into the technology, International Business Machines Corp. said Friday in a statement. Technology providers including Microsoft Corp. have reached similar agreements in China, IBM said. Microsoft established a program with China in 2003, giving the government access to some Windows source code.
+
+“Strict procedures are in place within these technology demonstration centers to ensure that no software source code is released, copied or altered in any way,” IBM said. “Those are applied rigorously regardless of country.”
+
+Concerned about cybersecurity, China this year enacted security measures requiring foreign technology companies to show software code to the government. The purpose of the law is to prevent other parties from illegally accessing China’s systems and data through computer programs like viruses, said Ray Wang, principal analyst at Constellation Research.
+
+Diversified Economy
+
+China also has been making efforts to ease its dependence on manufacturing for economic growth and support domestic companies in other industries. President Xi Jinping laid out plans this year to accelerate the development of the country’s information technology industry. There’s an opportunity for companies such as IBM to increase their presence in the market as China figures out how to get established in these new sectors, Wang said.
+
+“As everybody knows, there’s a tacit understanding that if you want to do business in China, you need to show them how this stuff works,” he said. For IBM, “the significance here is the first-mover advantage.”
+
+By fulfilling the government’s requirements, IBM will also get access to foreign companies operating in China that may be more inclined to store their data on the company’s servers rather than those owned by Chinese businesses, said Daryl Plummer, chief of research at Gartner Inc.
+
+“In order to grow globally, you have to do business in China, you have to be representative there,” Plummer said. Giving the government access to the code “seems to be a reasonable risk to take.”
+
+IBM also reduces the risk that its intellectual property will be copied by granting the government access in a controlled environment on the company’s machinery, Wang said. IBM is probably revealing code for basic features, he said, rather than disclosing proprietary algorithms.
+
+‘Reverse Engineering’
+
+“It’s more about the Chinese government being comfortable that source code won’t kill their government, though there’s definitely a little bit of: ‘Can we reverse engineer this?”’ Wang said in a phone interview. “For IBM to do this is a little ballsy.” Companies such as IBM that have closed-source, or proprietary, software typically maintain tight control of its underlying source code.
+
+This is the first time IBM has given the Chinese government access to its software code, having previously shown some proprietary information on its chip technology, Wang said. IBM and other companies have had their intellectual property imitated before, he said, adding that software is more difficult to reproduce than hardware.
+
+IBM shares were little changed at $150.39 at the close of trading in New York.
+
+Ed Barbini, a spokesman for IBM, declined to comment beyond the statement. The news was reported earlier by Chinese media including China Daily, which quoted Steve Mills, IBM’s executive vice president of software and systems, speaking about the security program during an appearance in the country.

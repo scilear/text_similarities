@@ -1,0 +1,31 @@
+At this point it is very well known that Apple (NASDAQ:AAPL) is having its A9 processor built at two chip manufacturers: TSMC (NYSE:TSM) and Samsung (NASDAQOTH:SSNLF). Furthermore, it's now widely known that chips are manufactured in TSMC's 16-nanometer FinFET Plus process as well as Samsung's 14-nanometer process (I am told that it is likely Samsung's higher-performing 14-nanometer LPP).
+
+According to a flood of testing by many iPhone 6s/6s Plus buyers, it is also widely known that the chips built on TSMC's 16-nanometer FinFET Plus process are, in general, substantially more power efficient.
+
+Although it might seem that this is bad news for Apple, the real loser here looks like Samsung.
+
+iPhone users probably won't care, but potential foundry customers will
+
+As far as Apple and iPhone customers are concerned, I don't think most customers will really care. After all, most people aren't even going to bother to check which chip they have, and even if they do, I can't imagine that people are going to go through the hassle of returning otherwise perfectly good iPhones because they got Samsung-built processors.
+
+In other words, I agree with my fellow Foolish colleague Evan Niu that this controversy, widely dubbed "Chipgate," will be forgotten soon enough.
+
+However, the underlying issues that have led to this controversy will likely matter a great deal to potential customers of both TSMC and Samsung.
+
+TSMC appears to be in the driver's seat at 14/16-nanometer, contrary to prior predictions
+
+For a while, Samsung had given the "impression" that it was significantly ahead of TSMC at the 14/16-nanometer manufacturing technology generation. After all, the Samsung process does deliver slightly smaller chip areas than the TSMC process does (this is seen in the die sizes of the two A9s) and Samsung did start mass production before TSMC did.
+
+That being said, it is clear TSMC is in the driver's seat. From what I am told, TSMC is able to yield A9 chips at twice the rate that Samsung is. Furthermore, I am also told by a trusted source that on the Samsung-built A9 chips, leakage power is higher and lifetime reliability is lower.
+
+In light of the fact that TSMC's 16-nanometer technology looks to be the superior of the two foundry 14/16-nanometer processes, I suspect that fabless customers will prefer to build their chips at TSMC, rather than at Samsung, given the choice. In fact, that's exactly what Apple is said to be doing with next year's A10.
+
+Indeed, it is quite clear at this point why TSMC executives expect that it will have a "far majority" share of the foundry 14/16-nanometer business beginning in 2016.
+
+Samsung foundry faces an uphill battle
+
+At the end of the day, I believe things aren't as rosy for Samsung's foundry group as the company tried to make it seem by pushing its 14-nanometer technology into production ahead of when TSMC went into production on 16-nanometer FinFET Plus.
+
+On the bright side, Samsung has a fairly large captive audience with its own smartphones; I wouldn't be shocked to see the company gradually transition its smartphones to chips either designed in-house or to merchant chips manufactured in Samsung's foundries.
+
+It will be interesting to see what happens at the 10-nanometer and 7-nanometer generations, that's for sure. However, based on what has happened over the last several technology generations (28-nanometer, 20-nanometer, and 14/16-nanometer), I'd be surprised to see Samsung get a leg up on TSMC anytime soon.

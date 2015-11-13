@@ -1,0 +1,55 @@
+Illustration: Ryan Huddle for The Wall Street Journal
+
+If companies are looking for gender bias in their workplace, here’s one place they may want to start: feedback.
+
+Research suggests that men and women are assessed very differently at work. Specifically, managers are significantly more likely to critique female employees for coming on too strong, and their accomplishments are more likely than men’s to be seen as the result of team, rather than individual efforts, finds new research from Stanford University’s Clayman Institute for Gender Research. Those trends appear to hold up whether the boss making the assessments is male or female.
+
+The researchers say the differences are products of unconscious bias—hidden beliefs about women’s capabilities that can influence important workplace decisions. For instance, if bosses expect women to be more team-oriented and men to be more independent in their jobs, women may be more likely to be shunted into support roles rather than landing the core positions that lead to executive jobs, the researchers say. Many employees internalize these stereotypes over time, they add, sapping some women’s confidence that they or their female co-workers can handle more-demanding positions.
+
+“Stereotypes shape our perceptions of competence. We hold women to a higher standard in evaluations, and women also tend to evaluate themselves to a higher bar,” says Caroline Simard, director of research at the Clayman Institute. Such hidden biases could ultimately lead to “cumulative disadvantage over a woman’s career over time, resulting in lower access to key leadership positions and stretch assignments, advancement and pay,” she says.
+
+Big effect
+
+The Stanford team is analyzing the language of hundreds of performance reviews from four technology and professional-services firms. The research is continuing, but so far it has shown that women received 2.5 times the amount of feedback men did about aggressive communication styles, with phrases such as “your speaking style is off-putting,” the study found. Women were described as “supportive,” “collaborative” and “helpful” nearly twice as often as men, and women’s reviews had more than twice the references to team accomplishments, rather than individual achievements.
+
+Men’s reviews contained twice as many words related to assertiveness, independence and self-confidence—words like “drive,” “transform,” “innovate” and “tackle.” Men also received three times as much feedback linked to a specific business outcome, and twice the number of references to their technical expertise.
+
+“The magnitude of some of the differences and how consistent they were across the different samples was shocking,” Dr. Simard says.
+
+Women and men receive divergent performance feedback at work. What are the key differences and how do they affect advancement?
+
+Other research shows how such differences matter in promotions. When participants in corporate workshops about unconscious bias are asked which of two candidates they would pick to replace a top performer in their organization, about 90% select the person described in terms related to individual initiative—the same words that turned up more often in the men’s performance reviews in the Stanford study, Dr. Simard says.
+
+Also, to outmaneuver those biases, women may spend more effort than men monitoring how they are perceived—and that can take time away from getting work done, says Herminia Ibarra, a professor of organizational behavior at Insead, the business school in Fontainebleau, France. “Too much focus on image and how you are being perceived is really counterproductive,” she says.
+
+Raising awareness
+
+Social scientists are still teasing out exactly why these gender biases persist—and how to combat them. A big reason is that many companies use vague criteria, rather than specific measures, to evaluate employee performance, management researchers say.
+
+ENLARGE
+
+But many companies are trying to do better, including Google Inc., GOOGL 1.39 % Facebook Inc. FB 2.64 % and Dow Chemical Co. DOW 5.14 % , which have stepped up efforts to increase the numbers of women and minorities on their staffs. Microsoft Corp. MSFT 1.76 % now requires all employees to participate in an annual training program to educate them about unconscious bias.
+
+Photo: Shannon Fagan/iStock/Getty Images
+
+For the past two years, cloud-computing firm VMware Inc. VMW 2.47 % has been training employees and managers to recognize unconscious bias in their behaviors, says Betsy Sutter, the chief people officer of the Palo Alto, Calif., firm, which has some 18,000 employees world-wide, 22% of whom are women. In addition, before managers write up performance reviews, Ms. Sutter’s team sends them a one-page memo reminding them about gender bias and potentially loaded phrases. For instance, the memo advises managers to avoid attributing women’s contributions to external factors or luck.
+
+Ms. Sutter says the guidelines have led to more awareness about gender bias, though it’s too early to tell whether they’ve increased the number of women getting promoted.
+
+Lisa Dalebout, a regional sales director at VMware, says she’s now more careful of the language she uses with the seven employees who report directly to her, who are mostly men. She says she’ll try to use the same language to describe the performance of both men and women. “I’m aware of it now, and you can’t make the changes until you’re aware,” she says.
+
+When Kieran Snyder worked as a manager at Microsoft, she received performance reviews that advised her to be less assertive, she says. “There was often an element of ‘tone it down’ in my reviews,” says Dr. Snyder, who has a doctorate in linguistics. “I had one manager ask me explicitly to ‘make room for others.’ ”
+
+A Microsoft spokesman says: “We’re committed to a diverse workforce and to a workplace where all employees have the chance to succeed.”
+
+A proactive approach
+
+Dr. Snyder says she never compared her reviews to those of her colleagues. But last year, after she left Microsoft, she decided to run her own linguistic analysis of performance reviews in the technology industry.
+
+Over social media, she solicited a sample of 248 performance reviews of high-performing male and female employees from 28 tech companies. The results were similar to those of the Stanford study. Men were more likely to be given constructive suggestions related to specific skills, while women were more likely to get critical feedback to pipe down and be less aggressive. The manager’s gender didn’t seem to matter.
+
+Those results led Dr. Snyder to cofound Textio Inc., a software company that analyzes language in job ads, aiming to help companies including Microsoft and Twitter Inc. TWTR -0.51 % avoid bias in job postings. Textio is also developing a performance-review product that sends prompts to managers if the language in a review appears to have gender biases.
+
+“We want to help people before they make mistakes,” says Dr. Snyder.
+
+Ms. Silverman is a Wall Street Journal reporter in Austin, Texas. Email her at rachel.silverman@wsj.com.

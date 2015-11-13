@@ -1,0 +1,17 @@
+Tencent Holdings Ltd. fixed a flaw in its WeChat instant messaging application that exposed some of the service’s 600 million users to malicious software when downloading the program from Apple Inc., according to a post on its website.
+
+The malware, named XcodeGhost, secretly collects information on devices and uploads the data to servers without users knowing, according to cybersecurity company Palo Alto Networks Inc. Apps were infected after software developers used compromised versions of Apple’s developer tool kit, the researcher said in a report posted on its website.
+
+A total of 39 apps using Apple’s iOS software -- including WeChat and that from ride-hailing service Didi Kuaidi Joint Co.-- were infected, potentially affecting hundreds of millions of users, Palo Alto Networks said. The malware is capable of prompting fake alerts to phish for user credentials, infect other apps using iOS and read users’ passwords.
+
+“We believe XcodeGhost is a very harmful and dangerous malware that has bypassed Apple’s code review and made unprecedented attacks on the iOS ecosystem,” Palo Alto Networks said in the report. “The techniques used in this attack could be adopted by criminal and espionage focused groups to gain access to iOS devices.”
+
+Didi Upgrade
+
+XcodeGhost already has conducted phishing attacks that prompt dialogue boxes asking victims to input passwords to Apple’s iCloud, the report said.
+
+Tencent said the flaw only affected WeChat version 6.2.5 for iOS, and new versions of 6.2.6 or later won’t be affected. Based on a preliminary investigation, the malware hasn’t caused any theft of users’ information from WeChat, Tencent said.
+
+Didi Kuaidi said the malware potentially could transmit the app name, installation time, language and country settings of its Didi Chuxing version 4.0 app, though users’ privacy wasn’t affected. The issue was addressed in updated version 4.1, the company said in an e-mail.
+
+The security breach previously was reported by the Wall Street Journal.

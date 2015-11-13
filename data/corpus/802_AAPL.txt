@@ -1,0 +1,19 @@
+Whether you're using a device made by Apple or any other company, most smartphones and tablets work the same way — you use the touch screen for input tasks such as typing, swiping, and tapping.
+
+While touch screens work just fine for most things you typically do on your phone, it can sometimes be difficult to see everything that's on screen when you're holding your finger over a portion of the display.
+
+Apple has an idea to work around that.
+
+A recently published Apple patent application covers an idea related to making the bezels in iPhones, iPads, and other Apple devices touch sensitive as well.
+
+The bezel is the portion of your iPhone or iPad that frames the screen, as shown in the photo above. The application describes a scenario in which this area would have touch sensors just like the touch screen, so that you'd be able to scroll, tap, and swipe without actually covering a portion of the display.
+
+In the document, Apple says this is one way to get more screen real estate without having to actually increase the size of the device.
+
+Certain parts of the bezels would have touch sensors that trigger different actions, as shown in the image from the application below. For example, touching one section of the bezel might cause you to scroll down, while another section of the bezel could be used to select something on screen.
+
+On a device like the iPad, it's easy to imagine how this technology would work since its bezels are more prominent than those on the iPhone. If this technology were to make it into the iPhone, you'd really only have the top and bottom bezels to work with since the bezels along the side are so slim.
+
+There's no guarantee that Apple will actually implement this idea in any of its products. Apple patents different types of technology all the time, and it's rare that we see most of these ideas come to fruition. Regardless, it's interesting to see the types of technologies Apple could be experimenting with.
+
+NOW WATCH: These are the features that make Android phones superior to iPhones

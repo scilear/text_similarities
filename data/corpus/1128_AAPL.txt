@@ -1,0 +1,47 @@
+By Julia Fioretti
+
+BRUSSELS (Reuters) - The EU's highest court struck down a deal that allows thousands of companies to easily transfer data from Europe to the United States, in a landmark ruling on Tuesday that follows revelations of mass U.S. government snooping.
+
+Many companies, particularly tech firms, use the Safe Harbour system to help them get round cumbersome checks to transfer data between offices on both sides of the Atlantic, including payroll and human resources information as well as lucrative data used for online advertising.
+
+But the decision by the Court of Justice of the European Union (ECJ) sounds the death knell for the system, set up by the European Commission 15 years ago and used by over 4,000 firms including IBM (IBM.N), Google (GOOGL.O) and Ericsson (ERICb.ST).
+
+The court said Safe Harbour did not sufficiently protect EU citizens' personal data as American companies were "bound to disregard, without limitation" the privacy safeguards where they come into conflict with the national security, public interest and law enforcement requirements of the United States.
+
+In addition, EU citizens have no means of legal recourse against the storage or misuse of their data in the United States, the court said. A bill is currently winding its way through the U.S. Congress to give Europeans the right to legal redress.
+
+The ECJ cited U.S. surveillance and authorities' access to data as a reason behind its ruling. In its summary of the case it referred to revelations from former National Security Agency contractor Edward Snowden, which included that the Prism program allowed U.S. authorities to harvest private information directly from big tech companies such as Apple (AAPL.O), Facebook (FB.O) and Google.
+
+The European Commission said it would continue to work with the United States on a revamped data transfer deal that could fill the void left by the ruling on Safe Harbour, which came into effect immediately.
+
+"In the light of the ruling, we will continue this work towards a new and safe framework for the transfer of personal data across the Atlantic," Commission Vice President Frans Timmermans told a news conference.
+
+Without Safe Harbour, companies will be forced to draw up contracts establishing privacy protections between groups or seek approval from data protection authorities for information transfers to countries the EU deems to have lower privacy standards, including the United States.
+
+"The EU's highest court has pulled the rug under the feet of thousands of companies that have been relying on Safe Harbour," said Monika Kuschewsky, special counsel at law firm Covington. "All these companies are now forced to find an alternative mechanism for their data transfers to the U.S."
+
+The Commission said it would issue guidance to national data protection authorities to ensure a coordinated approach in dealing with data transfer requests to the United States.
+
+The group of EU data protection authorities, known as the Article 29 Working Party, said it would hold discussions this week to "determine the consequences on transfers" of data and schedule an extraordinary meeting shortly.
+
+However, lawyers said most multinationals would probably be able to continue with business as usual as they already had alternative legal channels for transferring data to the United States.
+
+'UNCERTAINTY FOR FIRMS'
+
+The court case stemmed from a complaint by Austrian law student Max Schrems, who challenged Facebook's transfers of European users' data to its American servers because of the risk of U.S. snooping, in light of Snowden's revelations in 2013.
+
+The European Commission separately demanded a review of Safe Harbour to ensure that U.S. authorities' access to Europeans' data would be proportionate and limited to what is absolutely necessary.
+
+Washington and Brussels have been in talks for two years to strengthen Safe Harbour in a way that could allay Europe's privacy concerns, and Tuesday's judgment heaps pressure on the Commission to accelerate the talks.
+
+"The Court put pretty high standards on a new Safe Harbour," Kuschewsky said.
+
+Christian Borggreen, director at the Computer & Communications Industry Association, whose members include Google, Facebook and Amazon (AMZN.O), said the ruling would hit small and medium-sized businesses most.
+
+Schrems filed his complaint to the Irish Data Protection Commissioner, as Facebook has its European headquarters in Ireland. The case eventually wound its way up to the Luxembourg-based ECJ, which was asked to rule on whether national data privacy watchdogs could unilaterally suspend the Safe Harbour framework if they had concerns about U.S. privacy safeguards.
+
+"The judgment makes it clear that U.S. businesses cannot simply aid U.S. espionage efforts in violation of European fundamental rights," said 28-year-old Schrems.
+
+The Irish commissioner said her office would immediately engage with colleagues in other national authorities across Europe to determine how the judgment could be implemented.
+
+(Additional reporting by Philip Blenkinsop, Michele Sinner in Luxembourg and Conor Humphries in Dublin; Editing by Barbara Lewis and Susan Fenton)

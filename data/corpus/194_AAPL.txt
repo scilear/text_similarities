@@ -1,0 +1,65 @@
+Starting this week, a little-known company that says it “invented the mobile Internet” will take on three of the world’s biggest technology companies in a London courtroom in six patent trials expected to take a year.
+
+(To be sent this column daily, click SALT IPREPORT)
+
+Unwired Planet Inc., which has 16 employees and no products, maintains a portfolio of 2,000 patents, mostly acquired from Ericsson AB, which it says on its website are “considered foundational to mobile communications.”
+
+The company, which keeps an office above an Italian restaurant in Reno, Nevada, has sued Samsung Electronics Co., Huawei Technologies Co. and Google Inc. For the phonemakers, the cases are little more than a nuisance. They say in court documents that Unwired Planet is seeking excessive licensing fees for patents that aren’t even valid. If approved, the intellectual property might be worth hundreds of millions of dollars in royalties to Unwired Planet, which is currently valued at about $85 million.
+
+The emergence of firms that exist solely to acquire patents and wring money out of them by threatening lawsuits has led to calls in the U.S. for legislation to combat so-called patent trolls.
+
+The term patent troll is derogatory, Unwired Planet general counsel Noah Mesel said. He prefers the description “patent-licensing company.”
+
+The first five trials will decide whether the patents are valid. A final trial will deal with whether Unwired Planet made a reasonable attempt to negotiate licenses for the technology.
+
+For more, click here.
+
+Patents
+
+Apple Files New Patent for Wireless Charging System
+
+Apple Inc. filed a new patent application for an inductive power transmission system.
+
+The application, number 20150280442, is credited to Graham Christopher as the sole inventor, according to the U.S. Patent & Trademark Office. It describes an interface surface and a plurality of angled coils underneath, which can transmit power to electronic devices on more than one frequency.
+
+This invention adds to earlier applications for inductive power systems with intended uses for iPad covers, docking systems, wearable items and electric vehicles, according to the Patently Apple blog.
+
+Hyundai Loses $28.9 Million Patent Trial Against U.S. Company Over Hybrid Engines
+
+Hyundai Motor Co. and affiliate Kia Motors Corp. were told to pay a Baltimore company $28.9 million after a federal jury said the South Korean carmakers infringed patents related to hybrid engines. The companies intend to appeal.
+
+The jury on Oct. 1 rejected arguments by Hyundai and Kia that patents owned by Paice LLC were invalid, and instead found the infringement was intentional. That means the trial judge could increase the damage award to as much as three times the amount set by the jury.
+
+The case is Paice LLC v. Hyundai Motor Co., 12-cv-499, U.S. District Court, District of Maryland (Baltimore).
+
+Copyright
+
+Ray Charles’s Heirs to Defend Case Challenging Copyright Notices
+
+A foundation set up by the late singer and composer Ray Charles won its appeal to reinstate a case it brought to terminate notices filed by his heirs against rights in dozens of musical compositions.
+
+The decision by the federal appeals court in Pasadena, California, turned on whether a beneficiary of contract rights in music has a private right of action under the federal copyright statute. U.S. Circuit Judge Judge Morgan Christen, writing for the panel, concluded that such a right was implied in this case.
+
+Charles died in 2004, leaving money to his children in trusts, according to a filing. The Ray Charles Foundation was named in his will as the sole beneficiary of “his rights in his works and rights under contracts,” according to court records.
+
+Seven of Charles’s children filed notices of copyright termination in 2010. The 39 notices filed in the U.S. Copyright Office involved 51 works and seek to obtain rights to songs such as “I Got a Woman” and “A Fool for You.”
+
+The foundation sued, seeking a declaration that the notices were invalid. Charles had been an employee of the publisher Warner/Chappell Music. That makes the music a work-for-hire. The foundation didn’t have standing to sue, since it lacked ownership of the copyrights and only had rights to royalties, the heirs argued.
+
+The district court rejected the foundation’s claim of standing as the “beneficial owner” of the music and dismissed that suit. The appeals court disagreed.
+
+The foundation can challenge the termination notices because its interest under Charles’s will in receiving royalties places it “within the statutory zone of interests,” giving it an implied private right of action under the Copyright Act, Christen wrote in her opinion.
+
+The case is Ray Charles Foundation v. Robinson, 13-55421, U.S. Court of Appeals for the Ninth Circuit (Pasadena).
+
+Trademarks/IP General
+
+Justice Department Steps Up Funding to Combat IP Crime
+
+The Justice Department will "closely partner" with businesses to crack down on intellectual property crime, as part of an initiative announced Friday by Attorney General Loretta Lynch.
+
+More than $3.2 million will be shared among 10 jurisdictions "to support state and local task forces," according to a statement by the Justice Department. The focus of the initiative is expected to be IP theft and infringement crimes. The money will be used for training, enforcement and prosecution. The department will distribute the funds through its Intellectual Property Enforcement Program, or IPEP, established in 2009.
+
+The new infusion brings total funding of IPEP to $14.8 million, Lynch said at a press conference in Boston on Friday.
+
+Since its inception, IPEP’s work has resulted in the arrest of 3,500 people for violating IP laws and seized more than $266 million in counterfeit property and currency, Lynch said.

@@ -1,0 +1,5 @@
+One of Microsoft's most exciting products to date is HoloLens, and today the company revealed a new mixed reality game for the headset called Project XRay. The title was developed internally, according to Executive VP of the Windows and Devices Group Terry Myerson. Similar to the Minecraft experience on HoloLens, Project XRay also looks incredible -- particularly because you can turn most any room into your own gaming canvas. Here, though, you're wearing a holographic weapon on your arm, which you'll need to defend yourself from an attack of flying robots. Once they crawl out of the walls, you can shoot lasers at them -- yes, lasers. "Holograms behave just like real objects; they can interact with environments and with each other," said the Microsoft representative on stage about Project XRay.
+
+In addition to the demo, Microsoft announced that HoloLens will reach developers in 2016 for $3,000. For now, we're really hoping to check out Project XRay ourselves once the event is over.
+
+Get all the news from today's Microsoft event right here.

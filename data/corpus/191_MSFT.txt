@@ -1,0 +1,25 @@
+So far, the rollout of Microsoft's (NASDAQ:MSFT) newish Windows 10 operating system (OS) beginning in July has been an unmitigated success. Though the number of downloads of Windows 10 hasn't been updated since August, the fact that 75 million people jumped on-board during the first month certainly bodes well for Microsoft in terms of reaching its goal of 1 billion users in the next three years.
+
+Despite the initial popularity of Windows 10, the rollout came with a few bumps in the road, namely, concerns surrounding security. Shortly after releasing Windows 10 to the masses in July, reports of angst involving user data collection began to surface, and those haven't died down since.
+
+In response, Microsoft VP Terry Myerson posted a blog recently titled "Privacy and Windows 10" as a means of appeasing the masses. This was a good first step, but will it be enough to quiet the naysayers?
+
+What's the problem?
+
+As is the case with any new, major introduction of an operating system update from Microsoft, it didn't take long for hardcore tech gurus to dissect Windows 10. Unfortunately, what they found was that, contrary to what Microsoft had said, it appeared that the new OS was forwarding user data back to its Redmond, Wash., headquarters, even after users changed their settings to put a stop to the information exchange.
+
+One area of concern that stood out to the tech folks at Ars Technica was Microsoft's OneDrive cloud-based storage solution. Apparently, even after disabling the feature, Microsoft was still collecting information via a dedicated server specifically designed to capture data, whether a Windows 10 user wanted it to, or not.
+
+In response to the questions raised by Ars Technica and others, Microsoft said: "No query or search usage data is sent to Microsoft, in accordance with the customer's chosen privacy settings. This also applies to searching offline for items such as apps, files and settings on the device." While that sounded good, it hardly quelled fears that Microsoft was surreptitiously garnering usage data.
+
+Microsoft is hardly alone when it comes to questions surrounding online security. Google has been fighting a seemingly endless battle with regulatory bodies around the world because of its search-data-collection methods. As the company explained in its most-recent missive regarding user tracking, it's for our own good, in that the information garnered gives it the ability to enhance our online experience. Not surprisingly, Microsoft has recently addressed Windows 10 security questions in much the same way.
+
+All is (supposedly) well
+
+Myerson's blog post covered three security-related questions regarding Windows 10. First, Windows 10 collects "a limited amount of information" on things like the type of device used, an "anonymous" ID, and app crash data. Microsoft was quick to point out that Windows 10 does not delve through email or files in an attempt to ascertain a user's name or location.
+
+Second, as is the case with virtually every OS, website, and search destination like Google, Windows 10 tracks a user's personalization data to "deliver a delightful and personalized Windows experience." For example, if you regularly click on articles about a favorite football team, Windows 10 captures that information to ensure that related articles are front and center in the future. Microsoft reiterated that individuals can update settings at any time to control which data is collected, and which isn't.
+
+Finally, Microsoft said Windows 10 doesn't scan files, emails, or other online communications for the purpose of targeting ads. Of course, you can bet that an online search, or continuously clicking on articles about your favorite team, will impact which ads are seen, but Windows 10 won't root around your hard drive to target advertising.
+
+Will Microsoft's latest attempt to quell fears surrounding Windows 10 security issues appease everyone? Not likely. But if nothing else, it's an acknowledgement by Microsoft of users' concerns at a time when online security is becoming an increasingly important issue. And based on the number of downloads after just a couple of months, it appears that questions surrounding Microsoft's Windows 10 data-collection methods haven't deterred users, which is what really matters for investors.

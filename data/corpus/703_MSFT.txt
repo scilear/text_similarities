@@ -1,0 +1,17 @@
+It's safe to say Microsoft's (NASDAQ:MSFT) purchase of Nokia's handset business hasn't gone according to plan. After Microsoft bought the business for a total of $7.9 billion, all inclusive, under former CEO Steve Ballmer, the company's current CEO, Satya Nadella, did an about-face a little more than a year later by writing off $7.6 billion in impairment and restructuring costs related to the business line.
+
+Ballmer's audacious plan was for Nokia's Lumia line to be something akin to the iPhone, a perfectly integrated model with hardware, ecosystem, and software designed with total integration in mind. Unlike Apple, and more like Alphabet (nee Google), Microsoft was going to allow third-party manufacturers -- such as HTC and Samsung -- to manufacture models with the operating system in an attempt to spur adoption. At least that was the plan.
+
+Unfortunately for the company, the worst of all scenarios occurred. It's true that Microsoft's Lumia line has succeeded at being the highest-selling brand in the Windows Phone ecosystem, but only because no other vendors have attempted to bring a focused unit to market because there's simply not enough demand for the ecosystem. For example, in the recently reported second calendar quarter of 2015, IDC found Windows Phone market share of the worldwide smartphone market was reported at 2.6%, down from 3.4% two years prior.
+
+Will the new Lumias change the company's fortunes?
+
+Although Microsoft has written down the purchase, it seems the company is still attempting to compete in the heavily contested smartphone markets. On Tuesday, it announced its Lumia 950 and Lumia 950 XL, and the differences between the two are size -- the Lumia 950 is a 5.2-inch model, whereas the Lumia 950 XL comes in at 5.7 inches. The phones, designed to compete at the high end against Apple's iPhone and Samsung's Galaxy lines, come in at a starting price of $549 for the former and $649 for the latter.
+
+That said, it seems even Microsoft is downplaying its smartphone fortunes. In addition to the aforementioned writedown, the company has seemingly spent more money on its other mobile product: its Surface line of tablets. Unlike the phone, the company continues to heavily market its Surface product, with a continued agreement with professional football that designates the product as "the official tablet of the NFL." Microsoft paid $400 million for the five-year designation in 2013.
+
+Nadella sees Microsoft's mobile strategy differently
+
+To be fair to Microsoft's smartphone ambitions, Ballmer negotiated the Surface deal before the Surface's $900 million RT disaster hastened his exit. Unlike Ballmer, who characterized Microsoft as a "devices and services" company, Nadella has positioned Microsoft as a "mobile-first, cloud-first company." Subsequently, Nadella has seemingly de-emphasized devices and hardware -- its new Surface Book laptop/tablet hybrid notwithstanding -- in favor of cloud-based growth.
+
+In addition, Nadella made cross-platform partnerships with Android-based tablet manufacturers to monetize its apps and software on non-Windows operating systems. In the end, it seems Nadella's mobile strategy is to monetize as much as possible on Apple's iOS and Google's Android smartphone operating systems, build upon the Surface brand with a laptop/hybrid offering, and continue to muddle through its Lumia line of smartphones. After all, the company did write down nearly all of Nokia's entire purchase amount -- that doesn't bode well for the Lumia's future prospects.

@@ -1,0 +1,23 @@
+Researchers in France have figured out a way to silently hack Siri from up to 16 feet away, exposing your iPhone to a wide range of mischief, Wired reports.
+
+The researchers used radio waves to initiate voice commands on services like Siri or Google Now — though they could only do so if there were headphones with a mic plugged in.
+
+So how did they manage to hack Siri without saying a word out loud?
+
+The researchers used the cord of the headphones as an antenna, and tricked the phones into thinking the electric signals they were sending were actual voices. This means they could, without actually speaking, command Siri to not only make calls, but also open a browser and navigate to a specific site, or use email or Facebook.
+
+Vincent Strubel, the director of this research group at ANSSI — a French government agency that deals with information security — says, “The sky is the limit here. Everything you can do through the voice interface you can do remotely and discreetly through electromagnetic waves.”
+
+This hack uses a fairly simple set of gear, according to Wired. And its minimal iteration could fit inside a backpack — though this would only give it a range of 6 ½ feet. To get the full 16 feet, the batteries needed would require a bigger space, like a car.
+
+The other limitations are in the phones themselves.
+
+There are ways you can bolster the security on Siri, such as disabling it from use while on the lockscreen. But iPhones come with Siri enabled on the lockscreen, and many people don’t bother to change it.
+
+And even if the hack didn’t work for a specific person, that doesn’t mean hackers couldn’t use it effectively on a crowd. If you sent signals out in busy area, you could potentially hack many devices at once, a high percentage of which could potentially be open to attack — especially if people weren’t paying attention to their phones or had them stored in their pockets or purse.
+
+“You could imagine a bar or an airport where there are lots of people,” Strubel says. “Sending out some electromagnetic waves could cause a lot of smartphones to call a paid number and generate cash.”
+
+Business Insider has reached out to Apple for comment and will update this post when we hear back.
+
+NOW WATCH: How to protect your iPhone from the biggest App Store hack ever

@@ -1,0 +1,17 @@
+Like it is doing with Windows 10 for desktops and Windows 10 for mobile devices, Microsoft is delivering regular preview builds of its Windows 10 for Internet of Things (IoT devices) release.
+
+Following on the heels of its public release of Windows 10 IoT Core in August, Microsoft rolled out on September 24 a new Windows 10 IoT Core build to its Insider testers.
+
+Windows 10 IoT Core (codenamed "Athens") is the Windows 10 release for small, embedded Intel- and ARM-based devices that may or may not have screens, such as the Raspberry Pi 2 and MinnowBoard Max boards. The Windows 10 Industry release, which is the renamed Windows Embedded, is not yet publicly available, as far as I know.
+
+Yesterday's new preview for Windows 10 IoT Core -- Build No. 10531 -- includes various fixes, security updates and more choices for developers, according to a Microsoft blog post announcing the release.
+
+Microsoft will be incorporating a number of user-requested features, including support for pulse-width modulation (PWM) and analog-to-digital converters (ADC) via an API. (It's not clear from the blog post if these features are in this latest preview build or will be in future builds. Anyone Insiders testing the IoT builds know?)
+
+Microsoft also is committing to more investment in the web-based device management interface for Windows 10 IoT devices, and to adding more enterprise-grade security to the platform.
+
+"You'll soon see Secure Boot and Bitlocker encryption available in the IoT Core builds," according to Microsoft's blog post. There's no indication as to when these features will be added, however.
+
+Microsoft also announced in partnership with Adafruit the availability of a new Windows 10 IoT Core Starter Kit for makers who want to build new devices using Windows 10 IoT Core and Raspberry Pi 2. The kit includes an SD card preloaded with Windows 10 IoT Core; a compatible set of sensors, electronic parts, wires, and cables that have been verified to work with Windows 10 IoT Core; and instructions and sample code. It costs $114.95.
+
+Update: Thanks to Daniel Gut, here are the release notes for the new Windows 10 IoT build. What's new in this build:

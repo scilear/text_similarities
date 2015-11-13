@@ -1,0 +1,41 @@
+By Troy Wolverton / September 17, 2015 at 11:30 AM
+
+The latest version of Apple’s mobile operating system software has a less well-publicized feature that iPhone and iPad users are going to love — and many publishers already hate.
+
+IOS 9, which Apple released on Wednesday, allows users to add ad blockers to Safari, its built-in Web browser. Users can already choose from a handful of blockers in the App Store; more will likely become available in coming days and weeks.
+
+The blockers work much like those available for desktop Web browsers. They prevent ads from loading when users pull up a Web page. The result is typically faster loading, less-cluttered pages. The blockers also work on Google search results pages, eliminating the list of sponsored links at the top of those pages.
+
+I downloaded one of the new blockers, a $1 app called Crystal. It took only a few seconds to configure it — you simply have to go into the Safari preferences area inside the Settings app to turn it on after you install it. It worked well and subtly, without calling any attention to itself. The ads were just gone.
+
+Ad blocking has not been one of the highlight features of iOS 9 — Apple doesn’t even mention it on its page devoted to the updated software — but users have found out about it anyway. Already, two ad blockers are among the most popular apps in the App Store.
+
+Despite the lack of publicity by Apple, the new feature has drawn a lot of debate among Web publishers and technologists since July when Apple first announced the operating system update. Many publishers are worried that the feature will undermine their business models, which generally are dependent on selling ads. Some are also worried that the feature will cause them to lose control over their content, forcing them to distribute it through Facebook or Apple’s new News app, rather through their own Web sites.
+
+Proponents, by contrast, have argued that the growing use of ad blockers is a direct result of the publishers’ marketing practices. Many Web sites have become overcrowded with ads that consume signifiant portions of users’ data allotments from their wireless carriers. Those ads also frequently and extensively track users’ behavior and movements, often without their knowledge or explicit consent.
+
+Photo: Side-by-side screenshots of the Vox’s home page viewed from the iPhone’s Safari browser showing how it looks without an ad blocker installed (left), and with the Crystal ad blocker activated.
+
+Share this: Email
+
+Twitter
+
+Facebook
+
+LinkedIn
+
+Reddit
+
+Google
+
+More
+
+Pinterest
+
+Tumblr
+
+
+
+
+
+Tags: ad blocker, App Store, Apple, iOS, iOS 9, ipad, iPhone

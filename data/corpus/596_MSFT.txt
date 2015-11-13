@@ -1,0 +1,31 @@
+By Jim Finkle
+
+BOSTON (Reuters) - Women account for just one out of 10 cyber security professionals, as the gender gap widened over two years in a male-dominated field with a drastic workforce shortage, a survey showed.
+
+ISC2, the largest organization that certifies cyber professionals, said on Monday that a poll of nearly 14,000 information security professionals in developed countries found that just 10 percent were women. That is down from 11 percent two years ago, said ISC2 official Elise Yacobellis.
+
+"It is certainly alarming to see it go down to 10 percent," Yacobellis said in interview.
+
+One reason for concern is a talent shortage. ISC2 reported earlier this year that 62 percent of respondents said their organizations did not have enough security professionals.
+
+"We have a huge workforce shortage. If we brought more women into this field, I believe that gap would lessen," Yacobellis said.
+
+The survey also found pay inequalities. Some 47 percent of men reported annual salaries of at least $120,000, compared to 41 percent of women.
+
+It comes amid a broader debate about the lack of women in the technology industry, especially high-profile firms like Google Inc and Apple Inc. Women account for roughly a third of workers at many tech firms, with fewer in leadership and technology roles.
+
+Entrepreneur Georgia Weidman said some women do not want to work in a field where they lack the same opportunities as men.
+
+"I can totally understand why people would want to pursue a career path where they feel their contributions are more appreciated," said Weidman, who worked at several technology firms including International Business Machines Corp before starting two companies.
+
+Unequal treatment is the result of unconscious bias, said Joyce Brocaglia, an executive recruiter and founder of the Executive Women's Forum for information security professionals.
+
+"Companies are saying that they want to hire more women in information security and have more women at the most senior levels, but I don't often see them making the investments they need to ensure that," she said.
+
+Katie Moussouris, a former Microsoft Corp security manager, earlier this month filed a gender bias lawsuit against the software maker. Microsoft said it reviewed her claims and could not substantiate them.
+
+Mary Galligan, director of Deloitte Advisory Cyber Risk Services, said the pool of female job candidates is small because women have historically dropped out of technical programs early.
+
+"This trend will hopefully slow in the next decade as more girls stay in science, technology, engineering and math programs," she said.
+
+(Reporting by Jim Finkle in Boston; Editing by Richard Chang)

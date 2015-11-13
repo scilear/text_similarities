@@ -1,0 +1,25 @@
+By Andrew Chung
+
+NEW YORK, Oct 14 (Reuters) - Apple's potential damages in a patent fight with the University of Wisconsin's licensing body could reach $400 million as a trial on the amount Apple owes for infringing a processor patent got under way on Wednesday, two people familiar with the case said.
+
+The figure is less than half the amount that U.S. District Judge William Conley cited last month as the Wisconsin Alumni Research Foundation's maximum claim for damages.
+
+In a pre-trial ruling on Sept. 29, Conley refused a request by Apple to limit damages in the case. He said WARF's maximum claim was $862.4 million, citing Apple's own figures.
+
+On Tuesday, a federal jury in Madison, Wisconsin said Apple violated a patent owned by WARF, which helps improve chip efficiency. The jury also said that the patent was valid.
+
+But heading into the damages phase of the trial on Wednesday, WARF's claim is approximately $400 million, according to sources from both sides speaking on background as the trial is ongoing.
+
+WARF appears to have dropped some claims during the trial, including one on sales of iPhones and iPads before the lawsuit was filed, but Reuters could not immediately verify how much they account for the reduction in Apple's potential liability.
+
+"WARF did prevail on liability but evidence regarding damages has yet to be presented," a WARF spokeswoman said on Wednesday.
+
+WARF sued Apple in January 2014 alleging infringement of its 1998 patent for improving processor efficiency. The jury was considering whether Apple's A7, A8 and A8X processors, found in the iPhone 5s, 6 and 6 Plus, as well as several versions of the iPad, violate the patent.
+
+Cupertino, California-based Apple denied any infringement and argued the patent is invalid, according to court papers.
+
+WARF used the patent to sue Intel Corp in 2008, but the case was settled the following year on the eve of trial.
+
+The case is Wisconsin Alumni Research Foundation v. Apple Inc, U.S. District Court for the Western District of Wisconsin, No. 14-cv-62.
+
+(Reporting by Andrew Chung; Editing by Alexia Garamfalvi and Tom Brown)

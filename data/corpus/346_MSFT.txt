@@ -1,0 +1,41 @@
+Microsoft is now running its online empire with help from its own version of Linux.
+
+If you know Microsoft and its long history, this rather straightforward sentence reads almost like a paradox. It invites you to read it again—just to make sure it says what you think it said. Really, go ahead. Read it again.
+
+For years, Microsoft actively worked to suppress Linux, a computer operating system whose underlying code is freely available to the world at large. It once threatened legal action against businesses that used the open source OS, insisting that Linux infringed on patents underpinning its flagship Windows operating system. And though the company has come to realize that Linux is now one of the primary means of building large online systems—and that it won’t survive unless it helps businesses use the OS in this way—it continues to push Windows as a viable alternative. At first blush, a Microsoft Linux still seems a strange (and slightly amusing) thing.
+
+'This is less about Microsoft and its talent and more about what everyone else in the world is doing.' JR Rivers, Cumulus Networks
+
+But, yes, that sentence does say what you think it says. Earlier this month, a Microsoft engineer discussed Microsoft’s very own Linux in a Microsoft blog post. The company is using this creation to run at least some of the networking hardware that drives its online services.
+
+Certainly, this isn’t something that Microsoft wants to shout to the world, for fear they’ll see it as knock against Windows. The blog post was buried on a site far from the mainstream. And when we asked Microsoft to discuss the situation, it declined—multiple times. But Microsoft’s embrace of Linux isn’t everything it might seem. It’s not, for instance, an indictment of Windows. It does demonstrate, however, in a wonderfully complete fashion, the power of open source.
+
+“This is less about Microsoft and its talent,” says JR Rivers, the founder of a company called Cumulus Networks, which has worked with various internet companies on similar projects, “and more about what everyone else in the world is doing.”
+
+Like Google and Facebook
+
+The computer servers that underpin most of Microsoft’s online services continue to run Windows. In fact, Microsoft has modified its flagship operating system in recent years so that it’s better suited to running software across dozens, hundreds, or even thousands of machines—so that it’s more, well, Linux-like. Today, at a conference in Chicago, the company will surely show off this new version of Windows, dubbed Windows Nano Server.
+
+But to run an online empire, you need more than just servers. You need networking switches and other hardware that ties all those servers together. In recent years, as they’ve expanded their online services to unprecedented size, companies like Google and Facebook have realized that traditional networking hardware doesn’t cut it. Old-school gear from the likes of Cisco is too expensive and not nearly nimble enough for the task at hand. You can’t program it the way you can program desktop computers or servers. So Google and Facebook started building their own gear and loading it with their own software.
+
+If Microsoft did put Windows on a switch, that would have involved significantly rebuilding the OS.
+
+Microsoft faces a similar problem, and it too has built a new kind of software for its networking switches. It could have done this with Windows. And surely, it at least considered doing so. But that would’ve been enormously more difficult, says Rivers, of Cumulus Networks, which helps companies build networking gear more like the stuff that Google and Facebook use.
+
+All the other companies that have built their own networking software, you see, have done so with Linux. That includes Facebook and Google. Networking vendors like Cumulus and Big Switch—which help businesses mimic Facebook and Google—use Linux, too. And the hardware manufacturers who build the gear for all these companies, including chip maker Broadcom, have fashioned low-level software for this gear that dovetails with Linux.
+
+“If you’re a company like Broadcom and you’re going to give Microsoft a little bit of software to help them out,” Rivers says, “you’re going to give them software that was developed in an environment that is foundationally Linux. You’re not going to develop it with Windows, because no one is using Windows for networking hardware.”
+
+What’s more, Rivers explains, if Microsoft did put Windows on a switch, that would have involved significantly rebuilding the OS. “There’s all these little bits and pieces of software necessary to build a networking platform,” he says. “That software is embedded in Windows, but you can’t just pull it out and use it on its own. It’s part of Windows as a whole.” Building a new version of Windows for servers makes sense (lots of people and companies run Windows on servers). But a new version for networking switches doesn’t (no one runs Windows on switches).
+
+The Logical Route
+
+The only logical route for Microsoft is to build its networking software with Linux, too. Among other things, it can tap into the collective work of everyone else. In fact, that’s pretty much what Microsoft engineer Kamala Subramaniam said in her blog post. “Running on Linux,” she wrote, the company’s switch software can “make use of its vibrant ecosystem.”
+
+'This is less about Microsoft running Linux and more about the movement as a whole.' Doug Murray, Big Switch
+
+In recent years, this ecosystem has grown particularly vibrant where networking is concerned. Facebook went so far as to open source the designs of its switches, and it has openly discussed its networking architecture as a whole. Google, which pioneered this new breed of networking, is sharing at least some of its secrets as well. Now, unlike Google and Facebook, companies needn’t build their own hardware and software from scratch. They can feed off the designs and knowledge of those that have done it before.
+
+This is what Microsoft is doing. It plays an active role in the Open Compute Project, the not-for-profit Facebook founded to facilitate this kind of sharing, and it’s working with the community to build a standard way of talking to this new breed of networking gear. The community uses Linux, so Microsoft must use Linux, too. That is the power of open source.
+
+The kicker is that Microsoft isn’t just grabbing what others have done. It’s returning the favor, sharing its work with the larger community. “This is less about Microsoft running Linux,” says Doug Murray, the CEO of Big Switch, “and more about the movement as a whole.”

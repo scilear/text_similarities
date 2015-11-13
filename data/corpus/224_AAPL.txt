@@ -1,0 +1,13 @@
+Less than 48 hours after the “Peace” mobile app was released — and rapidly hit the top of Apple’s chart for paid apps — its well-known creator pulled the advertising blocker from the App Store over pangs of conscience.
+
+Marco Arment, a popular developer who created Instapaper and was a lead developer on Tumblr, suggested he was troubled by the harm that came from depriving some businesses of advertising revenue. He explained his reasons for pulling the $2.99 app in a blog post titled “Just doesn’t feel good.”
+
+“Achieving this much success with Peace just doesn’t feel good,” wrote Arment, an influential presence in the tech landscape who has 86,000 Twitter followers. “Ad blockers come with an important asterisk: while they do benefit a ton of people in major ways, they also hurt some, including many who don’t deserve the hit.”
+
+Publishers had been bracing for the arrival of iOS 9, the latest version of Apple’s AAPL, +1.53% mobile operating system that was released Wednesday. For the first time, the update allowed users to download extensions that would block ads in Apple’s Safari mobile browser. (It works similarly to the way Apple now allows apps for third-party keyboards.)
+
+Apple itself doesn’t block advertisements, but it permits developers to release such extensions in the App Store. Several are available, including “Crystal” and “Purify.” Peace, which Arment made using data from Ghostery, a privacy-minded software developer, climbed to the top of the paid-apps chart.
+
+An extended version of this report appears at WSJ.com.
+
+More from MarketWatch

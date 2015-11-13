@@ -1,0 +1,39 @@
+Normally, a change in how a company reports its financial results comes after a new or emerging business gets large enough that it deserves to be reported in its own.
+
+For Microsoft(NASDAQ:MSFT), however, the company has overhauled how it will report to better reflect how CEO Satya Nadella envisions the business. This is not a small change or an incremental fix resulting from dynamic market conditions but rather reflects how quickly the company's focus has shifted under the new CEO. The company announced the details in a press release that touched on the motivation for the move and introduced the three reporting areas:
+
+Microsoft Corporation today announced that it will change the reporting of its financial results to reflect the company's strategy and ambitions to build best-in-class platforms and productivity services for a mobile-first, cloud-first world. Beginning in fiscal year 2016, the company will report revenue and operating income based on three operating segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.
+
+Previously, the company broke its business down into five areas: Devices and Consumer Licensing, D&C Hardware, D&C Other, Commercial Licensing, and Commercial Other.
+
+What will the company report?
+
+In a call with financial analysts, Microsoft Chief Accounting Officer Frank Brod explained that the changes were an effort to bring the company's reporting in line with how Nadella analyzes performance and allocates resources. "During this quarter, we've worked with our CEO to align our internal reports, our scorecards and our accountability framework with Microsoft's three interconnected ambitions," he said.
+
+The company, Brod added, will report both revenue and operating income performance, "providing insights into our progress in each of the three ambitions." The segment profit performance measure, he explained, will be "operating income to reflect resourcing decisions that consider both the cost of sales and operating expenses."
+
+Essentially, aside from changing how the company's business segments are grouped, the big change will be moving from gross margin to operating margin.
+
+"We have to report our profit indicator in the way in which our leadership looks at the result," Brod said later in the call. "Our team focuses on accountability on operating income as the basis for their resource decisions and for the performance analysis. So we see it as a full measure of profitability as we progress toward our ambitions."
+
+The company will continue to disclose gross margin and gross margin changes when it is a material driver of results.
+
+What's in each segment?
+
+The new alignment changes how various products and services are grouped. The company explained the breakdown in the launch release:
+
+The Productivity and Business Processes segment includes results from Office and Office 365 for commercial and consumer customers, as well as Dynamics and Dynamics CRM Online.
+
+The Intelligent Cloud segment includes results from public, private, and hybrid server products and services such as Windows Server, SQL Server, System Center, Azure, and Enterprise Services.
+
+The More Personal Computing segment includes results from licensing of the Windows operating system, devices such as Surface and phones, gaming including Xbox consoles, and search.
+
+This reshuffles the deck on a lot of segments within the company. For example, Azure had been under Commercial Other along with Office 365 Commercial. It now moves to Intelligent Cloud, while Office 365 Commercial will be under Productivity and Business Processes.
+
+What does this mean?
+
+The new reporting structure will be in place when the company announces its financial results for the first quarter on Oct. 22. On its own, the change in financial reporting is not overly significant, but it does show exactly how the CEO sees the company. It is a very plain-language breakdown compared with the old system. Though the new categories are somewhat broader, Microsoft has done a good job grouping the businesses, and that should make it easy enough to follow along.
+
+These moves follow an executive shuffle in June, when the company closed out its fiscal year. That is practically an annual thing at the company where top leaders battle for turf.
+
+In both the financial changes and in realigning his executives, Nadella seems to have a clear vision. That may be much more important than the actual details for the company going forward. Rather than chasing a business model that is not coming back, Nadella has his executives, and now his financial reporting, geared up for the future.

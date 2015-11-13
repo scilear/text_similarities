@@ -1,0 +1,95 @@
+ENLARGE Photo: Wesley Bedrosian
+
+Every tech company says it can make our gadgets smarter. Now Apple says it can do that with less snooping.
+
+Is it really possible to have both?
+
+Starting Wednesday, iPhones and iPads will gain the intelligence to proactively suggest whom you want to call and what you want to read. They’ll nudge you to hit the road early for your next appointment when there’s a lot of traffic and queue up your favorite podcast for the drive. This personalization is a big new feature in iOS 9, a free update available to every Apple device as far back as the iPhone 4S.
+
+That’s the sort of intimate insight you expect from a spouse, a spy or, nowadays, an Internet company. But iOS 9 manages these tricks in a privacy-conscious manner, without hoovering up your email, photos or contacts into Apple’s vast cloud servers for mining and manipulation. Unlike rival Google, GOOGL 1.39 % Apple says it figures most of it out on the phone itself, far away from the prying eyes of advertisers or potential hackers.
+
+Apple, CEO Tim Cook says, “doesn’t want your data.” I love that he’s calling out the hidden trade-off to many seemingly free online services like Google and Facebook FB 2.64 % . With iOS 9, iPhones are encrypted by default and, at last, permit us to use Web ad blockers.
+
+ENLARGE Apple’s iOS 9 includes new proactive intelligence, which Apple says it built in a way that’s more protective of privacy. Photo: Apple
+
+But test-driving iOS 9 also made me worry. Apple’s new intelligence features work well enough but are ho-hum compared with what the data jockeys are cooking up at Google, Facebook and Microsoft. MSFT 1.76 % In a world where more of what’s possible with technology happens by analyzing huge troves of information online, Apple’s privacy-first approach still has to prove it can keep up with the technology that makes our gadgets useful.
+
+How exactly does Apple handle data differently?
+
+Apple doesn’t make most of its money through marketing, so it hasn’t needed to gather KGB-worthy dossiers on customers for better ad targeting. But make no mistake, Apple still relies on the Internet. It sells music and movies online, runs an app advertising network, touts services, such as the Siri voice assistant, and wants us to store files in its iCloud. (That service is how Apple got in trouble in 2014 when hackers stole passwords to the photo libraries of celebrities.)
+
+What’s unusual is that the data that serves as the cornerstone of iOS 9’s newfound intelligence doesn’t have to leave the phone. The iPhone’s own computer combs through your email, contacts and calendar, as well as how you use apps, like an overeager secretary.
+
+ENLARGE Apple CEO Tim Cook, here at the 2015 Worldwide Developers Conference, has pushed privacy as an advantage for Apple’s products. Photo: Robert Galbraith/REUTERS
+
+If you get an email with restaurant or flight reservations, the iPhone notices and creates a calendar entry. Unknown number calling? The iPhone checks your correspondence to see if you’ve got a matching name and number buried in email. Always check Twitter TWTR -0.51 % first when you wake up? The iPhone presents it as a suggested app on that new menu when you grab your phone.
+
+In cases where Apple has to connect to the Internet to get useful information, it often takes measures to render you anonymous. For example, the iPhone can alert you to leave early for a calendar appointment if it notices traffic on the drive there. But when it checks in with Apple’s servers, it reports you as a random ID—a string of numbers it flushes as often as every 15 minutes.
+
+A new, built-in News app tries to serve up stories you’ll find interesting, based on what you read. But instead of associating that information with your Apple ID, it uses another random identifier that you can clear. (Apple still allows advertisers to target interests based on your identifier, though you can opt out.)
+
+Only the iPhone Knows Apple’s new iOS 9 uses your personal information to make proactive recommendations about whom to contact, which apps to use, what to read and more. But much of the data is analyzed on your phone, not on Apple’s servers: iPhone can see, but Apple can’t Your email, calendars and contacts from outside providers
+
+HomeKit smart-home device activity
+
+Fingerprint patterns for TouchID
+
+Apple Pay Device Account Number
+
+FaceTime calls
+
+App usage habits*
+
+Health data*
+
+iMessages* *Note: May be included in device backups to iCloud Apple can see, but it’s anonymous Location (for Apple services)
+
+News app reading habits
+
+Siri dictation and searches
+
+Error reports Apple can see—and knows it’s yours Apple Music streaming habits
+
+iTunes app and media purchase history Apple stores in iCloud, but doesn’t read** Apple-provided iCloud email, calendars and contacts
+
+Photos and documents
+
+Bookmarks and Safari history
+
+Passwords in iCloud Keychain
+
+iOS device backups (including iMessages and Health data) **Note: Apple could be required by law to unlock and examine iCloud-stored files other than data from Keychain and Find My iPhone.
+
+Siri has the same amnesia—everything you ask and everything she learns about you is associated with, you guessed it, another random ID that gets wiped when you buy a new phone or reset your existing one.
+
+Google, by contrast, seeks your name, phone number, gender, contacts, emails, calendar, searches, location—everything but the contents of your briefcase—when you sign in and use its services. Most of that information is tied to your account. Google says it doesn’t sell personal information, but it can use it to target ads. (It’s onerous, but you can sign out of apps that don’t require an account, including Maps, and hide some Chrome browser data from Google.)
+
+And with all that data, Google can provide services that leave Apple’s in the dust.
+
+Take Google’s new Photos app. Like Apple’s Photos, it can store a lifetime of shots in the cloud. But Google actually looks through your shots, automatically spotting faces and even identifying what’s pictured, making photos searchable. Type “food” and see every ramen bowl you’ve ever snapped. Apple’s privacy-centric Photos encrypts your shots and doesn’t look at them, and it can’t do that kind of auto-analysis on the phone itself. (It can only identify faces when you manage pictures on a more-powerful Mac.)
+
+Every major tech company seems hellbent on building smart devices that know what you want before you do. Google Now beats the pants off Siri at presenting information you might find useful without your even asking, like news alerts, updates to sites you visit a lot or scores from your favorite teams.
+
+On Sunday afternoon, my iPhone suggested that I might want recommendations for lunch in San Francisco. When I tapped a button, it proposed something called “Michael the Coconut Guy” and a random corner deli. Google Now, at that same moment, proactively recommended restaurants I would have suggested myself: a beloved bakery called Tartine and the restaurant Zuni Café.
+
+Google’s higher IQ is extremely helpful in places like the car, where Android Auto can automatically pop up the address of your next appointment, or a business you just searched on your laptop. (Siri does a solid job riding shotgun with Apple’s CarPlay, but that point-of-interest problem is even more glaring on the road.)
+
+It isn’t just Google. Microsoft’s Cortana, built into Windows 10, provides a “notebook” of what it knows about you across devices, which you can add to or edit. But there’s no way to see or edit what Apple’s Siri knows about you. She’s designed to not know it’s really you.
+
+I can go on. Android TV makes personalized movie recommendations, but the brand-new Apple TV can’t. And here’s one that’s critical for the future: Apple’s smart home-control system, HomeKit, is so concerned with privacy that it doesn’t record what’s happening with the connected devices in your home. Google’s Nest system records every time you adjust the thermostat, open the garage door, or go on vacation, using all that data to pretty much run itself. (And Nest doesn’t even feed home data into Google’s ad targeting.)
+
+iPhone software updates have a bad rap. WSJ's Geoffrey A. Fowler shows you how the latest update affects four generations of iPhones.
+
+As intrusive as Google’s approach sometimes feels, the company insists that we’re still in control. It lets us peer into what it collects through a new online dashboard and delete much of what we don’t want it to remember. But surrendering data is the default.
+
+A Google spokesman says, “Data helps us build and constantly improve useful products like Google Now, Translate, and Voice Search. When people trust us with their information, we make sure they’ve got powerful tools” to keep their accounts private.
+
+Apple deserves credit for trying to give us a middle-ground option. “We believe that making products more intelligent doesn’t have to come at the expense of your privacy,” a company spokeswoman says. Apple doesn’t prevent you from using Google services on an iPhone, either.
+
+Some have suggested Apple was backed into its position on privacy because it’s bad at online services. Even if that’s the case, Apple knows personalization and artificial intelligence are key battlegrounds for the future of tech. Its biggest new service this year, Apple Music, collects data online about your tastes to magically recommend what you might want to hear.
+
+But last week Reuters reported Apple was having difficulty hiring for its artificial-intelligence team. Guess why: Many engineers find Apple’s data privacy policies too restrictive. Apple declined to comment on the issue.
+
+It’s on Apple to prove to the world that we don’t have to make a trade-off between privacy and functionality. And iOS 9 alone isn’t convincing enough.
+
+Write to Geoffrey A. Fowler at geoffrey.fowler@wsj.com or on Twitter @geoffreyfowler

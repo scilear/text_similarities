@@ -1,0 +1,27 @@
+Google now sees more people searching the Web on smartphones than on desktops and laptops. That poses a problem for the Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) company, since mobile advertisements generally garner lower prices than their desktop equivalents. At the same time, Google is under pressure from mobile ad blockers and new publishing formats from Apple (NASDAQ:AAPL) and Facebook (NASDAQ:FB)
+
+Google's plan to increase mobile ad revenue includes speeding up the Web, so that more of its ads get displayed. The company announced Accelerated Mobile Pages, or AMP, earlier this month, and it has the potential to revolutionize the Internet.
+
+The battle of proprietary platforms
+
+AMP allows Web publishers to tap into a shared library of code, saving browsers megabytes' worth of HTML and Javascript code that are commonly featured on each individual Web page. It also enables smart caching to support faster load times. The result is a page that usually takes 6 seconds to load will take less than half a second to load when reworked with AMP.
+
+Facebook boasts of similar performance with its Instant Articles, which Facebook hosts on its own servers. Facebook started testing Instant Articles in the spring and is slowly expanding the feature to more users and publishers.
+
+Meanwhile, Apple released Apple News with the latest iteration of iOS. Apple is continuing the shift of news consumption from the Web to mobile apps. In-app content is immune to ad blockers that Apple started to allow in the App Store with the new iOS. It's also locked ad serving to the app creator -- Apple News publishers must use iAd and Facebook Instant Articles must use Facebook to fill empty ad inventory.
+
+Google is positioning AMP as an open alternative to proprietary publishing technology. The entirety of Google's code is available on GitHub for anyone to view and modify. What's more, it keeps publishers in charge of where and how their content is stored instead of submitting to the wills of Facebook and Apple, which might not have the same interests as publishers.
+
+But Google isn't being altruistic
+
+Google has a strong interest in keeping the Web relatively open. Google Web crawlers can't read what's behind Facebook's and Apple's walled gardens, so having more content published on those platforms means less content for Google to link to in its search results. Additionally, Google can't make any money off publishers on those publishers because, as mentioned, Facebook and Apple don't support third-party ad platforms.
+
+At this point, however, AMP doesn't support any ad platforms besides Google's own. And Google has no impetus to play nicely with other advertising companies, so the onus is on the competition and publishers to work to implement their own advertising tech into AMP.
+
+Additionally, AMP's initial specifications won't allow advertisers to use Javascript scripts to track their visitors and gather analytics on how they navigate their sites. The end result is that publishers that elect to use AMP become even more reliant on Google to provide advertising, since they're severely limited in selling it on their own.
+
+Facebook's Instant Articles, in comparison, took measures to ensure that it works with multiple third-party analytics tools, so publishers could get data to sell their own ads against their content. Publishers get to keep 100% of any ads they sell themselves on Instant Articles, but must use Facebook to fill in additional inventory and keep just 70%. Apple is enabling analytics for publishers that use its special formatting rules.
+
+So while Google positions AMP as a way to speed up the Web and keep everything open, it's another Sophie's choice for publishers. Cede control to another tech company or give up some traffic to faster websites that play nice with readers' phones?
+
+For Google, the benefits are clear -- fend off attacks from Facebook and Apple while taking share from other display ad platforms. Whether publishers will join or not remains to be seen, but if the adoption of Instant Articles and Apple News is any indication, the odds are good that Google will get its way.

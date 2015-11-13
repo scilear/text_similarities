@@ -1,0 +1,27 @@
+Back in June, IBM (NYSE:IBM)and Box (NYSE:BOX) partnered up to create new cloud-based solutions for enterprise customers. Box stated that it would enhance its cloud-based storage services with IBM's portfolio of security, social, data analytics, and content management tools to create new services for customers. IBM said that it would integrate Box's cloud-based platform and APIs into iOS applications developed for its MobileFirst initiative.
+
+IBM and Box recently unveiled the first four new solutions developed under that partnership: IBM Content Navigator with Box, IBM StoredIQ with Box, IBM Case Manager with Box, and IBM Datacap with Box.
+
+Content Navigator helps customers search, access, and share content across on-premise and Box environments. StoredIQ helps businesses reach decisions by analyzing data across on-premise and Box environments. Case Manager lets users share content on Box with external participants. Lastly, Datacap pulls documents from multiple sources, extracts information from them, and stores them on Box -- which can speed up workflows, increase accuracy, and reduce costs.
+
+What this deal means for IBM
+
+IBM has posted 13 consecutive quarters of revenue declines, due to sluggish demand across its core IT services, hardware, and software businesses. To break out of this downturn, IBM aggressively divested its lower growth businesses, which CEO Ginni Rometty called "empty calories" and invested in higher growth cloud-based ones.
+
+IBM is specifically relying on its five "strategic imperatives" -- the cloud, data analytics, mobile, social, and security -- to get its top line growth back on track. IBM expects revenue from those five businesses to account for nearly half of its annual revenue by 2018 -- up from 27% last year. Last quarter, IBM reported that its cloud "as a service" revenue achieved an annual run rate of $4.5 billion, up from $2.8 billion in the prior year quarter.
+
+A key part of IBM's cloud strategy is to offer "hybrid cloud" solutions which bridge the gap between private and public clouds. These solutions are ideal for companies which aren't ready or willing to move all of their data off-site. Research firm Gartner estimates that half of all U.S. companies will install hybrid cloud solutions by 2017. The new solutions IBM unveiled with Box advance that strategy by pulling and analyzing data from both on-premise and cloud-based sources.
+
+What this deal means for Box
+
+Like IBM, Box has had a tough time pleasing investors recently. The stock has fallen below its IPO price of $14 per share due to ongoing concerns that larger rivals like Microsoft could marginalize its business with cheaper and more sophisticated solutions.
+
+On the top line, Box's growth looks solid. Last quarter, its revenue rose 43% annually to $73.5 million, billings climbed 45%, and it ended the quarter with over 50,000 paying customers. However, Box also posted a GAAP net loss of $50.2 million, down from a loss of $37.6 million a year earlier. Box's operating expenses also jumped 30% to $102.6 million, fueled by an 18% increase in sales and marketing expenses and a 62% spike in R&D costs.
+
+On the bright side, big companies like General Electric and Procter & Gamble still love Box. According to the company, 99% of its 39 million registered customers and half of its paid customers are employees of Fortune 500 companies. Box's retention rate (renewals and sales of additional services) remains well above 100%, indicating that those massive customers won't leave anytime soon. Box's partnership with IBM, which provides IT services to plenty of Fortune 500 companies, will likely strengthen its ties to these valuable customers.
+
+Potential challenges ahead
+
+IBM and Box's partnership looks promising, but neither company can ignore Microsoft, the 800-pound gorilla in enterprise computing. Windows is still installed on nearly 90% of PCs worldwide, and the upgrade to Windows 10 could help Microsoft's cloud-based solutions like Azure, OneDrive, Office 365, and Dynamics CRM gain more ground among enterprise customers. That growth will likely hurt Box more than IBM, which also wisely partnered with Microsoft in hybrid cloud deployments.
+
+Despite those uncertain challenges, the partnership between IBM and Box should be considered a win-win situation for both companies. IBM gains another ally in the cloud, while Box gains more credibility with its large enterprise customers.

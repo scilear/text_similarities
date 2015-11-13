@@ -1,0 +1,25 @@
+By Paul Lienert
+
+ANN ARBOR, Mich., Oct 13 (Reuters) - U.S. regulators haven't determined the legality of a new emission-control device on Volkswagen's 2016 diesel models, a top official said on Tuesday.
+
+Those models still have not been certified for sale by the U.S. Environmental Protection Agency.
+
+The existence of the new software was made public last week by VW's top U.S. executive in testimony to a congressional subcommittee investigating the German automaker's diesel cheating scandal.
+
+The company has not confirmed speculation that the new software was configured before the wider emissions scandal broke on Sept. 18.
+
+"We have a long list of questions for VW," said EPA Assistant Administrator Janet McCabe at a media briefing here. "When we have all of the answers, we will be able to make a determination" on the whether the device is legal or considered to be a "defeat device" designed to circumvent U.S. emission rules.
+
+VW last month admitted that it installed illegal software on its 2009-2015 U.S. diesel models that enabled the cars to pass laboratory tests, but dump higher-than-legal limits of pollutants in real-world driving.
+
+VW told regulators only recently that some of its U.S. diesel models included a previously undisclosed software feature that could affect emission controls on the 2016 models, according to Michael Horn, president and CEO of Volkswagen Group of America. Horn told U.S. lawmakers last week that the company subsequently had withdrawn its application for EPA certification of its 2016 diesel models.
+
+Asked for additional detail, a VW spokesperson on Monday said the software "has the function of a warmup strategy which is subject to approval" by EPA. Typical diesel emission control systems are designed to be most effective when the engine is warmed up.
+
+The EPA defines such software as an "auxiliary emission control device," or AECD, and describes it as any device that can change the operation of the vehicle's emission control system.
+
+The agency also requires automakers to disclose the existence of such a software device, including "a rationale for why it is not a defeat device."
+
+VW on Monday said the EPA is evaluating the new software device, and that the automaker is "working with the regulators to continue the 2016 certification process" for VW vehicles equipped with the 2.0-liter diesel engine.
+
+(Reporting by Paul Lienert in Detroit; Editing by Christian Plumb)

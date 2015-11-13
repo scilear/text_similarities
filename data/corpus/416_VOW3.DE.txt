@@ -1,0 +1,35 @@
+More details are emerging around Volkswagen's(NASDAQOTH:VLKAY) plans to fix the millions of diesel-powered vehicles it sold with software that allowed them to pass emissions tests while emitting pollutants at far above legal limits in normal driving.
+
+There's a lot that we still don't know. But we now know that -- for many of the vehicles, at least -- making the cars comply with emissions laws is going to be a lot more complicated than a software update.
+
+"Hardware and software" changes for many of the cars
+
+VW's U.S. chief, Michael Horn, testified before a U.S. House oversight committee on Thursday. He didn't have a lot of answers for the tough questions he was asked.
+
+But he had this one: Many of the 482,000 cars that need to be recalled and fixed in the United States will require a lot more than a software update.
+
+Horn said that the cars using the first generation of what VW calls its "EA189" engine, a 2.0 liter TDI diesel four-cylinder, will need complex hardware changes as well as a software update.
+
+About 325,000 of the affected cars in the U.S. have that engine. Horn said that repairs on those cars could take five to 10 hours, suggesting that the changes that are needed are quite extensive. That in turn suggests that this is going to cost VW a lot of money -- easily hundreds of dollars per car, perhaps even more.
+
+Of course, that's assuming that VW can get any of the owners to bring in their cars for repair.
+
+An "improvement" that could hurt the cars' performance
+
+Owners aren't likely to be thrilled with the idea of completing the recall repairs. That's not just because of the time involved. It's because of the nature of the problem.
+
+VW engineers apparently couldn't meet aggressive performance and fuel economy targets for their TDI diesel cars and comply with tough U.S. emissions laws that have made diesel cars hard to sell here. Their solution was to come up with software that fully engaged the engines' emission controls when it detected that an emissions test was underway -- but that disengaged part of the system during normal driving.
+
+The result was better performance and fuel economy, but with emissions that are far dirtier than allowed under U.S. law.
+
+The U.S. Environmental Protection Agency is demanding that VW fix the cars so that they comply with the Clean Air Act. But Horn acknowledged on Thursday that while customers could expect that the repairs wouldn't impact the cars' EPA fuel economy ratings, they could affect performance.
+
+In other words, the "repaired" VW TDI diesel cars are likely to be less fun to drive.
+
+Angry owners on one side, angry government officials on the other
+
+A lot of VW diesel owners were drawn to the cars in the first place because they're both fuel-efficient and fun to drive, with good acceleration. VW may have a lot of trouble getting those owners to bring their cars in for the recall service. But the company is likely to be under a lot of pressure from federal regulators to get the cars repaired.
+
+What's the likely outcome? It's too early to tell. But VW may be forced to give owners of affected cars a substantial rebate, a big discount on a new VW -- or even to buy the cars back.
+
+It's hard to say how much that will cost. But we now know this much: Repairing those 482,000 cheating diesels in the U.S. -- and presumably at least some of the more than 10 million in other countries -- is going to be a lot more expensive than a $20 software update.

@@ -1,0 +1,29 @@
+Apple (NASDAQ:AAPL) is arguably the most successful vendor of premium laptops; indeed, it seems that not a quarter goes by without Apple gaining additional market segment share relative to its peers in the PC market.
+
+Apple has done well in this market due to a whole host of factors including an excellent operating system, great hardware design, and strong marketing.
+
+That being said, as I take a look at what the rest of the PC ecosystem is currently rolling out, with the latest Microsoft Surface Book standing out in particular, it seems to be high-time for Apple to do a comprehensive refresh of its MacBook product line.
+
+The MacBook Air is in desperate need of a big refresh; MacBook needs a slight one
+
+Although Apple has kept the internal specifications of its MacBook Air family of computers quite up to date, the design itself is quite old and the displays found on both the 11-inch and 13-inch models are really outdated compared to what other PC vendors offer in competing products.
+
+Furthermore, even though Apple is generally among the first to transition to new Intel (NASDAQ:INTC) processors inside of its MacBook Air laptops, the company has yet to transition its products to the chip giant's latest Skylake processors, even as competitors begin to do so.
+
+Early next year, when Intel's highest-end Skylake-based 15-watt processors should be available in robust volumes, I suspect Apple will refresh the MacBook Air family. I think it would be a big mistake for the company to "just" boost the hardware specifications as it did over the last several generations of MacBook Airs; the company needs to deliver a new industrial design as well as a substantially improved display.
+
+I think that if Apple can deliver such a product, it should have little issue maintaining or even continuing to grow share against its competition in much of the high-end consumer PC market.
+
+It's also worth mentioning that Apple's recently released 12-inch MacBook would benefit from an upgrade to Skylake-based Core M processors, which should deliver solid improvements over the older Broadwell-based Core M processors found in the current models.
+
+The MacBook Pro computers could really use a boost, too
+
+Apple's higher-performance MacBook Pro family of computers also likely need to be upgraded in order to remain competitive against the new wave of 13-inch and 15-inch premium Windows notebooks.
+
+For example, many high-performance laptops are now transitioning to Intel's new Skylake architecture. The 15-inch Retina MacBook Pro is still using Intel's now two-generation old Haswell processors, and the 13-inch Retina MacBook Pro is using one-generation-old Broadwell processors.
+
+I suspect that the appropriate Skylake-based processors should be available by early next year to support an upgraded 13-inch MacBook Pro. The current 13-inch MacBook Pro has a nice high-resolution display and an attractive chassis. That said, an updated display (potentially a higher resolution one) and a slimmer chassis might be worthwhile improvements to go along with a hardware upgrade.
+
+The open question, though, is whether the Skylake parts with Intel's highest-end GT4e graphics configuration will be available in high volumes by early 2016 for a 15-inch Retina MacBook Pro refresh. That said, Intel's PC Client Group chief, Kirk Skaugen, indicated at the IFA trade show in September that Skylake processors with Intel's Iris Pro graphics (i.e., the GT4e graphics configuration) would go into production this year.
+
+This makes me hopeful that we could see a 15-inch Retina MacBook Pro refresh (with potentially a newer chassis and perhaps a 4K display), along with refreshes of the rest of Apple's MacBook lineup, in early 2016.

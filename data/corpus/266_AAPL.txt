@@ -1,0 +1,25 @@
+Apple's move to include ad blocking software in its App Store and latest operating system has shaken up the digital media and advertising industry.
+
+While it directly affects publishers (like CNBC.com) that use ad revenue to pay for content, it's also impacting ad serving companies that use data and technology to display ads on websites.
+
+It just so happens that one of the biggest ad serving companies out there, AdSense, is owned by one of Apple's biggest competitors — Google.
+
+"Apple is able to take this position as their business is not dependent on advertising," said Jason Kint, CEO of trade organization Digital Content Next.
+
+Because consumers are the ones using the ad blockers, many ad serving companies have no idea their ads are not showing up, Kint said. It their hurts business because it cuts the overall number of ads they are displaying, which takes a toll on their revenue.
+
+According to an Adobe and PageFair report, there were about 198 million active ad block software users globally this year.
+
+"Throughout the history of digital media marketing and advertising, you see an ongoing war among technology companies about control of the advertising and marketing communications marketplace that continuously threatens to leave collateral damage among publishers, brands and retailers," said Randall Rothenberg, president and CEO of the Interactive Advertising Bureau.
+
+"It's like the tragedy of the commons. Everybody wants to get a piece of that common lawn to graze their own cows, but if all the grass is gone and the cows die, the community can't feed itself," he said.
+
+However, technology platform Vivoom CEO Katherine Hays pointed out that ad serving may have been a faulty model to begin with. It's an intrusive model that prevented people getting to the content they wanted, she said.
+
+For example, consumers often complain about pop-up ads that take over a Web page and have no exit strategy. Sometimes ads displayed have no relevance for the person viewing the site.
+
+"Ad serving players were operating on borrowed time due to issues like ad fraud and viewability," Hays said. "What you'll see is models crop up that replace the interruptive model at scale."
+
+What ad blocking is forcing the industry to do is come up with ways to create advertising that the consumer wants to view, she said. That includes native advertising or brand-created content, as well as user-generated content on social media through contests and campaigns, which is what Vivoom helps manage.
+
+"Because they were shared by a friend, they are really ad blocking immune," she said.

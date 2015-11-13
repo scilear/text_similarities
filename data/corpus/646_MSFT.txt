@@ -1,0 +1,19 @@
+WC Fields once said you should "never work with animals or children" - it might be time to add voice-activated assistants to that list.
+
+Microsoft (NasdaqGS: MSFT - news) chief executive Satya Nadella gave a keynote speech at a sales conference in San Francisco in which he wanted to show off the capabilities of Cortana.
+
+The feature is a direct rival to Apple (NasdaqGS: AAPL - news) 's Siri, and responds to the human voice to carry out tasks and offer up information in an instant.
+
+But the demonstration didn't go to plan.
+
+When he asked Cortana to "show me my most at-risk opportunities", the assistant offered to remind him to buy milk instead.
+
+"No, that's not what I want," he said, as a Bing search bar appeared with the milk request.
+
+He tried a second time, to no avail. "Oh come on," he said.
+
+After a third unsuccessful attempt, a visibly frustrated Mr Nadella apologised to the crowd, saying: "No, this is not going to work.
+
+"Sorry about that. Someone's trying to save me from backstage."
+
+The mobile assistant has recently been incorporated into Windows 10, a feature the Microsoft boss had been keen to show off.

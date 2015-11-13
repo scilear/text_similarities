@@ -1,0 +1,23 @@
+When Microsoft unveiled its latest and best member of the Surface product line it's no wonder it shook up those who saw it. The Surface Book is probably the best laptop ever made and is a delightful 2-in-1 laptop. With premium design, magnesium construction, and a screen that pops off to form a tablet, there is nothing not to like about it. Except the phrase "starting at $1,499".
+
+I haven't seen a Surface Book in person but I already want one. From the great keyboard to the innovative hinge and screen attachment method, this is easily the best 2-in-1 on the planet. The unique dual graphics system that puts a high-end dedicated Nvidia GPU system in the keyboard base alongside standard integrated graphics system in the tablet screen is brilliant engineering.
+
+There is nothing to complain about on the Surface Book except the high price. I admit that premium hardware should command a premium price and I'm a firm believer that you get what you pay for but a $1,500 laptop is pushing me past my comfort zone. While the Surface Book is such a beautiful device, it doesn't add enough value over lesser priced alternatives to make it worth the discomfort.
+
+Take my Surface 3, it's nowhere near the class and powerhouse of the Surface Book but it does what I need handily. It was only $599 when I purchased it not too long ago, so it's hard to justify paying more than twice that price for the new laptop. And that's from someone who likes what he sees in the Surface Book so much that he really wants one.
+
+See related: Surface 3 reconsidered: Everything you need to know
+
+Looking past the price obstacle, I have some minor concerns about the Surface Book. As someone who uses tablets for hours at a time, a 13.5-inch slate gives me pause. I've used large tablets in the past, and even though the Surface Book clipboard as Microsoft calls the tablet (this term sells it short) is only 7.7mm thick, I'll have to try the large device on for size.
+
+I also wonder about the two-battery configuration and how that will affect total usage time for just the tablet. I've used a number of 2-in-1 devices that have batteries in both the tablet and keyboard base, and you lose the latter when you take the tablet off the base. It's not clear how much of the 12 hours of laptop battery use Microsoft claims is lost with the tablet alone.
+
+Another concern I have about the Surface Book is with Windows. It doesn't always handle sudden hardware changes well. Every 2-in-1 I've used has experienced a dead trackpad or keyboard occasionally when plugging the tablet into the keyboard base. Other times the touchscreen is dead when the tablet is detached from the base. These can require rebooting the system which isn't a killer but interrupts the mobile experience you expect with a 2-in-1.
+
+This instability in handling rapid hardware change could be in play given the unique two graphics systems design of the Surface Book. The high-end Nvidia GPUs reside in the keyboard base while the more common integrated graphics hardware is in the tablet. When the tablet is removed from the base, Windows will switch from dedicated graphics to integrated graphics. The opposite will happen when the tablet is reattached to the keyboard. I wonder how well (and consistently) Windows will handle this major switch on the fly.
+
+The major hurdle caused by that nasty "starting at $1,499" phrase is just the start. That's the entry-level configuration for the Surface Book. That gets you 8GB of RAM, 128GB of storage, and an Intel Core i5 processor. That's good enough for many, but for those who need the most powerful laptop ever made, upgrading the configuration may be appropriate.
+
+Those who need maximum power will want to upgrade the system RAM to 16GB when ordering, and those who do should be prepared for sticker shock. The only option for the Surface Book with 16GB of RAM is a whopping $2,699. Sure that also gets you 512GB of internal storage and a Core i7 processor, but that's pushing three thousand bucks. Those who routinely order a topped out configuration when buying a laptop probably won't do that here.
+
+Kudos to Microsoft for building such a gorgeous, innovative, and powerful 2-in-1 laptop. It is a wonderful piece of kit and worth a premium price compared to lesser options. Even so, it's hard for this gear addict to get past that "starting at $1,499".

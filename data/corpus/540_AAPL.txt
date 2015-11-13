@@ -1,0 +1,21 @@
+A security breach has affected Apple’s App Store in China, potentially infecting millions of smartphones with malware and forcing the company to potentially remove hundreds of apps. Chinese users who download some of the nation’s most popular apps, including WeChat, which has over 600 million monthly active users, could find their personal information extracted by hackers, security experts say.
+
+The incident raises questions about Apple’s security policies, which were believed to be very strict. And it highlights a glaring paradox in the Chinese government approach to cybersecurity. Despite calls for for better protection of its citizens’ data, the Chinese government itself is putting citizens at risk by making it hard to operate securely online.
+
+According to Claud Xiao of Palo Alto Networks, hackers distributed the malware through third-party uploads of XCode, a developer toolkit for iOS apps. Outside of China, iOS developers looking to build apps usually obtain XCode directly from Apple, by accessing Apple’s servers in California.
+
+But there are dozens of websites hosted in China that offer XCode—a search for xcode 6.4 下载 (download) on Chinese search engine Baidu turns up four forums where you can download an unofficial version, before Apple’s listing official page fordownload:
+
+Searching for “Download XCode 6.4” on Baidu brings Apple’s official page for the developers as the fifth hit.
+
+Why? In China, accessing servers abroad can be prohibitively time-consuming. This is partly because internet speeds in China are slow to begin with—Akamai ranks China 84th (pdf, pg. 30) for average Mbps globally, behind Sri Lanka and Thailand.
+
+But it’s also because China deliberately makes accessing foreign servers like Apple’s difficult. There are only three “gateways” that connect China’s domestic internet to the global internet. And as soon as a user accesses a foreign website, China’s so-called Great Firewall begins monitoring their activity, slowing speeds even further. As a result, domestic websites load much faster than foreign ones.
+
+Apple was quick to lay the blame on the third party downloads, and said in a statement:
+
+We offer developers the industry’s most advanced tools to create great apps. A fake version of one of these tools was posted by untrusted sources which may compromise user security from apps that are created with this counterfeit tool.
+
+The apps affected by the malware were made by some of China’s most successful internet companies. WeChat, which has since fixed the security issue, is owned by Tencent, which currently has an HK$1.3 trillion ($160 billion) market cap on the Hong Kong Stock Exchange. I Am MT, an action game that was also infected, was one of the top-grossing games in China in 2013 (slideshow, pg. 10).
+
+That means that China’s internet speed, and access to foreign websites, is so slow that developers at some of the wealthiest internet companies are resorting to sketchy, unverified channels in order to download XCode quickly and do their jobs.

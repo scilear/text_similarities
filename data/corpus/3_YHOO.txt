@@ -1,0 +1,55 @@
+View photo .
+
+Anyone who has watched the NFL this year has undoubtedly been inundated with advertisements for FanDuel and DraftKings, the biggest players in the now-booming world of daily fantasy sports.
+
+Fantasy sports have been around for a while, with sites like Yahoo and ESPN among the most popular. The concept was simple: draft a team of players, set your lineup every week, and win bragging rights over your friends. But once money became involved, the fantasy world became real. Fantasy football is a $70 billion industry and every one wants a piece of the pot. Combined, FanDuel and DraftKings spent over $206 million on TV ads this season.
+
+"Those two companies pioneered a brand new industry after UIGEA was passed," SportsLock Co-Founder Todd Heyden told Benzinga, "and they have done an incredible job in a very short period of time." The Unlawful Internet Gambling Enforcement Act of 2006 excludes many fantasy sports from its provisions.
+
+FanDuel and DraftKings have really stepped up their game for the 2015 season, but in less than a month, the industry has been put on hot water. The New York Times reported on October 5 that a DraftKings employee won $350,000 on FanDuel -- using information he obtained before it was publicly available. This incident has brought the unregulated world of of fantasy sports to the forefront, and there are plenty of players out there.
+
+"What happened to those guys specifically could have been prevented," Heyden said. "There are a handful of other things we are working on behind the scenes in order to address the idea that this space needs to be regulated, which, for the record, we 100% agree with and have since we started this business. Regulations are needed for new, growing businesses and our space is no different."
+
+Now, the "U.S. attorney’s office in Tampa, Florida is purportedly investigating daily fantasy operators to determine whether there have been violations of the federal Illegal Gambling Business Act of 1970." Employees have now been barred from participating in the other's service.
+
+However, FanDuel and DraftKings just had their most successful weekend of the 2015 season. According to SuperLobby, DraftKings collected total NFL entry fees of $25 million and FanDuel collected fees of $20.5 million.
+
+"I think the fact that the industry collectively had its biggest day ever despite the recent news is a testament to why daily fantasy is here to stay," said Draftpot CEO Joey Levy.
+
+Scared of the controversy surrounding the game's biggest players? Read on to meet some of other companies looking to take over the fantasy world.
+
+SidePrize
+
+CEO Adam Wexler told Benzinga that SidePrize "makes season-long fantasy leagues more engaging by allowing friends to challenge each other on their weekly matchups." The platform integrates with a person's already-established fantasy team (such as one on Yahoo, Inc. (NASDAQ: YHOO)). SidePrize won the only two awards given out at this summer's Fantasy Sports Trade Association Conference.
+
+Draftpot
+
+Want to keep more of your money? Draftpot may be the way to go. Levy said, "we have eliminated the salary cap from the lineup selection process, which increases the appeal we have to casual, everyday sports fans (rather than catering more to avid/professional fantasy sports players). Furthermore, we offer more sports than our competitors, so our platform caters to a wider array of sports fans. Finally, we charge a lower rake than FanDuel and DraftKings, so users keep more of their money on Draftpot."
+
+PlayDraft
+
+This very mobile-friendly service tries to keep it easy for the user.
+
+"PlayDraft is quite different from any of the salary cap daily fantasy offerings," CEO Jeremy Levin told Benzinga. "Draft is much like words with friends but instead of making a word you're picking a player. The drafts are quick, simple head-to-head snake drafts. Each player drafts five players each (no salary cap, no overlapping players) and the game plays out. Simple as that."
+
+SportsLock
+
+Heyden explained that they "are all about the WHY... We are creating a social platform for taking action on fantasy sports. Our first game play focuses around brackets where you draft heads-up against your opponent to see who can survive and advance to the next round. Like any bracket, the last one standing wins. But the product is just the start for us."
+
+"Fantasy grew to these astonishing numbers [because] it is a social experience," he continued. "Fortunately for us, the way daily was created significantly moved away from this thesis which gave us an opportunity to create SportsLock... And then when you look at the design and the UX, we are in a league of our own in this space. Copying a poker website was never an option for us (which unfortunately for the sports fans out there is exactly what those two guys did."
+
+Contrast & Compare
+
+Heyden said his company felt there was something missing that neither CBS Corporation (NYSE: CBS) and Yahoo or FanDuel and DraftKings "were willing to do so we wanted to build it ourselves. We saw an opportunity to bridge the two industries and create something new in this space, hence the creation of Fantasy Sports Brackets."
+
+"As [FanDuel and DraftKings] highlight in very small print on their TV ads, your chances of winning as a player are near impossible. You are not going to win what they are preaching. In our format, we are telling you that you can compete against let's say 63 other people (for this example, it is a 64 man bracket) and all you have to do is win six matches and you win the entire bracket.
+
+The data says people love to draft and that is what we wanted to deliver via a micro-session, mobile-first experience. [FanDuel and DraftKings] games only last one day, where as we saw a benefit of creating some games that could last one day/week (our heads up games), while others would last a bit longer (hence the bracket format where each round is one day or one week). The idea of a bracket and playing in heads-up matches creates a social experience hence why we offer the chat option."
+
+Heyden further compared his platform to FanDuel and DraftKings: "We are not one bit surprised that they didn't see a huge decrease in users, especially when their top players (those playing in hundreds if not thousands of games at once for a large weekly investment) represent a large portion of total cash in play. These guys created a great industry in daily fantasy sports. It is time for a company, like SportsLock, to take that torch and progress the space even further."
+
+Image: Public Domain
+
+See more from Benzinga
+
+© 2015 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

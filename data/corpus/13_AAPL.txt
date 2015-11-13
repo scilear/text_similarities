@@ -1,0 +1,25 @@
+Apple has removed an ad blocking app from its App Store that block ads in other apps, as well as a number of other apps that employ similar techniques, citing privacy concerns.
+
+Apple's iOS 9 operating system saw the company approve ad blocking apps for the first time. Most just block ads on the Safari web browser, but some developers took the idea further by creating apps that installed root certificates to block app-based ads. Apple's problem is that by doing so, these developers had sight of everything a user was doing online, from browsing to making purchases.
+
+The Safari team, however, had created a secure way to block content, which doesn't allow for the ad blockers to track user behavior. Popular ad blocking apps that block ads on Safari, including Crystal and Purify, are not affected by Apple's latest move. It only affects apps that installed root certificates on user's phones, which included some ad blockers and other apps.
+
+On the face of it, it had seemed bizarre that Apple had approved such ad blockers in the first place, even aside from the clear privacy concerns.
+
+One app, Been Choice, which is part of Apple's sweep, claimed it could even block ads in apps in Apple News, which would interfere with a small but growing revenue source for the Cupertino-based company. It also claimed to be the first to block ads in the Facebook app. Been Choice used a technique which saw web traffic re-routed through a VPN (virtual private network) to its servers where it performed a deep packet inspection to remove the ads within apps.
+
+Google doesn't allow apps in its app store that interfere with other apps' functionality. In 2013 it removed ad blockers including Adblock Plus from the Play Store.
+
+In a statement emailed to Business Insider, an Apple spokesman said: "Apple is deeply committed to protecting customer privacy and security. We’ve removed a few apps from the App Store that install root certificates which enable the monitoring of customer network data that can in turn be used to compromise SSL/TLS security solutions. We are working closely with these developers to quickly get their apps back on the App Store, while ensuring customer privacy and security is not at risk."
+
+Apple did not specify how many apps are affected, but the developers of Been Choice said on Twitter they would be re-working its software in order to get the app back in the App Store.
+
+Been Choice cofounder Dave Yoon emailed Business Insider this statement:
+
+They are enforcing end-to-end encryption for their apps. We explained to them that (1) we were unpacking the data stream for the sole purpose of removing ads from the following apps: Facebook, Yahoo, Yahoo Finance, Google, Pinterest — and only in Block Mode. (2) No data from any other app was touched. And (3) that we were explicit in our app and on our website, and in our presentations to the press about what we were doing, and for what purpose, with what special safeguards.
+
+We will remove this capability to block ads in Facebook, Yahoo, Yahoo Finance, Google, and Pinterest tonight and resubmit tomorrow morning for expedited approval. The ad and tracker blocking in other apps will not be impacted. We asked for explicit guidance on blocking ads in Apple News (not covered in the above requirement), and our contact at Apple would not give us a ruling. So we will submit a version that will continue to block iAds and see if we can get back on.
+
+The core proposition of our app, Choice, to enable users to better control their privacy and own the value of their own data, remains extremely relevant. And the new app will still present the most powerful ad and tracker blocking tool, and offer real choice to users.
+
+NOW WATCH: 6 little-known Excel shortcuts that will impress your boss

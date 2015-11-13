@@ -1,0 +1,27 @@
+Google Inc. unveiled a mobile publishing platform aimed at making news articles on smartphones load faster, catching up with similar services recently introduced by Facebook Inc. and Apple Inc.
+
+Google’s service, called the “Accelerated Mobile Pages Project,” or AMP, is aimed at loading mobile Web pages almost instantly instead of requiring consumers to wait several seconds to open an article.
+
+For tech companies like Internet search giant Google, improving the experience of reading news on smartphones increases the likelihood that consumers will continue using their services. The companies are also seeking solutions to make sure ads don’t slow down the access to articles, as many consumers have downloaded ad blockers to make them load faster -- potentially threatening publishers’ advertising revenues.
+
+Almost 30 publishers from around the world, including the New York Times, Guardian, BBC, Washington Post, Wall Street Journal, BuzzFeed and Vox Media, will publish articles on AMP, which is in a test format and will be available to the public at a later date. Many of those media outlets have also agreed to publish stories directly to Facebook’s and Apple’s news readers.
+
+“The Web today, particularly in a mobile environment, is not fully satisfying users’ expectations,” Richard Gingras, Google’s head of news, said at a press event in New York on Wednesday. “It’s not as fast as it should be. Pages load slowly, sometimes erratically.”
+
+For publishers, partnering with tech companies is an attempt to stay relevant as readers increasingly discover and share stories on their smartphones and social media -- rather than through the media companies’ own websites.
+
+Social-media sites Twitter, Pinterest and LinkedIn will also post content to Google’s new mobile platform.
+
+Michael Ducker, a product manager at Twitter, said Google’s new platform will speed up the loading time for embedded tweets and vines -- short videos shared by users -- inside Twitter’s mobile app. Twitter users read more content when their Web experiences are made faster, he said.
+
+Slowed by Lines of Code
+
+Under a program called Instant Articles, Facebook allows media partners to publish stories directly to its site and media partners get the revenue from ads they place within the articles or split sales on ads placed by Facebook. With its own news reader, Apple will help sell advertising within its app and take a 30 percent cut of that revenue while letting publishers keep 100 percent of the advertising revenue they sell.
+
+Google has no deals to share advertising revenue with publishers and is focused solely on making the mobile Web work faster, according to Gingras.
+
+On mobile devices, news articles can take 10 seconds or longer to load because they are slowed by lines of code, much of which delivers advertising. When pages take too long to load, publishers lose readers and the chance to make money through advertising and subscriptions.
+
+AMP will support publishers’ subscription models and advertising formats “that don’t detract from the user experience,” Google said. The company is working with publishers to determine what such ads will look like.
+
+On Wednesday, Dave Besbris, Google’s vice president of engineering, demonstrated a test version of AMP. Large photos and headlines from published articles appeared at the top of a Google search in a carousel format, allowing users to swipe to the next article on their phones, tap on a link, and load the article almost instantly.

@@ -1,0 +1,47 @@
+WASHINGTON (AP) -- U.S. regulators say they have a lot more questions for Volkswagen, triggered by the company's recent disclosure of additional suspect software in 2016 diesel models that potentially would help exhaust systems run cleaner during government tests.
+
+That's more bad news for VW dealers looking for new cars to replace the ones they can no longer sell because of the worldwide cheating scandal already engulfing the world's largest automaker. And, depending on what the Environmental Protection Agency eventually finds, it raises the possibility of even more severe punishment.
+
+Volkswagen confirmed to The Associated Press on Tuesday that the "auxiliary emissions control device" at issue operates differently from the "defeat" device software included in the company's 2009 to 2015 models disclosed last month.
+
+The new software was first revealed to Environmental Protection Agency and California regulators on Sept. 29, prompting the company last week to withdraw applications for approval to sell the 2016 cars in the U.S.
+
+"We have a long list of questions for VW about this," said Janet McCabe, acting assistant EPA administrator for air quality. "We're getting some answers from them, but we do not have all the answers yet."
+
+The delay means that thousands of 2016 Beetles, Golfs and Jettas will remain quarantined in U.S. ports until a fix can be developed, approved and implemented. Diesel versions of the Passat sedan manufactured at the company's plant in Chattanooga, Tennessee, also are on hold.
+
+Volkswagen already faces a criminal investigation and billions of dollars in fines for violating the Clean Air Act for its earlier emissions cheat, as well as a raft of state investigations and class-action lawsuits filed on behalf of customers.
+
+If EPA rules the new software is a second defeat device specifically aimed at gaming government emissions tests, it would call into question repeated assertions by top VW executives that responsibility for the cheating scheme lay with a handful of rogue software developers who wrote the illegal code installed in prior generations of its four-cylinder diesel engines.
+
+That a separate device was included in the redesigned 2016 cars could suggest a multi-year effort by the company to influence U.S. emissions tests that continued even after regulators began pressing the company last year about irregularities with the emissions produced by the older cars.
+
+The software at issue makes a pollution-control catalyst heat up faster, improving performance of the device that separates smog-causing nitrogen oxide into harmless nitrogen and oxygen gases.
+
+"This has the function of a warmup strategy which is subject to approval by the agencies," said Jeannine Ginivan, a VW spokeswoman. "The agencies are currently evaluating this and Volkswagen is submitting additional information."
+
+Automakers routinely place auxiliary emissions control devices on passenger vehicles, though they are required by law to disclose them as part of the process to receive the emissions certifications that are required to sell the cars.
+
+EPA's McCabe wouldn't say if VW's failure to disclose the software in its 2016 applications was illegal. "I don't want to speak to any potential subjects of an enforcement activity," she said.
+
+If VW was cheating a second time, that would probably mean higher fines against the company, said Kelley Blue Book Senior Analyst Karl Brauer.
+
+Regulators are "going to be even more angry than they already are," Brauer said. "The punitive actions from the EPA are only going to get more aggressive."
+
+The German automaker already faces up to $18 billion in potential fines over the nearly half-million vehicles sold with the initial emissions-rigging software.
+
+AP first reported Oct. 7 that the EPA and California Air Resources Board were investigating "the nature and purpose" of additional software on the new VW models, but at the time both the company and regulators declined to provide details about what the device does or how it works.
+
+Volkswagen of America CEO Michael Horn said in congressional testimony last week that the German automaker had withdrawn applications seeking certification of its 2016 diesels because of on-board software that hadn't been disclosed to regulators. However, Horn's statement left unclear whether the issue with the 2016 models was the same as that in the earlier models, or whether it potentially constituted a new violation.
+
+A congressional staffer briefed on the issue told AP that VW probably didn't need the additional software to meet government emissions standards, but that the device appears intended to ensure the 2016 cars would pass inspection by wider margins. The staffer spoke on condition of anonymity because he was not authorized to talk publicly about the ongoing investigation.
+
+VW is now working with regulators to continue the certification process needed to sell its 2016 diesel cars.
+
+___
+
+Matthew Daly contributed from Washington. Krisher reported from Ann Arbor, Michigan.
+
+___
+
+Follow Biesecker at http://Twitter.com/mbieseck and Krisher at http://Twitter.com/tkrisher

@@ -1,0 +1,37 @@
+USA TODAY's Jefferson Graham breaks down some of the cool new features in Microsoft's new Windows 10 operating system. Sean Fujiwara
+
+A visitor tries out Microsoft Corp.'s Windows 10 operating system on a tablet device during a launch event in Tokyo, Japan. (Photo: Kiyoshi Ota, Bloomberg)
+
+NEW YORK — Smartphones are the new PCs. Especially for younger people, they are the devices upon which important communications are made, documents are viewed and, in some instances, even created.
+
+Microsoft has had a vested interest in smartphones for some time. The problem is, they haven’t really had much impact, at least in the U.S.
+
+In the U.K. and other parts of Europe, however, Microsoft — a company I've worked with as an analyst for years — actually owns double-digit market share of even the consumer smartphone market, while in the U.S. and on a worldwide basis, they still languish in the low single digits.
+
+The company is expected to take real steps toward improving these numbers as of Tuesday, when, at an event they’re holding here in NYC, they’re widely expected to unveil the first smartphones that run Windows 10, in addition to other products.
+
+WINDOWS 10 SMARTPHONES
+
+Though it’s still early, Windows 10 appears to be having a very positive impact on the PC market, especially in business, and even for the floundering tablet market. As a result, there is at least some degree of expection that this aura of success will rub off on the new Windows 10-enabled smartphones. Plus, smartphones represent the final major cog in the company’s strategy to bring a consistent user experience for users, and a consistent platform for software developers, across all the major computing devices.
+
+Final details won’t come out until Tuesday, but it’s been widely reported that Microsoft is hoping to extend some of the key benefits of Windows 10, particularly around biometric authentication and seamless device-to-device computing experiences, with its new Windows 10 phones.
+
+With security concerns at an all-time high, it makes sense that a company like Microsoft would be interested in offering a more secure experience on its latest devices. Biometric authentication is a technology that allows you to use uniquely identifiable aspects of your body to log into your devices, and even into password-protected web sites.
+
+On Windows 10 PCs, Microsoft offers Windows Hello, which works in conjunction with 3D cameras, such as Intel’s RealSense, to offer facial recognition. On the new phones, the company is rumored to be using iris recognition—turns out your eye’s iris is as unique as your fingerprint—in conjunction with the phone’s front-facing camera, to uniquely identify you.
+
+Microsoft is a member of the FIDO Alliance, an industry consortium featuring not only big tech companies like Google, Intel and Qualcomm, but banks and credit card companies like Bank of America, ING, Visa, and Mastercard. The FIDO Alliance is working to rid the world of passwords for log-ins and other transactions, and enable the use of biometrics. Logically, one would have to hope Microsoft will bring that effort to their new phones as well.
+
+Bing users are receiving alert messages urging them to stick with Microsoft's Edge browser rather than Chrome or Firefox. Video provided by Newsy Newslook
+
+PC MODE/TABLET MODE
+
+On Windows 10-based tablets and 2-in-1s, like the Microsoft Surface, which is also heavily rumored to get an update at this event, the company offers a feature called Continuum to allow you to seamlessly switch between PC mode and tablet mode. The rumor mill suggests that Microsoft will be bringing this type of capability to Windows 10 smartphones as well. In fact, with a new adapter device, you’ll apparently be able to connect your smartphone straight to a monitor, and use a Bluetooth wireless keyboard for a truly PC-like computing experience.
+
+Many companies have talked about—and several years ago, Motorola’s Atrix even tried—bringing a true, large-screen personal computing experience to smartphones. So, if Microsoft does enable this on Windows 10 phones, it will be very interesting to see how the market might react.
+
+To be clear, it’s unlikely Microsoft can make a dramatic change in its smartphone position anytime soon, particularly with consumers. However, as expectations around smartphones continue to evolve, and as business IT departments, the Microsoft stronghold, start taking a more proactive stance on the type of mobile phones their employees can use for work purposes, the company may still have a chance to stay relevant in the computing devices of the future.
+
+USA TODAY columnist Bob O'Donnell is the president and chief analyst of TECHnalysis Research, a market research and consulting firm that provides strategic consulting and market research services to the technology industry and professional financial community and whose clients include major technology firms. You can follow him on Twitter @bobodtech.
+
+Read or Share this story: http://usat.ly/1Lefnxt

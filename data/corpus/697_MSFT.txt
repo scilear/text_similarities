@@ -1,0 +1,37 @@
+During its Windows 10 hardware event, Microsoft (NASDAQ:MSFT) launched several new smartphones, including two flagship devices and one lower-cost device. These phones, unsurprisingly, are powered by chips from wireless chip giant Qualcomm (NASDAQ:QCOM).
+
+That being said, there were some investors who seemed to think Microsoft might launch a phone equipped with a processor from Intel (NASDAQ:INTC), which has for years struggled to gain even a toehold in the smartphone processor market.
+
+I'd like to explain why Intel never even had a chance.
+
+Intel's product portfolio is completely unsuitable for flagship Windows phones
+
+The Lumia 950 -- Microsoft's new 5.2-inch phone -- uses a Qualcomm Snapdragon 808 processor. The Lumia 950XL, the 950's larger, more powerful sibling, uses a higher-end Snapdragon 810 processor that features more CPU cores, faster graphics, and more advanced imaging capabilities than the 808.
+
+These chips, though the 810 has seen some fairly negative press over the last nine month or so, represent the fastest, most capable merchant mobile processors currently available.
+
+Intel's current top-of-the-line offering for smartphones is its Atom Z3590, a slightly faster variant of the Z3580 that launched last year. As far as CPU performance and efficiency are concerned, the Silvermont cores inside of the Z3590 should be quite competitive with the Cortex A57/A53 big.LITTLE combination found inside of the 808/810.
+
+However, as far as graphics performance, imaging capabilities, communications integration, and memory bandwidth, the Qualcomm chips are substantially ahead of Intel's current best offerings.
+
+Did it have to be this way?
+
+Perhaps the thing that should most frustrate Intel stockholders about this is that if Intel had executed to its original product plans, it could have had a pretty solid shot of winning both of these phones.
+
+In fact, if you recall, Intel had told investors all the way back in 2013 that it had planned to bring to market a high-end applications processor known as Broxton by mid-2015.
+
+Broxton could very well have been a better choice for flagship Windows phones this year than the Snapdragon 808/810 pair were. Although Broxton isn't expected to feature an integrated cellular baseband (meaning Intel would have needed to Microsoft with a stand-alone baseband to support this win), I believe that the chip would have offered better CPU and graphics performance than the 808/810, as well as quite suitable imaging performance.
+
+But, as is typical for Intel's mobile group, the company almost certainly snatched defeat from the jaws of victory, and Qualcomm won the designs.
+
+With this kind of execution, smartphone makers will be hesitant to switch to Intel
+
+Although the potential lost revenue from the Lumia 950/950XL pair is ultimately immaterial to Intel (Microsoft probably won't sell too many of these phones), this represents yet another reason investors should be quite frustrated with the execution in Intel's mobile group.
+
+Until Intel can show smartphone vendors that it can deliver best-in-class mobile processors consistently and on schedule, it is unlikely any phone vendor that actually cares about launching their devices in a timely fashion will choose to work with the company on any serious projects.
+
+What I found shocking is that in a recent investor presentation, Intel CFO Stacy Smith admitted that the company has historically had issues launching smartphone products on time, but that its execution over the last 18 to 24 months has improved -- a claim I feel cannot be substantiated based on the realities in the marketplace.
+
+Intel had promised that its SoFIA LTE product would arrive in mid-2015, but this product launch was pushed out to sometime in the first half of 2016. Intel had also told investors that its first 14-nanometer integrated applications processor and modem would arrive in either late 2015 or early 2016, but this was pushed out into late 2016.
+
+There are no two ways about it: Intel's execution in mobile has been and continues to be third-rate, and until the company can show competent execution over two or three consecutive product cycles, it will continue to be nothing more than a bit player in this market.

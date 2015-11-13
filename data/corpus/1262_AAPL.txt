@@ -1,0 +1,27 @@
+Pay-TV subscribers spend an estimated $232 per household each year on set-top boxes provided by their cable company. As alarming as that sounds -- considering even the newest high-end set top box from Apple (NASDAQ:AAPL) costs just $199 -- subscribers often don't have a choice: 99% of subscribers are renting set-top boxes, and the pay-TV providers won't even give them the option of buying them.
+
+A group of consumer-tech companies, including Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) and TiVo (NASDAQ:TIVO), are petitioning the FCC to break cable's control over the estimated $19.5 billion set-top-box industry, according to Bloomberg Business. While still a long way off in the future, the coalition could have a drastic impact on cable companies' video subscriber revenues while revolutionizing the way we consume television.
+
+The future of TV is ...
+
+At Apple's September keynote, where it unveiled the new Apple TV, CEO Tim Cook told the audience, "The future of TV is apps." The company showed off a number of apps in the new tvOS app store that provided tons of great content. However, the vast majority of top-quality content is still locked inside the cable bundle, and networks have deals with pay-TV providers that keep most of that content from being accessible through apps.
+
+As a result, proprietary set-top boxes with mediocre user interfaces remain the primary way we access television. Even as digital video consumption has nearly quadrupled over the past five years, time spent watching traditional television among U.S. adults has fallen by just 7% to four hours and 15 minutes every day.
+
+Alphabet and TiVo want to break up pay-TV's hold on set top boxes, essentially rendering cable providers as content wholesalers. (Considering the de facto regional monopolies the government provided cable companies, that should be their position anyway.) That would unlock content for third-party hardware and software makers to integrate into their own set-top boxes. Consumers could have more choice, be free from the high fees associated with pay-TV services' set top boxes, and could finally access a decent user interface.
+
+Opening up pay-TV content to third-party set-top boxes would also enable streaming services to behave just like another cable network -- putting them on equal footing with other premium networks. That's one reason Alphabet is keen to support third-party set-top boxes, since it owns Google and its YouTube subsidiary. YouTube could see a big benefit from listings next to traditional television.
+
+The benefits for TiVo are obvious. The DVR pioneer could more easily replace pay-TV-provided set-top boxes and charge subscribers -- who are already used to paying a monthly DVR fee -- its own subscription fee. TiVo subscriptions start at $14.99 per month.
+
+The cable companies' defense
+
+Cable companies aren't staying quiet as Alphabet et al. ask the FCC to review set-top boxes. A group of pay-TV providers wrote in a joint statement that allowing device manufacturers to reconfigure traditional television content would turn their businesses "into suppliers of programming for commercial use by third parties."
+
+But that's not really accurate. That statement implies that hardware makers would be selling pay-TV subscriptions, but it would be up to consumers to provide the cable TV subscription. Those subscriptions would still be bought directly from pay-TV providers.
+
+The only difference is that consumers wouldn't be forced to pay cable companies $232 per household every year for access to some hardware and software they don't even really want. And, of course, that's revenue the cable companies desperately want. As total video subscribers shrink, these companies are looking for ways to increase the average cable bill.
+
+Many cable companies tout their set-top boxes as differentiators, using them to defend against growing IPTV services from the telcos and ever-present satellite TV options. Still, most set-top box software from pay-TV providers pales in comparison to what's available from third parties such as Apple, Roku, Google, and TiVo.
+
+Bloomberg Business says the FCC is probably still several years away from making a decision, but cable operators had better start making improvements to their set-top boxes fast. Otherwise, they risk losing out on a collective $19.5 billion in revenue.

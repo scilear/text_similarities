@@ -1,0 +1,21 @@
+For years, Microsoft was a firm adherent to stack ranking, a process in which every employee is graded numerically to determine promotion and compensation, and a certain percentage of the bottom rank get booted from the company yearly. It was one of the first of a wave of large companies to abandon the practice in 2013. Employees reportedly loathed it. Now, it’s coming back to haunt the company.
+
+A former employee, Katherine Moussouris, has filed a class action lawsuit against the company claiming that its performance-rating system consistently gave female technical employees lower numerical scores, resulting in lower earnings and fewer promotions.
+
+“Microsoft’s company-wide policies and practices systematically violate female technical employees’ rights and result in the unchecked gender bias that pervades its corporate culture,” the lawsuit claims.
+
+The suit claims Moussouris was repeatedly passed over or not even put forward for promotions in favor of less qualified male colleagues. It claims she was repeatedly knocked down in her stack rankings even when her manager told her she was outperforming and deserved higher rankings, and that she was paid less than male colleagues throughout her time at the company.
+
+She was told that her work and performance qualified her for promotion, but that certain managers didn’t like her “manner or style.”
+
+In 2008, she allegedly complained that a director in her group was sexually harassing female employees. Microsoft investigated, concluding there was harassment, and responded by reassigning him within the group while retaining his title and influence. He allegedly retaliated before being transferred by assigning Moussouris a low bonus, and when she complained, the company did nothing.
+
+Eventually, the suit claims, she resigned from the company last year after having her role reduced, responsibilities assigned to less qualified male colleagues, and repeatedly being asked by her manager to do low level tasks not assigned to men at her level. Moussouris had been with the company seven years.
+
+“We’re committed to a diverse workforce, and to a workplace where all employees have the chance to succeed. We’ve previously reviewed the plaintiff’s allegations about her specific experience and did not find anything to substantiate those claims, and we will carefully review this new complaint,” a Microsoft spokesman wrote in an emailed statement.
+
+The suit provides some interesting details of Microsoft’s ranking system. There was the common one-to-five rating, with one being the best and five the worst. Across its workforce, 20% could receive a one, 20% a two, 40% a three, 13% a four, and 7% a five. The rankings occurred twice a year, with a mid-year ranking used to determine mid-year promotions, and an end-of-year ranking for compensation and yearly promotion decisions.
+
+The broad allegations of the suit fit in with the many objections researchers and employees have against stack ranking. Despite its claims of meritocracy, it ends up enforcing manager bias, and leads to ratings that have more to do with fitting the curve than actual performance, in addition to promoting unhealthy internal politics.
+
+And though Microsoft has since ended stack rankings, the suit claims its new process was a “similarly unvalidated, and unreliable” performance-evaluation system that undervalued female technical employees.

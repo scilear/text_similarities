@@ -1,0 +1,11 @@
+Apple Inc. acquired Perceptio, a startup developing technology to let companies run advanced artificial intelligence systems on smartphones without needing to share as much user data.
+
+The company’s leaders, Nicolas Pinto and Zak Stone, are both established AI researchers who specialize in developing image-recognition systems using deep learning. Deep learning is an approach to artificial intelligence that lets computers learn to identify and classify sensory input.
+
+Apple confirmed the acquisition. Terms of the deal weren’t disclosed.
+
+"Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans," said Colin Johnson, a company spokesman.
+
+Perceptio’s goals were to develop techniques to run AI image-classification systems on smartphones, without having to draw from large external repositories of data. That fits Apple’s strategy of trying to minimize its usage of customer data and do as much processing as possible on the device.
+
+Apple said last week that it had acquired a U.K.-based software startup that made AI technology to create Siri-like digital personal assistants capable of having longer conversations.

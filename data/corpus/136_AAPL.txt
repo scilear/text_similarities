@@ -1,0 +1,31 @@
+iPhone owners visiting China who rely on Apple News for the day’s headlines are in for an unpleasant surprise.
+
+Apple appears to have blocked overseas users’ access to Apple News, the news reading app released in the United States in September, as long as they are connected to a Chinese telecom network. That means that news that citizens from around the globe who travel to China can read is being censored—not by the Chinese government, but by Apple itself.
+
+Three different Apple users, including Larry Salibra, who runs a Hong Kong-based software startup, said when they tried to open Apple News in China, they are greeted with a message stating that the app is not supported within the country. This isn’t a case of China’s Great Firewall banning access to online content, as it does with Facebook or the New York Times. Instead, Apple itself appears to have deliberately neutered Apple News for all users who open it up in China, as Salibra wrote in a recent blog post.
+
+Apple appears to monitor access to Apple News by examining the mobile network they are connected to—for example, Salibra had no problems accessing Apple News on China Mobile Hong Kong (CMHK), a Hong Kong-based network. But switching over to China Mobile’s mainland network brought about the error message when the app was opened.
+
+Another American based in Chongqing, who had also purchased and registered his iPhone in the US, told Quartz that he had no trouble downloading and accessing Apple News from Taiwan, where it is unavailable in the domestic app store. But attempting to access it in China, both with or without a VPN, or virtual private network that masks the user’s location, yields an error message:
+
+Curiously though, he tells Quartz that he has no trouble accessing Apple News on an iPad when using a different VPN.
+
+A third American Apple user, a 28-year-old startup founder based in Beijing, told Quartz that despite having full access to the US App Store and iBooks, she was taken to the following page when attempting to download Apple News, both with and without a VPN connection:
+
+
+
+
+
+Salibra said that any articles from Apple News are inaccessible to users in China, regardless of whether they are online or have been stored offline earlier, “read-it-later” style. This indicates that Apple is censoring content that you have personally stored on your device—something Salibra finds particularly alarming. He wrote on Reddit:
+
+What make me uncomfortable is them enforcing rules of other countries on my device which I didn’t buy in that country even when I’ve turned off location services. It bothers me not because Apple does it, but because they have no option but to do it and it is only going to get worse.
+
+Apple declined to comment on the situation when contacted by Quartz.
+
+At present, Apple News is technically only available in the United States, Australia, and the UK. But the service should be accessible from any country, as long as it was downloaded from the US, UK, or Australian App Store. Apple deliberately keeping Apple News from the Middle Kingdom, even for people who aren’t Chinese citizens, is an aggressive move—akin to Facebook blocking access to its own website within China, rather than that website being blocked by China’s Great Firewall.
+
+Apple’s hardware sales in China remain strong—the region is responsible for 50% of its overall revenue growth. But Apple has been slow to release software and media on mainland China. Beats 1, the radio-esque music service, remains unavailable in China, and Apple didn’t open the iTunes Store there until just two weeks ago.
+
+Deciding to block Apple News itself, rather than run afoul of the Chinese government, is just the latest step in the company’s attempt to appease authorities in hopes of retaining access to the market.
+
+Richard Macauley contributed to reporting.

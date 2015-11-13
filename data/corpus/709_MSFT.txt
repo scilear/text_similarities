@@ -1,0 +1,31 @@
+Microsoft (NASDAQ:MSFT) has struggled to gain traction in the wireless phone market.
+
+Despite its purchase of Nokia's handset business for $7.2 billion in 2013, the Windows maker only had 2.6% global wireless market share as of the second quarter of 2015, according to data from IDC. That's a bleak number that's up 1% from the previous year but down .8% from the same period in 2013.
+
+Despite its best efforts, Microsoft's handset business has gone in the wrong direction. Instead of abandoning its phone efforts or continuing to focus only on emerging markets, the company has instead decided to try again with a flagship phone.
+
+At its October Windows 10 hardware event, the company introduced two new flagship phones: the Lumia 950 and Lumia 950 XL. Both are top-tier devices selling for $549 and $649, respectively. The handsets are similar, with the 950 offering a 5.2-inch screen, 32GB of storage, a Snapdragon 808, hexacore, 64-bit processor, and a 20MP rear camera as well as a 5MP front camera. The XL has a 5.7-inch screen, a Snapdragon 810, octacore, 64-bit processor, as well as the same camera and memory specs. Both devices also offer USB Type-C.
+
+I was able to spend some time with the 950 XL recently and it's an impressive phone with some obvious drawbacks.
+
+The good: It's really light and it has Continuum
+
+While the 950 XL has a slightly bigger screen than its logical competitor, the iPhone 6s plus (5.7 inches for the Lumia versus 5.5 for the iPhone), it feels dramatically lighter to carry. Apple (NASDAQ:AAPL) says the iPhone 6s Plus weighs 6.77 ounces and PhoneArena.com says the 950 XL comes in at 5.82 ounces. At a little less than an ounce lighter, the 950 XL is a delight to carry. It's lightweight yet substantial with the plastic body never feeling cheap. The lighter feel makes it easier to control the phablet with one hand without dropping it despite its large size.
+
+The new Lumia flagship also offers Continuum, a Windows 10 feature that allows the handset to be plugged into a dock so the user can add a monitor, keyboard, and mouse. I did not get to test this feature, but it's long overdue, and it adds a level of usefulness to the phone.
+
+The bad: The price and lack of availability
+
+Pricing the Lumia 950 XL at $649 -- about $100 cheaper than the base model of the iPhone 6s Plus -- seems like a mistake. It's a problem compounded by the fact that the only ways to buy the phone are through AT&T (which offers financing and subsidized phones on two-year contracts) or directly from Microsoft, which sells unlocked phones but does not offer financing.
+
+That puts consumers in a bad place if they're willing to give the 950 Xl a shot but want the option to get rid of it should they not like it. The phone would be a perfect fit for T-Mobile's Jump! On Demand program, which lets users switch phones up to three times a year without penalty.
+
+As it currently stands, committing to a Lumia 950 XL may be more of a risk than most customers want. It's a top-tier phone and Windows 10 is an intuitive interface with some very useful features (like Live Tiles) not offered by Apple. Electing to go with the upstart, however, is clearly a risk as anyone choosing to do so might be stuck in a contract or having to stick with the phone because they paid for it upfront.
+
+The ugly: Lack of apps
+
+Like previous Windows phones, the Lumia models suffer from a lack of key apps. That is somewhat mitigated by the fact that Windows 10 offers a universal apps store -- meaning that PC and tablet apps should, in theory, work on the phones -- but that does not change the fact that several major apps are simply not offered for Windows at all.
+
+When it comes to apps, it's not a numbers game, but one where the key players matter most. It's great that the Windows store has hundreds of thousands of choices, but that does not change the fact that the coffee chain app I use nearly every day is not available.
+
+This is not a problem Microsoft can address quickly. If it wants people to adopt Windows Phone, then nearly all of the top apps must be there. Universal Windows 10 apps helps, but it's not a total solution and until the company finds one it's unlikely to increase its market share even though it has delivered a phone that compares well to other flagship models including the iPhone 6s Plus.

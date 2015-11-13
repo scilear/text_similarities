@@ -1,0 +1,13 @@
+Apple's new iPhones aren't the only iOS devices to get 2 GB of memory. The iPad Mini 4 has it too, which will help the tablet support the full split-screen mode found on both the iPad Air 2 and iPad Pro.
+
+Ars Technica already got its hands on Apple's newest small slate and immediately started to delve into the hardware. Running the Geekbench test suite, Ars found that the iPad Mini 4 performance eclipses that of last year's iPhones.
+
+Last year's iPad Air 2 still beats the iPad Mini 4 on paper, even though both tablets have the same 2 GB of memory. That's because the Mini 4 uses a dual-core A8 chip running at 1.5 GHz while the Air 2 has a tri-core A8x processor. Both are still quicker than the 1.4 GHz A8 chip in Apple's iPhone 6 and 6 Plus.
+
+That makes the Mini a nice refresh for 2015, considering last year, the Mini 3 was nothing more than Mini 2 with the addition of a Touch ID sensor.
+
+I think it's safe to say my prediction of Apple doing major tablet refreshes every two years now is a good bet. Last year, Apple essentially skipped the iPad Mini refresh and this year, it left the iPad Air 2 unchanged. After several yearly iPad upgrades, it just doesn't make sense for Apple to continue a 12-month cycle for tablets; the devices can work quite well for two or more years.
+
+Apple's iOS 9 now officially supports a Split View experience on all tablets with 2 GB of memory; those without it only get the Slide In and Picture in Picture features.
+
+Although it would be less useful on a smaller screen, it's worth noting that the new iPhone 6s and 6s Plus also have enough memory for Split View; something Apple could later add in a limited form with a software update.

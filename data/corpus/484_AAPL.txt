@@ -1,0 +1,23 @@
+It's been nearly a year since Apple (NASDAQ:AAPL) launched its mobile payments service Apple Pay, and naturally the Mac maker is interested in bringing the service to one of its most important markets: China. Apple Pay has already expanded into markets outside the U.S., but China is much more significant and complex because of strict regulatory oversight from the central bank.
+
+In February, Apple reportedly clashed with UnionPay, the state-owned debit and credit card operator that is the only interbank network in China, over regulatory concerns and the underlying NFC technology. But Tim Cook told Xinhua News in May that he was "very bullish on Apple Pay in China," a clear signal that he wasn't giving up anytime soon. Apple has also explored other partnerships, but nothing official has been inked as far as public investors know.
+
+Apple has been hard at work laying the necessary groundwork for Apple Pay's inevitable expansion into The Middle Kingdom, and Wenhui News reports (via The Wall Street Journal) that Apple has now made an important step.
+
+Apple will be entering a mature mobile payments market
+
+Apple has now registered a subsidiary, Apple Technology Service (Shanghai) Ltd., in Shanghai's free-trade zone, and the entity is permitted to operate Apple Pay. The entity already has $13.4 million in capital, suggesting that Apple has already allocated that much of an investment in the subsidiary.
+
+There's a big difference though in terms of mobile payment adoption in China compared to the U.S. Stateside, multiple companies have attempted to launch mobile payment services over the years, but none have made any meaningful progress with catalyzing mainstream adoption. In China, mobile payments service are widely used from a variety of incumbent service providers. Unlike the relatively barren U.S. mobile payments market, the Chinese market is much more mature and entrenched.
+
+That will make it relatively harder for Apple Pay to make a dent, since payment services can be fairly sticky and enjoy substantial network effects.
+
+Apple is getting better at launching services
+
+Historically, Apple hasn't been known for offering strong services (do you remember how bad MobileMe was before it became iCloud?), an opening that rivals have taken advantage of. But lately, Apple is really putting a lot more focus into building compelling services. Services revenue is typically in the range of 8% to 10% of total revenue, and is growing in-line with Apple's overall business.
+
+In terms of absolute dollars, here's how Apple has grown this segment.
+
+At this point, Apple's Services segment is nearly a $20 billion business. That's nothing to sneeze at. Services includes iTunes and App Store sales, which critically support iDevice sales. But Apple Pay and Apple Music are two big important pushes that Apple made last year.
+
+Even though the timeline on Apple Pay's possible launch in China remains murky, investors should have little doubt that the service will roll out in the foreseeable future.

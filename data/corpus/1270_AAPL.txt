@@ -1,0 +1,31 @@
+The connected home might play a bigger role in the future of energy than you think, but it hasn't taken off as quickly as many people had hoped. That's because energy efficiency items like Alphabet's (NASDAQ: GOOG) Nest thermostat, smart locks, or LED light bulbs are nice items by themselves; but if you have enough of them, you could be overwhelmed with apps to control your house.
+
+To complicate matters, there are exciting and complex energy changes coming down the pipeline, like rooftop solar energy, energy storage, electric vehicle charging, and smart appliances that could help save you money and make your life easier. But even the most enthusiastic energy saver doesn't want a dozen touch points or apps to make sure devices operate as efficiently as they should.
+
+That's why the Nest platform and Apple's (NASDAQ:AAPL) HomeKit are game changers for hundreds of energy companies. They may not seem like energy companies, but they hold the key to changing energy usage as we know it.
+
+Platforms are the key to energy innovation
+
+The difficulty in innovating in energy today is that you need a way to control most energy innovations. Smart lights are great, but you need an app on a smartphone to turn them on and off. An energy-storage system with solar energy is great, but it needs controls in another app to work effectively. Even smart locks need an app to let you in the house without a key. Add all of them together, and you can have a dozen apps just controlling your energy use.
+
+The truth is that companies trying to innovate in energy had to create their own platforms on which to build energy efficiency and management products. Each one needed its own control system, and until people had smartphones in their pockets, their own control panels, as well.
+
+Apple and Alphabet changed that by getting devices in hundreds of millions of people's hands, and now they're building the platform on which other companies can innovate in energy. Nest and HomeKit will allow your device to tell multiple apps when you arrive home, when you're gone, when you wake up, or when you're going to bed. Presets on the platform will allow it to talk to multiple devices at once, something the industry has never had before.
+
+Driving innovation in energy
+
+What Nest and HomeKit do is make it possible for companies to innovate on top of their platforms instead of a company creating its own. It simplifies the development process, and opens up millions of potential customers for new energy products. The fact that there are two standardized platforms actually makes this innovation easier.
+
+It's comparable to when the smartphone standards were battling it out. At one time, developers didn't know if they should develop for Blackberry, Apple, Google, Microsoft, or someone else. Once the two standards from Apple and Google emerged, you had thousands of innovative apps hit the market.
+
+The same thing is happening in energy now because Nest and HomeKit give a common platform for developers to build products for. And they know hundreds of millions of users will have the operating systems to control them.
+
+These platforms could take disparate energy services, like rooftop solar, EV charging, and heating/cooling, and marry them with dynamic utility pricing and user preferences to save people money.
+
+As an example, SunPower has talked about this with its solar and energy storage system, allowing consumers to use HomeKit to choose preferences like maximum cost savings, or maximizing the amount of energy produced and consumed within the house. Without HomeKit, it would have to develop the control system independently, which would make adoption more difficult.
+
+Disruption is coming to energy
+
+Alphabet and Apple may not seem like the most obvious disruptors in the energy industry, but they may play a bigger role than you think. A decade from now, your home will know when you're going to be home, when it's cheapest to charge your electric vehicle, and how to maximize the savings from your rooftop solar system.
+
+Nest and HomeKit don't, by themselves, make those innovations possible, but they give companies the platform that will help drive adoption. That's the true value of these energy platforms, and they may be important to the future of energy.

@@ -1,0 +1,7 @@
+Apple, which had been set to release new versions today (Sept. 16) of the operating systems that control its mobile devices, has found a bug in the code for the Apple Watch update it planned to unveil and will hold off on releasing it to the public.
+
+The problem, reported first in USA Today, “is taking a bit longer to fix than we expected,” an Apple spokesperson confirms. “We will not release watchOS 2 today but will shortly.”
+
+The company didn’t give an indication of how long “shortly” will be, or what the bug was, but did confirm that iOS 9—the new operating system for the iPhone, iPad, and iPod touch—will still be released later today.
+
+The second-generation Watch operating system has been eagerly awaited by owners who feel the watch responds too slowly—watchOS 2 will apparently make apps much snappier—but they’ll have to keep checking their watches for updates on its release for the time being.

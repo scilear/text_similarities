@@ -1,0 +1,69 @@
+I saw a recent article from Quartz Africa about Smile Telecoms raising money to expand 4G LTE networks into Africa. It’s a good story. Wireless broadband is the future, and Africa is the continent of opportunity.
+
+I just don’t buy the strategy.
+
+Telecoms is a long-term business with long-term investments and long-term rewards. Building for the long term means ensuring your foundations are rock-solid.
+
+It’s one thing expanding off an existing base of profitability, i.e.: MTN or Vodacom. It’s an entirely different thing starting data networks from scratch, especially when you rely on a competitive advantage provided by LTE spectrum.
+
+“Spectrum” is another word for “frequency” and refers to the specific portion of the airwaves that a wireless operator uses to offer voice and data services. The first GSM networks operated on 900MHz and 3G operates on 1,8GHz
+
+Unfortunately, spectrum rights are not rock solid. What the government has granted, the government can take away.
+
+Not only do you pay through your nose for the spectrum rights, but you’re burdened with license obligations for infinity. These obligations are not set-in-stone. Every year the regulator makes up new obligations.
+
+“Oh look, he looks like he’s making money, let’s force him to connect another 1,000 schools to the Internet for free.”
+
+This is all well and good with voice networks. The high margins means there is plenty of cash to go around.
+
+The data pricing paradox
+
+The problem is data. People expect data to be free. That means data networks must be lean and mean. There is no room for surprises. Especially surprise costs. Worse than unexpected expenses is the risk of one day getting a letter saying your spectrum has been nationalized.
+
+Some people think this is impossible. No government would jeopardize such an important industry by messing with property rights. And yet that is exactly what the South African government did for mineral rights. It cancelled all mining licenses and asked companies to reapply. And they did this to the single biggest earner of foreign exchange in the country.
+
+The rationale makes sense to me. Redistribution of economic interests in the economy can’t happen without radical intervention. The Afrikaners did it when they took control from the United Party in the 50’s. Now it’s the turn of non-white communities.
+
+You can’t cure cancer without chemotherapy.
+
+This happens all over the world, not just Africa. The only way to mitigate this risk is to bribe politicians. “I’ll pay you to maintain the status quo.”
+
+In the age of the Internet I wouldn’t want to build a business based on bribery. That’s not a rock solid foundation. There are no more secrets. The Internet is here.
+
+And anyway, bribery only gets you so far.
+
+People want cheap fast broadband. WiFi is a standards-based technology with global adoption and fast-accelerating device footprint thanks to smartphones.
+
+How do stop the WiFi wave?
+
+The future of wireless broadband in Africa is WiFi. No regulators, no license fees, no uncertainty over property rights.
+
+You can’t. If the customer wants hotdogs, don’t sell him hamburgers. People want WiFi. You must rather figure out a way to build data networks that let you make a profit whilst selling fast cheap broadband.
+
+The future of wireless broadband in Africa is WiFi. Wireless broadband over public spectrum. No regulators, no license fees, no uncertainty over property rights.
+
+If you’re a new kid on the block you are faced with two paths: Go down the LTE path and deal with the incumbents, governments and the risk of signal interference technology rendering your spectrum worthless before you’ve generated sufficient return on capital.
+
+Or, go down the WiFi path. There are already tens of thousands of profitable WiFi operators across the world offering fast affordable wireless broadband, so its not a risky business model.
+
+Remember Moore’s Law
+
+It’s just a question of whether you believe the original Moore’s Law, i.e.: transistors on integrated circuits will double every year, applies to WiFi technology.
+
+Warren Buffet talks about his two golden rules:
+
+Don’t lose money. Never forget rule No 1.
+
+In my opinion you are guaranteed to lose money building a business from scratch on LTE spectrum. The best way to avoid trouble on a dangerous path is to not take that path.
+
+Steve Jobs said Apple is a company that chooses which horse to ride technologically. Apple wants to rides upward curves which is why it abandoned Flash and floppy drives when it became apparent they were becoming obsolete. More than 75% of internet video was in flash when Apple killed support. Today Flash doesn’t exist.
+
+WiFi is the upward curve. LTE is the new Flash.
+
+Smile is unlikely to make money for shareholders by paying dividends. It will probably make money by being sold to a big telco that is desperate for LTE spectrum.
+
+Regardless of who owns the spectrum, it will fail to meet the expectations of shareholders.
+
+LTE is the new telecoms bubble, and just like the 3G bubble of the late 90’s, this one will end in tears.
+
+Sign up for the Quartz Africa Weekly Brief — the most important and interesting news from across the continent, in your inbox.

@@ -1,0 +1,33 @@
+In his March 1998 testimony before a Senate committee, then Microsoft CEO Bill Gates rejected the notion that Microsoft was a monopoly that would forever dominate the tech landscape.
+
+"In the end, the software industry," he told the senators, "is an open economic opportunity for any entrepreneur in America." He was probably more right than he wanted to be. Six months and one day later, two graduate students from Stanford filed corporate papers for a new company that, over time, has challenged Microsoft on several fronts.
+
+In this April 28, 2015 photo, a man walks past a Microsoft sign set up for the Microsoft BUILD conference at Moscone Center in San Francisco. (Jeff Chiu/AP photo)
+
+Google quickly became the dominant search engine and, no matter how hard Microsoft tries, its Bing search engine remains a distant second. Even though Microsoft released its first smartphone operating system back in 2000, Google, along with Apple, became a dominant player. In 2008, Google and HTC introduced the first Android smartphone and Android now accounts for 82 percent of the global smartphone market, according to IDC. Windows Phone was 2.6 percent with Apple coming in 13.9 percent. And speaking of once dominant players, BlackBerry -- once the most successful smartphone company, has only 0.3 percent.
+
+Advertisement
+
+Despite lackluster success with phones and search, Microsoft continued its domination in the PC operating system business. Windows continues to enjoy huge market share when it comes to PCs. But now Google and Apple are taking a bigger bite of that market.
+
+According to NPD, Google's "Chromebook sales through the U.S. business-to-business channels increased 43 percent during the first half of 2015, helping to keep overall B2B PC and tablet sales from falling." Chromebook is the name for laptops from a number of companies that feature Google's Chrome OS operating system. They are essentially computers built around the popular Chrome browser, designed not just to get people online but to run apps within the browser. They are increasingly popular in K-12 education and it's common for people who use Chromebooks to also use Google apps such as Google docs and spreadsheets.
+
+Apple is also seeing an increase in its Mac laptop sales with market share into the double digits at 10.17 percent as of June, according to Statistica. Apple just released the newest version of its OS X operating system, called El Capitan, which makes modest improvements to the Macintosh experience.
+
+Desktop PC market
+
+When it comes to installed base with all versions of Windows, Microsoft continues to dominate with 91 percent market share, according to data compiled by VentureBeat. But that includes Windows 7, which remains the majority of installs (56.5 percent), according to Net Applications. Windows 7 shipped in 2009 and is now two versions old. Microsoft reported that its new operating system, Windows 10, is now on 75 million devices with about 5.2 percent of desktop PC market share, according to Net Applications.
+
+The fastest growing segment of the PC market is so-called convertible or "2-in- 1" devices that are essentially tablets with an attachable keyboard or, one could say, notebooks with a detachable keyboard.
+
+Microsoft has a big stake in this market with its Surface Pro line of PCs that run the full-blown Windows operating system. I've been using a Surface Pro 3 with Windows 10 and must say that it has just about all the advantages of a Windows notebook with the portability of a tablet. It supports an optional keyboard that attaches magnetically to the tablet. The device has an adjustable kickstand that makes it very convenient to use on a table or a desk, but if you don't have the screen resting against the kickstand, it flops around, which makes it very inconvenient if you're trying to use it sitting on a park bench or in an airport waiting area or laying in bed or sitting on the couch, as I sometimes do when using a PC. That's why I call it a notebook instead of a laptop. It doesn't work on your lap.
+
+Notebook computers
+
+While Apple doesn't have a 2-in-1 MacBook, the company just announced the iPad Pro with a 12.9-inch screen and an optional keyboard, also with a kickstand. Even though it runs the iPhone and iPad's OS 9 operating system, I think it's fair to call it a notebook computer because, with the keyboard attached, you can run all sorts of serious computing applications including the iOS version of Microsoft Office.
+
+And now there's an Android laptop to compete with the Surface Pro and iPad Pro. At a press event on Tuesday, Google introduced its new Pixel C Android tablet with an optional keyboard. Like Apple's iOS, Google's Android OS is host to hundreds of thousands of apps, most of which can be used offline, including Microsoft Office. The 10.2-inch screen is small by notebook PC standards, but it helps keep the weight down to under 2 pounds even when connected to the optional keyboard. And unlike the iPad Pro and the Surface Pro 3, it's a real laptop because the keyboard is attached with a very strong magnet that allows the screen to adjust to a suitable angle without flopping around, even if it's not on a desk or table. I had a chance to use it at the Google press conference and found the keyboard quite comfortable even though it has an ever-so-slightly smaller key layout than standard PC keyboards.
+
+So, even though there are far fewer PC companies then there were when Gates testified in 1998, there are now more computing platforms and a real battle for the hearts, minds and dollars of those of us who still like using computing devices with real keyboards.
+
+Contact Larry Magid at larry@larrymagid.com. Listen for his technology chats on KCBS (AM 740 and FM 106.9) weekdays at 3:50 p.m.

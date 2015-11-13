@@ -1,0 +1,27 @@
+For years now, China's elaborate efforts to censor and control the Internet -- collectively known as the Great Firewall -- have restricted what the world's biggest population of Netizens can see and how fast they can download. Until now, that hasn't been much of a problem for anyone besides locals and companies such as Facebook and Google hoping to sell to them.
+
+In recent weeks, however, Chinese-origin attacks on Apple's iOS and App Store have raised a discomfiting prospect: The closed-off Internet ecosystem China has created may be breeding malware that could affect the rest of us.
+
+This is a different issue than Chinese hacking, which targets companies and governments for their technology and secrets. The most recent attack emerged on Oct. 4, when researchers at Palo Alto Networks revealed that a piece of malware they named YiSpecter was infecting iOS users primarily in China and Taiwan. Its creators had embedded the bad code in a porn video player that allows users to share videos privately using the cloud -- a popular device in China, where censors tend to crack down on publicly available porn sites.
+
+An even more serious case came to light in mid-September, when investigators discovered that thousands of Chinese-authored apps in Apple's App Store had been infected with malware, including WeChat, the world's second-most popular social media platform, and Didi Chuxing, China's most popular ride-sharing app. It was the first successful major attack on Apple's store.
+
+Here, too, the Great Firewall had created the perfect environment for the infection to spread. Government filters slow download speeds so dramatically that it can take hours -- days, even -- for Chinese developers to download Apple's authorized toolkit for creating apps and other content for Apple devices. Fed up and impatient, many coders instead chose to use what they thought were Apple software development tools available on Chinese websites, only to discover later that they'd been infected. The malware then injected malicious code into otherwise innocent apps sold in the App Store.
+
+The recent attacks are new only insofar as they've targeted Apple products, which had previously been celebrated for their security. Android's problems in China go back further. Its developer, Google, isn't licensed to offer its Play store in China, so a thriving industry of third-party app stores has blossomed. Their security measures, unsurprisingly, are relatively weak. Between 2012 and 2013, AV-Comparatives, a security software testing organization, found 7,175 infected apps in 20 major third-party app stores, most of which were Chinese.
+
+Foreign companies operating on the mainland have long complained that the Great Firewall has hampered their ability to do business. In February, the European Chamber of Commerce in China issued a survey of 106 of its members, 86 percent of whom said that the inability to access Web sites had had a "negative effect" on their businesses. The U.S. Chamber of Commerce has reported similar complaints.
+
+Now, though, the danger is that bad software and apps created in China will spread outward, undermining the credibility of once-secure services such as Apple's App Store. China stands to lose as much as anyone: Even the prospect of infection could reduce the global appeal of Chinese-designed apps. Virushuo, the online handle for an influential Chinese software and security blogger, has compared the danger to that posed by tainted food. "A good restaurant may not necessarily intend to poison its customers, but they also have a difficult time guaranteeing a reliable supplier of ingredients," he blogged in late September. (The post is now censored in China but available outside the country.)
+
+China's huge population of Internet users offers software developers the advantage of a large-scale test audience before going global. WeChat, perhaps the world's most innovative and (recently) its most copied social networking service, is just one example. But if China wants to fulfill its ambitions of moving up the technological ladder, producing tools and apps with wider appeal, the regime faces a choice. It could remove a few bricks from the Great Firewall in order to create a healthier environment for developers to work. Or it can suffer increasing isolation, as the rest of the world shies away from Web-based products that carry the "made in China" label.
+
+This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.
+
+To contact the author of this story:
+
+Adam Minter at aminter@bloomberg.net
+
+To contact the editor responsible for this story:
+
+Nisid Hajari at nhajari@bloomberg.net

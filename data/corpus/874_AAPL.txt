@@ -1,0 +1,45 @@
+On October 6th, Microsoft is holding a big Windows 10 event where it's expected to show off a bunch of new hardware, including the Surface Pro 4 tablet and two new models of Windows Phones.
+
+The Surface Pro 3 is an unqualified success, raking in $888 million for Microsoft in the last quarter and growing fast, which will only get accelerated by reseller arrangements with the likes of HP and Dell.
+
+This means that the new model is likely going to be a refinement of the Surface Pro concept, not a revolution.
+
+The new Windows Phones, rumored to be branded as "Surface phones," are more of a question mark. Can Microsoft use the Surface brand to make sure that lightning strikes twice?
+
+Microsoft's cheap Lumia smartphones have found a certain niche in markets like India — but globally, Windows Phone has a meager 2.6% market share, and it seems unlikely that it can do anything to topple Apple and Google's dominance in the short term.
+
+Calling these new devices "Surface phone" is one thing. But if Microsoft was paying attention to the focus on productivity that made the Surface Pro tablet so successful, a hypothetical new Surface phone stands a real chance of being a success in its own right.
+
+Where the Surface Pro worked was in focusing really heavily on productivity, which is right in line with Microsoft's core mission.
+
+By giving a tablet a laptop-grade processor, a full version of Windows, and an optional keyboard, the Surface Pro 3 became a lot more useful than your garden-variety tablet, especially for working professionals. Apple finally caught on to this with last week's introduction of the iPad Pro, which looks a lot like the Surface Pro.
+
+Lightning strikes twice for Surface
+
+First off, the name alone sends a clear message: "Surface" carries a certain amount of weight, now that the Surface Pro is well-established as a brand. Meanwhile, as pointed out by Alcaraz Research in a recent Seeking Alpha article, "Lumia" is associated with cheap phones.
+
+Second, the rumored specs are really encouraging: The Surface phone will have a 5.5-inch screen. That makes it as big as the iPhone 6 Plus, but with a higher-resolution screen. It's also rumored to feature a 21 megapixel camera in the rear and an 8 megapixel camera in the front.
+
+Combine that with the additional rumor that it'll have a similar design sensibility to the Surface Pro, right down to the fact that it'll likely include a version of the Surface Pen stylus that comes with the tablet, and the Surface Phone starts to snap into focus as Microsoft's push into productivity.
+
+Intel can make a difference
+
+Finally, and perhaps most encouragingly, the Surface Phone is rumored to ship with an Intel processor, which Forbes contributor Tony Bradley points out fits right in with Microsoft's Continuum feature for Windows 10 Mobile, which lets you use a phone as a computer.
+
+With an Intel processor, it could be much easier for developers to take apps, especially enterprise apps, and make them run on a Surface Phone. The ARM-based processor that Microsoft's Lumia phones use generally prevents that sort of thing.
+
+Right now, Microsoft's Windows Store for laptop, tablet, and smartphone apps is really struggling, with developers not finding much of a reason to list their wares. After all, a Windows 7 or 8.1 app will also work in Windows 10, without any additional changes.
+
+But if Microsoft can flex its muscle, and get the likes of Adobe to sign on and bring their professional-grade productivity software to the Windows Store, it would make the Surface Phone a whole new kind of device: A phone that's as useful as a computer.
+
+And thanks to Continuum, it can even become a computer, for those times when you need a mouse and keyboard.
+
+Just like the Surface Pro took a gimmicky-sounding idea (a tablet with a keyboard?) and turned it into a new, widely-imitated form factor, the Surface Phone can do the same by following the same productivity-driven lead.
+
+It probably wouldn't be enough for Microsoft to unseat the iPhone 6S from the throne, as that Seeking Alpha post predicts.
+
+But if history repeats itself, it could become another billion-dollar, enterprise-driven business for Microsoft — and, as with the iPad Pro, make Apple and Google take very careful notice. And it would give Microsoft a much-needed beachhead where it could grow its mobile presence.
+
+Who knows? If the Surface Phone is a success, maybe in another few years, Apple will follow Microsoft's lead yet again and we'll get the iPhone Pro that Microsoft CEO Satya Nadella joked about on stage at Dreamforce this week.
+
+NOW WATCH: Here's Microsoft's amazing vision for what the HoloLens can do

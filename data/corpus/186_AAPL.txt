@@ -1,0 +1,21 @@
+A few decades ago, you could take your newest piece of technology, be it a TV or tractor, to the repair shop of your choice, or try to fix it yourself. That’s usually no longer the case, as hardware increasingly comes loaded with copyrighted software. To varying degrees, many of the world’s biggest electronics manufacturers limit access to the information and equipment necessary for do-it-yourself maintenance and repairs.
+
+Apple doesn’t publish repair manuals or sell parts to customers, and its warranty doesn’t apply if unauthorized repair damages its device. Samsung wouldn’t say why it doesn’t share repair information, though it makes some parts available to shops. Even John Deere gives only approved technicians access to the embedded software that controls systems in its machines. The manufacturers argue these limitations keep products working safely, and that copyright law lets them protect their intellectual property so it isn’t pirated.
+
+“Bulls--t,” says Gay Gordon-Byrne, executive director of the Digital Right to Repair Coalition, based in North Haledon, N.J. “Repair is a profit center for a lot of companies, and sometimes it is more profitable than selling hardware.” Maintaining “repair monopolies,” she says, pushes up costs and makes customers more likely to simply junk old models for new ones. Apple charges $79 to replace an iPhone 4 battery. Repair website IFixit charges $20 for a battery and DIY kit for the same job.
+
+$20
+
+IFixit’s price for an iPhone 4 battery and DIY kit, one-fourth what Apple charges to replace one
+
+Gordon-Byrne’s organization and advocates such as the Electronic Frontier Foundation are supporting bills introduced this year in Massachusetts, Minnesota, and New York that would require manufacturers to sell parts and provide manuals to hardware owners and independent repair shops. Separate efforts in Congress would amend the federal Digital Millennium Copyright Act by giving explicit permission for consumers to circumvent a manufacturer’s digital lock on its software for a lawful reason such as repair. “The problem isn’t current law, but lack of law,” says Gordon-Byrne. Until consumer rights are clearly legislated, “Manufacturers have carte blanche to limit anything they wish.”
+
+Massachusetts’ bill is due for a hearing on Sept. 22, and the Minnesota bill’s sponsors are meeting in October to discuss similar legal language with the state environmental agency. New York’s version was considered by the state senate’s rules committee but wasn’t brought for a vote before the legislative session ended in June, so it’s on hold at least until lawmakers reconvene in January.
+
+“This needs to happen,” says Minnesota state senator David Osmek, a co-sponsor of that state’s bill. Hardware makers “can be part of the solution or not have a seat at the policy table.” Industry groups, including the Consumer Electronics Association, NetChoice, and the State Privacy and Security Coalition, oppose right-to-repair laws. “Imagine the danger created if someone who lacks proper training makes repairs to these devices,” says Carl Szabo, policy counsel at NetChoice.
+
+Kyle Wiens, who co-founded the Digital Right to Repair Coalition in 2013, is chief executive officer of IFixit, the website that posts free repair instructions and sells parts for everything from smartphones to power tools to cars. He and Gordon-Byrne say they expect the repair bills to move slowly. In 2014 major carmakers signed an agreement to make diagnostic tools and service information available to independent repair shops and vehicle owners, but only after a decade-long fight culminated in Massachusetts’ passage of an automotive right-to-repair law.
+
+There are signs, though, that the coalition’s state-level fights are accelerating. Gordon-Byrne says groups in Oregon and Virginia have asked for help with similar efforts. The idea that big companies can limit control over private property “really pisses people off,” says Dan Nabel, an attorney who recently served as interim director of the Intellectual Property & Technology Law Clinic at the University of Southern California. Public outrage, he says, will “snowball into the will of the people to get something done.”
+
+The bottom line: Repair companies and consumer advocates are pushing laws to strengthen the rights of hardware owners.

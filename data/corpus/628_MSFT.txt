@@ -1,0 +1,33 @@
+By Abhirup Roy
+
+(Reuters) - Oracle Corp's (ORCL.N) sales fell more than expected in the first quarter, hurt by a strong dollar and a continued drop in licensed software sales and the company warned revenue could fall in the current quarter even on a constant currency basis.
+
+Like its rivals such as SAP (SAPG.DE), IBM Corp (IBM.N) and Microsoft Corp (MSFT.O), Oracle is striving to boost Internet-based software sales to head off fast-growing competitors such as Salesforce.com Inc (CRM.N).
+
+But, analysts have said Oracle's cloud software business has not been growing fast enough to make up for declines in the 38-year-old company's licensed software business due to reasons ranging from slow customer adoption to tough competition.
+
+Oracle's revenue declined 1.7 percent to $8.45 billion in the quarter ended Aug. 31, missing analysts estimates for the third quarter in a row.
+
+The company said sales increased 7 percent on a constant currency basis. However, it forecast revenue to range between a fall of 2 percent to growth of 1 percent in the current quarter.
+
+"On an apples-to-apples basis, that's disappointing. It's pretty clearly below consensus even at the top end," Wedbush Securities Inc analyst Steve Koenig said.
+
+Oracle's shares fell as much as 2.8 percent in extended trading on Wednesday.
+
+The company's net income declined 20 percent to $1.75 billion in the first quarter. Excluding items, it earned 53 cents per share, more than analysts' estimate of 52 cents.
+
+Sales of Oracle's cloud-computing software and platform service rose 34 percent to $451 million. Sales of traditional software licenses fell 16 percent to $1.51 billion.
+
+Wall Street was expecting cloud-based sales to increase 35 percent and licensed software sales to decline 17 percent, according to RBC Capital Markets.
+
+"In the foreseeable future the database business continues to be a dark cloud over the company's head," FBR Capital Markets analyst Daniel Ives said.
+
+Cloud-based software sales account for a small portion of Oracles' total revenue as they are subscription based, which promise a steady revenue stream but with lower margins.
+
+Fundamentally, all of Oracle's software will be available on the cloud by the OpenWorld conference at the end of October, Co-Chief Executive Mark Hurd said on a call with analysts.
+
+Ives said Oracle needs to make acquisitions to fuel growth in its cloud business and convince investors who are sceptical of a turnaround.
+
+He named Splunk Inc (SPLK.O), Tableau Software Inc (DATA.N), NetSuite Inc (N.N) and Workday Inc (WDAY.N) as "game-changing" acquisitions for Oracle.
+
+(Reporting by Abhirup Roy in Bengaluru; Editing by Savio D'Souza)

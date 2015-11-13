@@ -1,0 +1,41 @@
+* Several apps infected by XcodeGhost malware
+
+* Apple says cleaning up affected apps
+
+* Several Chinese apps also hit (Adds Didi Kuaidi, NetEase comment paragraph 14, 15)
+
+By Jim Finkle
+
+BOSTON, Sept 21 (Reuters) - Apple Inc said on Sunday it is cleaning up its iOS App Store to remove malicious iPhone and iPad programs identified in the first large-scale attack on the popular mobile software outlet.
+
+The company disclosed the effort after several cyber security firms reported finding a malicious program dubbed XcodeGhost that was embedded in hundreds of legitimate apps.
+
+It is the first reported case of large numbers of malicious software programs making their way past Apple's stringent app review process. Prior to this attack, only five malicious apps had ever been found in the App Store, according to cyber security firm Palo Alto Networks Inc.
+
+The hackers embedded the malicious code in these apps by convincing developers of legitimate software to use a tainted, counterfeit version of Apple's software for creating iOS and Mac apps, which is known as Xcode, Apple said.
+
+"We've removed the apps from the App Store that we know have been created with this counterfeit software," Apple spokeswoman Christine Monaghan said in an email. "We are working with the developers to make sure they're using the proper version of Xcode to rebuild their apps."
+
+She did not say what steps iPhone and iPad users could take to determine whether their devices were infected.
+
+Palo Alto Networks Director of Threat Intelligence Ryan Olson said the malware had limited functionality and his firm had uncovered no examples of data theft or other harm as a result of the attack.
+
+Still, he said it was "a pretty big deal" because it showed that the App Store could be compromised if hackers infected machines of software developers writing legitimate apps. Other attackers may copy that approach, which is hard to defend against, he said.
+
+"Developers are now a huge target," he said.
+
+Researchers said infected apps included Tencent Holdings Ltd's popular mobile chat app WeChat, car-hailing app Didi Kuaidi and a music app from Internet portal NetEase Inc.
+
+The tainted version of Xcode was downloaded from a server in China that developers may have used because it allowed for faster downloads than using Apple's U.S. servers, Olson said.
+
+Chinese security firm Qihoo360 Technology Co said on its blog that it had uncovered 344 apps tainted with XcodeGhost.
+
+Tencent said on its official WeChat blog that the security flaw affects WeChat 6.2.5, an old version of its popular chatting app, and that newer versions were unaffected. A preliminary investigation showed there had been no data theft or leakage of user information, the company said.
+
+Didi Kuaidi said in an emailed statement users' privacy was not intruded upon, and the app has been immediately updated to address the issue.
+
+In a mea culpa on its official Weibo microblog, NetEase apologized to users, saying their private information was not compromised and a fix has been issued.
+
+Apple declined to say how many apps it had uncovered.
+
+(Reporting by Jim Finkle; Additional reporting by Scott DiSavino in New York and Paul Carsten in Beijing; Editing by Chizu Nomiyama, Eric Beech and Alex Richardson)

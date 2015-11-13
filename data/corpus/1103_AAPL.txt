@@ -1,0 +1,29 @@
+REUTERS - Haptics - adding tactile feedback to an interface - is nothing new, but Apple's embrace of it is likely to prove a boon for many companies, including those developing the technology and suppliers.
+
+TECHNOLOGY COMPANIES:
+
+Haptic-related technology companies have been working on the field for 15 years or more. Others are more recent. They include:
+
+* NextInput Inc: Atlanta, Georgia spin-off from GeorgiaTech, maker of force-sensitive technology. Investors includeIntel Corp and Takata Corp.
+
+* Immersion Corp numbers among its customers mobile handsetmakers Samsung Electronics, LG Electronics Inc, Xiaomi, HuaweiTechnologies, Meizu Technology Co and Gionee.
+
+* Synaptics Inc: Senseg, Finland-based company, whoseinvestors include NXP Semiconductors.
+
+* Novasentis Inc, whose investors include Samsung Ventures.
+
+* Ultrahaptics, a UK start-up and spin-off from BristolUniversity, exploring using inaudible sound waves to createvisible shapes and invisible contours in the air, a sort ofmid-air haptics.
+
+* Redux Labs, a UK-based company using sonic waves on asurface to create audio or haptic effects.
+
+* Zrro, a crowd-funded start-up developing technology thatwould enable touch screens to sense fingers up to 3 cm away,allowing users to control devices without touching them.
+
+IPHONE SUPPLIERS:
+
+* Taiwan's TPK Holding Co Ltd is a major supplier of Apple's3D Touch, or Force Touch technology, according to supply chainsources. It provides touch sensors to makers of liquid crystaldisplays, which are installed inside the phone.
+
+* Vibration motors are then installed during the final stageof product assembly. These motors are crucial in detectingsignals from pressure sensors, which activate when a fingertouches the screen. According to one industry source, Japan'sNidec Corp is likely to be the sole supplier of the motors, atleast initially.
+
+* Chips and components rest atop flexible printed circuitboards inside the phone. This industry should benefit from theintroduction of Force Touch as it requires a new type of circuitboard that increases its value per iPhone box, according to theindustry. Taiwan's Zhen Ding Technology Holding Ltd and Japan'sNippon Mektron Ltd, an unlisted subsidiary of NOK Corp,willsupply the majority of the flexible printed circuit boards forthe new iPhones, sources said.
+
+(Reporting by Jeremy Wagstaff in SINGAPORE, Michael Gold in TAIPEI and Reiji Murai in TOKYO; Editing by Ian Geoghegan)

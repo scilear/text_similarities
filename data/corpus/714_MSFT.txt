@@ -1,0 +1,27 @@
+When CEO Satya Nadella and team announce fiscal 2016 Q1 earnings on Oct. 22, much will be made of Microsoft's (NASDAQ:MSFT) Windows OEM and volume licensing revenue, just as it was last quarter. Despite the successful launch of Windows 10 -- there were 75 million downloads in the first month alone -- many of those were of the free, upgrade variety, so reversing the negative OS revenue trend isn't likely.
+
+The good news is that Windows-related sales results take a back seat to Nadella's "mobile-first, cloud-first" strategic initiatives. Microsoft is still viewed by many as a PC-first provider, which explains its meandering stock price. Industry pundits are slowly coming around, and given time, investors will follow, to the notion that this is the new Microsoft, and its future is no longer dependent on desktop computers.
+
+Keep the ball rolling
+
+If not the out-and-out leader, Microsoft is certainly near the top of the list of cloud providers. At an over $8 billion annual run rate as of last quarter, Nadella's efforts to transition Microsoft away from PCs and into the fast-growing cloud market are paying off big time. The reason is that Microsoft's strength is Software-as-a-Service (SaaS) delivered via the cloud, and that's where the revenue lies.
+
+This year alone, the overall cloud SaaS market is expected to garner about $150 billion in sales, dwarfing revenue from data hosting. And it gets better going forward, with an estimated $200 billion in cloud app sales by 2019. Last quarter was the first time in over a year Microsoft didn't report triple-digit cloud sales growth -- "only" 96% after accounting for currency headwinds -- and it may not this quarter.
+
+That said, don't be surprised to see an annual run rate of close to $10 billion thanks to a client base that reached over 75,000 last quarter and will continue to generate recurring revenue, not to mention new customers who've since jumped onboard Microsoft's Azure cloud platform, with its myriad software services.
+
+To put Microsoft's cloud results into perspective, IBM had a bang-up quarter as it relates to cloud sales and is now tracking at about $4.5 billion. After securing a couple of major cloud deals this month totaling an estimated $1.7 billion over the next10 years, IBM is quickly becoming more than an afterthought in the cloud wars. As it stands, Microsoft remains head-and-shoulders above the cloud competition, and look for that to continue.
+
+Beyond smartphones
+
+Microsoft introduced a couple of new Lumia phones running its Windows 10 OS at its recent gala event, which earned mostly positive reviews. But it was Microsoft's new Surface Book that stole the show. Somewhat lost in last quarter's angst surrounding Microsoft's declining Windows revenue was the fact that its Surface line-up of pseudo-tablets generated $888 million in sales.
+
+Surface revenue jumped 117% last quarter, and that was with a mere 150 resellers pounding the pavement. With an expected 4,500 plus resellers before year's end, you can bet Microsoft's Surface division will surpass the vaunted $1 billion threshold in fiscal 2016's Q1.
+
+Though it's too late to impact this quarter, it's worth noting that Microsoft's new Surface Book -- which also functions as a tablet -- already sold out its pre-order stock. Of course, who knows how many Book devices it made available for pre-order, but at a starting price of $1,499, it won't take too many to make a positive impact on Microsoft's top line.
+
+The other side of mobile
+
+When Nadella began rolling out iOS- and Android-friendly versions of Microsoft's flagship software Office 365, it became apparent his mobile-first strategy was a lot more than devices. Getting Microsoft products into as many hands as possible, regardless of OS, was the objective, and based on last quarter's nearly 25% increase in Office 365 subscribers, it's working.
+
+Nadella is taking a similar approach with Windows 10. Naturally, Microsoft's Bing is the default search engine, which helps to explain why ad-related revenue jumped 21% last quarter. With an expected increase in Surface sales -- let alone smartphones -- Microsoft should be able to keep the Bing ball rolling. Add to that improved cloud revenue and Surface sales, and Microsoft with its 3% dividend yield warrants a good, hard look.

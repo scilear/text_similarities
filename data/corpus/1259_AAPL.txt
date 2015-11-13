@@ -1,0 +1,27 @@
+Earlier this year, Apple (NASDAQ:AAPL) refreshed its 15-inch Retina MacBook Pro to include a number of enhancements. The company improved the device over its predecessor in a number of interesting ways, with one such change being a shift from a stand-alone graphics chip from NVIDIA (NASDAQ:NVDA) to one from Advanced Micro Devices (NASDAQ:AMD).
+
+Keep in mind that Apple doesn't include stand-alone graphics processors in all of its 15-inch Retina MacBook Pro models -- the base models utilize integrated graphics -- but it does offer them as higher-end built-to-order options.
+
+I believe, however, that there's a strong chance that Apple will eliminate the discrete graphics chip option in 15-inch Retina MacBook Pro when it refreshes the device next year. Here's why.
+
+Apple just dropped the discrete GPU option in the 21.5-inch iMac
+
+Apple recently refreshed its iMac lineup, and it appears to have eliminated the discrete graphics processor option in the new 21.5-inch iMacs that was available in the prior generation. Instead, all of the Retina 4K iMac models use integrated Intel (NASDAQ:INTC) Iris Pro graphics.
+
+Such a move likely saves Apple money for each unit sold in a couple of ways. First of all, I suspect that the price delta between an Intel processor with Iris Pro graphics and a roughly equivalent quad-core part without Iris Pro graphics is probably lower than the price of a roughly equivalent stand-alone mobile graphics processor and bill of materials associated with it. Moreover, the single-chip solution is likely more powerful and space efficient than using both a stand-alone CPU combined with a stand-alone graphics process.
+
+A transition to integrated graphics-only seems plausible
+
+Apple is likely to refresh its 15-inch Retina MacBook Pro when Intel can deliver processors based on its Skylake architecture with integrated GT4e graphics. Such a chip, which is expected to be available early next year, should offer a significant graphics performance boost compared to the Broadwell chip that Apple has included in the Retina 4K iMac.
+
+Indeed, according to performance tests conducted by Ars Technica, the Retina 4K iMac with the Broadwell processor and Iris Pro graphics is able to deliver similar graphics performance in the GFXBench 3.0 test to the Radeon R9 M370X stand-alone graphics chip inside of the current 15-inch Retina MacBook Pro. In the Cinebench R15 GPU test, Ars Technica found that the Iris Pro graphics isn't quite able to keep up with either the NVIDIA GT 750M found in the 2013/2014 15-inch Retina MacBook Pro systems.
+
+That said, it's close enough such that the graphics performance of the upcoming Skylake processors with Iris Pro graphics -- which are expected to offer both an improved graphics architecture and more graphics cores -- should actually be higher than the discrete options available in the 15-inch Retina MacBook Pro today.
+
+Once Apple transitions a product away from discrete graphics, it's not coming back
+
+Apple has transitioned many of its Mac products away from discrete graphics and toward integrated graphics. For machines like the iMac and the MacBook Pro, this seems to be a sensible course of action, as Intel's integrated graphics have become quite powerful.
+
+Potential Mac customers shouldn't expect to be able to play the latest 3D video games at high resolutions on integrated graphics, but the graphics chips that Apple has put in the last few generations of 15-inch Retina MacBook Pro weren't really suitable for that anyway.
+
+I think that there's a good chance that Apple will transition the 15-inch Retina MacBook Pro to feature integrated graphics only. And once Apple does that, it will likely never go back. NVIDIA already lost whatever revenue stream was associated with the 15-inch Retina MacBook Pro, so at this point, it looks like AMD's to lose.

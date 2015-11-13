@@ -1,0 +1,29 @@
+Enlarge The apps removed, including a recently approved ad-blocker, reportedly install root… more
+
+Apple giveth and it taketh away. The company has removed ad-blocking app Been Choice from the App Store, claiming that it would allow developers to view encrypted traffic.
+
+Been Choice was one of several apps yanked from the platform for installing “root certificates,” which can “examine traffic passing through them at the packet level, bypassing encryption and other data-protection methods,” according to TechCrunch. Been Choice boasted that it could block ads both in Safari and within apps, including Facebook and Apple News.
+
+Enlarge The apps removed, including a recently approved ad-blocker, reportedly install root… more
+
+Get A.M. business scoops. Subscribe to SVBJ's free morning email newsletter.
+
+Been Choice responded on Friday saying it would alter its app and resubmit for Apple’s approval.
+
+“We will remove ad-blocking for Facebook, Google, Yahoo, Yahoo Finance and Pinterest and resubmit tomorrow to comply,” Been Choice wrote on Twitter.
+
+So why was Apple so quick to pull Been Choice?
+
+Privacy
+
+Apple believes that privacy is at stake and is taking precautions before there is a serious compromise with user data.
+
+“Apple is deeply committed to protecting customer privacy and security,” the company said in a press release. “We’ve removed a few apps from the App Store that install root certificates, which enable the monitoring of customer network data that can in turn be used to compromise SSL/TLS security solutions. We are working closely with these developers to quickly get their apps back on the App Store, while ensuring customer privacy and security is not at risk.”
+
+iOS9
+
+Apple’s new operating system allows for ad-blocking in Safari. However, ad-blockers like Been Choice disrupt ads within apps, a steady revenue stream that tech companies don’t want to see disappear.
+
+Virtual Private Networks
+
+The way Been Choice works is by setting up a VPN-style situation where traffic flows through its own server, where ads are removed. While typical VPNs alert users that traffic is routed through an external server, content blockers don’t create the same awareness. Apple was justifiably cautious about where Been Choice’s traffic was being diverted.

@@ -1,0 +1,45 @@
+Optus has announced that it is the primary communications provider for Stone & Chalk, a new financial-technology startup hub and innovation centre based out of Sydney.
+
+The partnership, announced on Thursday morning, will see Optus provide IT services, Wi-Fi connectivity, and managed security to the non-profit hub. The innovation centre currently houses 41 startups focusing on such sectors as predictive data analytics, superannuation, wearables, peer-to-peer lending, equity crowd funding, and distributed ledger.
+
+"Innovation and responding to change is a critical challenge for all Australian businesses to ensure they adapt to changing customer needs and market forces," said John Paitaridis, managing director for Optus Business.
+
+Alex Scandurra, CEO of Stone & Chalk, said that Optus' experience in the industry will mean it brings knowledge on both finance and technology, and said the hub hopes to make use of this in the form of mentoring.
+
+"Working with some of Australia's largest financial services and technology companies means Optus understands our market, the broader financial ecosystem, and its demand for constant innovation," Scandurra said.
+
+"We are looking forward to working with the team on our technology and services requirements and supporting our promising startups, by either supplying best-in-breed ICT services, or through access to key Optus specialists, technology leaders, partners, and mentors."
+
+Optus launched startup seed-funding company Innov8 in 2012, which offers funding to startups and collaborates with co-working spaces Fishburners, Sydney, and York Butter Factory, Melbourne, as well as accelerators such as Pollenizer and BlueChilli.
+
+Similarly, incumbent telecommunications carrier Telstra this week outlined its plans to continue encouraging innovation and producing advancements in technology by investing in and collaborating with startups, machine-to-machine (M2M) technology, and the Internet of Things (IoT).
+
+"We're investing heavily in startup organisations, and also creating accelerators and incubators, to try and create new environments, new ways, to help innovations flourish, giving them a little bit of capital, giving them the mentoring they need to help them nurture new ideas, and then take those into an environment where they can be capitalised and grow," Telstra CEO Andrew Penn said on Tuesday.
+
+Telstra also recently opened its Gurrowa Innovation Lab, which provides a co-creation space for its enterprise customers, vendors, research institutes, and incubators to collaborate on projects via the Pivotal and Cloud Foundry Foundation-provided open-source platform-as-a-service cloud software.
+
+iPhone 6s pricing adjustments
+
+Optus has also altered its iPhone 6s and 6s Plus plans in the face of competition from rivals Vodafone Australia and Telstra, reducing its prices and adding more data one day before the launch of the new devices.
+
+Optus has reduced its entry-level plan for the 16GB iPhone 6s by AU$3, from AU$73 down to AU$70 per month. It has also reduced its mid-tier plan from AU$86 down to AU$80 per month for the 16GB model, and upped the data allowance from 6GB to 8GB.
+
+Four out of five of the plans for the 64GB model of the iPhone 6s have been reduced by between AU$2 and AU$3 per month, now costing AU$76, AU$86, AU$91, and AU$105 instead of AU$79, AU$88, AU$93, and AU$107, respectively. The AU$91 plan is now offering 2GB of extra data.
+
+This is likewise the case with the 128GB model, with plans now costing AU$82, AU$93, AU$101, and AU$110 rather than AU$85, AU$94, AU$101, and AU$113, respectively, with the third-highest tier again adding 2GB of extra data per month.
+
+Pricing on all models of the iPhone 6s Plus remains the same, with the middle-tier plan now including 8GB of data per month rather than only 6GB.
+
+The updated low-end to high-end pricing tiers and inclusions for all four carriers is as below:
+
+(Image: Corinne Reichert/ZDNet)
+
+Buying the iPhone 6s outright from Apple will cost AU$1,079 for 16GB of storage, AU$1,229 for 64GB, and AU$1,379 for 128GB. The iPhone 6s Plus costs AU$1,229 for 16GB, AU$1,379 for 64GB, and AU$1,529 for 128GB.
+
+Despite the iPhones only being marginally updated to the incremental "s" models, Apple CEO Tim Cook claimed "everything" has changed, arguing that they are the "most advanced smartphones in the world".
+
+The biggest upgrade to the smartphones is the addition of 3D Touch, which Apple has touted as being a more responsive and pressure-sensitive touchscreen. The iPhone 6s comes with a 12-megapixel iSight camera; a 5MP front-facing camera; a 4.7-inch, 1,334x750, 326ppi Retina HD display; a 64-bit A9X processor; an embedded M9 motion coprocessor; double Ion-X process glass; 4K video recording; 1080p HD video recording; VoLTE support; NFC capabilities; talk time of up to 14 hours on 3G; and battery life of up to 10 hours of internet usage on 4G.
+
+The iPhone 6s Plus features the same specs, but with a 5.5-inch, 1,920x1,080, 401ppi Retina HD display; optical image stabilisation; talk time of up to 24 hours on 3G; and battery life of up to 12 hours of internet usage on 4G.
+
+The new iPhones are available in silver, gold, rose gold, and space grey, and will be launched in Australia on September 25.

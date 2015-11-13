@@ -1,0 +1,55 @@
+Form 8-K for MICROSOFT CORP
+
+29-Sep-2015
+
+Regulation FD Disclosure, Financial Statements and Exhibits
+
+In June 2015, Microsoft Corporation (the "Company") announced a change in organizational structure as part of its transformation in the mobile-first, cloud-first world. During the first quarter of fiscal year 2016, the Company's chief operating decision maker (its chief executive officer) changed the information he regularly reviews to allocate resources and assess performance. As a result, beginning in fiscal year 2016, the Company will report its financial performance based on the three reportable segments described below, and analyze operating income as the measure of segment profitability.
+
+We are furnishing this Form 8-K under Regulation FD to provide a description of our new reporting structure and present summary financial information and historical data on a basis consistent with the new structure. Beginning with the quarter ending September 30, 2015, our financial statements will reflect the new reporting structure with prior periods adjusted accordingly.
+
+Reportable Segments
+
+Productivity and Business Processes
+
+Our Productivity and Business Processes segment consists of products and services in our portfolio of productivity, communication, and information services, spanning a variety of devices and platforms. This segment primarily comprises:
+
+� Office Commercial, including volume licensing and subscriptions to Office 365 Commercial, for products and services such as Microsoft Office, Exchange, SharePoint, and Skype for Business, and related Client Access Licenses ("CALs").
+
+� Office Consumer, including Office sold through retail or through an Office 365 Consumer subscription, and revenue from Outlook.com, OneDrive, and consumer Skype services.
+
+� Microsoft Dynamics business solutions, including Dynamics ERP products, Dynamics CRM on-premises, and Dynamics CRM Online ("Microsoft Dynamics").
+
+Intelligent Cloud
+
+Our Intelligent Cloud segment consists of our public, private, and hybrid server products and services that can power modern business. This segment primarily comprises:
+
+� Server products and services, including Windows Server, Microsoft SQL Server, Visual Studio, System Center, and related CALs, as well as Microsoft Azure.
+
+� Enterprise Services, including Premier Support Services and Microsoft Consulting Services.
+
+More Personal Computing
+
+Our More Personal Computing segment consists of products and services geared towards harmonizing the interests of end users, developers, and IT professionals across screens of all sizes. This segment primarily comprises:
+
+� Windows, including Windows OEM licensing ("Windows OEM") and other non-volume licensing of the Windows operating system, volume licensing of the Windows operating system ("Windows VL"), patent licensing, Windows Embedded, MSN display advertising, and Windows Phone licensing.
+
+� Devices, including phones, Surface, and Microsoft PC accessories.
+
+� Gaming, including Xbox hardware; Xbox Live, comprising transactions, subscriptions, and advertising; first-party video games; and second- and third-party video game royalties.
+
+� Search advertising.
+
+Corporate and Other
+
+Corporate and Other includes impairment, integration, and restructuring expenses, adjustments to conform our internal accounting policies to U.S. GAAP, and other corporate-level activity not specifically attributed to a segment. Significant internal accounting policies that differ from U.S. GAAP relate to revenue recognition, income statement classification, and depreciation.
+
+The following tables provide recast segment revenue and operating income (loss) for the years ended June 30, 2015 and 2014. The recasting of previously issued financial information does not represent a restatement of previously issued financial statements and does not affect our reported net income, earnings per share, total assets, or stockholders' equity for any of the previously reported periods.
+
+(In millions) Year Ended June 30, 2015 2014 Revenue Productivity and Business Processes $ 26,431 $ 26,972 Intelligent Cloud 23,715 21,732 More Personal Computing 42,953 38,407 Corporate and Other 481 (278 ) Total revenue $ 93,580 $ 86,833 (In millions) Year Ended June 30, 2015 2014 Operating income (loss) Productivity and Business Processes $ 13,087 $ 13,940 Intelligent Cloud 9,871 8,443 More Personal Computing 5,179 6,150 Corporate and Other (9,976 ) (774 ) Total operating income (loss) $ 18,161 $ 27,759
+
+See Exhibit 99.1 for more details about the new segment structure and recast quarterly segment financial results.
+
+In accordance with General Instruction B.2 of Form 8-K, the information in this Current Report on Form 8-K, shall not be deemed to be "filed" for purposes of
+
+Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.

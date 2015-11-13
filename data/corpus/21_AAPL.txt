@@ -1,0 +1,15 @@
+By Julia Love
+
+Oct 8 (Reuters) - Apple Inc said on Thursday that it had removed "a few" applications from its App Store, expressing its concern that the security of some users' personal data could be compromised in certain circumstances.
+
+The company said the apps threatened users' security by installing certificates that can expose data to monitoring by third parties. The company did not specify the precise number of apps at issue.
+
+"Apple is deeply committed to protecting customer privacy and security," an Apple spokeswoman said in a statement. "We are working closely with these developers to quickly get their apps back on the App Store, while ensuring customer privacy and security is not at risk."
+
+Apps with so-called root certificates route user data to servers where it can be analysed. That opens the door for network providers to view encrypted traffic, leaving users vulnerable to data breaches.
+
+Among the apps removed was Been Choice, which has attracted attention for its ability to block advertising in apps.
+
+An Apple spokeswoman said the company would release a support page to help users remove the apps in question from their devices.
+
+(Editing by Kenneth Maxwell)

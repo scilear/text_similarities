@@ -1,0 +1,53 @@
+Apple (NASDAQ:AAPL) just released its latest smartphone, the predictably sleek and powerful iPhone 6s. Featuring a unique touchscreen experience, a clever new financing option, and the usual slew of boosted computing muscle, Apple's latest and greatest handsets are sure to shift millions of units as usual.
+
+At the same time, I got my hands on a OnePlus 2 handset. The follow-up to last year's intriguing OnePlus One, this surprisingly capable Android phone was designed to pack a punch without breaking the bank.
+
+Using the OnePlus 2 for more than a week, I'm frankly blown away by this plucky upstart option. I just had to sit down and compare the OnePlus One's successor to Apple's latest and greatest.
+
+On paper, this phone appears to match Apple's finest hardware at almost every turn. The hands-on experience is equally impressive. I obviously can't compare the OnePlus 2's real-world performance to a week with the iPhone 6s quite yet, since Apple's newest model won't be available until next week.
+
+With that unfortunate reality in mind, here's how I see the OnePlus 2 matching up against Apple's iPhone 6s Plus. Why not the regular iPhone 6s? Because OnePlus explicitly wants to challenge the best flagships on the market -- not the second finest Apple option.
+
+The tale of the tape
+
+Before getting into the nitty-gritty hands-on experience, let's consider these phones by the numbers. I'll be talking about the 64-gigabyte storage option for each model for two reasons: OnePlus is making 64 GB the de facto standard by producing that version in far higher volumes than the smaller 16 GB variety, and we can do an Apple-to-apples comparison since Cupertino offers its own 64 GB storage option.
+
+iPhone 6s Plus OnePlus 2 Storage 64 GB 64 GB RAM Leaked: 2 GB 4 GB Screen Size 5.5" 5.5" Resolution 1920 x 1080, 401 pixels per inch 1920 x 1080, 401 pixels per inch Main Camera 12 megapixel, LED flash 13 megapixel, dual LED flash Wi-Fi 802.11ac 802.11ac Processor Leaked: 1.7 GHz 4-core Apple A9 1.8 GHz 8-core Snapdragon 810 Battery Capacity Leaked: 1,715 mAh 3,300 mAh Price $849 $389
+
+In terms of raw data, the OnePlus 2 either matches or beats Apple on every single line.
+
+Of course, it's never quite that simple. Apple is known for making the most of seemingly skimpy technical specifications. For example, its A9 processor is likely to perform far beyond its smallish operating memory and low number of processor cores, just like the A8 predecessor can match wits with Android smartphones sporting more memory and theoretically beefier processors. Furthermore, the 6s generation of iPhones will come with a new M9 co-processor to offload some heavy math from the main processor.
+
+Speaking of which, that M9 processor will let the Siri personal assistant match Android's always-on search functions. And then there's the new iPhone's upgraded touchscreen, which will react differently to light touches and heavier pushing. The OnePlus 2 comes with an always-on personal assistant, but can't match Apple's newfangled touch experience.
+
+Looking beyond the innards, both phones come with very modern sensor packs. The OnePlus 2's fingerprint scanner has been every bit as reliable as the ones found in iPad 3 tablets. The motion detectors and ambient light scanner also held up very well under heavy use, always providing a snappy response. Apple's sensors can certainly do the same, but it would be hard to actually beat the OnePlus 2's sensor performance.
+
+As for design, some iPhone fans will surely turn up their noses at the OnePlus 2's plastic back. But the ruffled surface of my Sandstone Black handset actually feels great in my hand, and is less likely to crack and chip than the iPhone's all-glass surfaces.
+
+You could also pay up for back plates made of Kevlar or a variety of exotic woods. And the OnePlus 2's frame is made from a tough but lightweight aluminum-magnesium alloy. Even my wife digs it, and so do her iPhone-toting friends.
+
+Why this isn't an outright iPhone killer
+
+That brings us to the few downsides of the OnePlus 2.
+
+The phone actually lacks an important chip, at just the wrong time. Android godfather Google is rolling out its new Android Pay system as we speak, extending the platform's tap-to-pay functionality to millions of American retail locations. For the first time, Android phones can hope to keep up with Apple Pay's convenience and market reach.
+
+But that requires a Near Field Communications chip -- and the OnePlus 2 doesn't have one.
+
+So OnePlus missed that boat, probably to shave a few pennies off the manufacturing bill since the NFC system wasn't doing much anyhow. Bad luck, bad timing, try again next year. In the meantime, OnePlus 2 owners will just have to live without Android Pay's instant payments.
+
+There's one more tiny issue -- an unfortunate holdover from the OnePlus One.
+
+If you're interested in the OnePlus 2, you can't just drop in at the local mall and pick one up. Nor can you just go online, order one from your favorite e-tailer, and await a quick shipment. Just like the OnePlus One, the 2 is only available via a strict invitation-only system.
+
+This was the biggest downfall of the OnePlus One, as hordes of interested buyers were left without a handset. Low prices and great hardware don't matter if you can't get a hold of the darn thing.
+
+OnePlus co-founder Carl Pei admits that his company "messed up" the OnePlus 2 launch. The release was delayed in both the U.S. and Canada, and shipping volumes turned out to be painfully low. That's why the invitation system stayed in place, and why you might not be able to get a OnePlus 2 no matter how much the balance between low prices and high quality impressed you.
+
+The final verdict
+
+So there you have it: The OnePlus 2 is a contender on almost every level. Sadly, it falls short on one extremely important point.
+
+I can live without Android Pay for a little while longer, but Apple is still not exactly shaking in its trendy boots. OnePlus must scale up its manufacturing and distribution channels something fierce before that happens.
+
+Editor's note: This article has been corrected to note that Carl Pei is OnePlus co-founder.

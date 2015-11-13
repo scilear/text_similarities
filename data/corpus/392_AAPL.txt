@@ -1,0 +1,41 @@
+The latest mobile payment technology from industry leaders such as Google (GOOG), Apple Inc. (AAPL) and Samsung Group is set to usher in a new era of commerce. In the coming years, a growing number of people are likely to replace their wallets with smartphones or smartwatches that they can use to pay for items in stores by simply waving the device at a contactless reader.
+
+The rate of adoption of these payment technologies is anticipated to rise quickly. A recent study from Juniper Research found that the number of mobile wallets using contactless technology is expected to reach 200 million by the end of 2016, up 100 percent from the end of 2014. The ubiquity of the smartphone itself is increasing at an astonishing rate. The Economist tells us that, while about half the adult population today owns a smartphone, 80 percent will own one by 2020.
+
+Which services are at the forefront of the mobile payment revolution?
+
+Apple Pay
+
+Apple Pay launched in October 2014 and has quickly become a trailblazer in mobile payments. A recent report from global payment platform Adyen showed that 36 percent of global mobile payments are made on an iPhone. According to a statement earlier this year by CEO Tim Cook, Apple Pay accounts for $2 out of every $3 spent using contactless payments across the top three credit cards.
+
+Using Apple Pay for an in-store payment with an iPhone 6 simply requires holding it to a Near Field Communication (NFC) contactless reader with your finger on the Touch ID. When using the Apple Watch in a store, payment is made by double‑clicking the side button and holding the watch's display to the contactless reader.
+
+Apple Pay can also be used for quick and easy purchases within apps using iPhone 6, iPad Air 2 and iPad mini 3, which also involve placing your finger on the Touch ID during checkout.
+
+The mobile payment service is now accepted at more than 700,000 retail locations, such as Walgreens, McDonalds (MCD) and Whole Foods (WFM). Airbnb and Target (TGT) are examples of popular apps that support Apple Pay.
+
+Getting set up to use Apple Pay entails adding your payment cards to Wallet (formerly called Passbook), which also stores coupons, boarding passes and event tickets. The service works with most major credit and debit cards from top U.S. banks.
+
+A key Apple Pay feature uses secure tokenization to make transactions anonymous. Unlike a credit card, which show your card number and identity, Apple never shares your actual credit or debit card numbers with merchants nor does it transmit them with payment. There's a second layer of security since payment requires Touch ID or passcode. (See also Apple Pay vs Google Wallet: How They Work.)
+
+Android Pay
+
+In September 2015, Google launched Android Pay, a direct competitor to Apple Pay. Android Pay works with all NFC-enabled Android devices using Google's KitKat 4.4+ operating system. This far-reaching availability gives the service an advantage over Apple Pay and Samsung Pay, which are currently limited to the latest versions of their smartphones.
+
+Android Pay also stores your gift cards, loyalty cards and special offers. Using the payment service simply involves unlocking your phone and tapping it to the contactless payment reader. Setup is done via the app, which is preloaded on newer devices. Within the app, you can add cards from participating banks. Like Apple Pay, Android Pay works with most major credit and debit cards from top U.S. banks.
+
+The service can be used at more than 1 million locations across the United States, such as Macy’s (M), Jamba Juice and Office Depot (ODP) nationwide. Android Pay is available for purchases within popular apps such as GrubHub (GRUB), Groupon (GRPN) and Uber.
+
+Like Apple Pay, Android Pay uses secure tokenization in transactions. Android Pay will also support fingerprint-scanning technology with Google’s upcoming Android M software. Should you lose your phone, the software Android Device Manager allows you to lock it, create a new password and delete all your personal information.
+
+Samsung Pay
+
+Leading Android smartphone maker Samsung is also taking a place in the mobile payments arena. In August 2015, the company launched Samsung Pay. The service got off to a strong start after its launch in South Korea, with an average of 25,000 users per day, according to a company representative. It's due to launch in the United States later this month. The service can currently be used on the latest Galaxy devices, including the Galaxy S6, Galaxy S6 Edge, Galaxy S6 Edge Plus and Galaxy Note 5.
+
+To use it, simply select the Samsung Pay app, authorize payment by placing your finger on the home key and then hovering your phone over the in-store card reader.
+
+The service differs from Apple Pay and Android Pay because it uses Magnetic Secure Transmission (MST), the same technology used in standard credit cards, in addition to NFC. Compatibility with any standard magnetic stripe terminal means it can be accepted by most retailers that take credit cards, giving it an initial advantage over Apple Pay or Android Pay. But unlike its rivals Samsung Pay currently lacks the ability to make in-app purchases. (See also Mobile Payment Battle: Samsung Pay vs. Apple Pay.)
+
+The Bottom Line
+
+The mass adoption of mobile payment technology hinges on whether people will use it in stores. More than 90 percent of retail sales occur in brick-and-mortar stores, according to a report by AT Kearney. Unfortunately, NFC point-of-sale payment terminals represent just a fraction of all terminals today. However, next month all U.S. businesses that accept credit cards must use systems that can process EMV (Europay, Mastercard and Visa) chip credit cards to avoid liability for credit card fraud. The widespread adoption of the EMV technical standard helps pave the way for increased use of mobile payment systems using NFC because necessary hardware and software will be in place.

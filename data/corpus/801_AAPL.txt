@@ -1,0 +1,35 @@
+Synergies of Apple-Cisco Collaboration
+
+(Continued from Prior Part)
+
+Apple-Cisco deal targets enterprises
+
+In the previous part of the series, we saw that Apple (AAPL) signed a deal with Cisco (CSCO) under which Cisco’s networking systems will be integrated with iOS devices. iOS is Apple’s mobile operating system made exclusively for its devices. This will create a fast lane for corporate consumers to access Cisco’s systems on their iPhones and iPads in a secure environment.
+
+This will give Apple an advantage over Google’s (GOOG) Android platform, which has been exposed to several security problems. According to Symantec’s Internet Security Threat report in April 2015, Android accounted for 94% of all mobile threats in 2014.
+
+iOS popular among businesses
+
+iOS is gaining popularity among business customers. According to a survey of 300 IT professionals by JAMF Software, 90% of companies officially provided IT support to Apple devices for business use. As seen from the above graph, businesses support Apple devices for several reasons:
+
+They are preferred by employees.
+
+They help in boosting productivity.
+
+They have unique applications not available on other devices.
+
+Apple is partnering with several business systems providers such as IBM (IBM) to make its iOS devices more business-friendly and increase their use in the corporate world.
+
+Business-centric iOS devices
+
+The Cisco deal will allow iOS device users to use Cisco’s voice and video business collaboration tools—Spark, TelePresence, and WebEx—more seamlessly. Spark is a chat messenger program that also allows file sharing in a secure environment. WebEx is a tool for videoconferencing and screen sharing.
+
+Apple aims to reduce the gap between office phones and iPhones and create business-centric iOS devices. The company plans to enable enterprises to route voice calls over their own networks. This means business calls taken through iOS devices would be linked to the corporate network, generating tracking data for each call for security and regulatory compliance. Similarly, employees could make calls on their office phones by tapping the number on their iPhone.
+
+However, this collaboration won’t show results in the short term, as such large-scale enterprise-level applications take time to materialize.
+
+To gain exposure to Apple, you can invest in the MSCI Information Technology Index ETF (FTEC). FTEC has 15.96% of its holdings in Apple.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

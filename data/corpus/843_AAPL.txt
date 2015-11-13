@@ -1,0 +1,21 @@
+Lending: Technology Companies' New Focus
+
+(Continued from Prior Part)
+
+In the previous part of this series, we discussed Google’s (GOOG) Android Pay’s potential as serious competition to Apple’s (AAPL) Apple Pay. We also highlighted Android’s dominance in the smartphone market worldwide.
+
+In addition to offering flexibility, Android Pay doesn’t store or transmit users’ credit card numbers. Android Pay uses a methodology called tokenization. Under this methodology, a unique code is generated after a user enters their credit card into Android Pay. Every card has a unique token and is used to generate a temporary token to finish a transaction.
+
+Besides offering a more secure platform, a selling point for Android Pay is that Google won’t charge any fees to bank issuers for Android Pay mobile transactions. This is unlike Apple, which charges 0.15% of the value of each credit card transaction to banks. For Google, this was a forced change because major payment networks such as Visa (V) have standardized their tokenization service, according to a press release from Visa.
+
+It hasn’t been smooth sailing for Apple Pay since it began, even in the United States. The above graph shows US banks that support Apple Pay. There are many entities that have yet to support Apple Pay.
+
+In August this year, retailers including CVS Pharmacy (CVS) and Rite Aid (RAD) resumed offering Apple Pay as a payment option. These retailers had previously shut down their support for Apple Pay. The group of retailers, together called MCX (Merchant Customer Exchange), had decided to launch a different mobile payment service called CurrentC. MCX has 45 member companies and includes some top US retailers.
+
+Apple has been trying hard to penetrate international markets with Apple Pay. It’s been negotiating with big banks in Canada and China (FXI). But again, it won’t be easy for Apple to charge fees to banks in these markets after Google set a different precedent.
+
+Correction: This article originally suggested that Apple Pay, unlike Android Pay, may store or transmit users’ credit card information. This is incorrect, and we have revised accordingly. We regret this error.
+
+Continue to Next Part
+
+Browse this series on Market Realist:

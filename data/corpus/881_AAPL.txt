@@ -1,0 +1,31 @@
+Synergies of Apple-Cisco Collaboration
+
+(Continued from Prior Part)
+
+BYOD, IoT, and enterprise mobility
+
+In the previous part of the series, we saw that enterprises will increasingly adopt the BYOD (bring your own device) mobility trend to stay productive. This, in turn, will create demand for enterprise mobility management software, business-centric apps and devices, and cloud and network structure supporting the BYOD strategy. The BYOD trend will be supported by the Internet of Things, or IoT, boom.
+
+IoT to fuel BYOD adoption
+
+The Internet of Things involves wireless devices that are connected to one another through the Internet. These devices can range from security systems to smart meters to patient monitors. IoT devices generate real-time data and provide employees access to these data on mobile devices, thus helping organizations respond in real time. For instance, technicians can connect to a machine from anywhere to analyze and solve a problem without visiting the actual site.
+
+Companies adopt enterprise mobility
+
+As seen from the above graph, more and more companies plan to implement or upgrade enterprise mobility in fiscal 2014 and fiscal 2015. At present, most organizations use enterprise mobility for messaging and collaboration. However, enterprise mobility will make its way to the boardroom and be incorporated in business strategy. As seen from the above graph, more organizations plan to make management reports and dashboards available on mobile devices. This will facilitate decision making backed by real-time data.
+
+According to Cognizant, financial services, healthcare, professional services, and manufacturing firms are some of the fastest adopters of the BYOD strategy.
+
+Tech players prepare for BYOD and IoT boom
+
+The increasing need for mobility has created demand for more sophisticated and secure devices that can support enterprise applications. Tech players are looking to tap into the growth potential of the IoT market.
+
+Microchip (MCHP) has collaborated with Intel (INTC) to enhance privacy and security of its IoT products.
+
+Apple (AAPL) has collaborated with IBM and Cisco to make its iPhone and iPad more business-centric.
+
+VMware’s AirWatch has collaborated with Google (GOOG) to bring “Android for Work” to the AirWatch platform.
+
+To gain exposure to key players adopting the BYOD trend, you can invest in the PowerShares QQQ ETF (QQQ). QQQ has 13.27 % of its holdings in Apple, 3.6% in Google, and 2.61% in Intel.
+
+Browse this series on Market Realist:

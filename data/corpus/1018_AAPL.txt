@@ -1,0 +1,31 @@
+New Delhi, June 9 (IANS) Apple launched a host of products at its well-attended developer's conference in San Francisco, including two operating systems for its PC and its iPhone and iPad, besides a software update for its watch and a couple of apps on news and online payments.
+
+In an event on Monday that was streamed and watched across the globe, it also launched a music service on its proprietary devices to challenge rivals such as Spotify and Pandora. The news app, with a magazine layout, allows users to customise the content with over a million topics to choose from, Apple said.
+
+"It's a giant moment," is all that Apple chief executive Tim Cook, wearing a black T-shirt and blue jeans that have become customary for such occasions, said about the products. He left it to other senior officials of the company to launch the specific products.
+
+On the personal computing front, which is Mackintosh for Apple, the company released OS X El Capitan, promising to improve the performance of the existing operating system. With this, Apple appeared to have prepared itself for the launch of Windows 10 due on July 29.
+
+"OS X delivers unparalleled integration between Mac hardware, iOS devices, apps and online services, and has helped Mac sales outpace the PC industry every year for the last decade," said Craig Federighi, Apple's senior vice president of software engineering.
+
+The features of the new Apple operating system includes Spotlight, to aid searches for more places and provide more useful results, including weather and sports. It also includes Split View, and window management to manage multiple screens.
+
+Federighi also introduced Metal, Apple's graphics processing technology, which it claims will improve rendering by 50 percent and will scale up efficiency to 40 percent. "Several gaming companies like Unity, 2K games are already adopting metal whic uses Open CL," he added.
+
+This will enable Apple to break away from its shell of being a platform that doesn't support games and will create a huge business opportunity for game developing organisations. This transition will allow the company to expand its sales in the world market.
+
+As a part of the conference, Craig also revealed updates to the iOS 9 which will extend battery life, and improve security and performance. He also showed advancements to Siri, Apple's virtual assistant which will be more proactive after the update.
+
+The event also saw Jennifer Bailey, a 10-year Apple veteran and vice president of internet services, announce Apple Pay which will be launched in Britain. Londoners can take advantage of it and pay for their transit on the bus using the app.
+
+Apple, which launched the iWatch six weeks back, also announced the arrival of the WatchOS2. Users will be able to add photos, add photo album and add time-lapse photos for the watch face. The watch can show and aid uses such as car-battery charge and home-control systems.
+
+Interestingly, the watch will come with a time travel mode that shows the user the schedule, with features like alarms, replying to email, sketching ability and face time audio.
+
+At the end of the conference, Apple launched its music service. It will not only host a library of songs but also connect artists with fans and will also run a 24/7 global radio station based out of three cities.
+
+(Anirban Ghoshal can be contacted at anirban.g@ians.in)
+
+--Indo-Asian News Service
+
+ang/ap/vd/vm

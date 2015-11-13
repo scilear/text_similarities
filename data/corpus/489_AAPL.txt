@@ -1,0 +1,31 @@
+Amazon (NASDAQ:AMZN) recently updated its Fire TV set-top box with support for 4K video and integration with Alexa, its cloud-based virtual assistant which also powers the Echo. It also gets a new 64-bit processor with a GPU that's twice as powerful as the one in the original. The new Fire TV will cost $99.99 -- considerably less than both versions of the new Apple(NASDAQ:AAPL) TV -- but still pricier than the Google Chromecast and Roku.
+
+About a week before the announcement, Amazon declared that the original Fire TV had "more channels, apps, and games than any other streaming media player", and the library had grown by "17 times" since its launch in April 2014. The company also took a swing at the new Apple TV -- which adds new features like games, voice controls, and universal search -- by pointing out that the Fire TV offered all those features "from the very beginning." The new Apple TV does not support 4K video.
+
+Let's take a closer look at the growing business of set-top boxes and how the Fire TV and Apple TV respectively fit into Amazon and Apple's long-term plans.
+
+The business of set-top boxes
+
+Nearly 20% of U.S. broadband households owned at least one streaming media player last year, according to research firm Parks Associates. Roku was the market leader, accounting for over a third of new device sales, followed by the Google Chromecast, Amazon Fire TV, and Apple TV -- in that order.
+
+Amazon launched the Fire TV last April, but Apple didn't update the Apple TV last year -- which possibly explains why the latter slipped to fourth place. Since both companies launched new set-top boxes this year, the 2015 sales figures should give us a clearer idea of which device is more popular.
+
+In terms of overall usage, Roku leads at 37%, compared to 19% for Chromecast, 17% for Apple TV, and 14% for Fire TV. Amazon hasn't disclosed its Fire TV sales figures yet, while Apple claimed that it sold 25 million Apple TVs as of January 2015 -- up from 20 million in April 2014.
+
+Set-top boxes with beefier specs, like the Fire TV and Apple TV, will likely benefit from the rising usage of apps in comparison to watching TV. Recent data from Flurry Analytics indicates that the average American spent more time using mobile apps than watching TV during the second quarter of 2015, while the opposite was true just a year ago. This means that putting apps and games on TV screens could be a great idea.
+
+Comparing business strategies
+
+Apple TV boosts iTunes revenue with rentals and sales of individual shows and movies, as well as app and game sales. Those sales tether more users to Apple's ecosystem, which can encourage purchases of other devices like iPhones and iPads. The Apple TV can also serve as a central hub for HomeKit-enabled smart home devices.
+
+The Apple TV will also host Apple's upcoming streaming service, which is expected to feature "skinny bundles" of popular cable channels for around $40 per month. That package notably won't challenge Netflix, which only costs $8 per month, but will compete against basic cable packages instead.
+
+Like Apple, Amazon sells and rents digital movies and TV shows, along with app and game downloads. But it also directly competes against Netflix with its own streaming service for shows and movies, which are included in its $99 per year Prime service. Just like Netflix, Amazon produces original content to keep users hooked and content licensing costs down.
+
+But the Fire TV's main purpose, like the Kindle, is to convince more users to sign up for Prime. In addition to free streaming media, customers get free two-day shipping on select items, special discounts, free e-books from the lending library, and other perks. Research firm CIRP recently reported that nearly half of Amazon's U.S. customers are already Prime members. Prime members reportedly spend an average of about $1,200 per year on Amazon, compared to $700 per year for non-members.
+
+How the new Fire TV could be game changing
+
+With the addition of Alexa to the Fire TV, users will be able to access news, weather, and traffic reports on their TVs. They'll also be able to reorder products from Amazon, play music and videos, and accomplish other tasks by simply speaking into the remote. Like the Apple TV, it might become a central hub for smarter homes and cause customers to become even more dependent on its services.
+
+Amazon and Apple investors shouldn't consider the two set-top boxes to be direct competitors. Instead, they should understand how these devices lock users into different digital ecosystems. For Amazon, that lock-in can boost sales of both digital and physical products. For Apple, it can boost digital revenues and ensure that customers stay loyal to its hardware.

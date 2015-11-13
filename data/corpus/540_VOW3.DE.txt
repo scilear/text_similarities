@@ -1,0 +1,65 @@
+Volkswagen's emissions cheating scandal has shaken the auto industry on both sides of the Atlantic, displacing the company's chief executive and sparking investigations in the U.S. and Europe.
+
+The scheme was discovered by U.S. and California environmental regulators in 482,000 vehicles with VW's 2.0-liter turbodiesel engines sold in the U.S. since the 2009 model year. It could affect at least 11 million vehicles worldwide.
+
+VW embedded software in the vehicles' electronics that allows the cars to emit up to 40 times the legally allowed amount of nitrogen oxide while appearing in tests to be within the limit, U.S. environmental officials said. The automaker will have to recall all the vehicles and modify the emissions systems, regulators said.
+
+Additionally it could face a U.S. fine of up to $18 billion, or $37,500 per car.
+
+Here's what consumers need to know about emissions-rigging scandal:
+
+How did Volkswagen do it?
+
+The cars met environmental regulations, when tested on a dynamometer — a kind of treadmill for vehicles — in a laboratory. But they spewed pollution when driven on roads. VW's software senses the testing environment by analyzing a variety of data such as steering position, speed, duration of engine operation and barometric pressure, and then adjusts engine performance and emissions to pass the test. After tips from an international environmental groups and a West Virginia University study, regulators devised a special test that detected how the software in the engine's electronic control module was fooling the certification tests.
+
+What happens now?
+
+Regulators have ordered Volkswagen to come up with a fix that allows the vehicles to meet environmental regulations.
+
+What will that do to the cars?
+
+The automaker hasn't said what it plans to do, but automotive experts believe any repair will diminish the driving dynamics of the vehicles and slash fuel economy — the two major characteristics that attracted buyers.
+
+Why has my VW diesel passed its state-required smog check?
+
+The California Air Resources Board believes that VW had a workaround embedded in its software. Smog checks for diesel vehicles are conducted by connecting a diagnostic device to the car's on-board computers and analyzing the data. Cars also get a visual check for smoke or excessive exhaust.
+
+Volkswagen was "essentially running two tracks on their software," said David Clegern, an ARB spokesman. "The software that would be running during a smog check would show that all was working according to plan."
+
+As a California driver, what must I do?
+
+California VW owners need to wait for the automaker to devise procedures to reduce emissions from the vehicles. Volkswagen will have to demonstrate to both the Air Resources Board and federal regulators that its solution works, both in the lab and on the road.
+
+That could take some time. The EPA is working with Volkswagen to evaluate potential remedies for the diesel vehicles' emission systems. The 2015 models will be the first fixed, followed by the 2012-15 Passats. Because the range of cars affected includes three generations of diesel engines, the remedies for the other vehicles could take much longer to develop.
+
+Once approved, the company will issue a national recall and notify owners about when and where they can get the fix, likely to be new software for the engine control module. The automaker will pay its dealers to make the change at no expense to customers.
+
+VW periodically will have to report to the Air Resources Board on how many owners have had their emissions systems fixed. Drivers will have to obtain a "proof of correction certificate" from a dealership after the recall repairs are performed and submit it to the DMV in order to renew a vehicle's registration.
+
+Is the EPA checking other VW diesel engines and those of other automakers for emissions discrepancies?
+
+The EPA is partnering with the California Air Resources Board and Environment Canada to conduct more tests of every make and model diesel light truck and car sold in the U.S. and Canada. They will use portable equipment to measure real-life emissions as the vehicles are driven on open roads.
+
+Mercedes-Benz, BMW and General Motors all say their diesel vehicles are in compliance. Mercedes said it supports widening of testing.
+
+What types of lawsuits are being filed? Read more
+
+There will be a plethora of lawsuits that will make claims for fraudulent concealment, breach of contract, loss due to the diminished value of the cars and violation of consumer protection laws and false advertising laws, according to Hagens Berman Sobol Shapiro, a class-action law firm in Seattle. The entire case will probably be consolidated and pursued on a class-wide basis. The firm believes owners should be entitled to return of any premiums they paid for the diesel version of their car over the gasoline model, typically about $3,000. Other damages could include lost resale value. If efficiency drops when the cars are fixed, owners could be entitled to any increased cost of fuel from lowered MPG
+
+What cars are involved?
+
+The affected cars include the 2009 to 2015 Volkswagen Jetta TDI, 2009 to 2014 Volkswagen Jetta SportWagen TDI, 2012 to 2015 Volkswagen Beetle TDI, 2013 to 2015 Volkswagen Beetle convertible TDI, 2010 to 2015 Audi A3 TDI, 2010 to 2015 Volkswagen Golf TDI, 2012 to 2015 Volkswagen Passat TDI and 2015 Volkswagen Golf SportWagen TDI.
+
+Additionally, Volkswagen suspended sales of all new and used 2.0-liter TDI four-cylinder diesel engines, including in the 2015 Beetle, Jetta, Golf and Passat TDI, as well as the Audi A3 TDI. Sales of VW's 2016, four-cylinder diesel models are held up as they await EPA certification.
+
+It is too early to tell how prices for used VWs and specifically its diesels cars will be affected by the emissions scandal, said Larry Dominique, executive vice president of industry insights at car shopping website TrueCar.com. He suggests owners hold on to their cars for now — there is no safety issue — and let VW determine the fix. If performance is not compromised, the value of the vehicle could remain unchanged.
+
+Twitter: @latimesjerry
+
+MORE ON VW'S EMISSIONS CHEATING SCANDAL
+
+CEO's resignation can't make up for VW's misdeeds
+
+VW cheating scandal prompts EPA to road-test all diesels
+
+Embattled VW names Porsche leader Mueller as chief executive

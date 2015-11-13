@@ -1,0 +1,33 @@
+Microsoft CEO Satya Nadella made an appearance at Salesforce's Dreamforce event Wednesday, a first for that company's leadership exemplifying the new spirit of collaboration by the Redmond, Wash.-based giant. (Photo: Marco della Cava, USA TODAY)
+
+SAN FRANCISCO – Microsoft CEO Satya Nadella took the stage at Salesforce’s annual confab Wednesday in order to hammer home the message that his company’s new mantra is collaboration.
+
+“Our (tech) industry, how will it succeed? Only if we add value to our customers, and they’ll make decisions that make sense for them and they won’t be homogenous decisions,” Nadella said Wednesday at the close of Dreamforce’s second day. “So we are here, we were at Apple (last week), because it’s about the customers.”
+
+Nadella also used the stage, which he shared with interviewer Jessi Hempel of Wired, to announce a new $75 million initiative to promote technology education in schools. “Education is what’s going to make a difference, helping children everywhere participate in the future economy,” he said.
+
+The CEO took control of Microsoft more than a year ago and has been instrumental in transforming it from an insular monolith to a partnership-seeking player in the mobile- and cloud-first world, one that is typified by Salesforce’s monster growth. In addition to an existing partnership with Microsoft, Salesforce announced Tuesday that Nadella's company would be the launch partner for Saleforce's new Internet of Things-focused cloud platform.
+
+Despite myriad recent internal shifts at Microsoft, which are hinged to Nadella’s interest in further improving the company’s corporate culture, it still faces hurdles in adding diversity to its largely white, male workforce. Earlier Thursday, Microsoft was hit by a lawsuit by a former tech worker who said the stack ranking system that existed during her seven years at the company – which ended in 2014 – explicitly prevented her from promotions that were accorded men with similar tech skills.
+
+Nadella was not asked about the lawsuit by Hempel, though he talked at length about shaping a company’s culture, describing it as “the thing that keeps me up at night, and wakes me up in the morning.”
+
+He added: “What’s a CEO's job? It’s about curation of culture. That’s my real job. … The culture of a place is what defines its pursuit of excellence. The culture produces whatever you achieve in terms of greatness. We are anchored to a growth mindset (and) the posture is to be better every single day. That’ll make us great listeners, learners and doers.”
+
+'MINDBLOWING'
+
+Also on the agenda during the Moscone Center conversation was HoloLens, the augmented reality headset Microsoft is developing. Nadella said he wanders around his house with the device on.
+
+“It’s mindblowing,” he said, adding that plans are on track to release a developer’s kit for HoloLens next year. “But it’s a five-year journey we’re on. It’s such a different type of computer, and the industrial and enterprise scenarios are huge.”
+
+During a few demos on stage, Nadella made a point of showcasing how interacting with technology and data today means using not just touch, but also voice (he asked Cortana a question that it couldn’t understand, which caused a few laughs) and vision (the laptop he was using signed him on by using its camera to recognize his face).
+
+“We want to make computing more personal, more natural. Computing will be ambient really,” he told Hempel before a crowd of a few thousand Salesforce customers and CEO Marc Benioff.
+
+“The point is for each one of us to get more out of our lives. Data is everywhere, but what’s scarce is time. So the question is, how can software and services come together and give me back my time so I can enjoy my work and my life?” he said.
+
+Nadella was asked about the role of devices in the Microsoft portfolio, given the recent write-down of the entire failed Nokia handset acquisition, as well as the curious case of Microsoft being a key part of Apple’s recent introduction of the iPad Pro.
+
+“One of the key things for me is, I don’t think about any one device as a be-all and end-all, I think about the mobility of the human experience, versus just the mobility of the device,” he said. “The PC was successful, but then there was the smartphone. So what’s next? Well, already there are things you wear on your wrist, on your eyes, computing will be everywhere, so are your experiences going to move as you move around? Microsoft has to support the mobility experience.”
+
+Read or Share this story: http://usat.ly/1Khm3cc

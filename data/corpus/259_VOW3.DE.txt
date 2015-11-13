@@ -1,0 +1,57 @@
+The revelation that ended Martin Winterkorn’s career at Volkswagen AG came on Sept. 3 in a meeting at an office park east of Los Angeles.
+
+After months of obfuscation, company engineers finally divulged a secret to engineers at the California Environmental Protection Agency’s Air Resources Board: Volkswagen had installed a “defeat device” to cheat on vehicle emissions tests -- and then lied about it to the board and the U.S. EPA for more than a year.
+
+Signage is displayed outside the California Air Resources Board Haagen-Smit Laboratory in El Monte, California, U.S. Photographer: Patrick T. Fallon/Bloomberg
+
+On Sept. 23, Europe’s largest automaker announced that Winterkorn, its 68-year-old chief executive officer, had resigned. While the company exonerated him of involvement in the manipulations, it said it will conduct an internal investigation and has asked local German prosecutors to assist and open a criminal probe.
+
+The unraveling began in 2013. European regulators, concerned about diesel pollution there, wanted to test emissions on vehicles sold in the U.S. under actual driving conditions. The results were expected to show real-world emissions were closer to lab performance in America than in Europe. But they weren’t. That prompted investigations in California that ultimately involved 25 technicians working almost full time. They discovered the software Volkswagen used to circumvent air-pollution regulations in at least 11 million cars.
+
+“This is going to become a very, very serious problem for Volkswagen and any other companies that may have had such practices,” said Donald W. Lyons, who founded the Center for Alternative Fuels, Engines and Emissions at West Virginia University.
+
+The European Union has urged its 28 member countries to start their own investigations, while Japan and India joined South Korea in announcing their own probes into the matter. Germany said it won’t limit its spot checks to Volkswagen.
+
+U.S. Tests
+
+The nonprofit International Council on Clean Transportation -- with offices in Washington, Berlin, San Francisco and soon in Beijing -- works closely with regulators worldwide. It decided to test diesel vehicles in the U.S. and hired researchers at the Morgantown, West Virginia, center in early 2013. The center, which has studied engine emissions and use of alternative fuels since 1989, would evaluate three diesel passenger cars, including a Volkswagen Passat and Jetta.
+
+“We never went into it saying,‘we’re going to catch a manufacturer,”’ said Arvind Thiruvengadam, a research assistant professor at the center. “We were totally looking and hoping to see something different.”
+
+The researchers first contacted Volkswagen and other manufacturers to help get vehicles and inform them about the tests, said Daniel Carder, director of the center. The companies weren’t interested in participating, so the center rented a privately owned Passat and Jetta in Los Angeles and a BMW X5 from an agency in San Jose for testing from March through May 2013, Thiruvengadam said.
+
+Driving to Seattle
+
+Using portable measuring equipment with hoses attached to vehicle exhaust pipes, researchers drove the Jetta and BMW through Los Angeles and took the Passat to Seattle and back. They also worked with the California Air Resources Board’s laboratory in El Monte, which tested the cars on a dynamometer, a device that measures engine performance.
+
+The portable emissions testing system is attached to the exhaust of a Volkswagen Golf Photographer: Patrick T. Fallon/Bloomberg
+
+When the Volkswagen cars were in the lab, they met the Clean Air Act standards. In the real world, they were belching out oxides of nitrogen at much higher levels than allowed.
+
+“There was a lot of texting and e-mailing back and forth,” among the two groups: “‘Whoa, things aren’t looking good here,”’ Carder said.
+
+In May 2014, the West Virginia center published the results of its study, prompting the California board to start an investigation.
+
+“We try to have these issues dealt with at the technical level, not the political level, as much as we can," Mary Nichols, the board’s chair, said in a telephone interview. “What we do here at the lab is not just certify new vehicles. We are always looking for ways that we can make our emissions standards more effective.”
+
+The board’s technical staff spent months meeting with Volkswagen engineers about the alarming discrepancies. In December, Volkswagen voluntarily recalled about 500,000 cars, saying this would take care of the problem. When the Air Resources Board ran tests to confirm the fix, little had changed.
+
+Puzzled, Perplexed
+
+Staff at the board kept pressing Volkswagen for answers; the company said they must have run the tests wrong or their instruments weren’t calibrated correctly. Puzzled and perplexed, the technicians went back to the lab and the road, double checking and re-running everything. But the results were the same. Over the summer Volkswagen revealed how its TDI engine operated and how its pollution controls worked but that still didn’t explain the strange anomalies.
+
+“We had 10 meetings with VW,” Stanley Young, a spokesperson for the board, said in an interview at the El Monte lab. “Time and again they refused to tell us what was going on.”
+
+Some two dozen board staffers were working almost full-time on the VW problem. Mystified as to how the results could be so different, they began digging into the data stored on the cars’ computers. They found the vehicles were running cleaner when they were cold than when warm, the exact opposite of what typically happens.
+
+Sophisticated Algorithm
+
+They eventually discovered Volkswagen had installed a sophisticated software algorithm in the engine-control module of cars from 2009 to 2015. It could sense when the vehicles were not on the emission-test cycle based on indicators such as movement in the steering wheel.
+
+“When the computer realized it was off the test cycle, it went into the real-world mode, where the pollution controls weren’t as effective,” Young said. “There was a ‘second routine’ -- the dirtier routine.”
+
+Martin Winterkorn Photographer: Simon Dawson/Bloomberg
+
+After stonewalling the Air Resources Board for nine meetings, senior Volkswagen engineers finally “fessed up” on Sept. 3, Young said. “It was impossible for them to explain why the car was running more clean when it was cold. It was an accumulation of evidence and data that we’d assembled, and they literally ran out of excuses.”
+
+(An earlier version of this story corrected a reference to the ICCT’s relationship with regulators in the ‘U.S. Tests’ section.)

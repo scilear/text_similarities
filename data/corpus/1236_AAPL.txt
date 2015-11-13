@@ -1,0 +1,27 @@
+It's been a long time coming, but Netflix (NASDAQ:NFLX) is finally offering new users the ability to subscribe to its service from within its iOS app. The streaming service has long avoided in-app subscriptions because Apple (NASDAQ:AAPL) typically takes a 30% cut of every in-app purchase. Instead, users would have to sign up through Netflix's website and then go back to the app to begin streaming on their phone or tablet.
+
+But now Netflix is ready to pay this Apple tax. Despite the company's rising content costs and increasing costs to deliver that content, Netflix is ready to sacrifice some of its revenue to the platform god. It clearly wasn't a decision to take lightly, but here's why it makes sense that Netflix finally agreed to let Apple take a cut.
+
+It's all about subscriber growth
+
+Mobile computing is a force to be reckoned with. Three-quarters of today's 2.8 billion Internet users own smartphones. What's more, users spend more time on mobile devices than all other connected devices (including desktops) combined.
+
+With over 60 million subscribers, desktop sign-ups have taken Netflix pretty far already. But to continue growing, Netflix needs to let users sign up on their smartphones and tablets.
+
+User growth in the U.S. is already starting to saturate, with over 41 million subscribers. International growth has consistently outpaced domestic growth in the last year, and that trend is only going to continue as Netflix expands internationally. The company has stated its goal is to make its service available throughout the world by the end of 2016.
+
+Offering the ability to sign up via mobile will allow Netflix to reach new U.S. subscribers who may otherwise not have been able to subscribe in the past. For example, someone whose primary computing device is an iPad previously had no easy way of signing up for Netflix. At the same time, the considerable saturation in the U.S. user base will mitigate the opportunity costs from paying Apple its share.
+
+More importantly, the ability to sign up for Netflix on mobile should help Netflix grow users internationally. In many emerging markets, mobile is often the primary means of Internet access. As Netflix expands to those countries, it's imperative that users are able to subscribe via mobile.
+
+Apple could help out
+
+The new Apple TV that Apple unveiled in September is an indication that Apple is finally getting serious about its set-top box. Among the numerous new features is the ability to easily discover new content with a voice search. Siri will populate the screen with a bevy of options based on a search query from all sorts of major content providers, including Netflix. This could prompt some users to try out Netflix and then sign up on the Apple TV.
+
+But more specific search queries, such as "James Bond movies with ski chases" (seriously, there are a surprising number of ski chases), will only populate movies from the iTunes store. Additionally, features such as the ability to skip ahead a specific amount of time or the useful "What did she say?" command to skip back 15 seconds are only available in iTunes content.
+
+Netflix may work with Apple to offer some of those features in exchange for a discount on the cut Apple takes. That wouldn't be unprecedented. HBO reportedly received a break on the share it pays to Apple when it launched its HBO Now service, with Apple as the exclusive hardware partner.
+
+What's more, the FTC is investigating Apple on antitrust allegations that its Apple Music service gains an unfair advantage over other services that Apple charges. Spotify, for example, charges mobile subscribers $12.99 per month to offset the Apple payment, but users can sign up on desktop for $9.99. With the rumors that Apple is working on its own video streaming service, it could face similar allegations with regard to video streaming, so it's best to play nice with the competitors.
+
+A discount on this so-called Apple tax would further mitigate the opportunity costs for Netflix to offer mobile signups. Even without it, though, the risk is certainly worth taking for the company to continue expanding internationally.

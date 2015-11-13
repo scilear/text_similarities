@@ -1,0 +1,27 @@
+Although Apple Pay clearly has a current advantage as of August 2015 in the mobile phone payment system war by virtue of already being in the marketplace, a number of analysts are giving the edge to Samsung Pay before it has even entered the market. However, the advantage may be short-lived, and a year or two down the road, the two payment systems may be virtually identical. It is also important to keep in mind it is unlikely cellphone users are going to be swayed into switching from a preference for iPhone or Android smartphones based on one or the other's mobile payment system.
+
+One Crucial Difference
+
+Samsung Pay is due to launch in the United States in September of 2015, and some analysts are already predicting it will quickly overtake Apple Pay because of one crucial difference: the ability to use the system in many more retail locations. Both systems serve the same purpose, to enable consumers to do card-free credit card transactions at retail stores by using their smartphones, but there is a significant difference in the operational technology of the two systems. Apple Pay only uses the NFC, radio wave-based technology, and therefore can only be used at retailers that have the newer NFC reader-equipped credit card machines. In contrast, Samsung Pay is capable of using both NFC technology and the older MST, magnetic field-based technology that still exists at the majority of retailers. It is estimated that less than half a million retailers in the U.S. have so far made the upgrade to NFC reader-equipped card machines. The fact Samsung Pay is able to be used at millions more retail stores than Apple Pay is the reason many analysts are predicting Samsung Pay, although arriving nearly a year behind Apple Pay, may overtake the Apple, Inc. (NASDAQ: AAPL) system in a relatively short period of time.
+
+Samsung's advantage was obtained through its 2015 acquisition of LoopPay, through which it obtained access to the MST technology.
+
+A Possibly Short-Lived Advantage
+
+The caveat on the usability advantage for Samsung Electronics Co., Ltd. (KRX: 005930) is it may prove to be short-lived. NFC reader machines are already the standard in Europe, and the likelihood is credit card companies such as Visa and MasterCard, seeking improved transaction security, will force U.S. retailers to upgrade to the NFC machines in the near future. Therefore, it is entirely possible that within 12 to 18 months of its introduction, Samsung Pay will have lost its advantage in this area.
+
+Ease of Use - Edge to Apple
+
+In regard to convenience and ease of use, the Apple Pay system has a slight edge. Even if the phone is locked, all iPhone users have to do is tap it to a payment terminal and do the required fingerprint scan. The process is a bit more involved for Samsung Pay users, who must first select the credit card they wish to use before tapping the phone to the terminal and then authenticating the transaction with either a PIN number or fingerprint scan.
+
+Security - Edge to Samsung
+
+The basic security for mobile payment transactions is provided by a secure element that actually authorizes the transactions, either in the form of a chip or cloud-based software. Both Apple Pay and Samsung Pay have highly rated secure elements. And both systems use what is called Mobile Digital Enablement System tokenization, which refers to the process where individual payment "tokens" are created for each payment, so a consumer's card number is never disclosed to the retailer. But Samsung Pay has an additional layer of protection in the form of software that adds superior real-time hacking surveillance.
+
+Compatibility - Edge to Apple
+
+Apple Pay is compatible with current iPhone models and the Apple Watch. Samsung's system only works with its current smartphone models.
+
+One More Plus for Samsung
+
+Samsung has added another feature to its system with Samsung Pay on TV service. Developed in conjunction with PayPal, this service introduced on Samsung smart TVs in 2016 simplifies the process of paying for television content by reducing it down to, after an initial setup, simply entering a PIN number.
