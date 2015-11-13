@@ -1,0 +1,5 @@
+10millions:
+
+elapsed 12025
+elapsed 461
+avg elapsed 0.000046
